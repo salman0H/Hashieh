@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-paddleboarding",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "paddleboarding"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:20"
+      },
+      {
+        "sourceId": "src-chat-m07",
+        "locator": "normalized-text/line:9",
+        "quote": "Paddleboarding = ?"
+      },
+      {
+        "sourceId": "src-original-863aac04-c82a-4811-9d0a-ff0724ef73da",
+        "locator": "table:6/data-row:2"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:2/data-row:170"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:3/data-row:20"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "paddleboarding",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-paddle",
+    "senses": [
+      {
+        "id": "sense-b8f65da7d713",
+        "partOfSpeech": "Noun",
+        "translation": {
+          "fa": "ورزش پاروزنی روی تخته"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "stand-up paddleboarding"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:3/data-row:20"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:3/data-row:20"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-46d938e16dc4",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "ورزش پدل‌بوردینگ"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-863aac04-c82a-4811-9d0a-ff0724ef73da",
+            "locator": "table:6/data-row:2"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-496824bbc5f3",
+        "partOfSpeech": "Noun",
+        "translation": {
+          "fa": "ورزش پدل‌بوردینگ"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:2/data-row:170"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:3/data-row:20"
+        },
+        "group": "priority-c",
+        "sessionId": null,
+        "priority": "C"
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m07",
+          "locator": "normalized-text/line:9",
+          "quote": "Paddleboarding = ?"
+        },
+        "group": "learner-notes-exact-match",
+        "sessionId": "session-water-sports",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-863aac04-c82a-4811-9d0a-ff0724ef73da",
+          "locator": "table:6/data-row:2"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-water-sports",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:2/data-row:170"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:3/data-row:20"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

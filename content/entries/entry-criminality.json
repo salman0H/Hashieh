@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-criminality",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "criminality"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:2/data-row:513"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "criminality",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-crime",
+    "senses": [
+      {
+        "id": "sense-215b299a4a3b",
+        "partOfSpeech": "Noun",
+        "translation": {
+          "fa": "مجرمیت، جرم‌خیزی"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:2/data-row:513"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:2/data-row:513"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

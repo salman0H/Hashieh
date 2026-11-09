@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-lately",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "lately"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-021012b8-e9d3-421d-af1d-fe1a7a57e626",
+        "locator": "table:1/data-row:3"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "lately",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-7d8dd7d730b6",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "اخیراً؛ اغلب برای وضعیت‌ها یا اتفاقات تکرارشونده در یک دورهٔ اخیر"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-021012b8-e9d3-421d-af1d-fe1a7a57e626",
+            "locator": "table:1/data-row:3"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-021012b8-e9d3-421d-af1d-fe1a7a57e626",
+          "locator": "table:1/data-row:3"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-experiences-news",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

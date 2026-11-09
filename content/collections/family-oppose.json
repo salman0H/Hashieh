@@ -1,0 +1,46 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "family-oppose",
+  "type": "collection",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Oppose — source word family"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:1/data-row:283"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:1/data-row:284"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:1/data-row:285"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:1/data-row:286"
+      }
+    ]
+  },
+  "payload": {
+    "kind": "word-family",
+    "itemIds": [
+      "entry-oppose",
+      "entry-opposition",
+      "entry-opposing",
+      "entry-opposed"
+    ]
+  },
+  "extensions": {}
+}

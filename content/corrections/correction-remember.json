@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "correction-remember",
+  "type": "correction",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "remember"
+  },
+  "tags": [
+    "error-notebook"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m04",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "original": "It is make me remember him.",
+    "replacement": "It makes me remember him.",
+    "explanation": {
+      "fa": "ساختار فعل در حال ساده."
+    },
+    "conceptIds": [
+      "concept-present-simple"
+    ],
+    "correctionSourceRef": {
+      "sourceId": "src-chat-m04",
+      "locator": "message-excerpt"
+    },
+    "kind": "form",
+    "originalSourceRef": {
+      "sourceId": "src-chat-m04",
+      "locator": "message-excerpt"
+    }
+  },
+  "extensions": {
+    "language.correction-context": {
+      "kind": "paired-source-examples",
+      "explanationAuthoredDuringExtraction": true
+    }
+  }
+}

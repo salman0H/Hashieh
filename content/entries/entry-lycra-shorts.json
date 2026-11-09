@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-lycra-shorts",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Lycra shorts"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-f892377a-352f-45b2-8930-8b7d20f6d637",
+        "locator": "table:3/data-row:2"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "Lycra shorts",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-99721011adef",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "شلوارک ورزشی چسبان از پارچهٔ کشسان لایکرا"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-f892377a-352f-45b2-8930-8b7d20f6d637",
+            "locator": "table:3/data-row:2"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f892377a-352f-45b2-8930-8b7d20f6d637",
+          "locator": "table:3/data-row:2"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-1fc4fb80",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

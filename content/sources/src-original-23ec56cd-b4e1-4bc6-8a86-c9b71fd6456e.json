@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-23ec56cd-b4e1-4bc6-8a86-c9b71fd6456e",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 77"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "user",
+    "messageOrdinal": 77,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "من خیلی گرامر ها رو اسامی شون رو و جاهای استفادشون رو با هم قاطی میکنم ازت میخوام ی جزوه کامل با مثال و جاهای استفاده از گرامر ها با نکات ریز و درشتی ک در اون ها هست رو برام بنویسی ک بتونم از این جزوه یه عنوان جزوه مرجع هم استفاده کنم کامل و تمام نکات ریزی ک باید در این گرامر ها بدونم برای استفاده اون ها در جملات",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": []
+  },
+  "extensions": {
+    "capture.message-id": "23ec56cd-b4e1-4bc6-8a86-c9b71fd6456e",
+    "capture.headings": [],
+    "capture.links": []
+  }
+}

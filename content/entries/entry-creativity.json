@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-creativity",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "creativity"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:2/data-row:216"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "creativity",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-create",
+    "senses": [
+      {
+        "id": "sense-9a85148c1c82",
+        "partOfSpeech": "Noun",
+        "translation": {
+          "fa": "خلاقیت"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:2/data-row:216"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:2/data-row:216"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

@@ -1,0 +1,331 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-4ae32885-48ea-4808-abbd-d100a0d4fc36",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "بررسی جزوهٔ این جلسه: Zero Conditional و First Conditional"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "assessment",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-4ae32885-48ea-4808-abbd-d100a0d4fc36",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-4ae32885-48ea-4808-abbd-d100a0d4fc36-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "بررسی جزوهٔ این جلسه: Zero Conditional و First Conditional\n\nموضوع اصلی این جلسه، جملات شرطی نوع صفر و نوع اول است. نکته‌ای که باید از همین ابتدا روشن شود این است که تفاوت این دو فقط در زمان فعل نیست؛ تفاوت اصلی در نوع رابطهٔ شرط و نتیجه است.\n\nZero Conditional: برای واقعیت‌های عمومی، عادت‌ها و نتیجه‌هایی که معمولاً تحت یک شرط رخ می‌دهند.\n\nFirst Conditional: برای موقعیت‌های واقعی یا محتمل در آینده و نتیجه‌ای که ممکن است از آن‌ها حاصل شود.\n\nیک نکتهٔ مهم دیگر: وجود عبارتی مثل tomorrow یا later می‌تواند به تشخیص معنای آینده کمک کند، اما به‌تنهایی تعیین نمی‌کند که حتماً باید از First Conditional استفاده کنی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-4ae32885-48ea-4808-abbd-d100a0d4fc36-2",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۱. Zero Conditional — شرطی نوع صفر",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-4ae32885-48ea-4808-abbd-d100a0d4fc36-3",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "ساختار اصلی\nIf/When + Present Simple, Present Simple\nIf/When + Present Simple, Present Simple\n\nمثال:\n\nIf I study hard, I pass my exams.\n\nاگر سخت درس بخوانم، امتحاناتم را قبول می‌شوم.\n\nاین جمله در معنای شرطی نوع صفر، یک رابطهٔ عمومی یا تکرارشونده را بیان می‌کند؛ یعنی هر وقت به‌اندازهٔ کافی درس بخوانم، معمولاً امتحاناتم را قبول می‌شوم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-4ae32885-48ea-4808-abbd-d100a0d4fc36-4",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "اجزای جمله\n\nCondition clause — جملهٔ شرط\n\nIf I study hard\n\nResult clause — جملهٔ نتیجه\n\nI pass my exams.\n\nاگر جمله را با بخش نتیجه شروع کنی، کاما لازم نیست:\n\nIf I study hard, I pass my exams.\n\nI pass my exams if I study hard.\n\nقاعدهٔ نشانه‌گذاری:\n\nاگر جمله با بخش شرط شروع شود، معمولاً بعد از آن کاما می‌آید.\n\nاگر جمله با بخش نتیجه شروع شود، معمولاً قبل از بخش شرط کاما نمی‌گذاریم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-4ae32885-48ea-4808-abbd-d100a0d4fc36-5",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "بررسی مثال‌های جزوه\n\nجمله\n\n\t\n\nبررسی\n\n\n\n\nWhen people read more than three paragraphs online, they often lose interest.\n\n\t\n\nدرست؛ یک الگوی رفتاری عمومی را توصیف می‌کند.\n\n\n\n\nI go to bed when I am tried.\n\n\t\n\nباید tired باشد، نه tried. جملهٔ درست: I go to bed when I am tired.\n\n\n\n\nWhen it rains, she takes the car to work.\n\n\t\n\nدرست؛ عادت یا رفتار معمول را بیان می‌کند.\n\n\n\n\nI always wear sunscreen when it is hot.\n\n\t\n\nدرست؛ عادت تکرارشونده است.\n\n\n\n\nIf employees enjoy their job, they work more efficiently.\n\n\t\n\nدرست؛ رابطه‌ای عمومی بین رضایت شغلی و شیوهٔ کار بیان می‌کند.\n\n\n\n\nIf you don't feel like walking home, take the underground instead.\n\n\t\n\nدرست؛ بخش اول شرط است و بخش دوم دستور یا پیشنهاد.\n\n\n\n\nDo you pass your exams if you study hard?\n\n\t\n\nاز نظر ساختار ممکن است، اما اگر منظورت نتیجهٔ یک امتحان مشخص در آینده است، بهتر است First Conditional را به کار ببری.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-4ae32885-48ea-4808-abbd-d100a0d4fc36-6",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "تفاوت if و when\n\nاین دو همیشه کاملاً قابل جایگزینی نیستند:\n\nIf it rains, I take the car. — اگر باران ببارد، ماشین می‌برم؛ وقوع باران شرطی است.\n\nWhen it rains, I take the car. — هر وقت باران می‌بارد، ماشین می‌برم؛ انتظار می‌رود این وضعیت تکرار شود.\n\nif بر شرط تأکید می‌کند؛ when بیشتر بر زمان یا موقعیتی تأکید دارد که انتظار می‌رود اتفاق بیفتد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-4ae32885-48ea-4808-abbd-d100a0d4fc36-7",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۲. آیا جملهٔ امری به Subject نیاز دارد؟\n\nیادداشت جزوه:\n\nIf you don't want to be here, go home!\n\nاین جمله کاملاً درست است. بخش اول شرط و بخش دوم دستور است.\n\nIf you don't want to be here = اگر نمی‌خواهی اینجا باشی\n\ngo home! = برو خانه!\n\nدر انگلیسی، جمله‌های امری (Imperative sentences) معمولاً فاعل آشکار ندارند، چون فاعل ضمنی آن‌ها you است.\n\nمقایسه:\n\nجمله\n\n\t\n\nتوضیح\n\n\n\n\nYou go home.\n\n\t\n\nفاعل آشکار you دارد؛ بسته به بافت می‌تواند تأکیدی باشد.\n\n\n\n\nGo home.\n\n\t\n\nجملهٔ امری معمول؛ فاعل ضمنی you است.\n\n\n\n\nDon't go home.\n\n\t\n\nدستور منفی؛ ساختار don't + base verb\n\n\n\n\nIf you are tired, go home.\n\n\t\n\nشرط + دستور\n\n\n\n\nIf you need help, ask me.\n\n\t\n\nشرط + دستور\n\nپس جملهٔ امری معمولاً به Subject آشکار نیاز ندارد، اما این به معنی نبودن فاعل از نظر دستوری نیست؛ فاعل ضمنی همان you است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-4ae32885-48ea-4808-abbd-d100a0d4fc36-8",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "مثال جزوه\n\nIf you want to try a free yoga class, visit our studio next Tuesday.\n\nمعنی: اگر می‌خواهی یک جلسهٔ رایگان یوگا را امتحان کنی، سه‌شنبهٔ آینده به استودیوی ما سر بزن.\n\nساختار:\n\nIf you want ... = شرط با Present Simple\n\nvisit ... = جملهٔ امری\n\nnext Tuesday = زمان مشخص برای انجام دستور\n\nاین جمله لزوماً First Conditional نیست. بخش نتیجه فعل آینده با will ندارد؛ بلکه یک دعوت یا دستور است که در صورت برقرار بودن شرط انجام می‌شود.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-4ae32885-48ea-4808-abbd-d100a0d4fc36-9",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "مثال دیگر\n\nIf you don't feel like walking home, take the underground instead.\n\nfeel like + noun/V-ing = میل یا حوصلهٔ انجام کاری را داشتن\n\nwalking home = پیاده به خانه رفتن\n\ntake the underground = با مترو رفتن؛ اصطلاح رایج در انگلیسی بریتانیایی\n\ninstead = به‌جای آن\n\nمثال مشابه:\n\nIf you don't feel like cooking, order some food instead.\n\nاگر حوصلهٔ آشپزی نداری، به‌جایش غذا سفارش بده.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-4ae32885-48ea-4808-abbd-d100a0d4fc36-10",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۳. First Conditional — شرطی نوع اول",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-4ae32885-48ea-4808-abbd-d100a0d4fc36-11",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "ساختار اصلی\nIf/When + Present Simple, will + base verb\nIf/When + Present Simple, will + base verb\n\nمثال:\n\nIf I study hard, I will pass my exams.\n\nاگر سخت درس بخوانم، امتحاناتم را قبول خواهم شد.\n\nاین بار دربارهٔ یک موقعیت مشخص یا محتمل در آینده صحبت می‌کنیم؛ یعنی اگر شرط محقق شود، نتیجهٔ آینده محتمل است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-4ae32885-48ea-4808-abbd-d100a0d4fc36-12",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "آیا حتماً باید زمان آینده در جمله ذکر شود؟\n\nخیر. این بخش از یادداشت جزوه نیاز به اصلاح دارد.\n\nوجود عبارت زمانی مانند tomorrow، later یا next week برای ساخت First Conditional الزامی نیست. زمان و نوع شرط از معنا و بافت جمله هم مشخص می‌شوند.\n\nمقایسه:\n\nIf I study hard, I pass my exams. — رابطهٔ عمومی یا نتیجهٔ معمول.\n\nIf I study hard, I will pass my exam tomorrow. — نتیجهٔ محتمل در یک موقعیت آینده.\n\nIf I study hard, I can pass the exam. — توانایی یا امکان قبولی.\n\nIf I study hard, I might pass the exam. — احتمال قبولی، با قطعیت کمتر.\n\nنکتهٔ کلیدی: بعد از if در شرطی نوع اول، معمولاً برای اشاره به آینده از Present Simple استفاده می‌کنیم، نه will.\n\nدرست:\n\nIf I finish work early, I'll meet you later.\n\nنادرست در معنای معمول این شرط:\n\nIf I will finish work early, I'll meet you later.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-4ae32885-48ea-4808-abbd-d100a0d4fc36-13",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "بررسی مثال‌های جزوه\n\nجمله\n\n\t\n\nبررسی\n\n\n\n\nIf I study hard, I will pass my exams.\n\n\t\n\nدرست؛ نتیجهٔ محتمل در آینده.\n\n\n\n\nWill you pass your exams if you study hard?\n\n\t\n\nدرست؛ سؤال دربارهٔ نتیجهٔ محتمل آینده.\n\n\n\n\nIf parents read to their children, they will learn to love books.\n\n\t\n\nدرست؛ learn املای صحیح است، نه lean.\n\n\n\n\nI'll meet you later if I finish work early.\n\n\t\n\nدرست؛ later آینده را روشن می‌کند، اما علت انتخاب ساختار صرفاً وجود این کلمه نیست.\n\n\n\n\nI won't get hungry if I eat something now.\n\n\t\n\nدرست؛ نتیجهٔ آینده با won't بیان شده است.\n\n\n\n\nWhen it is sunny, we can go to the beach.\n\n\t\n\nدرست؛ اما can امکان یا اجازه را بیان می‌کند، نه لزوماً یک پیش‌بینی قطعی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-4ae32885-48ea-4808-abbd-d100a0d4fc36-14",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "آیا could > may > might ترتیب ثابتی برای احتمال است؟\n\nنه. این ترتیب قانون قابل‌اعتمادی برای رتبه‌بندی احتمال نیست.\n\nmay = ممکن است\n\nmight = ممکن است؛ اغلب با حس احتیاط یا احتمال کمتر در برخی بافت‌ها\n\ncould = می‌تواند / ممکن است؛ همچنین می‌تواند توانایی یا یک امکان را بیان کند\n\ncan = می‌تواند؛ برای امکان عمومی، توانایی یا اجازه هم استفاده می‌شود\n\nمثال:\n\nIf we leave now, we may arrive on time.\n\nIf we leave now, we might arrive on time.\n\nIf we leave now, we could arrive on time.\n\nهر سه ممکن‌اند؛ تفاوت دقیق آن‌ها به بافت و منظور گوینده بستگی دارد، نه یک ترتیب عددی ثابت.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-4ae32885-48ea-4808-abbd-d100a0d4fc36-15",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۴. تفاوتی که باید به‌خاطر بسپاری: Zero در برابر First Conditional",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-4ae32885-48ea-4808-abbd-d100a0d4fc36-16",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Zero Conditional\nواقعیت عمومی یا عادت\n\nIf I don't sleep enough, I feel tired.\n\nاگر به‌اندازهٔ کافی نخوابم، احساس خستگی می‌کنم.\n\nاین جمله رابطه‌ای عمومی را بیان می‌کند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-4ae32885-48ea-4808-abbd-d100a0d4fc36-17",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "First Conditional\nنتیجهٔ محتمل در آینده\n\nIf I don't sleep enough tonight, I'll feel tired tomorrow.\n\nاگر امشب به‌اندازهٔ کافی نخوابم، فردا احساس خستگی خواهم کرد.\n\nاین جمله دربارهٔ موقعیتی مشخص در آینده است.\n\nبه زمان فعل‌ها نگاه کن، اما فقط به آن‌ها اکتفا نکن؛ معنی جمله تعیین می‌کند که دربارهٔ یک الگوی عمومی صحبت می‌کنی یا یک نتیجهٔ محتمل در آینده.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-4ae32885-48ea-4808-abbd-d100a0d4fc36-18",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "مثال جزوه: جملهٔ ترکیبی\n\nIf a city had good public transport, people don't drive as much.\n\nاین جمله به همین شکل با معنای موردنظر احتمالاً ناهماهنگ است. دو اصلاح ممکن داریم:\n\nاگر منظورت یک واقعیت عمومی است:\n\nIf a city has good public transport, people don't drive as much.\n\nاگر شهری حمل‌ونقل عمومی خوبی داشته باشد، مردم به آن اندازه رانندگی نمی‌کنند.\n\nاگر منظورت یک وضعیت فرضی است:\n\nIf a city had good public transport, people wouldn't drive as much.\n\nاگر شهری حمل‌ونقل عمومی خوبی داشت، مردم به آن اندازه رانندگی نمی‌کردند.\n\nجملهٔ دوم Second Conditional است؛ چون had و wouldn't drive یک وضعیت فرضی یا غیرواقعی را بیان می‌کنند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-4ae32885-48ea-4808-abbd-d100a0d4fc36-19",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۵. بررسی عبارت‌های واژگانی و جمله‌های ناقص",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-4ae32885-48ea-4808-abbd-d100a0d4fc36-20",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Already appreciate that\n\nاین عبارت به‌تنهایی از نظر دستوری می‌تواند بخشی از جمله باشد، اما بدون بافت مشخص نیست منظورت دقیقاً چیست.\n\nI already appreciate that. — من همین حالا هم قدردان آن هستم / ارزش آن را می‌دانم.\n\nI appreciate that. — ممنونم؛ قدردان آن هستم.\n\nI really appreciate your help. — واقعاً از کمکت ممنونم.\n\nappreciate فعل است و معمولاً بعد از آن اسم یا V-ing می‌آید:\n\nI appreciate your support.\n\nI appreciate you helping me.\n\nI appreciate having the opportunity to learn.\n\nنکته: appreciate لزوماً فقط به معنی تشکر کردن نیست؛ می‌تواند به معنی درک ارزش یا اهمیت چیزی هم باشد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-4ae32885-48ea-4808-abbd-d100a0d4fc36-21",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Effectively در برابر efficiently\n\nدر جزوه نوشته‌ای:\n\nIf employees enjoy their job, they work more efficiently.\n\nاین جمله درست است؛ اما effectively و efficiently تفاوت دارند.\n\nواژه\n\n\t\n\nمعنی\n\n\t\n\nتمرکز\n\n\n\n\neffectively\n\n\t\n\nبه‌طور مؤثر\n\n\t\n\nآیا نتیجهٔ مطلوب حاصل می‌شود؟\n\n\n\n\nefficiently\n\n\t\n\nبه‌طور کارآمد\n\n\t\n\nآیا کار با اتلاف کمتر زمان، انرژی یا منابع انجام می‌شود؟\n\nمثال:\n\nShe works effectively and achieves her goals.\n\nShe works efficiently and finishes the task in less time.\n\nممکن است کسی کاری را مؤثر انجام دهد، اما منابع زیادی مصرف کند؛ یا سریع کار کند، اما نتیجهٔ مطلوبی نگیرد. بنابراین این دو واژه مترادف کامل نیستند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-4ae32885-48ea-4808-abbd-d100a0d4fc36-22",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "My aim is important.\n\nاین جمله از نظر گرامری درست است، اما ممکن است منظورت را دقیق منتقل نکند.\n\nMy aim is important. — هدف من مهم است.\n\nMy aim is to become a successful engineer. — هدفم این است که مهندس موفقی شوم.\n\nAchieving my goal is important to me. — رسیدن به هدفم برایم مهم است.\n\nMy main goal is to improve my English. — هدف اصلی‌ام تقویت انگلیسی است.\n\nساختار بسیار کاربردی:\n\nMy aim/goal is + to-infinitive\n\nمثلاً:\n\nMy aim is to become more confident when speaking English.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-4ae32885-48ea-4808-abbd-d100a0d4fc36-23",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Being successful is something for future not now.\n\nاین جمله قابل فهم است، اما انگلیسی طبیعی‌ای نیست. بسته به منظورت می‌توانی بگویی:\n\n- Success is something I hope to achieve in the future.\nموفقیت چیزی است که امیدوارم در آینده به آن برسم.\n\n- I hope to be successful in the future.\nامیدوارم در آینده موفق شوم.\n\n- Being successful is a long-term goal for me.\nموفق بودن برای من یک هدف بلندمدت است.\n\nاز نظر گرامری، being successful یک عبارت Gerund است که نقش اسمی دارد. اما برای بیان هدف آینده، معمولاً I hope to be successful یا My goal is to be successful طبیعی‌تر است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-4ae32885-48ea-4808-abbd-d100a0d4fc36-24",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Practical\n\npractical صفت است و بسته به بافت، معنی «عملی، کاربردی، واقع‌بینانه» می‌دهد.\n\npractical advice = توصیهٔ کاربردی\n\npractical skills = مهارت‌های عملی\n\na practical solution = راه‌حل عملی\n\na practical person = فرد عمل‌گرا یا واقع‌بین\n\nتفاوت با theoretical:\n\ntheoretical knowledge = دانش نظری\n\npractical experience = تجربهٔ عملی\n\nمثال:\n\nI want to gain practical experience before applying for a full-time job.\n\nمی‌خواهم پیش از درخواست برای یک شغل تمام‌وقت، تجربهٔ عملی کسب کنم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-4ae32885-48ea-4808-abbd-d100a0d4fc36-25",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۶. مرور نهایی: چه چیزهایی از این جلسه باید تثبیت شوند؟\nتفاوت Zero Conditional و First Conditional را با مثال توضیح بدهم.\nدر جملهٔ شرطی، جای کاما را درست انتخاب کنم.\nبعد از if در شرطی نوع اول از Present Simple استفاده کنم.\nجملهٔ امری را بدون فاعل آشکار بسازم.\nتفاوت effectively و efficiently را بدانم.\nاز aim/goal is to + verb استفاده کنم.\nتفاوت شرطی نوع اول و دوم را تشخیص بدهم.\n\n0 از 7 مورد مرور شده",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-4ae32885-48ea-4808-abbd-d100a0d4fc36-26",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۷. تمرین کوتاه\n\nجمله‌ها را کامل کن. به تفاوت عادت عمومی، نتیجهٔ آینده و وضعیت فرضی توجه کن.\n\n1. If water reaches 100°C, it ____.\n\nwill boil\nboils\nwould boil\n\n2. If I finish work early tonight, I ____ you.\n\ncall\nwill call\nwould call\n\n3. If you don't want to walk, ____ the bus.\n\ntake\nyou taking\nto take\n\n4. If the city ____ better transport, people wouldn't drive so much.\n\nhas\nhad\nwill have\n\n5. The team completed the project ____.\n\nefficiently\nefficient\nefficiency\n\n6. My goal is ____ a professional developer.\n\nbecome\nbecoming\nto become\nبررسی پاسخ‌ها\n\nجمع‌بندی: مهم‌ترین اصلاح جزوه این است که First Conditional به وجود یک قید زمانی مثل later وابسته نیست؛ به معنای جمله و بیان یک نتیجهٔ محتمل در آینده وابسته است. همچنین جمله‌های امری معمولاً فاعل آشکار ندارند، اما فاعل ضمنی آن‌ها you است.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-present-simple",
+      "concept-future-forms",
+      "concept-zero-conditional",
+      "concept-first-conditional",
+      "concept-second-conditional",
+      "concept-gerund-infinitive"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "4ae32885-48ea-4808-abbd-d100a0d4fc36",
+    "capture.turn-number": 42
+  }
+}

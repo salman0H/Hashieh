@@ -1,0 +1,127 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-be-on-the-same-page",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "be on the same page"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:4/data-row:3"
+      },
+      {
+        "sourceId": "src-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a",
+        "locator": "table:1/data-row:4"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:4/data-row:3"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "be on the same page",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-d88954196576",
+        "partOfSpeech": "Idiom",
+        "translation": {
+          "fa": "هم‌نظر بودن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "agree",
+          "share the same understanding"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:4/data-row:3"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:4/data-row:3"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-2ace25f08dae",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "دربارهٔ موضوعی توافق یا درک مشترک داشتن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-63d657304c0c",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "We need to make sure we're on the same page.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a",
+            "locator": "table:1/data-row:4"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:4/data-row:3"
+        },
+        "group": "chunks",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a",
+          "locator": "table:1/data-row:4"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-ab3a1c6d",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:4/data-row:3"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

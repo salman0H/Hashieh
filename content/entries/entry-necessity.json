@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-necessity",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "necessity"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:1/data-row:302"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:2/data-row:341"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "necessity",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-necessity",
+    "senses": [
+      {
+        "id": "sense-be6b2ae93752",
+        "partOfSpeech": "Noun",
+        "translation": {
+          "fa": "ضرورت، نیاز ضروری"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:1/data-row:302"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-cebd6593ed97",
+        "partOfSpeech": "Noun",
+        "translation": {
+          "fa": "ضرورت"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:2/data-row:341"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:1/data-row:302"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:2/data-row:341"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-a34cb1c2ce48",
+  "type": "covers",
+  "from": "session-team-spirit",
+  "to": "concept-phrasal-verbs",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-chat-m08",
+      "locator": "message-excerpt"
+    }
+  ],
+  "extensions": {}
+}

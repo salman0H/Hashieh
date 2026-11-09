@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-0cd07da44396",
+  "type": "covers",
+  "from": "session-future",
+  "to": "concept-timetables",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-chat-m03",
+      "locator": "message-excerpt"
+    }
+  ],
+  "extensions": {}
+}

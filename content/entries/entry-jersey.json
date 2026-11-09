@@ -1,0 +1,116 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-jersey",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "jersey"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:33"
+      },
+      {
+        "sourceId": "src-original-f892377a-352f-45b2-8930-8b7d20f6d637",
+        "locator": "table:3/data-row:1"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:3/data-row:33"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "jersey",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-8b6044fbabde",
+        "partOfSpeech": "Noun",
+        "translation": {
+          "fa": "پیراهن ورزشی"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "sports shirt"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:3/data-row:33"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:3/data-row:33"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-39cf994daf3f",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "پیراهن ورزشی؛ در دوچرخه‌سواری پیراهن مخصوص دوچرخه‌سوار"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-f892377a-352f-45b2-8930-8b7d20f6d637",
+            "locator": "table:3/data-row:1"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:3/data-row:33"
+        },
+        "group": "priority-c",
+        "sessionId": null,
+        "priority": "C"
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f892377a-352f-45b2-8930-8b7d20f6d637",
+          "locator": "table:3/data-row:1"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-1fc4fb80",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:3/data-row:33"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

@@ -1,0 +1,127 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-gorgeous",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "gorgeous"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:8"
+      },
+      {
+        "sourceId": "src-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+        "locator": "table:2/data-row:1"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:2/data-row:8"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "gorgeous",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-a1883ee62075",
+        "partOfSpeech": "Adjective",
+        "translation": {
+          "fa": "بسیار زیبا"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "beautiful",
+          "stunning"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:2/data-row:8"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:2/data-row:8"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-fe4d3b1e9b8b",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "بسیار زیبا، چشم‌نواز؛ برای افراد، لباس‌ها و مکان‌ها"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-dbe5e4c99158",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "She looks gorgeous.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+            "locator": "table:2/data-row:1"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:2/data-row:8"
+        },
+        "group": "priority-b",
+        "sessionId": null,
+        "priority": "B"
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+          "locator": "table:2/data-row:1"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-04d90228",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:2/data-row:8"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

@@ -1,0 +1,88 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-hard",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "hard"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m02",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-original-944a2cb2-18e6-4a05-af23-92edb86b98d4",
+        "locator": "table:2/data-row:4"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "hard",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-ceafadef2161",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "سخت"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-02de98fb76fa",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "Being a doctor is hard.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-944a2cb2-18e6-4a05-af23-92edb86b98d4",
+            "locator": "table:2/data-row:4"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m02",
+          "locator": "message-excerpt"
+        },
+        "group": "learner-notes",
+        "sessionId": "session-jobs",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-944a2cb2-18e6-4a05-af23-92edb86b98d4",
+          "locator": "table:2/data-row:4"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-jobs",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

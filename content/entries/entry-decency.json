@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-decency",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "decency"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:2/data-row:573"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "decency",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-decent",
+    "senses": [
+      {
+        "id": "sense-2dead33a5520",
+        "partOfSpeech": "Noun",
+        "translation": {
+          "fa": "شایستگی، نزاکت"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:2/data-row:573"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:2/data-row:573"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

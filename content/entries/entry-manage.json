@@ -1,0 +1,117 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-manage",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "manage"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:4"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:1/data-row:23"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:1/data-row:4"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "manage",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-manage",
+    "senses": [
+      {
+        "id": "sense-68b1a72a3fb1",
+        "partOfSpeech": "Verb",
+        "translation": {
+          "fa": "مدیریت کردن، از پس چیزی برآمدن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "handle",
+          "deal with"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:1/data-row:4"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:1/data-row:4"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-60f57a001432",
+        "partOfSpeech": "Verb",
+        "translation": {
+          "fa": "مدیریت کردن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:1/data-row:23"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:1/data-row:4"
+        },
+        "group": "priority-a",
+        "sessionId": null,
+        "priority": "A"
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:1/data-row:23"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:1/data-row:4"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

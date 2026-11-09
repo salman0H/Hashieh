@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "family-breathe",
+  "type": "collection",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Breathe — source word family"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:1/data-row:251"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:1/data-row:252"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:1/data-row:253"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:1/data-row:254"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:1/data-row:255"
+      }
+    ]
+  },
+  "payload": {
+    "kind": "word-family",
+    "itemIds": [
+      "entry-breathe",
+      "entry-breath",
+      "entry-breathless",
+      "entry-breathlessly",
+      "entry-breathtaking"
+    ]
+  },
+  "extensions": {}
+}

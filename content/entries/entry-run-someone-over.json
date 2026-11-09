@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-run-someone-over",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "run someone over"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-f892377a-352f-45b2-8930-8b7d20f6d637",
+        "locator": "table:3/data-row:7"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "run someone over",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-78b2527b4449",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "با خودرو یا وسیلهٔ نقلیه به کسی زدن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-f892377a-352f-45b2-8930-8b7d20f6d637",
+            "locator": "table:3/data-row:7"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f892377a-352f-45b2-8930-8b7d20f6d637",
+          "locator": "table:3/data-row:7"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-1fc4fb80",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

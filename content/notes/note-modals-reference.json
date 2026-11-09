@@ -1,0 +1,279 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-modals-reference",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Modals — reference blocks"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m16",
+        "locator": "core structures and comparison"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-modals-core-formula",
+        "type": "formula",
+        "version": 1,
+        "data": {
+          "parts": [
+            {
+              "role": "subject",
+              "text": "Subject"
+            },
+            {
+              "role": "modal",
+              "text": "can / may / must / should / might"
+            },
+            {
+              "role": "verb",
+              "text": "base verb"
+            }
+          ]
+        }
+      },
+      {
+        "id": "block-modals-negative-comparison",
+        "type": "comparison",
+        "version": 1,
+        "data": {
+          "columns": [
+            {
+              "title": {
+                "en": "mustn't",
+                "fa": "ممنوعیت"
+              },
+              "text": "You mustn't come to work tomorrow."
+            },
+            {
+              "title": {
+                "en": "don't have to",
+                "fa": "عدم ضرورت"
+              },
+              "text": "You don't have to come to work tomorrow."
+            }
+          ]
+        }
+      },
+      {
+        "id": "block-modals-internal-external",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "fa",
+          "text": "این تقسیم‌بندی برای شروع یادگیری مفید است، اما یک قانون صددرصدی نیست."
+        }
+      },
+      {
+        "id": "block-modal-example-1",
+        "type": "example",
+        "version": 1,
+        "data": {
+          "text": "You can play here.",
+          "locale": "en",
+          "annotations": [
+            {
+              "start": 0,
+              "end": 18,
+              "label": "اجازه، توانایی"
+            }
+          ]
+        }
+      },
+      {
+        "id": "block-modal-example-2",
+        "type": "example",
+        "version": 1,
+        "data": {
+          "text": "You can't enter this room.",
+          "locale": "en",
+          "annotations": [
+            {
+              "start": 0,
+              "end": 26,
+              "label": "ممنوعیت یا ناتوانی"
+            }
+          ]
+        }
+      },
+      {
+        "id": "block-modal-example-3",
+        "type": "example",
+        "version": 1,
+        "data": {
+          "text": "May I leave the class?",
+          "locale": "en",
+          "annotations": [
+            {
+              "start": 0,
+              "end": 22,
+              "label": "اجازه رسمی، احتمال"
+            }
+          ]
+        }
+      },
+      {
+        "id": "block-modal-example-4",
+        "type": "example",
+        "version": 1,
+        "data": {
+          "text": "You should exercise regularly.",
+          "locale": "en",
+          "annotations": [
+            {
+              "start": 0,
+              "end": 30,
+              "label": "توصیه"
+            }
+          ]
+        }
+      },
+      {
+        "id": "block-modal-example-5",
+        "type": "example",
+        "version": 1,
+        "data": {
+          "text": "You shouldn't eat too much sugar.",
+          "locale": "en",
+          "annotations": [
+            {
+              "start": 0,
+              "end": 33,
+              "label": "توصیه به انجام ندادن"
+            }
+          ]
+        }
+      },
+      {
+        "id": "block-modal-example-6",
+        "type": "example",
+        "version": 1,
+        "data": {
+          "text": "You ought to study harder.",
+          "locale": "en",
+          "annotations": [
+            {
+              "start": 0,
+              "end": 26,
+              "label": "توصیه، مشابه should"
+            }
+          ]
+        }
+      },
+      {
+        "id": "block-modal-example-7",
+        "type": "example",
+        "version": 1,
+        "data": {
+          "text": "You must wear a seat belt.",
+          "locale": "en",
+          "annotations": [
+            {
+              "start": 0,
+              "end": 26,
+              "label": "الزام قوی، ضرورت"
+            }
+          ]
+        }
+      },
+      {
+        "id": "block-modal-example-8",
+        "type": "example",
+        "version": 1,
+        "data": {
+          "text": "You mustn't smoke here.",
+          "locale": "en",
+          "annotations": [
+            {
+              "start": 0,
+              "end": 23,
+              "label": "ممنوعیت"
+            }
+          ]
+        }
+      },
+      {
+        "id": "block-modal-example-9",
+        "type": "example",
+        "version": 1,
+        "data": {
+          "text": "Employees have to wear uniforms.",
+          "locale": "en",
+          "annotations": [
+            {
+              "start": 0,
+              "end": 32,
+              "label": "الزام بیرونی یا ضرورت"
+            }
+          ]
+        }
+      },
+      {
+        "id": "block-modal-example-10",
+        "type": "example",
+        "version": 1,
+        "data": {
+          "text": "You don't have to pay.",
+          "locale": "en",
+          "annotations": [
+            {
+              "start": 0,
+              "end": 22,
+              "label": "نبود ضرورت"
+            }
+          ]
+        }
+      },
+      {
+        "id": "block-modal-example-11",
+        "type": "example",
+        "version": 1,
+        "data": {
+          "text": "You are allowed to enter.",
+          "locale": "en",
+          "annotations": [
+            {
+              "start": 0,
+              "end": 25,
+              "label": "مجاز بودن"
+            }
+          ]
+        }
+      },
+      {
+        "id": "block-modal-example-12",
+        "type": "example",
+        "version": 1,
+        "data": {
+          "text": "I'll be able to travel next week.",
+          "locale": "en",
+          "annotations": [
+            {
+              "start": 0,
+              "end": 33,
+              "label": "توانایی"
+            }
+          ]
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-modals",
+      "concept-mustnt-vs-dont-have-to"
+    ]
+  },
+  "extensions": {}
+}

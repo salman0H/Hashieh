@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-a0578cd91da7",
+  "type": "related-to",
+  "from": "concept-unless-only-if",
+  "to": "concept-second-conditional",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-chat-m08",
+      "locator": "message-excerpt"
+    }
+  ],
+  "extensions": {}
+}

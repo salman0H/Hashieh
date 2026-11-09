@@ -1,0 +1,185 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-flexible",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "flexible"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:13"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:1/data-row:145"
+      },
+      {
+        "sourceId": "src-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+        "locator": "table:1/data-row:7"
+      },
+      {
+        "sourceId": "src-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+        "locator": "table:2/data-row:3"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:1/data-row:13"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "flexible",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-flexible",
+    "senses": [
+      {
+        "id": "sense-ee47a2266751",
+        "partOfSpeech": "Adjective",
+        "translation": {
+          "fa": "انعطاف‌پذیر"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "adaptable"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:1/data-row:13"
+          },
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:1/data-row:145"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:1/data-row:13"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-07f183e52f47",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "انعطاف‌پذیر؛ کسی که راحت با شرایط تغییر می‌کند، یا برنامه‌ای که قابل تغییر است"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-b0b6a2180db4",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "My manager is flexible about working hours.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+            "locator": "table:1/data-row:7"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-c291fa97e47b",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "منعطف، سازگار با تغییر"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-6e67877249cd",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "We need a more flexible schedule.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+            "locator": "table:2/data-row:3"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:1/data-row:13"
+        },
+        "group": "priority-a",
+        "sessionId": null,
+        "priority": "A"
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:1/data-row:145"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+          "locator": "table:1/data-row:7"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-04d90228",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+          "locator": "table:2/data-row:3"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-04d90228",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:1/data-row:13"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

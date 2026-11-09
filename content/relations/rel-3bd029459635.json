@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-3bd029459635",
+  "type": "covers",
+  "from": "session-modals",
+  "to": "concept-mustnt-vs-dont-have-to",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-chat-m15",
+      "locator": "message-excerpt"
+    }
+  ],
+  "extensions": {}
+}

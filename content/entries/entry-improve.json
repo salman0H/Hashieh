@@ -1,0 +1,100 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-improve",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "improve"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:9"
+      },
+      {
+        "sourceId": "src-chat-m02",
+        "locator": "normalized-text/line:4",
+        "quote": "do you like work with other people? yes, i do. it help me to comminucate and improve my mindset to create a new produnct."
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:1/data-row:9"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "improve",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-e4119e0e569b",
+        "partOfSpeech": "Verb",
+        "translation": {
+          "fa": "بهبود دادن / یافتن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "develop",
+          "get better"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:1/data-row:9"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:1/data-row:9"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:1/data-row:9"
+        },
+        "group": "priority-a",
+        "sessionId": null,
+        "priority": "A"
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m02",
+          "locator": "normalized-text/line:4",
+          "quote": "do you like work with other people? yes, i do. it help me to comminucate and improve my mindset to create a new produnct."
+        },
+        "group": "learner-notes-exact-match",
+        "sessionId": "session-jobs",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:1/data-row:9"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

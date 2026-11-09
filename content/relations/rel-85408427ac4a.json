@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-85408427ac4a",
+  "type": "covers",
+  "from": "note-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a",
+  "to": "concept-reported-speech",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a",
+      "locator": "message-body"
+    }
+  ],
+  "extensions": {}
+}

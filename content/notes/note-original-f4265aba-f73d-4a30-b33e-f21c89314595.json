@@ -1,0 +1,107 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "۱. اولویت بسیار بالا — حتماً یاد بگیر"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-f4265aba-f73d-4a30-b33e-f21c89314595-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "از بین تمام لغاتی که در این گفتگو بررسی کردیم، پیشنهاد من این است که آن‌ها را بر اساس کاربرد در مکالمه، میزان تکرار در زبان روزمره، اهمیت در سطح B1 و قابلیت استفاده در موضوعات مختلف اولویت‌بندی کنی.\n\nنکته مهم: لازم نیست همه کلمات را با یک میزان زمان و انرژی یاد بگیری. بعضی کلمات باید وارد Active Vocabulary تو شوند؛ یعنی بتوانی بدون فکر کردن زیاد در مکالمه و Writing از آن‌ها استفاده کنی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f4265aba-f73d-4a30-b33e-f21c89314595-2",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۱. اولویت بسیار بالا — حتماً یاد بگیر\n\nاولویت A مناسب برای مکالمه روزمره، B1 و Writing\n\nWord / Phrase\n\n\t\n\nمعنی فارسی\n\n\t\n\nSynonyms / Equivalents\n\n\t\n\nPart of Speech\n\n\n\n\nafford\n\n\t\n\nاز عهده هزینه چیزی برآمدن\n\n\t\n\nhave enough money for\n\n\t\n\nVerb\n\n\n\n\nachieve\n\n\t\n\nبه دست آوردن، محقق کردن\n\n\t\n\naccomplish, attain\n\n\t\n\nVerb\n\n\n\n\ndeal with\n\n\t\n\nرسیدگی کردن، کنار آمدن با\n\n\t\n\nhandle, manage\n\n\t\n\nPhrasal verb\n\n\n\n\nmanage\n\n\t\n\nمدیریت کردن، از پس چیزی برآمدن\n\n\t\n\nhandle, deal with\n\n\t\n\nVerb\n\n\n\n\novercome\n\n\t\n\nغلبه کردن بر\n\n\t\n\nconquer, defeat\n\n\t\n\nVerb\n\n\n\n\nexpect\n\n\t\n\nانتظار داشتن\n\n\t\n\nanticipate\n\n\t\n\nVerb\n\n\n\n\nrealize\n\n\t\n\nمتوجه شدن، درک کردن\n\n\t\n\nbecome aware of\n\n\t\n\nVerb\n\n\n\n\nfigure out\n\n\t\n\nفهمیدن، راه‌حل پیدا کردن\n\n\t\n\nwork out, understand\n\n\t\n\nPhrasal verb\n\n\n\n\nimprove\n\n\t\n\nبهبود دادن / یافتن\n\n\t\n\ndevelop, get better\n\n\t\n\nVerb\n\n\n\n\nexperience\n\n\t\n\nتجربه / تجربه کردن\n\n\t\n\nundergo, go through\n\n\t\n\nNoun / Verb\n\n\n\n\nstruggle\n\n\t\n\nتقلا کردن، دشواری داشتن\n\n\t\n\nhave difficulty, strive\n\n\t\n\nVerb / Noun\n\n\n\n\nchallenging\n\n\t\n\nچالش‌برانگیز\n\n\t\n\ndemanding, difficult\n\n\t\n\nAdjective\n\n\n\n\nflexible\n\n\t\n\nانعطاف‌پذیر\n\n\t\n\nadaptable\n\n\t\n\nAdjective\n\n\n\n\nanxious\n\n\t\n\nمضطرب، نگران\n\n\t\n\nworried, nervous\n\n\t\n\nAdjective\n\n\n\n\npunctual\n\n\t\n\nوقت‌شناس\n\n\t\n\non time\n\n\t\n\nAdjective\n\n\n\n\nreliable\n\n\t\n\nقابل اعتماد\n\n\t\n\ndependable, trustworthy\n\n\t\n\nAdjective\n\n\n\n\nresponsible for\n\n\t\n\nمسئولِ\n\n\t\n\nin charge of\n\n\t\n\nPhrase\n\n\n\n\nin charge of\n\n\t\n\nمسئول و متصدیِ\n\n\t\n\nresponsible for\n\n\t\n\nPhrase\n\n\n\n\nlook forward to\n\n\t\n\nمشتاقانه منتظر چیزی بودن\n\n\t\n\nanticipate, be excited about\n\n\t\n\nPhrase\n\n\n\n\ngive up\n\n\t\n\nتسلیم شدن، دست کشیدن\n\n\t\n\nquit, abandon\n\n\t\n\nPhrasal verb\n\n\n\n\ntake up\n\n\t\n\nشروع کردن یک سرگرمی یا فعالیت\n\n\t\n\nstart, begin\n\n\t\n\nPhrasal verb\n\n\n\n\nrun out of\n\n\t\n\nتمام شدن چیزی\n\n\t\n\nuse up, have no more\n\n\t\n\nPhrasal verb\n\n\n\n\nget in touch with\n\n\t\n\nتماس برقرار کردن\n\n\t\n\ncontact, reach\n\n\t\n\nPhrase\n\n\n\n\napply for\n\n\t\n\nدرخواست دادن برای\n\n\t\n\nsubmit an application for\n\n\t\n\nPhrasal verb\n\n\n\n\nlook for\n\n\t\n\nدنبال چیزی گشتن\n\n\t\n\nsearch for, seek\n\n\t\n\nPhrasal verb\n\n\n\n\nget fired\n\n\t\n\nاخراج شدن\n\n\t\n\nbe dismissed, be sacked\n\n\t\n\nPhrase\n\n\n\n\nearn a living\n\n\t\n\nامرار معاش کردن\n\n\t\n\nmake a living\n\n\t\n\nPhrase\n\n\n\n\nmake ends meet\n\n\t\n\nاز پس هزینه‌های زندگی برآمدن\n\n\t\n\ncover basic expenses\n\n\t\n\nIdiom\n\n\n\n\ncost of living\n\n\t\n\nهزینه زندگی\n\n\t\n\nliving expenses\n\n\t\n\nNoun phrase\n\n\n\n\nwork-life balance\n\n\t\n\nتعادل کار و زندگی\n\n\t\n\n—\n\n\t\n\nNoun phrase\n\n\n\n\nunder pressure\n\n\t\n\nتحت فشار\n\n\t\n\nstressed, under stress\n\n\t\n\nPhrase\n\n\n\n\nmake a decision\n\n\t\n\nتصمیم گرفتن\n\n\t\n\ndecide\n\n\t\n\nCollocation\n\n\n\n\nface a problem\n\n\t\n\nبا مشکلی مواجه شدن\n\n\t\n\nencounter, deal with\n\n\t\n\nCollocation\n\n\n\n\nget inspired by\n\n\t\n\nاز چیزی الهام گرفتن\n\n\t\n\nbe motivated by\n\n\t\n\nPhrase\n\n\n\n\ntake part in\n\n\t\n\nشرکت کردن در\n\n\t\n\nparticipate in\n\n\t\n\nPhrase\n\nچرا این‌ها مهم‌اند؟\n\nاین واژگان محدود به یک موضوع نیستند. مثلاً deal with را می‌توانی در موضوعات کار، روابط، ورزش، تحصیل و مشکلات روزمره استفاده کنی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f4265aba-f73d-4a30-b33e-f21c89314595-3",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۲. اولویت بالا — واژگان کاربردی برای گسترش دایره لغات\nاولویت B\n\nWord / Phrase\n\n\t\n\nمعنی فارسی\n\n\t\n\nSynonyms / Equivalents\n\n\t\n\nPart of Speech\n\n\n\n\ndemanding\n\n\t\n\nطاقت‌فرسا، نیازمند تلاش زیاد\n\n\t\n\nchallenging, requiring\n\n\t\n\nAdjective\n\n\n\n\npromising\n\n\t\n\nامیدوارکننده، دارای آینده خوب\n\n\t\n\nencouraging, hopeful\n\n\t\n\nAdjective\n\n\n\n\nlucrative\n\n\t\n\nپردرآمد، سودآور\n\n\t\n\nprofitable, well-paid\n\n\t\n\nAdjective\n\n\n\n\nprestigious\n\n\t\n\nمعتبر، پرآوازه\n\n\t\n\nrespected, distinguished\n\n\t\n\nAdjective\n\n\n\n\nsatisfying\n\n\t\n\nرضایت‌بخش\n\n\t\n\nfulfilling, rewarding\n\n\t\n\nAdjective\n\n\n\n\nrewarding\n\n\t\n\nارزشمند و رضایت‌بخش\n\n\t\n\nsatisfying, worthwhile\n\n\t\n\nAdjective\n\n\n\n\nspectacular\n\n\t\n\nتماشایی، شگفت‌انگیز\n\n\t\n\nimpressive, breathtaking\n\n\t\n\nAdjective\n\n\n\n\ngorgeous\n\n\t\n\nبسیار زیبا\n\n\t\n\nbeautiful, stunning\n\n\t\n\nAdjective\n\n\n\n\nunusual\n\n\t\n\nغیرمعمول\n\n\t\n\nuncommon, strange\n\n\t\n\nAdjective\n\n\n\n\nunpredictable\n\n\t\n\nغیرقابل پیش‌بینی\n\n\t\n\nuncertain, unforeseeable\n\n\t\n\nAdjective\n\n\n\n\nrepetitive\n\n\t\n\nتکراری\n\n\t\n\nrecurring, monotonous\n\n\t\n\nAdjective\n\n\n\n\nfrustrating\n\n\t\n\nکلافه‌کننده\n\n\t\n\nannoying, irritating\n\n\t\n\nAdjective\n\n\n\n\nexhausting\n\n\t\n\nبسیار خسته‌کننده\n\n\t\n\ntiring, draining\n\n\t\n\nAdjective\n\n\n\n\nenthusiastic\n\n\t\n\nمشتاق، پرانرژی\n\n\t\n\npassionate, eager\n\n\t\n\nAdjective\n\n\n\n\nkeen on\n\n\t\n\nعلاقه‌مند به\n\n\t\n\ninterested in, fond of\n\n\t\n\nPhrase\n\n\n\n\npassionate about\n\n\t\n\nعلاقه شدید داشتن به\n\n\t\n\nenthusiastic about\n\n\t\n\nPhrase\n\n\n\n\nlaid-back\n\n\t\n\nراحت‌گیر، بی‌استرس\n\n\t\n\neasy-going, relaxed\n\n\t\n\nAdjective\n\n\n\n\ncriticise\n\n\t\n\nانتقاد کردن\n\n\t\n\ndisapprove of, find fault with\n\n\t\n\nVerb\n\n\n\n\npraise\n\n\t\n\nتحسین کردن\n\n\t\n\ncompliment, admire\n\n\t\n\nVerb / Noun\n\n\n\n\nrescue\n\n\t\n\nنجات دادن\n\n\t\n\nsave, recover\n\n\t\n\nVerb\n\n\n\n\nsurvive\n\n\t\n\nزنده ماندن، دوام آوردن\n\n\t\n\nstay alive, endure\n\n\t\n\nVerb\n\n\n\n\nencounter\n\n\t\n\nمواجه شدن با\n\n\t\n\nface, come across\n\n\t\n\nVerb / Noun\n\n\n\n\novercome your fears\n\n\t\n\nبر ترس‌هایت غلبه کردن\n\n\t\n\nconquer your fears\n\n\t\n\nPhrase\n\n\n\n\nnarrow down\n\n\t\n\nمحدود کردن گزینه‌ها\n\n\t\n\nreduce, shortlist\n\n\t\n\nPhrasal verb\n\n\n\n\nrun into\n\n\t\n\nاتفاقی ملاقات کردن / برخورد کردن\n\n\t\n\nbump into, encounter\n\n\t\n\nPhrasal verb\n\n\n\n\nbring back memories\n\n\t\n\nخاطرات را زنده کردن\n\n\t\n\nremind someone of\n\n\t\n\nPhrase\n\n\n\n\nmake fun of\n\n\t\n\nمسخره کردن\n\n\t\n\nmock, tease\n\n\t\n\nPhrase\n\n\n\n\nwork out\n\n\t\n\nورزش کردن / حل کردن\n\n\t\n\nexercise / solve\n\n\t\n\nPhrasal verb\n\n\n\n\nchill out\n\n\t\n\nاستراحت کردن، ریلکس کردن\n\n\t\n\nrelax, unwind\n\n\t\n\nPhrasal verb\n\n\n\n\nin person\n\n\t\n\nحضوری\n\n\t\n\nface-to-face\n\n\t\n\nPhrase\n\n\n\n\nface-to-face\n\n\t\n\nرودررو\n\n\t\n\nin person\n\n\t\n\nPhrase",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f4265aba-f73d-4a30-b33e-f21c89314595-4",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۳. واژگان تخصصی‌تر — برای موضوعات مشخص\nاولویت C\n\nاین کلمات ارزش یادگیری دارند، اما بهتر است آن‌ها را در کنار موضوع مربوط به خودشان یاد بگیری.\n\nWord / Phrase\n\n\t\n\nمعنی فارسی\n\n\t\n\nSynonyms / Equivalents\n\n\t\n\nPart of Speech\n\n\n\n\nbreadwinner\n\n\t\n\nنان‌آور خانواده\n\n\t\n\nprovider\n\n\t\n\nNoun\n\n\n\n\nmeager\n\n\t\n\nناچیز، اندک\n\n\t\n\ninadequate, scanty\n\n\t\n\nAdjective\n\n\n\n\ndecent salary\n\n\t\n\nحقوق مناسب\n\n\t\n\nreasonable salary\n\n\t\n\nNoun phrase\n\n\n\n\nhandsome salary\n\n\t\n\nحقوق قابل‌توجه\n\n\t\n\ngenerous salary\n\n\t\n\nNoun phrase\n\n\n\n\nwelfare\n\n\t\n\nرفاه\n\n\t\n\nwell-being\n\n\t\n\nNoun\n\n\n\n\napplicant\n\n\t\n\nمتقاضی\n\n\t\n\ncandidate\n\n\t\n\nNoun\n\n\n\n\nrecruitment\n\n\t\n\nفرایند استخدام\n\n\t\n\nhiring\n\n\t\n\nNoun\n\n\n\n\nemployment\n\n\t\n\nاشتغال\n\n\t\n\nwork, occupation\n\n\t\n\nNoun\n\n\n\n\nportfolio\n\n\t\n\nنمونه‌کار\n\n\t\n\ncollection of work\n\n\t\n\nNoun\n\n\n\n\njanitor\n\n\t\n\nسرایدار\n\n\t\n\ncaretaker\n\n\t\n\nNoun\n\n\n\n\nsedentary\n\n\t\n\nکم‌تحرک\n\n\t\n\ninactive\n\n\t\n\nAdjective\n\n\n\n\nwhite-collar\n\n\t\n\nمربوط به مشاغل اداری\n\n\t\n\noffice-based\n\n\t\n\nAdjective\n\n\n\n\nblue-collar\n\n\t\n\nمربوط به مشاغل یدی\n\n\t\n\nmanual\n\n\t\n\nAdjective\n\n\n\n\nmartial arts\n\n\t\n\nهنرهای رزمی\n\n\t\n\ncombat sports\n\n\t\n\nNoun\n\n\n\n\nathlete\n\n\t\n\nورزشکار\n\n\t\n\nsportsperson\n\n\t\n\nNoun\n\n\n\n\nopponent\n\n\t\n\nحریف\n\n\t\n\nrival, competitor\n\n\t\n\nNoun\n\n\n\n\ncompetitor\n\n\t\n\nشرکت‌کننده یا رقیب\n\n\t\n\ncontestant, rival\n\n\t\n\nNoun\n\n\n\n\nspectator\n\n\t\n\nتماشاگر\n\n\t\n\nviewer, observer\n\n\t\n\nNoun\n\n\n\n\nathletics\n\n\t\n\nدوومیدانی\n\n\t\n\ntrack and field\n\n\t\n\nNoun\n\n\n\n\npaddleboarding\n\n\t\n\nورزش پاروزنی روی تخته\n\n\t\n\nstand-up paddleboarding\n\n\t\n\nNoun\n\n\n\n\nwindsurfing\n\n\t\n\nموج‌سواری با بادبان\n\n\t\n\n—\n\n\t\n\nNoun\n\n\n\n\ndrown\n\n\t\n\nغرق شدن\n\n\t\n\n—\n\n\t\n\nVerb\n\n\n\n\nsink\n\n\t\n\nفرو رفتن در آب\n\n\t\n\ngo down, submerge\n\n\t\n\nVerb\n\n\n\n\ncoast\n\n\t\n\nساحل، خط ساحلی\n\n\t\n\nshoreline\n\n\t\n\nNoun\n\n\n\n\ncreature\n\n\t\n\nموجود زنده\n\n\t\n\nbeing, organism\n\n\t\n\nNoun\n\n\n\n\naquatic\n\n\t\n\nآبزی، مربوط به آب\n\n\t\n\nwater-based\n\n\t\n\nAdjective\n\n\n\n\nsuperstition\n\n\t\n\nخرافات\n\n\t\n\n—\n\n\t\n\nNoun\n\n\n\n\nsuperstitious\n\n\t\n\nخرافاتی\n\n\t\n\n—\n\n\t\n\nAdjective\n\n\n\n\ninspirational\n\n\t\n\nالهام‌بخش\n\n\t\n\nmotivating, encouraging\n\n\t\n\nAdjective\n\n\n\n\ninstructor\n\n\t\n\nمربی، آموزش‌دهنده\n\n\t\n\nteacher, trainer\n\n\t\n\nNoun\n\n\n\n\ncommentator\n\n\t\n\nگزارشگر، مفسر\n\n\t\n\nreporter, analyst\n\n\t\n\nNoun\n\n\n\n\nmarshal\n\n\t\n\nمأمور نظم‌دهنده، مسئول کنترل\n\n\t\n\nofficial, organiser\n\n\t\n\nNoun\n\n\n\n\njersey\n\n\t\n\nپیراهن ورزشی\n\n\t\n\nsports shirt\n\n\t\n\nNoun\n\n\n\n\nbib shorts\n\n\t\n\nشورت دوچرخه‌سواری بنددار\n\n\t\n\ncycling shorts\n\n\t\n\nNoun\n\n\n\n\nlycra\n\n\t\n\nپارچه کشی مخصوص لباس ورزشی\n\n\t\n\nspandex\n\n\t\n\nNoun\n\n\n\n\nice rink\n\n\t\n\nپیست یخ\n\n\t\n\nskating rink\n\n\t\n\nNoun\n\n\n\n\npitch\n\n\t\n\nزمین بازی، معمولاً فوتبال\n\n\t\n\nplaying field\n\n\t\n\nNoun\n\n\n\n\ncourt\n\n\t\n\nزمین بازی ورزش‌هایی مثل بسکتبال\n\n\t\n\nplaying area\n\n\t\n\nNoun",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f4265aba-f73d-4a30-b33e-f21c89314595-5",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۴. عبارت‌هایی که باید به‌صورت یک واحد یاد بگیری\n\nاین قسمت از نظر من اهمیت زیادی دارد. به‌جای حفظ کردن کلمات جداگانه، این ترکیبات را به‌صورت Chunks یاد بگیر.\n\nWord / Phrase\n\n\t\n\nمعنی فارسی\n\n\t\n\nSynonyms / Equivalents\n\n\t\n\nPart of Speech\n\n\n\n\nmake ends meet\n\n\t\n\nهزینه‌های ضروری زندگی را تأمین کردن\n\n\t\n\ncover basic expenses\n\n\t\n\nIdiom\n\n\n\n\nwork for peanuts\n\n\t\n\nبا حقوق بسیار کم کار کردن\n\n\t\n\nearn very little\n\n\t\n\nIdiom\n\n\n\n\nbe on the same page\n\n\t\n\nهم‌نظر بودن\n\n\t\n\nagree, share the same understanding\n\n\t\n\nIdiom\n\n\n\n\nwork under pressure\n\n\t\n\nتحت فشار کار کردن\n\n\t\n\nperform under stress\n\n\t\n\nCollocation\n\n\n\n\nmanage a crisis\n\n\t\n\nمدیریت بحران کردن\n\n\t\n\nhandle a crisis\n\n\t\n\nCollocation\n\n\n\n\nkeep the team spirit up\n\n\t\n\nروحیه تیم را بالا نگه داشتن\n\n\t\n\nboost team morale\n\n\t\n\nCollocation\n\n\n\n\naccept defeat\n\n\t\n\nشکست را پذیرفتن\n\n\t\n\nadmit losing\n\n\t\n\nCollocation\n\n\n\n\nachieve a goal\n\n\t\n\nبه هدف رسیدن\n\n\t\n\naccomplish an objective\n\n\t\n\nCollocation\n\n\n\n\nscore a point\n\n\t\n\nامتیاز کسب کردن\n\n\t\n\nearn a point\n\n\t\n\nCollocation\n\n\n\n\nenter a competition\n\n\t\n\nوارد مسابقه شدن\n\n\t\n\nparticipate in a competition\n\n\t\n\nCollocation\n\n\n\n\ntreat someone with respect\n\n\t\n\nبا کسی محترمانه رفتار کردن\n\n\t\n\nshow respect\n\n\t\n\nCollocation\n\n\n\n\ndeal with disappointment\n\n\t\n\nبا ناامیدی کنار آمدن\n\n\t\n\nhandle disappointment\n\n\t\n\nCollocation\n\n\n\n\nput someone in danger\n\n\t\n\nکسی را در معرض خطر قرار دادن\n\n\t\n\nendanger someone\n\n\t\n\nCollocation\n\n\n\n\npay peanuts\n\n\t\n\nحقوق بسیار کم پرداخت کردن\n\n\t\n\npay very little\n\n\t\n\nIdiom\n\n\n\n\ntake a breath\n\n\t\n\nنفس کشیدن\n\n\t\n\nbreathe in\n\n\t\n\nPhrase\n\n\n\n\nget on the board\n\n\t\n\nسوار تخته شدن\n\n\t\n\n—\n\n\t\n\nPhrase\n\n\n\n\nfall into the sea\n\n\t\n\nداخل دریا افتادن\n\n\t\n\n—\n\n\t\n\nPhrase\n\n\n\n\nlose your fear\n\n\t\n\nترست را از دست دادن\n\n\t\n\novercome your fear\n\n\t\n\nPhrase\n\n\n\n\nmeet your needs\n\n\t\n\nنیازهایت را برآورده کردن\n\n\t\n\nsatisfy your needs\n\n\t\n\nCollocation",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f4265aba-f73d-4a30-b33e-f21c89314595-6",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۵. اولویت مرور بر اساس بازده یادگیری\n\nاگر بخواهم زمان مرور را بهینه کنم، این ترتیب را پیشنهاد می‌کنم:\n\nاولویت\n\n\t\n\nنوع یادگیری\n\n\t\n\nروش\n\n\n\n\n۱\n\n\t\n\nافعال پرکاربرد و Phrasal Verbs\n\n\t\n\nساخت جمله شخصی\n\n\n\n\n۲\n\n\t\n\nCollocations و Idioms\n\n\t\n\nیادگیری به‌صورت عبارت کامل\n\n\n\n\n۳\n\n\t\n\nصفات کاربردی\n\n\t\n\nمقایسه با مترادف‌ها و متضادها\n\n\n\n\n۴\n\n\t\n\nواژگان شغلی و اجتماعی\n\n\t\n\nاستفاده در Speaking و Writing\n\n\n\n\n۵\n\n\t\n\nواژگان تخصصی ورزش\n\n\t\n\nیادگیری در متن و موضوع ورزشی\n\nپیشنهاد اصلی من: ابتدا روی ۳۰ تا ۴۰ مورد اولویت A تمرکز کن. برای هر کلمه فقط معنی فارسی را حفظ نکن؛ بتوانی آن را در یک جمله بدون کمک استفاده کنی. این تفاوت بین Passive Vocabulary و Active Vocabulary است.\n\nبرای نمونه، هدف نباید فقط دانستن معنی overcome باشد؛ باید بتوانی بگویی:\n\nI had to overcome many challenges to become a better programmer.\n\nShe finally overcame her fear of swimming.\n\nWe need to overcome these problems together.\n\nدر این حالت، یک کلمه را در سه زمینه متفاوت یاد گرفته‌ای و احتمال استفاده مستقل از آن بیشتر می‌شود.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-parts-of-speech",
+      "concept-phrasal-verbs",
+      "concept-writing"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "f4265aba-f73d-4a30-b33e-f21c89314595",
+    "capture.turn-number": 53
+  }
+}

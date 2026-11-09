@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-076a044b-20e7-4bbb-a9b8-dec637691544",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 36"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "assistant",
+    "messageOrdinal": 36,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "حتماً. این بار Final Comprehensive Exam است؛ بر اساس همان مطالب Units 5–8 که دادی، همراه با گرامرهای مرورشده و vocabulary. سطح را B1 نگه می‌دارم و سؤال‌ها را طوری می‌چینم که فقط با حفظ فرمول نتوانی جواب بدهی و مجبور باشی context را تحلیل کنی.\n\nGive feedback",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": []
+  },
+  "extensions": {
+    "capture.message-id": "076a044b-20e7-4bbb-a9b8-dec637691544",
+    "capture.headings": [],
+    "capture.links": []
+  }
+}

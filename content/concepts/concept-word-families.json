@@ -1,0 +1,75 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "concept-word-families",
+  "type": "concept",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Word families"
+  },
+  "tags": [
+    "language-skills"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m02",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-chat-m06",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-chat-m09",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-original-74d9230e-2b3e-4be2-b4a6-3c73bf159571",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-863aac04-c82a-4811-9d0a-ff0724ef73da",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-2340c3c8-781f-4c46-8506-088417f410fb",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-bad3a620-cb57-456d-805a-7719f05ef9d7",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-efa7599e-b05e-41c4-955c-4b8376c436cb",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-5ebe9e64-c38e-4076-966b-73c06cda1147",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-0dd431bd-5af6-45fb-8064-27a445ceff52",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "summary": null,
+    "blockIds": []
+  },
+  "extensions": {}
+}

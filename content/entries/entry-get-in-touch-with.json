@@ -1,0 +1,85 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-get-in-touch-with",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "get in touch with"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:23"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:1/data-row:23"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "get in touch with",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-5b9ec9095000",
+        "partOfSpeech": "Phrase",
+        "translation": {
+          "fa": "تماس برقرار کردن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "contact",
+          "reach"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:1/data-row:23"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:1/data-row:23"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:1/data-row:23"
+        },
+        "group": "priority-a",
+        "sessionId": null,
+        "priority": "A"
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:1/data-row:23"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

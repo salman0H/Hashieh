@@ -1,0 +1,117 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-achieve",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "achieve"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:2"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:2/data-row:1"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:1/data-row:2"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "achieve",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-achieve",
+    "senses": [
+      {
+        "id": "sense-79c0cad5ede8",
+        "partOfSpeech": "Verb",
+        "translation": {
+          "fa": "به دست آوردن، محقق کردن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "accomplish",
+          "attain"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:1/data-row:2"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:1/data-row:2"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-08d576da0b67",
+        "partOfSpeech": "Verb",
+        "translation": {
+          "fa": "به دست آوردن، دست‌یابی به"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:2/data-row:1"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:1/data-row:2"
+        },
+        "group": "priority-a",
+        "sessionId": null,
+        "priority": "A"
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:2/data-row:1"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:1/data-row:2"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

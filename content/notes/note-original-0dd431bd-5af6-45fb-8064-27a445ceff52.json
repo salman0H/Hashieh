@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-0dd431bd-5af6-45fb-8064-27a445ceff52",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "از این به بعد، هر بار جزوهٔ جدیدی از کلاس زبان بفرستی، خروجی را با این ساختار آماده می‌کنم:"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-0dd431bd-5af6-45fb-8064-27a445ceff52",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-0dd431bd-5af6-45fb-8064-27a445ceff52-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "از این به بعد، هر بار جزوهٔ جدیدی از کلاس زبان بفرستی، خروجی را با این ساختار آماده می‌کنم:\n\nبررسی و آموزش گرامر: توضیح قواعد، کاربردها، ساختارها، استثناها و اشتباهات رایج.\n\nبررسی واژگان و اصطلاحات: معنی فارسی و انگلیسی، جایگاه دستوری، نحوهٔ استفاده و مثال.\n\nگسترش خانوادهٔ کلمات: شکل‌های اسمی، فعلی، صفتی و قیدی هر واژه، در صورت وجود، همراه با معنی و مثال.\n\nمرور مطالب قبلی: استفاده از واژگان و گرامر جلسات گذشته برای تثبیت یادگیری.\n\nWriting: یک متن کاربردی با استفاده از گرامر و واژگان جلسهٔ جدید و مرور هدفمند مطالب قبلی.\n\nجدول واژگان جدید: جدولی مستقل برای اضافه‌کردن به انتهای جدول اصلی.\n\nساختار جدول واژگان:\n\nردیف\n\n\t\n\nWord / Phrase\n\n\t\n\nTranslation (Persian)\n\n\t\n\nSynonyms / Equivalents\n\n\t\n\nPart of Speech / Category\n\n\n\n\n1\n\n\t\n\nword\n\n\t\n\nمعنی فارسی\n\n\t\n\nEnglish meaning / Synonyms\n\n\t\n\nNoun / Verb / Adjective / ...\n\nنکتهٔ مهم: فقط واژگان جدید را وارد جدول جدید می‌کنم؛ موارد تکراری جدول قبلی را دوباره اضافه نمی‌کنم، مگر اینکه کاربرد یا معنای جدید و مهمی داشته باشند.\n\nاین ساختار از این به بعد الگوی ثابت بررسی جزوه‌های زبان ما خواهد بود.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-parts-of-speech",
+      "concept-word-families",
+      "concept-writing"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "0dd431bd-5af6-45fb-8064-27a445ceff52",
+    "capture.turn-number": 52
+  }
+}

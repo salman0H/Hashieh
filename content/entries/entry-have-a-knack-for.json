@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-have-a-knack-for",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "have a knack for"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m06",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "have a knack for",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m06",
+          "locator": "message-excerpt"
+        },
+        "group": "learner-notes",
+        "sessionId": "session-sports-habits",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {
+    "language.normalization": {
+      "observed": "he has a knack of winning.",
+      "candidate": "have a knack for",
+      "status": "needs-review"
+    }
+  }
+}

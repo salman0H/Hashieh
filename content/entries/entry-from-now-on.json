@@ -1,0 +1,85 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-from-now-on",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "from now on"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:25"
+      },
+      {
+        "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+        "locator": "table:9/data-row:25"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "from now on",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-6ca226006afc",
+        "partOfSpeech": "Phrase",
+        "translation": {
+          "fa": "از این به بعد"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "starting now",
+          "henceforth"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m16",
+            "locator": "table:9/data-row:25"
+          },
+          {
+            "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+            "locator": "table:9/data-row:25"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m16",
+          "locator": "table:9/data-row:25"
+        },
+        "group": "modals",
+        "sessionId": "session-modals",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+          "locator": "table:9/data-row:25"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-modals",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

@@ -1,0 +1,84 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-bring-back-memories",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "bring back memories"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:26"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:2/data-row:26"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "bring back memories",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-f088ac78496b",
+        "partOfSpeech": "Phrase",
+        "translation": {
+          "fa": "خاطرات را زنده کردن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "remind someone of"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:2/data-row:26"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:2/data-row:26"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:2/data-row:26"
+        },
+        "group": "priority-b",
+        "sessionId": null,
+        "priority": "B"
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:2/data-row:26"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

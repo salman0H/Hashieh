@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "collection-chunks",
+  "type": "collection",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "chunks"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "kind": "vocabulary-set",
+    "itemIds": [
+      "entry-make-ends-meet",
+      "entry-work-for-peanuts",
+      "entry-be-on-the-same-page",
+      "entry-work-under-pressure",
+      "entry-manage-a-crisis",
+      "entry-keep-the-team-spirit-up",
+      "entry-accept-defeat",
+      "entry-achieve-a-goal",
+      "entry-score-a-point",
+      "entry-enter-a-competition",
+      "entry-treat-someone-with-respect",
+      "entry-deal-with-disappointment",
+      "entry-put-someone-in-danger",
+      "entry-pay-peanuts",
+      "entry-take-a-breath",
+      "entry-get-on-the-board",
+      "entry-fall-into-the-sea",
+      "entry-lose-your-fear",
+      "entry-meet-your-needs"
+    ]
+  },
+  "extensions": {}
+}

@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-sedentary",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "sedentary"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:11"
+      },
+      {
+        "sourceId": "src-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82",
+        "locator": "table:1/data-row:3"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:3/data-row:11"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "sedentary",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-9f80743323dc",
+        "partOfSpeech": "Adjective",
+        "translation": {
+          "fa": "کم‌تحرک"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "inactive"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:3/data-row:11"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:3/data-row:11"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-0003fef19e2b",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "کم‌تحرک؛ معمولاً دربارهٔ شغل یا سبک زندگی"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-460c04a7d5f8",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "I have a sedentary job.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82",
+            "locator": "table:1/data-row:3"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:3/data-row:11"
+        },
+        "group": "priority-c",
+        "sessionId": null,
+        "priority": "C"
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82",
+          "locator": "table:1/data-row:3"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-98593651",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:3/data-row:11"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

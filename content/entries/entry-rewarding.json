@@ -1,0 +1,149 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-rewarding",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "rewarding"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:6"
+      },
+      {
+        "sourceId": "src-chat-m06",
+        "locator": "normalized-text/line:8",
+        "quote": "- he has tried A and B a little, also he would loke to try C cause that trillimng and rewarding for him."
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:1/data-row:163"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:2/data-row:316"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:2/data-row:6"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "rewarding",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-reward",
+    "senses": [
+      {
+        "id": "sense-8172520a3835",
+        "partOfSpeech": "Adjective",
+        "translation": {
+          "fa": "ارزشمند و رضایت‌بخش"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "satisfying",
+          "worthwhile"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:2/data-row:6"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:2/data-row:6"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-2e088164604a",
+        "partOfSpeech": "Adjective",
+        "translation": {
+          "fa": "رضایت‌بخش، ارزشمند"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:1/data-row:163"
+          },
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:2/data-row:316"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:2/data-row:6"
+        },
+        "group": "priority-b",
+        "sessionId": null,
+        "priority": "B"
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m06",
+          "locator": "normalized-text/line:8",
+          "quote": "- he has tried A and B a little, also he would loke to try C cause that trillimng and rewarding for him."
+        },
+        "group": "learner-notes-exact-match",
+        "sessionId": "session-sports-habits",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:1/data-row:163"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:2/data-row:316"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:2/data-row:6"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

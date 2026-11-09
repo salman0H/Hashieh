@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-get-sacked",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "get sacked"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82",
+        "locator": "table:3/data-row:6"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "get sacked",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-078fa7f2b6fb",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "اخراج شدن؛ رایج در انگلیسی بریتانیایی و غیررسمی‌تر"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82",
+            "locator": "table:3/data-row:6"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82",
+          "locator": "table:3/data-row:6"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-98593651",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

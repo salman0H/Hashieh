@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-ba89d4f69246",
+  "type": "covers",
+  "from": "note-original-d63a3c02-81f3-497a-9f82-beab5e56e428",
+  "to": "concept-so-such-too-enough",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-original-d63a3c02-81f3-497a-9f82-beab5e56e428",
+      "locator": "message-body"
+    }
+  ],
+  "extensions": {}
+}

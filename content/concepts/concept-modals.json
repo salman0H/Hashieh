@@ -1,0 +1,71 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "concept-modals",
+  "type": "concept",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Modal verbs"
+  },
+  "tags": [
+    "grammar"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m15",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-chat-m16",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-original-a6ec72fa-ac7a-4a39-81bd-0c5be90ecc0a",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-58f8b5a7-d7ea-4655-b1e8-0634dea067b1",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-fafbd138-61f8-4f3e-a54c-0222f78527e6",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-629cb80f-2400-4384-978e-5be02adcc3d9",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-7b035c8b-b8a4-489c-9aac-213cb328ed92",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-63a85bee-f127-44e4-8fe5-335f7fd5ccf8",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-863aac04-c82a-4811-9d0a-ff0724ef73da",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "summary": null,
+    "blockIds": []
+  },
+  "extensions": {}
+}

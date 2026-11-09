@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-827a643bd38d",
+  "type": "related-to",
+  "from": "concept-mustnt-vs-dont-have-to",
+  "to": "concept-no-obligation",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-chat-m16",
+      "locator": "message-excerpt"
+    }
+  ],
+  "extensions": {}
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-at-your-own-pace",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "at your own pace"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-021012b8-e9d3-421d-af1d-fe1a7a57e626",
+        "locator": "table:5/data-row:12"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "at your own pace",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-993466aa229d",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "با سرعت خودت"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-021012b8-e9d3-421d-af1d-fe1a7a57e626",
+            "locator": "table:5/data-row:12"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-021012b8-e9d3-421d-af1d-fe1a7a57e626",
+          "locator": "table:5/data-row:12"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-experiences-news",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

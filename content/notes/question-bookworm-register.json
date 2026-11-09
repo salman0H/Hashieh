@@ -1,0 +1,45 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "question-bookworm-register",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Bookworm, swot and nerd: meaning and tone"
+  },
+  "tags": [
+    "needs-review"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m08",
+        "locator": "message-excerpt",
+        "quote": "Book worm == swot == nerd —> they are negative"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-question-bookworm-register",
+        "type": "question",
+        "version": 1,
+        "data": {
+          "prompt": "Book worm == swot == nerd —> they are negative",
+          "answer": null,
+          "reasonUnanswered": "Requires content review; source wording preserved."
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-vocabulary-in-context"
+    ]
+  },
+  "extensions": {}
+}

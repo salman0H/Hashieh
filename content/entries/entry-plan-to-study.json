@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-plan-to-study",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "plan to study"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-62eefce7-353a-4f48-a4fc-5f24badfd797",
+        "locator": "table:2/data-row:3"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "plan to study",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-9dd8faca4526",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "برنامه"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-62eefce7-353a-4f48-a4fc-5f24badfd797",
+            "locator": "table:2/data-row:3"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-62eefce7-353a-4f48-a4fc-5f24badfd797",
+          "locator": "table:2/data-row:3"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

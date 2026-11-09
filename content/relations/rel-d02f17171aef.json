@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-d02f17171aef",
+  "type": "contains",
+  "from": "session-sports-habits",
+  "to": "note-original-3854a164-fa3c-442d-9ee4-e0a775eaca4a",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-original-3854a164-fa3c-442d-9ee4-e0a775eaca4a",
+      "locator": "message-body"
+    }
+  ],
+  "extensions": {}
+}

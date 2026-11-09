@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-travel-plans",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "travel plans"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-4b0f62cf-9334-4ad2-b7df-ddeecf3ea636",
+        "locator": "table:6/data-row:2"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "travel plans",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-9d072dc26c89",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "برنامه‌های سفر"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-14511ae0162a",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "We're discussing our travel plans.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-4b0f62cf-9334-4ad2-b7df-ddeecf3ea636",
+            "locator": "table:6/data-row:2"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-4b0f62cf-9334-4ad2-b7df-ddeecf3ea636",
+          "locator": "table:6/data-row:2"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-future",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

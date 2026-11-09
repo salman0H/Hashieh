@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-a4b7265c-9040-4acc-b969-0fc6022909bd",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 31"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "user",
+    "messageOrdinal": 31,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "1. have been studying\n2. has ran\n3. went\n4. renewed\n5. have/been studying\n6. who\n7. where\n8. where\n9. ?\n10. B\n11. B\n12. D\n13. B\n14. B\n15. C\n16. D\n17. B\n18. A\n19. HE WAS SMART ENOUGH TO ANSWER YOUR QUESTION.\n20. B\n21. B\n22. C\n23. ?\n24. B\n25. ?\n26. C\n27. C\n28. , I WILL LOSE MY MONEY.\n29. B\n30. B\n31. CAVE\n32. STREAM\n33. TRAFFIC JAM/HEAVY TRAFFIC\n34. AIRPLANE \n35. DRIVING LISENCE \n36. HAND LAGGAGE OR BACKPACK\n37. TOURGUIDE\n38. CHEF \n39. ?\n40. LITTER IS WHEN PEOPLE THROW A TRASH ON THE FLOUR IN NATURE AND FAST FASHION IN THE SOMTHING TREND FOR A FEW PERIOD OF TIME AND THAT IS SO CREAPY.\n…\nShow more",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": []
+  },
+  "extensions": {
+    "capture.message-id": "a4b7265c-9040-4acc-b969-0fc6022909bd",
+    "capture.headings": [],
+    "capture.links": []
+  }
+}

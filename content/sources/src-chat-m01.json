@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-chat-m01",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — visible message 1"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/share/6af0508a-19f8-83ed-91a4-002901ccaac9",
+    "role": "user",
+    "messageOrdinal": 1,
+    "ordinalScope": "rendered-message-sequence-on-2026-11-08",
+    "capturedOn": "2026-11-08",
+    "dateLabel": "Sat, Sep 19 at 8:38 AM",
+    "occurredAt": null,
+    "captureScope": "message-text-normalized",
+    "text": "این خروجی های deepseek هست ک میتونی از توی اون خروجی مکالمه ای یه اسم advanced rules explained رو بررسی کنی ک مربوط به یادگیری زبان هست و خروحی اون رو توی این سشن برام بیاری و از ان استفاده کنی در کتار اون میخوام از این داکس هم استفاده کنی: https://docs.google.com/document/d/1vcHF-bknw-WuZ3a7JLFmLYcVnffWFSJadPLFWS7Cwhc/edit?usp=sharing",
+    "attachmentIndicators": {
+      "files": 2,
+      "images": 0
+    },
+    "limitations": [
+      "Page capture is partial; ordinal is not a stable original chat message ID.",
+      "Whitespace/UI labels normalized; no claim of byte-exact transcript.",
+      "Referenced attachments are not captured."
+    ]
+  },
+  "extensions": {
+    "capture.original-source-id": "src-original-ba1b26f6-6895-4308-8ad9-9c5d23290596"
+  }
+}

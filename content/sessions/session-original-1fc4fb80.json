@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "session-original-1fc4fb80",
+  "type": "session",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Unit 8 and perfect tense review"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-1fc4fb80-ad51-47f9-8880-d53caf72c51a",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-f892377a-352f-45b2-8930-8b7d20f6d637",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "occurredAt": null,
+    "dateLabel": null,
+    "datePrecision": "unknown",
+    "conceptIds": [
+      "concept-present-perfect",
+      "concept-future-forms",
+      "concept-writing",
+      "concept-present-simple",
+      "concept-present-continuous",
+      "concept-present-perfect-continuous",
+      "concept-second-conditional",
+      "concept-gerund-infinitive",
+      "concept-articles"
+    ],
+    "itemIds": [
+      "note-original-1fc4fb80-ad51-47f9-8880-d53caf72c51a",
+      "note-original-f892377a-352f-45b2-8930-8b7d20f6d637"
+    ],
+    "sourceMessageIds": [
+      "src-original-1fc4fb80-ad51-47f9-8880-d53caf72c51a",
+      "src-original-f892377a-352f-45b2-8930-8b7d20f6d637"
+    ],
+    "completeness": "partial",
+    "missing": [
+      "Any referenced original attachments are not imported in this text pass."
+    ]
+  },
+  "extensions": {}
+}

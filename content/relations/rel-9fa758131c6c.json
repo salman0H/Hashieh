@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-9fa758131c6c",
+  "type": "covers",
+  "from": "note-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3",
+  "to": "concept-stative-verbs",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3",
+      "locator": "message-body"
+    }
+  ],
+  "extensions": {}
+}

@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-23ec56cd-b4e1-4bc6-8a86-c9b71fd6456e",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "من خیلی گرامر ها رو اسامی شون رو و جاهای استفادشون رو با هم قاطی میکنم ازت میخوام ی جزوه کامل با مثال و جاهای استفاده از گرامر ها با نکات ریز و درشتی ک در اون ه"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-23ec56cd-b4e1-4bc6-8a86-c9b71fd6456e",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-23ec56cd-b4e1-4bc6-8a86-c9b71fd6456e-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "من خیلی گرامر ها رو اسامی شون رو و جاهای استفادشون رو با هم قاطی میکنم ازت میخوام ی جزوه کامل با مثال و جاهای استفاده از گرامر ها با نکات ریز و درشتی ک در اون ها هست رو برام بنویسی ک بتونم از این جزوه یه عنوان جزوه مرجع هم استفاده کنم کامل و تمام نکات ریزی ک باید در این گرامر ها بدونم برای استفاده اون ها در جملات",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": []
+  },
+  "extensions": {
+    "capture.message-id": "23ec56cd-b4e1-4bc6-8a86-c9b71fd6456e",
+    "capture.turn-number": 39
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "concept-reported-speech",
+  "type": "concept",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "reported speech"
+  },
+  "tags": [
+    "grammar-index"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-9d561005-5f15-4b8b-bc03-dbc2a0a3dd55",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-58f8b5a7-d7ea-4655-b1e8-0634dea067b1",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "summary": null,
+    "blockIds": []
+  },
+  "extensions": {}
+}

@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-nag",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "nag"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+        "locator": "table:1/data-row:8"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "nag",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-f29a2ffafb62",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "مدام به کسی غر زدن یا اصرار کردن، معمولاً دربارهٔ کاری که باید انجام دهد"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-45ae63747f0b",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "She keeps nagging me about my homework.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+            "locator": "table:1/data-row:8"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+          "locator": "table:1/data-row:8"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-04d90228",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

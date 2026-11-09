@@ -1,0 +1,88 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-fun",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "fun"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m02",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-original-944a2cb2-18e6-4a05-af23-92edb86b98d4",
+        "locator": "table:2/data-row:3"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "fun",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-e35292f8d44b",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "سرگرم‌کننده"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-eadc6766b9ce",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "Working with children can be fun.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-944a2cb2-18e6-4a05-af23-92edb86b98d4",
+            "locator": "table:2/data-row:3"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m02",
+          "locator": "message-excerpt"
+        },
+        "group": "learner-notes",
+        "sessionId": "session-jobs",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-944a2cb2-18e6-4a05-af23-92edb86b98d4",
+          "locator": "table:2/data-row:3"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-jobs",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

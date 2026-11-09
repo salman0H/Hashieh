@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "concept-so-such-too-enough",
+  "type": "concept",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "so such too enough"
+  },
+  "tags": [
+    "grammar-index"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-9d561005-5f15-4b8b-bc03-dbc2a0a3dd55",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-d63a3c02-81f3-497a-9f82-beab5e56e428",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-2a091de6-2bbf-4f90-8607-d023e02d65aa",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-925844f6-b092-4cfd-a749-406facb32ec6",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-eaf487cb-e12a-4036-9b2c-c1a15feacadc",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-3affd066-965c-4954-8e82-24141332f022",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-747a90d2-a2e7-4550-acea-fd39618be743",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-560ae3fd-18c6-43d3-8fa1-4e6fa9ff0c7b",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-aad291b4-8724-481f-89aa-c7df380822d1",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-7b035c8b-b8a4-489c-9aac-213cb328ed92",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "summary": null,
+    "blockIds": []
+  },
+  "extensions": {}
+}

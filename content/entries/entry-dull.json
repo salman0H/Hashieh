@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-dull",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "dull"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m02",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:1/data-row:53"
+      },
+      {
+        "sourceId": "src-original-944a2cb2-18e6-4a05-af23-92edb86b98d4",
+        "locator": "table:2/data-row:1"
+      },
+      {
+        "sourceId": "src-original-f77edba4-2fe8-4440-b664-8727591c2d9d",
+        "locator": "table:2/data-row:1"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "dull",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-dull",
+    "senses": [
+      {
+        "id": "sense-bfca84b0e95a",
+        "partOfSpeech": "Adjective / Verb",
+        "translation": {
+          "fa": "کسل‌کننده؛ کند کردن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:1/data-row:53"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-f0b33f108c13",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "کسل‌کننده"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-63b913037be3",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "The job is dull.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-944a2cb2-18e6-4a05-af23-92edb86b98d4",
+            "locator": "table:2/data-row:1"
+          },
+          {
+            "sourceId": "src-original-f77edba4-2fe8-4440-b664-8727591c2d9d",
+            "locator": "table:2/data-row:1"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m02",
+          "locator": "message-excerpt"
+        },
+        "group": "learner-notes",
+        "sessionId": "session-jobs",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:1/data-row:53"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-944a2cb2-18e6-4a05-af23-92edb86b98d4",
+          "locator": "table:2/data-row:1"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-jobs",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f77edba4-2fe8-4440-b664-8727591c2d9d",
+          "locator": "table:2/data-row:1"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-1920ed9d",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

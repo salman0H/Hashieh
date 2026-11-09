@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-f9616abf-5b3e-42e6-ac28-c249834902a5",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "در مورد این ترکیب بیشتر توضیح بده."
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-f9616abf-5b3e-42e6-ac28-c249834902a5",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-f9616abf-5b3e-42e6-ac28-c249834902a5-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "4 selections\nدر مورد این ترکیب بیشتر توضیح بده.\nاین اتفاق برای این میفتاد ک قطار تاخیر داشت و این ینی به ایستگاه اون ساعت میرسید و صبح ب مقصد میرسید.\nدر اینجا نمیتونیم برای چی بگیم ... is usually crowd. \nاگر بعد از where این گرامر رو استفاده کنیم هم درست هست: ... i am living. --> ب مدت کوتاهی زندگی میکنم.",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": []
+  },
+  "extensions": {
+    "capture.message-id": "f9616abf-5b3e-42e6-ac28-c249834902a5",
+    "capture.turn-number": 35
+  }
+}

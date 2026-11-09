@@ -1,0 +1,78 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-keep-up-with",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "keep up with"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m04",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-original-021012b8-e9d3-421d-af1d-fe1a7a57e626",
+        "locator": "table:5/data-row:1"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "keep up with",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-40172a2aefaf",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "همگام ماندن، پیگیری کردن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-021012b8-e9d3-421d-af1d-fe1a7a57e626",
+            "locator": "table:5/data-row:1"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m04",
+          "locator": "message-excerpt"
+        },
+        "group": "learner-notes",
+        "sessionId": "session-experiences-news",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-021012b8-e9d3-421d-af1d-fe1a7a57e626",
+          "locator": "table:5/data-row:1"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-experiences-news",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

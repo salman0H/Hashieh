@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "correction-red-hat",
+  "type": "correction",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "red-hat"
+  },
+  "tags": [
+    "error-notebook"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m04",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "original": "The most beautiful thing I have ever worn it is a red hat.",
+    "replacement": "The most beautiful thing I have ever worn is a red hat.",
+    "explanation": {
+      "fa": "حذف it تکراری."
+    },
+    "conceptIds": [
+      "concept-relative-clauses"
+    ],
+    "correctionSourceRef": {
+      "sourceId": "src-chat-m04",
+      "locator": "message-excerpt"
+    },
+    "kind": "form",
+    "originalSourceRef": {
+      "sourceId": "src-chat-m04",
+      "locator": "message-excerpt"
+    }
+  },
+  "extensions": {
+    "language.correction-context": {
+      "kind": "paired-source-examples",
+      "explanationAuthoredDuringExtraction": true
+    }
+  }
+}

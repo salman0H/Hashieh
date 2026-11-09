@@ -1,0 +1,169 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-ba2e7c89-19bc-45ea-89aa-d2a1e066cbbd",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "May vs Might — احتمال وقوع"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "assessment"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-ba2e7c89-19bc-45ea-89aa-d2a1e066cbbd",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-ba2e7c89-19bc-45ea-89aa-d2a1e066cbbd-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "May vs Might — احتمال وقوع\n\nدر سطح B1 مهم‌ترین نکته این است که may و might درصد ثابت و رسمی ندارند. نمی‌توان گفت:\n\nmay = دقیقاً 70%\nmight = دقیقاً 40%\n\nاین درصدها فقط برای تصویرسازی آموزشی هستند.\n\nModal\tمفهوم کلی\tمیزان اطمینان\nmay\tممکن است\tاحتمال نسبتاً بیشتر\nmight\tشاید / ممکن است\tاحتمال نسبتاً کمتر یا عدم اطمینان بیشتر\n\nمثلاً:\n\nIt may rain tonight.\nممکن است امشب باران ببارد.\n\nIt might rain tonight.\nشاید امشب باران ببارد.\n\nاما در English واقعی، این دو خیلی overlap دارند و native speakerها همیشه بر اساس یک درصد مشخص انتخابشان نمی‌کنند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ba2e7c89-19bc-45ea-89aa-d2a1e066cbbd-2",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "جمله خودت\n\nI will study tonight, I might study at the library for this exam.\n\nاز نظر مفهوم، چیزی که می‌خواهی بگویی کاملاً قابل فهم است:\n\n«امشب حتماً درس می‌خوانم؛ شاید برای این امتحان در کتابخانه درس بخوانم.»\n\nولی بهتر است جمله را این‌طور بنویسی:\n\nI'll study tonight. I might study at the library for the exam.\n\nیا طبیعی‌تر:\n\nI'll study tonight, but I might study at the library.\n\nاینجا دو مفهوم داریم:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ba2e7c89-19bc-45ea-89aa-d2a1e066cbbd-3",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "1. Will → تصمیم/پیش‌بینی درباره خودِ عمل\n\nI'll study tonight.\n\nیعنی: تصمیم دارم/انتظار دارم امشب درس بخوانم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ba2e7c89-19bc-45ea-89aa-d2a1e066cbbd-4",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "2. Might → عدم قطعیت درباره مکان\n\nI might study at the library.\n\nیعنی:\n\nشاید در کتابخانه درس بخوانم، شاید هم جای دیگری.\n\nپس ساختار ذهنی تو درست بوده:\n\ncertain action + uncertain detail\n\nI'll study tonight, but I might study at the library.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ba2e7c89-19bc-45ea-89aa-d2a1e066cbbd-5",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "یک نکته مهم برای امتحانت\n\nدر تست‌ها دنبال context بگرد، نه درصد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ba2e7c89-19bc-45ea-89aa-d2a1e066cbbd-6",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "اگر evidence یا نشانه‌ای داری:\n\nLook at those dark clouds. It might/may rain.\n\nهر دو ممکن‌اند؛ اگر کتاب بخواهد تفاوت احتمال را برجسته کند، معمولاً may احتمال بیشتری از might نشان می‌دهد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ba2e7c89-19bc-45ea-89aa-d2a1e066cbbd-7",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "اگر صرفاً احتمال می‌دهی:\n\nI might go out tonight.\n\nیعنی هنوز تصمیم/برنامه قطعی نیست.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ba2e7c89-19bc-45ea-89aa-d2a1e066cbbd-8",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "اگر permission رسمی‌تر باشد:\n\nMay I come in?\n\nاما:\n\nMight I come in?\n\nاز نظر دستوری ممکن است، ولی در English امروزی بسیار رسمی/غیرمعمول است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ba2e7c89-19bc-45ea-89aa-d2a1e066cbbd-9",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "نکته‌ای که از جزوه خودت باید اصلاح کنیم\n\nدر جزوه نوشته شده:\n\nMay → more chance\nMight → smaller chance\n\nاین را برای یادگیری B1 نگه می‌داریم، اما آن را قانون درصدی در نظر نمی‌گیریم.\n\nو یک نکته دیگر:\n\nMaybe ≠ may be",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ba2e7c89-19bc-45ea-89aa-d2a1e066cbbd-10",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Maybe = adverb\n\nMaybe I'll study tonight.\n\n= شاید امشب درس بخوانم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ba2e7c89-19bc-45ea-89aa-d2a1e066cbbd-11",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "May be = modal + verb\n\nI may be tired tonight.\n\n= ممکن است امشب خسته باشم.\n\nاین تفاوت را باید برای امتحان بلد باشی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ba2e7c89-19bc-45ea-89aa-d2a1e066cbbd-12",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "درباره پاسخ‌های تستی که فرستادی\n\nپاسخ‌هایت:\n\nB, B, C, B, C, A, B, A, C, A\nzero, first, possibility, zero, first\n\nرا می‌توانم تصحیح کنم، اما متن سؤال‌های همان تست در پیام فعلی نیست و از روی حروف به‌تنهایی نمی‌شود دقیق گفت کدام درست یا غلط است. اگر منظورت همان تست قبلی ۱۵سؤالی است، سؤال‌ها را بفرست یا اسکرین‌شاتش را بگذار تا تک‌تک با دلیل گرامری تصحیح کنم، نه فقط نمره.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": []
+  },
+  "extensions": {
+    "capture.message-id": "ba2e7c89-19bc-45ea-89aa-d2a1e066cbbd",
+    "capture.turn-number": 22
+  }
+}

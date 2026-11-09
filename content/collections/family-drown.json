@@ -1,0 +1,46 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "family-drown",
+  "type": "collection",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Drown — source word family"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:2/data-row:190"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:2/data-row:191"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:2/data-row:192"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:2/data-row:193"
+      }
+    ]
+  },
+  "payload": {
+    "kind": "word-family",
+    "itemIds": [
+      "entry-drown",
+      "entry-drowned",
+      "entry-drowning",
+      "entry-drowner"
+    ]
+  },
+  "extensions": {}
+}

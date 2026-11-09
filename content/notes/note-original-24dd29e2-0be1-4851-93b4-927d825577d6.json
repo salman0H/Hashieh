@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-24dd29e2-0be1-4851-93b4-927d825577d6",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "میخوام برای یادگیری زبان یک سیستم رو با هم پیش ببریم ابتدا ببین میتونی این لینک رو بررسی و باز کنی: https://chat.deepseek.com/share/eh4x5pgas42mb0oqoz"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-24dd29e2-0be1-4851-93b4-927d825577d6",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-24dd29e2-0be1-4851-93b4-927d825577d6-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "میخوام برای یادگیری زبان یک سیستم رو با هم پیش ببریم ابتدا ببین میتونی این لینک رو بررسی و باز کنی: https://chat.deepseek.com/share/eh4x5pgas42mb0oqoz",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": []
+  },
+  "extensions": {
+    "capture.message-id": "24dd29e2-0be1-4851-93b4-927d825577d6",
+    "capture.turn-number": 1
+  }
+}

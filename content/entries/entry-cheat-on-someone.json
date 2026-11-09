@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-cheat-on-someone",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "cheat on someone"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa",
+        "locator": "table:1/data-row:6"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "cheat on someone",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-33e0ff44ae9b",
+        "partOfSpeech": "collocation",
+        "translation": {
+          "fa": "به کسی خیانت کردن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa",
+            "locator": "table:1/data-row:6"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa",
+          "locator": "table:1/data-row:6"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

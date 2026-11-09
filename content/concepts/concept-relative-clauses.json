@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "concept-relative-clauses",
+  "type": "concept",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Relative clauses and superlatives"
+  },
+  "tags": [
+    "grammar"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m04",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-original-18605eb1-e802-4e62-a64c-e04d52b6499f",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-9d561005-5f15-4b8b-bc03-dbc2a0a3dd55",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-58f8b5a7-d7ea-4655-b1e8-0634dea067b1",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-fd8c5b22-0916-4c13-8192-6e8d7e731820",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-cd3bcbda-7aa3-47d3-b0d5-2b58f203d448",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-eaf487cb-e12a-4036-9b2c-c1a15feacadc",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-3affd066-965c-4954-8e82-24141332f022",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-747a90d2-a2e7-4550-acea-fd39618be743",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-bdd2ecc2-6b28-4a3a-9ea0-8a55d47b5fd0",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-560ae3fd-18c6-43d3-8fa1-4e6fa9ff0c7b",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-aad291b4-8724-481f-89aa-c7df380822d1",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-eca4b60f-8982-4853-a70c-318104ad45af",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-e301a2e0-dfa8-456f-a3dc-4fd33b97adbb",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-7b035c8b-b8a4-489c-9aac-213cb328ed92",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "summary": null,
+    "blockIds": []
+  },
+  "extensions": {}
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-hairdresser",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "hairdresser"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-2a091de6-2bbf-4f90-8607-d023e02d65aa",
+        "locator": "table:1/data-row:3"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "hairdresser",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-d78a3f043c71",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "آرایشگر / آرایشگاه"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-2a091de6-2bbf-4f90-8607-d023e02d65aa",
+            "locator": "table:1/data-row:3"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-2a091de6-2bbf-4f90-8607-d023e02d65aa",
+          "locator": "table:1/data-row:3"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-d63a3c02",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

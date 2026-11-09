@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-sink",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "sink"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:23"
+      },
+      {
+        "sourceId": "src-chat-m07",
+        "locator": "normalized-text/line:14",
+        "quote": "Sink —> a thing —> غرق شدن ی وسیله مثل کشتی"
+      },
+      {
+        "sourceId": "src-original-863aac04-c82a-4811-9d0a-ff0724ef73da",
+        "locator": "table:7/data-row:2"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:2/data-row:194"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:3/data-row:23"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "sink",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-sink",
+    "senses": [
+      {
+        "id": "sense-8caac3fdeb4c",
+        "partOfSpeech": "Verb",
+        "translation": {
+          "fa": "فرو رفتن در آب"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "go down",
+          "submerge"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:3/data-row:23"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:3/data-row:23"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-42a487421918",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "فرو رفتن یا زیر آب رفتن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-863aac04-c82a-4811-9d0a-ff0724ef73da",
+            "locator": "table:7/data-row:2"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-715923e29c3b",
+        "partOfSpeech": "Noun / Verb",
+        "translation": {
+          "fa": "فرو رفتن؛ سینک"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:2/data-row:194"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:3/data-row:23"
+        },
+        "group": "priority-c",
+        "sessionId": null,
+        "priority": "C"
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m07",
+          "locator": "normalized-text/line:14",
+          "quote": "Sink —> a thing —> غرق شدن ی وسیله مثل کشتی"
+        },
+        "group": "learner-notes-exact-match",
+        "sessionId": "session-water-sports",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-863aac04-c82a-4811-9d0a-ff0724ef73da",
+          "locator": "table:7/data-row:2"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-water-sports",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:2/data-row:194"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:3/data-row:23"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-dce1ec80-16fa-4f73-838b-569a96b52e0a",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "میدونم این رو بررسی کردی ولی میخوام بیشتر برام تفهیم بشه افعالی ک to دارن یا ing"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-dce1ec80-16fa-4f73-838b-569a96b52e0a",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-dce1ec80-16fa-4f73-838b-569a96b52e0a-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "1 selection\nمیدونم این رو بررسی کردی ولی میخوام بیشتر برام تفهیم بشه افعالی ک to دارن یا ing",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": []
+  },
+  "extensions": {
+    "capture.message-id": "dce1ec80-16fa-4f73-838b-569a96b52e0a",
+    "capture.turn-number": 31
+  }
+}

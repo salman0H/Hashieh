@@ -1,0 +1,140 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-career",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "career"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:2/data-row:535"
+      },
+      {
+        "sourceId": "src-original-aad291b4-8724-481f-89aa-c7df380822d1",
+        "locator": "table:2/data-row:8"
+      },
+      {
+        "sourceId": "src-original-02f65f74-ec0e-4018-b236-59d82004da17",
+        "locator": "table:1/data-row:1"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "career",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-career",
+    "senses": [
+      {
+        "id": "sense-ef9310f4c70a",
+        "partOfSpeech": "Noun",
+        "translation": {
+          "fa": "حرفه، مسیر شغلی"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:2/data-row:535"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-f1258d539502",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "مسیر شغلی"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-8464c49cef30",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "I want to build a career in technology.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-aad291b4-8724-481f-89aa-c7df380822d1",
+            "locator": "table:2/data-row:8"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-39b8fc81e0a1",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "مسیر شغلی / حرفه"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-02f65f74-ec0e-4018-b236-59d82004da17",
+            "locator": "table:1/data-row:1"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:2/data-row:535"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-aad291b4-8724-481f-89aa-c7df380822d1",
+          "locator": "table:2/data-row:8"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-22cf3704",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-02f65f74-ec0e-4018-b236-59d82004da17",
+          "locator": "table:1/data-row:1"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

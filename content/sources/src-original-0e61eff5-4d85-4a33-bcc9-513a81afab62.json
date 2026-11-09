@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-0e61eff5-4d85-4a33-bcc9-513a81afab62",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 8"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "assistant",
+    "messageOrdinal": 8,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "بله، کتابی که پیدا کردم همان چیزی است که به احتمال زیاد منظورت است: Ready for B1 Preliminary از Macmillan Education، با نویسندگان Fiona Aish, Ethan Mansur, Jo Tomlinson و Roy Norris. نسخه‌ی جدید آن مربوط به 2025 است و سطح CEFR آن B1 است. \nMacmillan English\n+1\n\nاگر جلدی که مدنظر تو همین است، تأیید کن.\n\nدر این صورت از این به بعد سیستم آموزشمان را بر اساس این سه منبع می‌چینیم:\n\nA1–A8 Class Notes که همین الان فرستادی → مباحثی که در کلاس خوانده‌ای و نقطه‌ی شروع واقعی تو.\nReady for B1 Preliminary → کتاب اصلی برای پیشروی، Reading, Listening, Speaking, Writing, Vocabulary و Grammar.\nسیستم DeepSeek قبلی + Error Log → برای مرور، رفع خطاهای تکرارشونده و مطالبی که قبلاً یاد گرفته‌ای.\n\nخود Macmillan هم برای این کتاب بخش‌های Ready for Grammar، تمرین‌های چهار مهارت، pronunciation، speaking و تمرین‌های مخصوص B1 Preliminary را در نظر گرفته است. \nMacmillan English\n+1\n\nاگر همین کتاب است، قدم بعدی می‌تواند این باشد که فایل/PDF کتاب را هم در اختیارم بگذاری تا دقیقاً Unit به Unit با خود کتاب جلو برویم، نه اینکه از روی اطلاعات عمومی درباره‌ی کتاب حدس بزنم.",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": []
+  },
+  "extensions": {
+    "capture.message-id": "0e61eff5-4d85-4a33-bcc9-513a81afab62",
+    "capture.headings": [],
+    "capture.links": [
+      {
+        "href": "https://www.macmillanenglish.com/us/catalogue/courses/exam-preparation/ready-for-b1-preliminary/levels-samples?utm_source=chatgpt.com",
+        "text": "Macmillan English\n+1"
+      },
+      {
+        "href": "https://www.macmillanenglish.com/us/catalogue/courses/exam-preparation/ready-for-b1-preliminary/course-information?utm_source=chatgpt.com",
+        "text": "Macmillan English\n+1"
+      }
+    ]
+  }
+}

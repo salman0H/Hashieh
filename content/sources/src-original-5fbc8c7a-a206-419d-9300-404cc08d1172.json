@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-5fbc8c7a-a206-419d-9300-404cc08d1172",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 97"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "user",
+    "messageOrdinal": 97,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "1 selection\ni fallen in a few times. اشتباه هستش؟\n\n\n\n\nمتن جزوه جلسه پیش:\n\nClass:\n - I couldn’t get off from my work.\n\nKeep the team spirit up —> روحیه تیم رو بالا نگه داشتن\nExpectation == anticipations —> she is talking to the players about her expatiations.\nTeenager == adolescent \nBench —> نیمکت\nGet inspired by —> الهام گرفتن از\nHead coach > assistant coach\nCommunity: a group of people who live in same area or share common interest\nBook worm == swot == nerd —> they are negative\nAvid reader == book/reading enthusiasts \nEnthusiast == ?\nTake up: if something takes up time, it uses a certain amount of your time. —> use time —> commuting takes up two hours of my day.\nCommuting == move from work to home of opposite\nRecently, I have taken up going to the gym. - I have not taken up watching movies yet. —> start to do an activity as a new hobby or habit.\nWorking takes up a lot of time.\nPlayers’ families —> در این جا ‘ ب این دلیل اومده ک دو s یکی برای جمع و یکی برای مالکیت وجود دارن ک برای تکرار از دوباره نوشته شدن اون جلوگیری بشه\nIt is over an hour.\nInspirational —> الهام بخش\nAffection == love\nStarting away == right away == imedietly \nIf I did not have extra money, I wouldn’t go to a fancy restaurant. —> unless I had extra money, I wouldn’t go to a fancy restaurant. —> only if I had extra money, I would go to a fancy restaurant.\n…\nShow more",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": []
+  },
+  "extensions": {
+    "capture.message-id": "5fbc8c7a-a206-419d-9300-404cc08d1172",
+    "capture.headings": [],
+    "capture.links": []
+  }
+}

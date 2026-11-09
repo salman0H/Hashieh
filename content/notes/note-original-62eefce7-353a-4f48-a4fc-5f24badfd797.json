@@ -1,0 +1,602 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-62eefce7-353a-4f48-a4fc-5f24badfd797",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "1. I am good at speaking English"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "assessment",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-62eefce7-353a-4f48-a4fc-5f24badfd797",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "بله؛ چند نکته‌ای که پرسیدی دقیقاً همان جاهایی هستند که اگر الان خوب تفکیکشان کنیم، بعداً gerund / infinitive / pronoun خیلی کمتر قاطی می‌شوند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-2",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "1. I am good at speaking English\n\nآیا می‌توانیم بگوییم:\n\n❌ I am good at to speak English.\n\nخیر.\n\nدر اینجا:\n\nPlain text\ngood at + noun / V-ing\n\nچون at یک preposition است.\n\nبعد از preposition اگر فعل بیاید، معمولاً -ing می‌گیرد:\n\nI am good at speaking English.\n\nShe is good at explaining difficult things.\n\nHe is bad at remembering names.\n\nI'm interested in learning Python.\n\nI'm responsible for managing the project.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-3",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "اما یک نکته مهم\n\nat به‌خودی‌خود معنی «باید ing بیاید» ندارد. دلیلش این است که at یک preposition است و ساختار انگلیسی بعد از preposition اجازه‌ی to-infinitive نمی‌دهد.\n\nمقایسه:\n\nI want to speak English.\nwant + to V\n\nولی:\n\nI am good at speaking English.\nat + V-ing",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-4",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "2. پس I look forward to meet you چرا غلط است؟\n\nاینجا یک تله‌ی بسیار مهم داریم.\n\nتو احتمالاً ناخودآگاه این را می‌بینی:\n\nPlain text\nto + verb\n\nو می‌گویی:\n\nپس باید meet بیاید.\n\nاما در:\n\nlook forward to\n\nاین to، preposition است، نه infinitive marker.\n\nبنابراین:\n\nI look forward to meeting you. ✅\n\nنه:\n\n❌ I look forward to meet you.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-5",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "آیا to meet you معنی می‌دهد؟\n\nبله، کاملاً.\n\nto meet you خودش یک infinitive کاملاً درست است:\n\nI hope to meet you.\n\nI want to meet you.\n\nI would like to meet you.\n\nپس مشکل to meet you نیست.\n\nمشکل این است که:\n\nPlain text\nlook forward to + V-ing\n\nو نه:\n\nPlain text\nlook forward to + to V\n\nاین دو to را از هم جدا کن:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-6",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Infinitive to\n\nI want to meet you.\n\nPlain text\nwant + [to meet]",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-7",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Preposition to\n\nI look forward to meeting you.\n\nPlain text\nlook forward to + [meeting]\n\nاین distinction یکی از مهم‌ترین چیزهایی است که باید یاد بگیری.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-8",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "3. object اینجا یعنی چه؟\n\nجمله:\n\nI object to paying more.\n\nاینجا object فعل است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-9",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "object = مخالفت کردن / اعتراض داشتن به چیزی\n\nپس:\n\nI object to paying more.\n\nیعنی:\n\nمن با بیشتر پول دادن مخالفم.\n\nیا طبیعی‌تر:\n\nمن اعتراض دارم که مجبور باشم بیشتر پرداخت کنم.\n\nساختار:\n\nPlain text\nobject to + noun / V-ing\n\nمثلاً:\n\nI object to this decision.\n\nI object to paying extra.\n\nShe objected to working overtime.\n\nباز هم to یک preposition است.\n\nبنابراین:\n\n❌ I object to pay more.\n\n✅ I object to paying more.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-10",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "4. چرا the morning؟\n\nمثلاً جمله:\n\nI like to exercise in the morning.\n\nسؤال تو این است که چرا نمی‌گوییم:\n\nin morning\n\nدلیل اصلی این است که وقتی درباره‌ی بخش مشخصی از روز به شکل عمومی صحبت می‌کنیم، انگلیسی معمولاً از the استفاده می‌کند:\n\nin the morning\nin the afternoon\nin the evening\n\nاما:\n\nat night\n\nمعمولاً بدون the.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-11",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "مثال\n\nI study English in the morning.\n\nI usually work out in the evening.\n\nI don't sleep well at night.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-12",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "چرا the؟\n\nچون morning در این کاربرد به یک بازه‌ی زمانی مشخص و قابل شناسایی از روز اشاره می‌کند.\n\nمثلاً:\n\nI saw him in the morning.\n\nیعنی صبحِ آن روز / صبح مورد بحث.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-13",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "5. حالا him / himself / his\n\nاین سه تا خیلی مهم‌اند، چون هر سه به یک شخص مذکر اشاره می‌کنند، اما نقش دستوری متفاوتی دارند.\n\nفرض کنیم:\n\nAli is my friend.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-14",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "him → object pronoun\n\nhim معمولاً وقتی می‌آید که شخص object جمله باشد.\n\nI saw him.\n\nمن او را دیدم.\n\nساختار:\n\nPlain text\nI = subject\nsaw = verb\nhim = object\n\nیا:\n\nI talked to him.\n\nShe called him.\n\nI gave him the book.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-15",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "6. his → possessive\n\nhis برای مالکیت / تعلق داشتن است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-16",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "قبل از noun:\n\nThis is his car.\n\nاین ماشین اوست.\n\nI read his book.\n\nکتاب او را خواندم.\n\nساختار:\n\nPlain text\nhis + noun",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-17",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "his می‌تواند بدون noun هم بیاید\n\nThis car is his.\n\nاین ماشین مال اوست.\n\nThe book is his.\n\nکتاب مال اوست.\n\nاینجا his خودش نقش possessive pronoun دارد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-18",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "7. himself → reflexive pronoun\n\nhimself وقتی استفاده می‌شود که فاعل و مفعول یک نفر باشند.\n\nمثلاً:\n\nAli hurt himself.\n\nعلی خودش را زخمی کرد.\n\nچرا himself؟\n\nچون:\n\nPlain text\nAli = person doing the action\nhimself = same person receiving the action\n\nاگر بگویی:\n\nAli hurt him.\n\nیعنی علی یک مرد دیگر را زخمی کرد.\n\nمقایسه:\n\nAli hurt him.\nعلی او را زخمی کرد.\n\nAli hurt himself.\nعلی خودش را زخمی کرد.\n\nاین distinction بسیار مهم است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-19",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "8. مقایسه‌ی سه‌تایی\nForm\tRole\tExample\nhim\tobject pronoun\tI called him.\nhis\tpossessive\tThis is his car.\nhimself\treflexive\tHe hurt himself.\n\nیک مثال کامل:\n\nAli saw himself in his room and called him.\n\nاز نظر گرامری:\n\nhimself → خودش\nhis → مال او / متعلق به او\nhim → او را",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-20",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "9. یک کاربرد دیگر himself\n\nhimself همیشه reflexive نیست.\n\nگاهی برای emphasis استفاده می‌شود:\n\nHe himself fixed the computer.\n\nیعنی:\n\nخودش شخصاً کامپیوتر را تعمیر کرد.\n\nاینجا himself object نیست.\n\nمی‌توانی تقریباً این‌طور بفهمی:\n\nHe personally fixed the computer.\n\nپس:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-21",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Reflexive\n\nHe hurt himself.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-22",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Emphatic\n\nHe himself fixed the problem.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-23",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "10. حالا مهم‌ترین سؤال تو: try to do vs try doing\n\nاینجا برداشتت نزدیک است، اما یک اصلاح مهم لازم دارد.\n\nتو گفتی:\n\nI tried to restart my Mac\n\nیعنی تلاش کردم مک را restart کنم، بیشتر قصد و نیت بود و شاید عملی انجام نشده.\n\nو:\n\nI tried restarting my Mac\n\nیعنی این کار را انجام دادم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-24",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "قسمت اول درست است:\n\nI tried to restart my Mac.\n\nیعنی:\n\nسعی کردم مکم را restart کنم.\n\nتمرکز روی attempt / effort است.\n\nاما این جمله به‌تنهایی نمی‌گوید که موفق نشدی یا حتی حتماً اقدام فیزیکی را انجام ندادی.\n\nممکن است واقعاً تلاش کرده باشی و حتی چند بار هم دکمه را زده باشی، ولی موفق نشده باشی.\n\nمثلاً:\n\nI tried to restart my Mac, but it wouldn't respond.\n\nیعنی:\n\nسعی کردم مکم را restart کنم، ولی جواب نمی‌داد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-25",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "11. try doing دقیقاً چه می‌کند؟\n\nI tried restarting my Mac.\n\nاینجا restarting my Mac به‌عنوان یک method / solution مطرح می‌شود.\n\nیعنی:\n\n«Restart کردن مک را به‌عنوان یک راه‌حل امتحان کردم.»\n\nمثلاً:\n\nMy Mac was running slowly, so I tried restarting it.\n\nمکم کند شده بود، بنابراین restart کردنش را امتحان کردم.\n\nاینجا به احتمال زیاد واقعاً آن action را انجام داده‌ای، چون داری درباره‌ی یک روش آزمایش‌شده صحبت می‌کنی.\n\nاما باز هم:\n\ntry doing به‌صورت مطلق تضمین نمی‌کند که action با موفقیت انجام شده است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-26",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "12. پس این دو را این‌طور در ذهنت ذخیره کن",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-27",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "try to do\n\nattempt to do something\n\nI tried to open the door.\n\n= سعی کردم در را باز کنم.\n\nتمرکز:\n\nتلاش برای انجام action",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-28",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "try doing\n\nexperiment with a method / solution\n\nI tried opening the door with a key.\n\n= باز کردن در با کلید را امتحان کردم.\n\nتمرکز:\n\nامتحان کردن یک روش",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-29",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "مثال تکنولوژی\n\nMy Mac was frozen.\n\nدوستم می‌گوید:\n\nTry restarting it.\n\nیعنی:\n\n«Restart کردنش رو امتحان کن.»\n\nبعد:\n\nI tried restarting it, but it was still frozen.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-30",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "13. حالا تفاوت‌های جدول را با مثال‌های واقعی ببینیم\n\nاین قسمت را پیشنهاد می‌کنم واقعاً به‌صورت pattern یاد بگیری.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-31",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "A. want to do\n\nI want to improve my English.\n\nمن می‌خواهم انگلیسی‌ام را بهتر کنم.\n\nI want to get a better job.\n\nمی‌خواهم شغل بهتری پیدا کنم.\n\nwant → desire",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-32",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "14. decide to do\n\nI decided to study English every morning.\n\nتصمیم گرفتم هر صبح انگلیسی بخوانم.\n\nShe decided to leave her job.\n\nاو تصمیم گرفت شغلش را ترک کند.\n\ndecide → decision",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-33",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "15. hope to do\n\nI hope to become fluent in English.\n\nامیدوارم در انگلیسی روان شوم.\n\nI hope to find a secure job.\n\nامیدوارم یک شغل امن پیدا کنم.\n\nhope → desired future outcome",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-34",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "16. plan to do\n\nI plan to apply for a new job next year.\n\nبرنامه دارم سال آینده برای یک شغل جدید درخواست بدهم.\n\nWe are planning to travel this summer.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-35",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "17. enjoy doing\n\nI enjoy learning new vocabulary.\n\nاز یادگیری لغات جدید لذت می‌برم.\n\nI enjoy reading novels.\n\nShe enjoys working with children.\n\nenjoy → activity you find pleasurable.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-36",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "18. avoid doing\n\nI avoid using my phone before bed.\n\nسعی می‌کنم قبل از خواب از گوشی استفاده نکنم.\n\nHe avoids talking about his problems.\n\nI try to avoid making the same mistake.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-37",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "19. finish doing\n\nI finished reading the book.\n\nخواندن کتاب را تمام کردم.\n\nHave you finished studying?\n\nI finished working at 6.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-38",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "20. keep doing\n\nkeep + V-ing یعنی ادامه دادن.\n\nKeep practising your English.\n\nبه تمرین انگلیسی ادامه بده.\n\nHe kept asking the same question.\n\nاو همچنان همان سؤال را می‌پرسید.\n\nShe keeps making the same mistake.\n\nاو همچنان همان اشتباه را تکرار می‌کند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-39",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "21. suggest doing\n\nI suggest taking a break.\n\nپیشنهاد می‌کنم استراحت کنیم.\n\nنه:\n\n❌ I suggest to take a break.\n\nولی می‌توانی بگویی:\n\nI suggest that we take a break.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-40",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "22. like / love / hate\n\nاین‌ها انعطاف بیشتری دارند.\n\nI like reading.\n\nI like to read.\n\nهر دو درست.\n\nولی:\n\nI like reading before bed.\n\nبیشتر درباره‌ی activity صحبت می‌کند.\n\nI like to read before bed.\n\nمی‌تواند بیشتر حالت habit/preference داشته باشد.\n\nدر بسیاری از موقعیت‌ها تفاوت آن‌قدر زیاد نیست که بخواهی روی آن وسواس داشته باشی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-41",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "23. stop — تفاوت جدی",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-42",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "stop doing\n\nI stopped using social media.\n\nاستفاده از شبکه‌های اجتماعی را متوقف کردم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-43",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "stop to do\n\nI stopped to check my phone.\n\nتوقف کردم تا گوشی‌ام را چک کنم.\n\nیعنی:\n\nPlain text\nstop doing\n→ activity را متوقف کن\n\nstop to do\n→ activity فعلی را متوقف کن تا کار دیگری انجام دهی",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-44",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "24. remember",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-45",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "remember doing\n\nI remember meeting him.\n\nیادم هست که او را ملاقات کردم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-46",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "remember to do\n\nRemember to call him.\n\nیادت باشد به او زنگ بزنی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-47",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "25. forget\n\nI forgot meeting him.\n\nیادم نیست که او را ملاقات کرده‌ام.\n\nاما:\n\nI forgot to call him.\n\nیادم رفت به او زنگ بزنم.\n\nاین دو از نظر معنایی خیلی متفاوت‌اند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-48",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "26. یک Writing کوتاه که همه‌ی این‌ها را داخلش داشته باشیم\n\nموضوع:\n\nImproving My English",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-49",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Writing\n\nI have decided to improve my English more seriously this year. I want to become more confident when I speak, so I plan to study every day. I enjoy learning new vocabulary, especially when I can use it in real conversations. However, I sometimes avoid speaking because I am afraid of making mistakes.\n\nRecently, I tried to change this habit. Instead of worrying about every mistake, I tried speaking English for a few minutes every day. I also stopped checking every sentence in my head before saying it. Sometimes I stop to think about a difficult word, but I try to keep speaking.\n\nI have also decided to read more English books. I look forward to reading them, although I know that some books will be difficult. If I keep practising, I hope to become much more fluent.\n\nحالا patternها را استخراج کنیم:\n\nعبارت\tPattern\tمعنی\ndecided to improve\tdecide + to V\tتصمیم\nwant to become\twant + to V\tخواستن\nplan to study\tplan + to V\tبرنامه\nenjoy learning\tenjoy + V-ing\tلذت از فعالیت\navoid speaking\tavoid + V-ing\tاجتناب\nafraid of making\tpreposition + V-ing\tاز ... ترسیدن\ntried to change\ttry + to V\tتلاش\ntried speaking\ttry + V-ing\tامتحان کردن یک روش\nstopped checking\tstop + V-ing\tمتوقف کردن فعالیت\nstop to think\tstop + to V\tتوقف برای انجام کار دیگری\nkeep speaking\tkeep + V-ing\tادامه دادن\ndecided to read\tdecide + to V\tتصمیم\nlook forward to reading\tprep to + V-ing\tمشتاق بودن\nkeep practising\tkeep + V-ing\tادامه دادن\nhope to become\thope + to V\tامید",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-50",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "27. حالا یک نکته‌ی خیلی مهم برای Writing خودت\n\nبه‌جای اینکه در Writing عمداً دنبال «افعال to» و «افعال ing» بگردی، باید کم‌کم این‌ها را به‌صورت chunks یاد بگیری:\n\nنه:\n\nenjoy = ing\n\nبلکه:\n\nenjoy doing something\n\nنه:\n\ndecide = to\n\nبلکه:\n\ndecide to do something\n\nنه:\n\nlook forward = to\n\nبلکه:\n\nlook forward to doing something\n\nنه:\n\nresponsible = for\n\nبلکه:\n\nbe responsible for doing something\n\nاین روش برای IELTS هم بسیار مفیدتر است، چون چیزی که در تولید زبان نیاز داری verb pattern + collocation است، نه صرفاً دانستن یک قاعده‌ی گرامری.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-62eefce7-353a-4f48-a4fc-5f24badfd797-51",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "یک خلاصه‌ی نهایی برای دفتر گرامرت\nPlain text\nVERB PATTERNS\n\nwant / decide / hope / plan / need\n→ + to V\n\nenjoy / avoid / finish / keep / suggest\n→ + V-ing\n\nPREPOSITION\n→ + V-ing\n\ngood at doing\ninterested in doing\nafraid of doing\nresponsible for doing\nin charge of doing\nlook forward to doing\nobject to doing\n\nSOME VERBS TAKE BOTH\n\nlike / love / hate / prefer\n→ to V / V-ing\n\nBUT MEANING CAN CHANGE\n\nstop doing\n≠\nstop to do\n\nremember doing\n≠\nremember to do\n\nforget doing\n≠\nforget to do\n\ntry doing\n≠\ntry to do\n\nو مهم‌ترین اصلاح در برداشتت:\n\ntry to do ≠ صرفاً «قصد داشتم»\n\nبلکه attempt/effort را بیان می‌کند و نمی‌گوید action حتماً انجام نشده.\n\ntry doing = یک روش/راه‌حل را امتحان کردن\n\nکه معمولاً implication قوی‌تری دارد که آن روش را واقعاً آزمایش کرده‌ای، اما تضمین منطقیِ «موفقیت» نیست.\n\nاگر این distinction را همین‌طور نگه داری، بعداً رسیدن به regret doing / regret to do، mean doing / mean to do و go on doing / go on to do خیلی طبیعی‌تر خواهد شد.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-gerund-infinitive",
+      "concept-writing"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "62eefce7-353a-4f48-a4fc-5f24badfd797",
+    "capture.turn-number": 32
+  }
+}

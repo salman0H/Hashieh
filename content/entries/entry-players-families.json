@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-players-families",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "players' families"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-2340c3c8-781f-4c46-8506-088417f410fb",
+        "locator": "table:13/data-row:15"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "players' families",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-16c6fa5bb07a",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "خانواده‌های بازیکنان"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-2340c3c8-781f-4c46-8506-088417f410fb",
+            "locator": "table:13/data-row:15"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-2340c3c8-781f-4c46-8506-088417f410fb",
+          "locator": "table:13/data-row:15"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-team-spirit",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

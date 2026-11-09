@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-ba596ec10ea5",
+  "type": "covers",
+  "from": "session-modals",
+  "to": "concept-modals",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-chat-m15",
+      "locator": "message-excerpt"
+    }
+  ],
+  "extensions": {}
+}

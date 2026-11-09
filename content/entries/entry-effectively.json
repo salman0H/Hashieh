@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-effectively",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "effectively"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:1/data-row:65"
+      },
+      {
+        "sourceId": "src-original-4ae32885-48ea-4808-abbd-d100a0d4fc36",
+        "locator": "table:4/data-row:1"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "effectively",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-effect",
+    "senses": [
+      {
+        "id": "sense-eb7b8d61c846",
+        "partOfSpeech": "Adverb",
+        "translation": {
+          "fa": "به‌طور مؤثر"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:1/data-row:65"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-a6bced23346f",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "به‌طور مؤثر"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-4ae32885-48ea-4808-abbd-d100a0d4fc36",
+            "locator": "table:4/data-row:1"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:1/data-row:65"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-4ae32885-48ea-4808-abbd-d100a0d4fc36",
+          "locator": "table:4/data-row:1"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-f631f914",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

@@ -1,0 +1,162 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-develop",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "develop"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:1/data-row:68"
+      },
+      {
+        "sourceId": "src-original-944a2cb2-18e6-4a05-af23-92edb86b98d4",
+        "locator": "table:1/data-row:1"
+      },
+      {
+        "sourceId": "src-original-f77edba4-2fe8-4440-b664-8727591c2d9d",
+        "locator": "table:1/data-row:1"
+      },
+      {
+        "sourceId": "src-original-f77edba4-2fe8-4440-b664-8727591c2d9d",
+        "locator": "table:2/data-row:11"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "develop",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-develop",
+    "senses": [
+      {
+        "id": "sense-f34d5a21a1bf",
+        "partOfSpeech": "Verb",
+        "translation": {
+          "fa": "توسعه دادن؛ رشد کردن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:1/data-row:68"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-186ad7abcfff",
+        "partOfSpeech": "verb",
+        "translation": {
+          "fa": "توسعه دادن / رشد کردن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-944a2cb2-18e6-4a05-af23-92edb86b98d4",
+            "locator": "table:1/data-row:1"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-c9b9a1ad47e8",
+        "partOfSpeech": "verb",
+        "translation": {
+          "fa": "توسعه دادن / ایجاد کردن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-f77edba4-2fe8-4440-b664-8727591c2d9d",
+            "locator": "table:1/data-row:1"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-71dfbb708565",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "توسعه دادن / تولید کردن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-f77edba4-2fe8-4440-b664-8727591c2d9d",
+            "locator": "table:2/data-row:11"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:1/data-row:68"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-944a2cb2-18e6-4a05-af23-92edb86b98d4",
+          "locator": "table:1/data-row:1"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-jobs",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f77edba4-2fe8-4440-b664-8727591c2d9d",
+          "locator": "table:1/data-row:1"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-1920ed9d",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f77edba4-2fe8-4440-b664-8727591c2d9d",
+          "locator": "table:2/data-row:11"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-1920ed9d",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

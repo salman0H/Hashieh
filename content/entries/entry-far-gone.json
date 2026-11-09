@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-far-gone",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "far gone"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa",
+        "locator": "table:1/data-row:12"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "far gone",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-3cebe50dc2c6",
+        "partOfSpeech": "expression",
+        "translation": {
+          "fa": "خیلی از وضعیت عادی دور"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa",
+            "locator": "table:1/data-row:12"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa",
+          "locator": "table:1/data-row:12"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

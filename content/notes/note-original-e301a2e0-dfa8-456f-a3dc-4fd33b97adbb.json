@@ -1,0 +1,161 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-e301a2e0-dfa8-456f-a3dc-4fd33b97adbb",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "مرور گرامر: Relative Clauses"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "assessment",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-e301a2e0-dfa8-456f-a3dc-4fd33b97adbb",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-e301a2e0-dfa8-456f-a3dc-4fd33b97adbb-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "مرور گرامر: Relative Clauses\n\nدر این درس، Relative Clauses (جمله‌واره‌های موصولی) را با مثال‌های روزمره، تفاوت who / which / that / where / whose، و نکات مهم آزمونی مرور می‌کنیم.\n\nایده‌ی اصلی ساده است: از Relative Clause استفاده می‌کنیم تا درباره‌ی یک شخص، چیز یا مکان اطلاعات بیشتری بدهیم، بدون اینکه مجبور باشیم دو جمله‌ی جدا بنویسیم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e301a2e0-dfa8-456f-a3dc-4fd33b97adbb-2",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۱. Relative Clause چیست؟\n\nبه این دو جمله توجه کن:\n\nI know a man. He works at a hospital.\n\nمن مردی را می‌شناسم. او در بیمارستان کار می‌کند.\n\nمی‌توانیم این دو را ترکیب کنیم:\n\nI know a man who works at a hospital.\n\nمن مردی را می‌شناسم که در بیمارستان کار می‌کند.\n\nبخش who works at a hospital یک Relative Clause است؛ چون توضیح می‌دهد منظورمان کدام مرد است.\n\nساختار کلی:\n\nNoun + Relative Pronoun + Clause\n\na man + who + works at a hospital\n\nاسم + ضمیر موصولی + جمله‌واره‌ی توضیحی",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e301a2e0-dfa8-456f-a3dc-4fd33b97adbb-3",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۲. پنج کلمه‌ی اصلی\n\nWho — برای اشخاص\n\nThe nurse who takes care of patients is very kind.\n\nپرستاری که از بیماران مراقبت می‌کند، بسیار مهربان است.\n\nمثال دیگر:\n\nI have a friend who speaks three languages.\n\nWhich — برای اشیا و حیوانات\n\nThe laptop which I bought last year is still working.\n\nلپ‌تاپی که سال گذشته خریدم، هنوز کار می‌کند.\n\nمثال دیگر:\n\nI read a book which explains artificial intelligence.\n\nThat — برای اشخاص یا اشیا در جمله‌واره‌ی محدودکننده\n\nThe train that leaves at 8 is usually crowded.\n\nقطاری که ساعت ۸ حرکت می‌کند، معمولاً شلوغ است.\n\nThat در بسیاری از جمله‌های محدودکننده می‌تواند جای who یا which را بگیرد.\n\nWhere — برای مکان\n\nShiraz is the city where I was born.\n\nشیراز شهری است که در آن متولد شدم.\n\nمقایسه:\n\nThis is the café where we met.\n\nWhose — برای مالکیت\n\nI know a man whose son is a doctor.\n\nمردی را می‌شناسم که پسرش پزشک است.\n\nwhose + noun یعنی «که ... او / که ... متعلق به اوست».",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e301a2e0-dfa8-456f-a3dc-4fd33b97adbb-4",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۳. تفاوت مهم who و which با where\n\nاین یکی از اشتباهات رایج تو در تمرین‌های قبلی بود؛ پس بهتر است آن را دقیق یاد بگیری.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e301a2e0-dfa8-456f-a3dc-4fd33b97adbb-5",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "مقایسه کن\n\nThis is the house which I bought.\n\nاین خانه‌ای است که خریدم.\n\nدر اینجا which مفعول فعل bought است؛ یعنی خانه را خریدم.\n\nThis is the house where I live.\n\nاین خانه‌ای است که در آن زندگی می‌کنم.\n\nدر اینجا where به مکان انجام عمل اشاره می‌کند. معنای آن تقریباً برابر با in which است.\n\nمقایسه‌ی بیشتر:\n\nجمله\n\n\t\n\nمعنی\n\n\n\n\nThe restaurant which I like is expensive.\n\n\t\n\nرستورانی که دوست دارم گران است.\n\n\n\n\nThe restaurant where we had dinner is expensive.\n\n\t\n\nرستورانی که در آن شام خوردیم گران است.\n\n\n\n\nThe company which hired me is growing.\n\n\t\n\nشرکتی که مرا استخدام کرد در حال رشد است.\n\n\n\n\nThe company where I work is growing.\n\n\t\n\nشرکتی که در آن کار می‌کنم در حال رشد است.\n\nروش تشخیص: اگر بعد از جای خالی به چیزی نیاز داری که مفعول فعل باشد، ممکن است which لازم باشد؛ اگر منظورت محل وقوع اتفاق است، معمولاً where مناسب است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e301a2e0-dfa8-456f-a3dc-4fd33b97adbb-6",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۴. Defining و Non-defining Relative Clauses\n\nاین بخش از نظر گرامری مهم است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e301a2e0-dfa8-456f-a3dc-4fd33b97adbb-7",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "A. Defining Relative Clause\n\nاطلاعاتی می‌دهد که برای مشخص شدن شخص یا چیز موردنظر ضروری است. معمولاً بین آن و جمله‌ی اصلی ویرگول نمی‌گذاریم.\n\nThe employee who manages the project is very experienced.\n\nکارمندی که پروژه را مدیریت می‌کند، بسیار باتجربه است.\n\nکدام کارمند؟ همان کسی که پروژه را مدیریت می‌کند.\n\nدر این نوع جمله معمولاً می‌توانیم از that نیز استفاده کنیم:\n\nThe employee that manages the project is very experienced.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e301a2e0-dfa8-456f-a3dc-4fd33b97adbb-8",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "B. Non-defining Relative Clause\n\nاطلاعات اضافه می‌دهد؛ شخص یا چیز از قبل مشخص است. این جمله‌واره با ویرگول جدا می‌شود.\n\nMy brother, who lives in Tehran, is a software engineer.\n\nبرادرم، که در تهران زندگی می‌کند، مهندس نرم‌افزار است.\n\nما از قبل می‌دانیم کدام برادر را می‌گوییم؛ محل زندگی او فقط اطلاعات اضافه است.\n\nقواعد مهم:\n\nدر Non-defining clause از that استفاده نمی‌کنیم.\n\nضمیر موصولی را در این ساختار حذف نمی‌کنیم.\n\nویرگول‌ها بخشی از ساختار نوشتاری هستند.\n\nمقایسه:\n\nMy friend who works at a hospital lives in Mashhad.\n\nاین جمله ممکن است نشان دهد از میان چند دوست، منظور دوستی است که در بیمارستان کار می‌کند.\n\nMy friend, who works at a hospital, lives in Mashhad.\n\nدر این جمله اطلاعات کار در بیمارستان به‌صورت توضیح اضافه ارائه شده است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e301a2e0-dfa8-456f-a3dc-4fd33b97adbb-9",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۵. چه زمانی می‌توانیم ضمیر موصولی را حذف کنیم؟\n\nوقتی ضمیر موصولی در Defining Relative Clause مفعول باشد، معمولاً می‌توانیم آن را حذف کنیم.\n\nThe book that I bought is interesting.\n\nیا:\n\nThe book I bought is interesting.\n\nهر دو درست‌اند.\n\nاما اگر ضمیر موصولی فاعل باشد، نمی‌توانیم آن را حذف کنیم:\n\nThe man who works here is friendly.\n\nنمی‌توانیم بگوییم:\n\n❌ The man works here is friendly.\n\nچرا؟ چون who فاعل فعل works است.\n\nیک راه تشخیص سریع:\n\nThe man who called me → who فاعل است؛ حذف نمی‌شود.\n\nThe man who I called → who مفعول است؛ در جمله‌ی محدودکننده می‌تواند حذف شود.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e301a2e0-dfa8-456f-a3dc-4fd33b97adbb-10",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۶. چند مثال مرتبط با درس‌های قبلی تو\n\nاین مثال‌ها لغات قدیمی‌ترت را هم مرور می‌کنند:\n\n1. A receptionist is someone who welcomes visitors.\nمسئول پذیرش کسی است که از مراجعه‌کنندگان استقبال می‌کند.\n\n2. A secure job is a job that offers stability.\nشغل باثبات شغلی است که امنیت و ثبات فراهم می‌کند.\n\n3. The palace where we stayed was beautiful.\nکاخی که در آن اقامت داشتیم زیبا بود.\n\n4. I know a developer whose projects are very promising.\nتوسعه‌دهنده‌ای را می‌شناسم که پروژه‌هایش آینده‌ی امیدوارکننده‌ای دارند.\n\n5. The train which leaves at 8:15 is often delayed.\nقطاری که ساعت ۸:۱۵ حرکت می‌کند، اغلب تأخیر دارد.\n\n6. My colleague, who is in charge of quality assurance, is very punctual.\nهمکارم، که مسئول تضمین کیفیت است، بسیار وقت‌شناس است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e301a2e0-dfa8-456f-a3dc-4fd33b97adbb-11",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۷. تمرین تشخیصی\n\nبرای هر جمله، بهترین گزینه را انتخاب کن.\n\n1. The woman ___ works at the reception desk is very helpful.\n\nwho\nwhere\nwhose\n\n2. This is the café ___ we met yesterday.\n\nwhich\nwhere\nwhose\n\n3. The laptop ___ I bought is very fast.\n\nwhere\nwho\nwhich\n\n4. I have a friend ___ father is a dentist.\n\nwho\nwhose\nwhere\n\n5. My car, ___ I bought last year, is already broken.\n\nthat\nwhich\nwhere\n\n6. The employee ___ called you is waiting outside.\n\nwho\nwhere\nwhich\n\n7. The book ___ I was telling you about is excellent.\n\nwhere\nwho\nthat\n\n0 از ۷ سؤال پاسخ داده شده\n\nتحلیل کامل پاسخ‌ها\n\nخلاصه‌ی امتحانی:\n\nwho → اشخاص\n\nwhich → اشیا و حیوانات\n\nthat → اشخاص یا اشیا در Defining clauses\n\nwhere → مکان\n\nwhose → مالکیت\n\nDefining → بدون ویرگول؛ that مجاز است؛ مفعول گاهی حذف می‌شود.\n\nNon-defining → با ویرگول؛ that ممنوع است؛ ضمیر موصولی حذف نمی‌شود.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-relative-clauses"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "e301a2e0-dfa8-456f-a3dc-4fd33b97adbb",
+    "capture.turn-number": 34
+  }
+}

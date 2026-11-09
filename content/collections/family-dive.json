@@ -1,0 +1,46 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "family-dive",
+  "type": "collection",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Dive — source word family"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:1/data-row:260"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:1/data-row:261"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:1/data-row:262"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:1/data-row:263"
+      }
+    ]
+  },
+  "payload": {
+    "kind": "word-family",
+    "itemIds": [
+      "entry-dive",
+      "entry-diver",
+      "entry-diving",
+      "entry-skydiving"
+    ]
+  },
+  "extensions": {}
+}

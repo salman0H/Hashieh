@@ -1,0 +1,507 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "🎵 Song Lab #03 — Lyin’ Eyes"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "assessment",
+    "song-lab",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "بریم سراغ “Lyin’ Eyes” — Eagles. این آهنگ برای Song Lab تو از نظر یادگیری زبان حتی غنی‌تر از دو آهنگ قبلی است، چون یک story song واقعی است: تقریباً کل آهنگ یک داستان را با زمان‌های مختلف، reported thoughts، idiomها و توصیف‌های طبیعی روایت می‌کند.\n\nاین قطعه در آلبوم One of These Nights در سال ۱۹۷۵ منتشر شد و توسط Don Henley و Glenn Frey نوشته شده است. نسخهٔ آلبوم حدود ۶:۲۲ است. \nWikipedia\n+1",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-2",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "🎵 Song Lab #03 — Lyin’ Eyes",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-3",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "1. اول داستان را بفهمیم\n\nداستان درباره‌ی زنی جوان است که با مردی ثروتمند و مسن ازدواج کرده، اما رابطه از نظر عاطفی برایش رضایت‌بخش نیست. او شب‌ها برای دیدن مرد دیگری از خانه خارج می‌شود.\n\nنکته‌ی مهم این است که آهنگ صرفاً یک داستان عاشقانه نیست؛ تضاد اصلی این است:\n\nsecurity vs. love\n\nیعنی:\n\nامنیت و رفاه مالی\nدر برابر\nعشق و هیجان عاطفی\n\nایدهٔ اولیهٔ آهنگ هم از مشاهدهٔ یک زن جوان همراه مردی ثروتمند و مسن در رستوران Dan Tana's در لس‌آنجلس شکل گرفت. Frey و Henley از آن موقعیت، یک داستان گسترده‌تر ساختند. \nWikipedia\n+1",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-4",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "2. خود عنوان: Lyin' Eyes\n\nLyin' شکل محاوره‌ای:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-5",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "lying\n\nاست.\n\nیعنی:\n\nLyin' eyes = lying eyes\n\nاما چرا «چشم‌های دروغگو»؟\n\nاینجا personification / metaphor داریم.\n\nچشم‌ها واقعاً دروغ نمی‌گویند؛ منظور این است که چشم‌های فرد احساس واقعی او را لو می‌دهند.\n\nlying\n\nاز:\n\nlie → lying\n\nو حواست باشد:\n\nlie = دروغ گفتن\n\nاما:\n\nlie down = دراز کشیدن\n\nدو فعل متفاوت‌اند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-6",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "3. find out\n\nدر ابتدای آهنگ یک phrasal verb بسیار مهم داریم:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-7",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "find out\n\n= فهمیدن / پی بردن / متوجه شدن\n\nتفاوتش با know مهم است.\n\nI know the answer.\n\nیعنی جواب را می‌دانم.\n\nاما:\n\nI found out the answer.\n\nیعنی:\n\n«جواب را پیدا کردم / فهمیدم.»\n\nیعنی information را به دست آوردی.\n\nمثال:\n\nI found out that she was lying.\n\n«فهمیدم که داشت دروغ می‌گفت.»\n\nاین را مستقیم وارد DeepSeek Phrasal Verbs می‌کنیم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-8",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "4. open doors\n\nاین یکی خیلی مهم است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-9",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "open doors\n\nliteral:\n\nدر باز کردن\n\nاما در این آهنگ:\n\nopen doors with a smile\n\nیعنی:\n\nبا لبخندش برای خودش فرصت‌ها و موقعیت‌های جدید ایجاد می‌کند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-10",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Expression\n\nopen doors for someone\n\n= برای کسی فرصت ایجاد کردن\n\nمثلاً:\n\nThis job opened a lot of doors for me.\n\nیعنی:\n\n«این کار فرصت‌های زیادی برای من ایجاد کرد.»\n\nاین یک metaphorical collocation بسیار طبیعی است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-11",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "5. won't have to\n\nیک ساختار بسیار مهم B1:\n\nwon't have to\n\nیعنی:\n\nمجبور نخواهد بود / نیازی نخواهد داشت\n\nساختار:\n\nwill + not + have to + base verb\n\nمثلاً:\n\nYou won't have to worry.\n\n= لازم نیست نگران باشی.\n\nدقت کن:\n\n❌ You won't must worry.\n\n✅ You won't have to worry.\n\nچون must و have to را نمی‌توانیم به این شکل ترکیب کنیم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-12",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "6. in style",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-13",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "in style\n\nیعنی:\n\nبا تجمل / شیک / در سطح بالا\n\nمثلاً:\n\nThey travelled in style.\n\nیعنی:\n\n«با تجمل و راحتی سفر کردند.»\n\nاین یکی از expressionهایی است که معنی آن از تک‌تک کلماتش مشخص نیست.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-14",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "7. feel down\n\nدر داستان، یکی از شخصیت‌ها به‌عنوان دوستی که حال خوبی ندارد توصیف می‌شود.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-15",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "feel down\n\n= احساس ناراحتی داشتن / روحیه نداشتن\n\nمقایسه:\n\nI'm sad.\n\nمستقیم است.\n\nI'm feeling down.\n\nطبیعی‌تر و کمی غیرمستقیم‌تر:\n\n«حالم گرفته است.»\n\nاین را هم به Active Vocabulary اضافه می‌کنیم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-16",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "8. head to\n\nیکی از کاربردی‌ترین phrasal/prepositional expressions:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-17",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "head to + place\n\n= راهیِ جایی شدن\n\nمثلاً:\n\nI'm heading home.\n\n= دارم می‌رم خونه.\n\nWe're heading to Mashhad tomorrow.\n\n= فردا راهی مشهد می‌شیم.\n\nاین با go فرق معنایی بزرگی ندارد، ولی head to در English طبیعی بسیار رایج است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-18",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "9. cheating",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-19",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "cheat on someone\n\nاین را حتماً به شکل کامل یاد بگیر.\n\ncheat on someone\n\n= به شریک عاطفی خیانت کردن\n\nمثلاً:\n\nHe cheated on his girlfriend.\n\nنه:\n\n❌ He cheated his girlfriend.\n\nدر این معنی، on مهم است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-20",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "cheat\n\nاما به‌تنهایی می‌تواند معنی‌های دیگری داشته باشد:\n\ncheat in an exam\n\n= در امتحان تقلب کردن\n\nپس:\n\ncheat in an exam\n\nولی:\n\ncheat on your partner",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-21",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "10. anticipate\n\nاین کلمه در آهنگ کاربرد جالبی دارد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-22",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "anticipate\n\n= انتظار چیزی را داشتن / پیشاپیش منتظر چیزی بودن\n\nاما در English روزمره، همیشه بهترین انتخاب نیست.\n\nمقایسه:\n\nI'm looking forward to seeing him.\n\nطبیعی‌تر و احساسی‌تر.\n\nI'm anticipating seeing him.\n\nformal/literary‌تر.\n\nپس Song Lab فقط vocabulary نمی‌دهد؛ به ما یاد می‌دهد چه کلمه‌ای در چه registerی طبیعی است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-23",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "11. pull away\n\nیکی از مهم‌ترین phrasal verbهای آهنگ:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-24",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "pull away\n\nدر این context:\n\nاز کسی فاصله گرفتن / خود را عقب کشیدن\n\nاما معنی‌های دیگر هم دارد:\n\nThe car pulled away.\n\n= ماشین حرکت کرد و دور شد.\n\nپس:\n\npull away\n\nهم می‌تواند physical باشد، هم emotional.\n\nاین دقیقاً همان نوع phrasal verb چندمعنایی است که برای B1/B2 ارزش یادگیری دارد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-25",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "12. pour yourself a drink\n\nساختار جالب:\n\npour yourself a drink\n\nیعنی:\n\nبرای خودت یک نوشیدنی ریختن.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-26",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "pour\n\n= ریختن مایع\n\nولی ساختار:\n\npour + someone + something\n\nمثلاً:\n\nPour me some water.\n\n= کمی آب برایم بریز.\n\nو:\n\nPour yourself some coffee.\n\n= برای خودت کمی قهوه بریز.\n\nاین همان reflexive pronoun است:\n\nyourself",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-27",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "13. stare out at\n\nاین ترکیب از نظر vocabulary خیلی خوب است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-28",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "stare\n\n= خیره شدن\n\nتفاوت:\n\nlook → نگاه کردن\nwatch → تماشا کردن\nstare → خیره شدن\n\nمثلاً:\n\nDon't stare at people.\n\n= به مردم زل نزن.\n\nو در آهنگ:\n\nstare out at the stars\n\nیعنی:\n\nخیره شدن به ستاره‌ها، در حالی که به بیرون نگاه می‌کند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-29",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "14. hang your head\n\nیک expression تصویری:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-30",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "hang your head\n\n= سر را پایین انداختن\n\nمعمولاً نشانه‌ی:\n\nsadness\nshame\ndisappointment\n\nاست.\n\nمثلاً:\n\nHe hung his head in shame.\n\n= از شرم سرش را پایین انداخت.\n\nاینجا با body language vocabulary مواجهیم؛ چیزی که در Speaking خیلی مفید است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-31",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "15. How did it get this crazy?\n\nاین قسمت برای grammar بسیار مهم است.\n\nساختار:\n\nHow did + subject + get + adjective?\n\nیعنی:\n\n«چطور کار به اینجا کشید؟»\n\nget اینجا به معنی «گرفتن» نیست.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-32",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "get + adjective\n\nیعنی:\n\nتبدیل شدن به یک وضعیت\n\nمثلاً:\n\nIt's getting cold.\n\n= هوا دارد سرد می‌شود.\n\nThings got complicated.\n\n= اوضاع پیچیده شد.\n\nHow did it get so bad?\n\n= چطور این‌قدر بد شد؟\n\nاین یک الگوی high-value B1 است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-33",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "16. far gone\n\nاین expression را جداگانه یاد بگیر.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-34",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "be far gone\n\n= خیلی از وضعیت عادی فاصله داشتن / در وضعیت بدی قرار داشتن\n\nمثلاً:\n\nHe's too far gone.\n\nبسته به context می‌تواند معنی‌های مختلفی داشته باشد، مثل:\n\n«دیگه خیلی از حد گذشته.»\n\nیا:\n\n«دیگه خیلی در وضعیت بدیه.»\n\nدر این آهنگ، معنای آن بیشتر emotional / psychological deterioration دارد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-35",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "17. Ain't\n\nحالا می‌رسیم به یکی از جذاب‌ترین قسمت‌ها.\n\nدر chorus با:\n\nain't\n\nمواجه می‌شویم.\n\nain't یک شکل informal/nonstandard است که در گفتار و موسیقی بسیار دیده می‌شود.\n\nبسته به context می‌تواند جای این‌ها بیاید:\n\nam not\nisn't\naren't\nhaven't\nhasn't\n\nمثلاً:\n\nIt ain't true.\n\n≈ It isn't true.\n\nاما:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-36",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "برای امتحان B1\n\nبهتر است ain't را active grammar استاندارد خودت نکنی.\n\nآن را باید بشناسی، مخصوصاً در listening.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-37",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "18. thin disguise\n\nیکی از بهترین collocationهای آهنگ:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-38",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "disguise\n\n= پوشش / ظاهر فریب‌دهنده / مبدل\n\nو:\n\na thin disguise\n\nیعنی:\n\nیک پوشش/تظاهر خیلی ضعیف که به‌راحتی قابل تشخیص است.\n\nمثلاً:\n\nHis smile was a thin disguise for his anger.\n\nیعنی:\n\n«لبخندش فقط پوشش ظریفی برای خشمش بود.»\n\nاینجا thin معنای فیزیکی ندارد؛ metaphorical adjective است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-39",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "🧠 Song Vocabulary Card\nExpression\tمعنی\tCategory\nfind out\tپی بردن / متوجه شدن\tphrasal verb\nopen doors\tفرصت ایجاد کردن\tmetaphor/collocation\nin style\tبا تجمل / شیک\texpression\nfeel down\tحال گرفته داشتن\texpression\nhead to\tراهی شدن\tphrasal expression\ncheat on someone\tبه کسی خیانت کردن\tcollocation\npull away\tفاصله گرفتن\tphrasal verb\npour yourself a drink\tبرای خودت نوشیدنی ریختن\texpression\nstare\tخیره شدن\tverb\nhang your head\tسر پایین انداختن\tidiomatic expression\nget crazy/bad\tبه وضعیت بدی رسیدن\tstructure\nfar gone\tخیلی از وضعیت عادی دور\texpression\nain't\tشکل informal منفی\tinformal grammar\nthin disguise\tپوشش/تظاهر ضعیف\tmetaphor",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-40",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "🔥 مهم‌ترین Grammarهای این آهنگ\n\nاین آهنگ را به سیستم اصلی تو وصل می‌کنیم:\n\nLyin' Eyes\n\n→ Past Simple\n→ Present Simple\n→ Present Continuous\n→ Future will\n→ have to\n→ can't\n→ question formation\n→ get + adjective\n→ phrasal verbs\n→ reflexive pronouns\n→ informal English (ain't, lyin', feelin')\n\nیعنی این آهنگ برای مرور بخش قابل‌توجهی از A1–A8 + DeepSeek Grammar System + Ready for B1 مناسب است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-41",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "🎧 یک نکته مهم برای Listening\n\nاین آهنگ را فقط با خواندن lyrics گوش نده.\n\nدفعه اول:\n\nبدون lyrics\n\nفقط سعی کن داستان را بفهمی.\n\nدفعه دوم:\n\nبا lyrics\n\nو هرجا یک chunk شنیدی، آن را به‌عنوان یک واحد یاد بگیر:\n\nfind out\n\nنه:\n\nfind + out\n\nfeel down\n\nنه:\n\nfeel + down\n\ncheat on someone\n\nنه:\n\ncheat + on\n\nاین روش باعث می‌شود به جای ترجمه‌ی کلمه‌به‌کلمه، English را به صورت chunks پردازش کنی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa-42",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "🎯 Active Recall\n\nفعلاً این 6 مورد را از این آهنگ برای خودت نگه دار:\n\nfind out = پی بردن\nopen doors = فرصت ایجاد کردن\nfeel down = حال گرفته داشتن\ncheat on someone = خیانت کردن\nget + adjective = وارد یک وضعیت شدن\npull away = فاصله گرفتن\n\nو یک مورد برای Passive Vocabulary:\n\nain't\n\nباید وقتی در موسیقی/فیلم شنیدی بفهمی، ولی فعلاً لازم نیست در writing رسمی از آن استفاده کنی.\n\nبرای این آهنگ، مرحله‌ی بعدی را می‌توانیم \nواقعاً از Verse 1 شروع کنیم و هر خط را از نظر grammar + vocabulary + pronunciation + meaning کالبدشکافی کنیم؛ بدون اینکه متن کامل copyrighted آهنگ را بازنشر کنیم.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-present-simple",
+      "concept-present-continuous",
+      "concept-past-simple",
+      "concept-phrasal-verbs",
+      "concept-writing"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "1a6b7984-d923-4578-9c20-3d85b3d49cfa",
+    "capture.turn-number": 9
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-bookworm",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "bookworm"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m08",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-original-2340c3c8-781f-4c46-8506-088417f410fb",
+        "locator": "table:8/data-row:1"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:2/data-row:616"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "bookworm",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-book",
+    "senses": [
+      {
+        "id": "sense-474d4d64f59d",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "فردی که بسیار کتاب می‌خواند"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-2340c3c8-781f-4c46-8506-088417f410fb",
+            "locator": "table:8/data-row:1"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-7f3a140d6cdd",
+        "partOfSpeech": "Noun",
+        "translation": {
+          "fa": "فرد عاشق کتاب"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:2/data-row:616"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m08",
+          "locator": "message-excerpt"
+        },
+        "group": "learner-notes",
+        "sessionId": "session-team-spirit",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-2340c3c8-781f-4c46-8506-088417f410fb",
+          "locator": "table:8/data-row:1"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-team-spirit",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:2/data-row:616"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {
+    "language.normalization": {
+      "observed": "Book worm",
+      "candidate": "bookworm",
+      "status": "needs-review"
+    }
+  }
+}

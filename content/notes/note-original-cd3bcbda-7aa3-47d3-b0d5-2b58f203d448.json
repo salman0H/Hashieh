@@ -1,0 +1,237 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-cd3bcbda-7aa3-47d3-b0d5-2b58f203d448",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Relative Clauses"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "assessment"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-cd3bcbda-7aa3-47d3-b0d5-2b58f203d448",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-cd3bcbda-7aa3-47d3-b0d5-2b58f203d448-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "بله. Defining و Non-defining Relative Clauses جزو همان Phase 6 / Advanced Grammar هستند و برای فاینال باید تفاوتشان را دقیق بلد باشی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-cd3bcbda-7aa3-47d3-b0d5-2b58f203d448-2",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Relative Clauses\n\nRelative clause جمله‌واره‌ای است که درباره‌ی یک noun اطلاعات بیشتری می‌دهد.\n\nمثلاً:\n\nThe girl who lives next door is my friend.\n\nبخش:\n\nwho lives next door\n\nدرباره‌ی the girl اطلاعات می‌دهد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-cd3bcbda-7aa3-47d3-b0d5-2b58f203d448-3",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "1. Defining Relative Clause",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-cd3bcbda-7aa3-47d3-b0d5-2b58f203d448-4",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "تعریف\n\nاطلاعاتی می‌دهد که برای مشخص کردن noun ضروری است.\n\nاگر relative clause را حذف کنیم، معلوم نیست دقیقاً درباره‌ی کدام شخص/چیز صحبت می‌کنیم.\n\nThe student who sits next to me is very smart.\n\nیعنی از بین دانش‌آموزها، منظورم آن دانش‌آموزی است که کنار من می‌نشیند.\n\nاگر حذف کنیم:\n\nThe student is very smart.\n\nدیگر نمی‌دانیم کدام student.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-cd3bcbda-7aa3-47d3-b0d5-2b58f203d448-5",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "علامت مهم\n\nComma نداریم.\n\nThe student who sits next to me is very smart.\n❌ The student, who sits next to me, is very smart.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-cd3bcbda-7aa3-47d3-b0d5-2b58f203d448-6",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "2. Non-defining Relative Clause\n\nاینجا noun از قبل مشخص است و relative clause فقط اطلاعات اضافی می‌دهد.\n\nMy brother, who lives in Tehran, is an engineer.\n\nما از قبل می‌دانیم my brother چه کسی است.\n\nاطلاعات:\n\nwho lives in Tehran\n\nفقط یک توضیح اضافه است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-cd3bcbda-7aa3-47d3-b0d5-2b58f203d448-7",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "علامت مهم\n\nبین دو comma قرار می‌گیرد.\n\nMy brother, who lives in Tehran, is an engineer.\n\nاگر حذفش کنیم:\n\nMy brother is an engineer.\n\nجمله هنوز کاملاً مشخص است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-cd3bcbda-7aa3-47d3-b0d5-2b58f203d448-8",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "تفاوت اصلی\nDefining\tNon-defining\nاطلاعات ضروری\tاطلاعات اضافی\nمشخص می‌کند کدام noun\tnoun از قبل مشخص است\n❌ comma ندارد\t✅ comma دارد\nthat می‌تواند استفاده شود\t❌ that نمی‌توان استفاده کرد\npronoun گاهی حذف می‌شود\tpronoun حذف نمی‌شود",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-cd3bcbda-7aa3-47d3-b0d5-2b58f203d448-9",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Relative Pronouns",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-cd3bcbda-7aa3-47d3-b0d5-2b58f203d448-10",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Who → people\n\nThe man who called me is my teacher.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-cd3bcbda-7aa3-47d3-b0d5-2b58f203d448-11",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Which → things/animals\n\nThe book which I bought is interesting.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-cd3bcbda-7aa3-47d3-b0d5-2b58f203d448-12",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "That → people/things\n\nفقط در defining:\n\nThe book that I bought is interesting.\n\nThe man that called me is my teacher.\n\nاما:\n\n❌ My brother, that lives in Tehran, is an engineer.\n\nباید:\n\n✅ My brother, who lives in Tehran, is an engineer.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-cd3bcbda-7aa3-47d3-b0d5-2b58f203d448-13",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Where\n\nبرای مکان:\n\nThis is the house where I grew up.\n\nتقریباً:\n\nthe house in which I grew up\n\nاما where طبیعی‌تر است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-cd3bcbda-7aa3-47d3-b0d5-2b58f203d448-14",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Whose\n\nبرای مالکیت:\n\nThe girl whose phone was stolen called the police.\n\nیعنی:\n\nدختری که گوشی‌اش دزدیده شده بود...\n\nساختار:\n\nwhose + noun",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-cd3bcbda-7aa3-47d3-b0d5-2b58f203d448-15",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "یک نکته خیلی مهم برای امتحان\n\nدر Defining Relative Clause اگر relative pronoun object باشد، می‌توانیم آن را حذف کنیم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-cd3bcbda-7aa3-47d3-b0d5-2b58f203d448-16",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "With pronoun:\n\nThe book that I bought was expensive.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-cd3bcbda-7aa3-47d3-b0d5-2b58f203d448-17",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Without pronoun:\n\nThe book I bought was expensive.\n\nچون:\n\nI bought the book.\n\nپس that/which اینجا object است.\n\nاما اگر pronoun subject باشد، نمی‌توانیم حذفش کنیم:\n\nThe man who called me is my teacher.\n\n❌ The man called me is my teacher.\n\nچون:\n\nThe man called me.\n\nاینجا who = subject است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-cd3bcbda-7aa3-47d3-b0d5-2b58f203d448-18",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "یک تست سریع برای تو\n\nبگو هرکدام Defining یا Non-defining هستند و اگر غلط هستند اصلاحشان کن:\n\nThe students who study hard usually get good grades.\n\nMy father, who is a doctor, works at a hospital.\n\nThe book, that I bought yesterday, is very interesting.\n\nThe woman I met yesterday was very friendly.\n\nTehran, which is the capital of Iran, is a huge city.\n\nThe car who is parked outside belongs to my brother.\n\nاگر خواستی، بعد از جواب این ۶ تا، می‌تونیم Relative Clauses را با همان فرمت فاینال جمع کنیم: rule → example → دام امتحانی → تست.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-relative-clauses"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "cd3bcbda-7aa3-47d3-b0d5-2b58f203d448",
+    "capture.turn-number": 14
+  }
+}

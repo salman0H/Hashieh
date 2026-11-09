@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-hand-in-my-cv",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "hand in my CV"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00",
+        "locator": "table:6/data-row:6"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "hand in my CV",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-eb7fa4c36395",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "رزومه‌ام را تحویل بدهم"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00",
+            "locator": "table:6/data-row:6"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00",
+          "locator": "table:6/data-row:6"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

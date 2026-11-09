@@ -1,0 +1,143 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-breadwinner",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "breadwinner"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:1"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:2/data-row:588"
+      },
+      {
+        "sourceId": "src-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a",
+        "locator": "table:1/data-row:9"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:3/data-row:1"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "breadwinner",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-breadwinner",
+    "senses": [
+      {
+        "id": "sense-391d582126af",
+        "partOfSpeech": "Noun",
+        "translation": {
+          "fa": "نان‌آور خانواده"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "provider"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:3/data-row:1"
+          },
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:2/data-row:588"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:3/data-row:1"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-24d066a4e43e",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "فردی که درآمد اصلی خانواده را تأمین می‌کند"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-7e077412f3a5",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "These days, both partners may be breadwinners.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a",
+            "locator": "table:1/data-row:9"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:3/data-row:1"
+        },
+        "group": "priority-c",
+        "sessionId": null,
+        "priority": "C"
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:2/data-row:588"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a",
+          "locator": "table:1/data-row:9"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-ab3a1c6d",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:3/data-row:1"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

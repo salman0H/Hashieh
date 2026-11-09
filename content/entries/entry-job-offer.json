@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-job-offer",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "job offer"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82",
+        "locator": "table:2/data-row:9"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "job offer",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-9611abd367c4",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "پیشنهاد مشخص برای استخدام"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-7d23dd4fc1ee",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "She received a job offer.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82",
+            "locator": "table:2/data-row:9"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82",
+          "locator": "table:2/data-row:9"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-98593651",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

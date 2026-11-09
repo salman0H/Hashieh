@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-employee",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "employee"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:1/data-row:197"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:2/data-row:708"
+      },
+      {
+        "sourceId": "src-original-02f65f74-ec0e-4018-b236-59d82004da17",
+        "locator": "table:1/data-row:2"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "employee",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-employ",
+    "senses": [
+      {
+        "id": "sense-d25aa825f3d6",
+        "partOfSpeech": "Noun",
+        "translation": {
+          "fa": "کارمند"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:1/data-row:197"
+          },
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:2/data-row:708"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-471dbe64e716",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "کارمند"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-02f65f74-ec0e-4018-b236-59d82004da17",
+            "locator": "table:1/data-row:2"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:1/data-row:197"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:2/data-row:708"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-02f65f74-ec0e-4018-b236-59d82004da17",
+          "locator": "table:1/data-row:2"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

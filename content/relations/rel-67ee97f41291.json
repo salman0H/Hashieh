@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-67ee97f41291",
+  "type": "covers",
+  "from": "session-experiences-news",
+  "to": "concept-questions",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-chat-m04",
+      "locator": "message-excerpt"
+    }
+  ],
+  "extensions": {}
+}

@@ -1,0 +1,301 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "مرور جزوهٔ جلسهٔ قبل — Employment & Career"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "مرور جزوهٔ جلسهٔ قبل — Employment & Career\n\nموضوع این جلسه، واژگان مربوط به استخدام، پیدا کردن شغل، حقوق و مزایا و توصیف محیط کاری است. ابتدا عبارت‌های جزوه‌ات را اصلاح می‌کنیم، سپس تفاوت‌های معنایی و گرامری مهم را بررسی می‌کنیم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82-2",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۱. شخصیت و سبک زندگی\n\nواژه یا عبارت\n\n\t\n\nمعنی و کاربرد\n\n\t\n\nمثال\n\n\n\n\neasy-going\n\n\t\n\nآسان‌گیر، خوش‌برخورد و کم‌توقع\n\n\t\n\nI like easy-going people.\n\n\n\n\nlaid-back\n\n\t\n\nریلکس، راحت و غیررسمی در رفتار\n\n\t\n\nI like people who are laid-back.\n\n\n\n\nsedentary\n\n\t\n\nکم‌تحرک؛ معمولاً دربارهٔ شغل یا سبک زندگی\n\n\t\n\nI have a sedentary job.\n\n\n\n\nprestigious\n\n\t\n\nمعتبر و دارای اعتبار یا جایگاه اجتماعی بالا\n\n\t\n\nIt's a prestigious company.\n\n\n\n\nlucrative\n\n\t\n\nپرسود یا پردرآمد\n\n\t\n\nHe has a lucrative job.\n\n\n\n\nsatisfying\n\n\t\n\nرضایت‌بخش؛ چیزی که احساس رضایت ایجاد می‌کند\n\n\t\n\nTeaching can be a satisfying job.\n\nEasy-going و laid-back نزدیک به هم‌اند، اما دقیقاً یکسان نیستند. Easy-going بیشتر بر آسان‌گیری و سخت نگرفتن تأکید دارد؛ laid-back بیشتر به آرامش و بی‌استرس بودن رفتار اشاره می‌کند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82-3",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۲. تفاوت مهم: retiring و tiring\n\nاین دو کلمه از نظر نوشتاری شبیه‌اند، اما معنی متفاوتی دارند.\n\nRetiring\n\nبازنشسته شدن / بازنشسته‌شونده\n\nاز فعل retire می‌آید؛ یعنی از کار یا حرفه بازنشسته شدن.\n\nHe is retiring next year. — او سال آینده بازنشسته می‌شود.\n\na retiring teacher — معلمی که در آستانهٔ بازنشستگی است.\n\nTiring\n\nخسته‌کننده\n\nاز فعل tire می‌آید؛ یعنی خسته کردن.\n\nMy job is tiring. — شغلم خسته‌کننده است.\n\nIt was a tiring day. — روز خسته‌کننده‌ای بود.\n\nاین سه کلمه را هم از هم جدا نگه دار:\n\ntiring = خسته‌کننده؛ چیزی که خستگی ایجاد می‌کند.\n\ntired = خسته؛ وضعیت فرد.\n\nretiring = مربوط به بازنشستگی؛ در کاربرد دیگری می‌تواند به فرد کم‌حرف و خجالتی هم اشاره کند.\n\nمثال ترکیبی:\n\nMy father is retiring next year, but he says his job has never been tiring.\n\nپدرم سال آینده بازنشسته می‌شود، اما می‌گوید شغلش هیچ‌وقت خسته‌کننده نبوده است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82-4",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۳. پیدا کردن شغل و فرایند استخدام\n\nعبارت\n\n\t\n\nمعنی\n\n\t\n\nمثال\n\n\n\n\nlook for a job\n\n\t\n\nدنبال کار گشتن\n\n\t\n\nI'm looking for a job.\n\n\n\n\nsearch for a job\n\n\t\n\nجست‌وجوی شغل؛ کمی رسمی‌تر\n\n\t\n\nShe's searching for a job online.\n\n\n\n\nemployment\n\n\t\n\nاشتغال، وضعیت استخدام\n\n\t\n\nEmployment opportunities are limited.\n\n\n\n\nrecruitment\n\n\t\n\nفرایند جذب و استخدام نیرو\n\n\t\n\nThe company is responsible for recruitment.\n\n\n\n\napplicant\n\n\t\n\nمتقاضی؛ کسی که درخواست داده\n\n\t\n\nWe interviewed five applicants.\n\n\n\n\nrecruit\n\n\t\n\nاستخدام یا جذب کردن نیرو\n\n\t\n\nWe need to recruit an administrator.\n\n\n\n\njob vacancy\n\n\t\n\nموقعیت شغلی خالی\n\n\t\n\nThere are two job vacancies.\n\n\n\n\njob opportunity\n\n\t\n\nفرصت شغلی\n\n\t\n\nThis is a good job opportunity.\n\n\n\n\njob offer\n\n\t\n\nپیشنهاد مشخص برای استخدام\n\n\t\n\nShe received a job offer.\n\n\n\n\nemployment website\n\n\t\n\nوب‌سایت کاریابی\n\n\t\n\nI found the vacancy on an employment website.\n\n\n\n\nfreelance platform\n\n\t\n\nپلتفرم کار آزاد\n\n\t\n\nHe created a profile on a freelance platform.\n\n\n\n\nportfolio\n\n\t\n\nنمونه‌کارها و مجموعهٔ پروژه‌ها\n\n\t\n\nYou should create a professional portfolio.\n\n\n\n\nCV / résumé\n\n\t\n\nرزومه\n\n\t\n\nSend your CV to the employer.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82-5",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "تفاوت employment و recruitment\n\nاین دو کلمه مترادف نیستند:\n\nEmployment یعنی اشتغال یا استخدام‌شدن؛ رابطهٔ کاری فرد و سازمان.\n\nRecruitment یعنی فرایندی که شرکت برای پیدا کردن و جذب نیروی مناسب انجام می‌دهد.\n\nمثال:\n\nThe company has a recruitment process for new employees.\n\nشرکت برای استخدام کارکنان جدید یک فرایند جذب نیرو دارد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82-6",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "تفاوت job position، job opportunity و job offer\n\nJob position: یک سمت یا عنوان شغلی؛ مثلاً software developer.\n\nJob opportunity: فرصتی برای استخدام یا پیشرفت شغلی.\n\nJob offer: پیشنهاد استخدامی که معمولاً پس از ارزیابی متقاضی ارائه می‌شود.\n\nکلمهٔ competition به معنی «رقابت» است، نه پیشنهاد شغلی. احتمالاً در جزوه‌ات job offer و competition با هم ترکیب شده‌اند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82-7",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "اصلاح جمله‌های جزوه\n\n۱. جملهٔ اولیه:\n\nWe need recuit an admin for our instagram page.\n\nنسخهٔ اصلاح‌شده:\n\nWe need to recruit an administrator for our Instagram page.\n\nیا در مکالمهٔ روزمره:\n\nWe need to hire someone to manage our Instagram page.\n\nنکته: بعد از need، در این کاربرد از to + verb استفاده می‌کنیم: need to recruit.\n\n۲. جملهٔ اولیه:\n\nSend his CV to a finding job site or employment website or freelancer site.\n\nنسخهٔ طبیعی‌تر:\n\nHe should upload his CV to a job-search website or a freelance platform.\n\nاگر منظورت ارسال رزومه برای یک شرکت مشخص است:\n\nHe should send his CV to the employer.\n\nUpload یعنی بارگذاری فایل در وب‌سایت؛ send یعنی ارسال کردن. این دو همیشه قابل‌جایگزینی نیستند.\n\n۳. عبارت:\n\nLook for a job publicly\n\nاین عبارت لزوماً غلط نیست، اما برای بیان «آشکارا اعلام کردن که دنبال کار هستی» دقیق‌تر است بگویی:\n\nHe publicly announced that he was looking for a job.\n\nاگر منظورت این است که در وب‌سایت‌های عمومی دنبال شغل می‌گردد:\n\nHe is looking for a job online.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82-8",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "CV و résumé\n\nهر دو برای رزومه به کار می‌روند. در کاربرد معمول بریتانیایی، CV رایج‌تر است؛ در انگلیسی آمریکایی، برای رزومهٔ شغلی معمولاً résumé رایج است. در بعضی حوزه‌های دانشگاهی و پژوهشی آمریکا، CV معنای مفصل‌تری دارد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82-9",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۴. استعفا، ترک شغل و اخراج شدن\n\nاین قسمت مهم است، چون چند عبارت جزوه‌ات از نظر معنا تفاوت دارند.\n\nعبارت\n\n\t\n\nمعنی دقیق\n\n\n\n\nquit a job\n\n\t\n\nشغل را ترک کردن؛ معمولاً با تصمیم خود فرد\n\n\n\n\nresign from a job\n\n\t\n\nاستعفا دادن؛ رسمی‌تر\n\n\n\n\nleave a job\n\n\t\n\nشغل را ترک کردن؛ عمومی و خنثی\n\n\n\n\nabandon a job\n\n\t\n\nکار را رها کردن؛ اغلب با بار معنایی منفی یا بدون انجام مسئولیت‌ها\n\n\n\n\nget fired\n\n\t\n\nاخراج شدن؛ رایج در انگلیسی آمریکایی\n\n\n\n\nget sacked\n\n\t\n\nاخراج شدن؛ رایج در انگلیسی بریتانیایی و غیررسمی‌تر\n\nGet out مترادف دقیق quit نیست. عبارت get out معمولاً به معنی بیرون رفتن یا خارج شدن است. برای ترک شغل، از quit، leave یا resign استفاده کن.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82-10",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "اصلاح مثال جزوه\n\nنسخهٔ اولیه:\n\nShe was not panctual at all because of that she got fierd.\n\nنسخهٔ اصلاح‌شده:\n\nShe wasn't punctual at all, so she got fired.\n\nاو اصلاً وقت‌شناس نبود، بنابراین اخراج شد.\n\nیا:\n\nShe was fired because she was consistently late.\n\nاو به دلیل اینکه مرتب دیر می‌کرد، اخراج شد.\n\nواژگان مهم:\n\npunctual = وقت‌شناس\n\nconsistently = به‌طور مداوم\n\nget fired = اخراج شدن\n\nfire someone = کسی را اخراج کردن\n\nبه تفاوت این دو ساختار توجه کن:\n\nShe got fired. — او اخراج شد.\n\nThe company fired her. — شرکت او را اخراج کرد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82-11",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۵. حقوق، درآمد و تأمین مالی خانواده",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82-12",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Earn در برابر make money\n\nهر دو می‌توانند به «پول درآوردن» اشاره کنند، اما کاربردشان کمی متفاوت است.\n\nEarn money: پولی که از کار، خدمت یا فعالیت درآمدزا به دست می‌آوری.\n\nMake money: عبارت عمومی‌تر برای درآمد کسب کردن یا سود بردن.\n\nمثال:\n\nI earn a good salary. — حقوق خوبی می‌گیرم.\n\nShe earns money by teaching English. — او از تدریس انگلیسی درآمد کسب می‌کند.\n\nHis business makes a lot of money. — کسب‌وکارش پول زیادی درمی‌آورد.\n\nHe wants to support his family financially. — او می‌خواهد از نظر مالی از خانواده‌اش حمایت کند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82-13",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "اصلاح جمله‌های جزوه\n\nجملهٔ اولیه:\n\nIn contrary, to support a fmily financially.\n\nاگر منظورت «در مقابل، برای تأمین مالی خانواده» است، می‌توانی بنویسی:\n\nOn the other hand, people need to earn enough money to support their families financially.\n\nاز طرف دیگر، مردم باید به‌اندازهٔ کافی درآمد داشته باشند تا از نظر مالی از خانواده‌هایشان حمایت کنند.\n\nOn the contrary و on the other hand یکسان نیستند:\n\nOn the contrary = برعکس؛ برای رد یا نقض یک ادعا.\n\nOn the other hand = از طرف دیگر؛ برای مطرح کردن جنبه‌ای متفاوت.\n\nجملهٔ اولیه:\n\nIn iran pay is not good.\n\nنسخهٔ طبیعی‌تر:\n\nIn Iran, salaries are generally low.\n\nیا:\n\nThe pay in Iran is relatively low.\n\nعبارت its pay is not good فقط زمانی مناسب است که مرجع its مشخص باشد؛ مثلاً دربارهٔ یک شرکت یا شغل مشخص صحبت کنی. برای صحبت کلی دربارهٔ حقوق، pay in Iran یا salaries in Iran مناسب‌تر است.\n\nعبارت اولیه:\n\nEverything about more lurative\n\nاین عبارت جملهٔ کامل و روشنی نیست. اگر منظورت این است که «همه‌چیز به پردرآمدتر بودن مربوط می‌شود»، می‌توانی بگویی:\n\nIt's all about finding a more lucrative job.\n\nاگر منظورت «پردرآمدتر بودن یکی از عوامل مهم انتخاب شغل است» باشد:\n\nA more lucrative job is one of the main factors people consider when choosing a career.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82-14",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۶. سایر عبارت‌ها و اصلاحات جزوه",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82-15",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Inform — اطلاع دادن\n\nInform someone about something یا inform someone of something\n\nPlease inform your employer about the delay.\n\nShe informed me of the changes.\n\nدر مکالمهٔ روزمره، tell someone about something هم بسیار رایج است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82-16",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Get contact with my employer\n\nشکل طبیعی‌تر:\n\nGet in contact with my employer.\n\nیا:\n\nGet in touch with my employer.\n\nهر دو یعنی با کارفرمایم تماس بگیرم. همچنین می‌توانی بگویی:\n\nI need to contact my employer.\n\nدر این جمله، contact فعل است و نیازی به with ندارد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82-17",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "His father! Extremely powerful connection.\n\nاگر منظورت این است که پدرش ارتباطات کاری بسیار قدرتمندی دارد:\n\nHis father has very powerful connections.\n\nConnections در زمینهٔ شغلی یعنی آشنایی‌ها و ارتباطاتی که می‌توانند به پیدا کردن شغل یا پیشرفت حرفه‌ای کمک کنند.\n\nمثال:\n\nHe got the job partly because his father had strong connections.\n\nاو تا حدی به‌خاطر ارتباطات قوی پدرش آن شغل را به دست آورد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82-18",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Variety و majesty\n\n- Variety = تنوع\nThis job offers a variety of opportunities.\nاین شغل فرصت‌های متنوعی ارائه می‌دهد.\n\n- Majesty = شکوه و عظمت؛ معمولاً برای چیزی باشکوه یا باعظمت.\nThe majesty of the palace was breathtaking.\nشکوه کاخ نفس‌گیر بود.\n\nاملای درست کلمهٔ دوم majesty است، نه magesti.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82-19",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "She faces with her faith\n\nاین عبارت به همین شکل طبیعی نیست. دو احتمال وجود دارد:\n\nShe faces her fate. — او با سرنوشتش روبه‌رو می‌شود.\n\nShe faces challenges with faith. — او با ایمان با چالش‌ها روبه‌رو می‌شود.\n\nFace به معنی «مواجه شدن با» معمولاً مستقیماً مفعول می‌گیرد و with لازم ندارد:\n\nface a challenge\n\nface a problem\n\nface your fears\n\nاما در face challenges with confidence، کلمهٔ with نحوهٔ مواجهه را بیان می‌کند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82-20",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "He is like be a construction building tower or invest in that.\n\nاگر منظورت این است که او می‌خواهد در ساخت برج سرمایه‌گذاری کند، می‌توانی بگویی:\n\nHe would like to invest in the construction of a tower.\n\nاگر منظورت این است که خودش می‌خواهد برج بسازد:\n\nHe would like to build a tower.\n\nاگر منظورت این است که می‌خواهد وارد صنعت ساخت‌وساز شود:\n\nHe would like to work in the construction industry.\n\nاین سه جمله معانی متفاوتی دارند؛ invest in یعنی سرمایه‌گذاری کردن در چیزی، نه لزوماً ساختن آن.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82-21",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۷. سؤال آخر: Satisfying یعنی چه؟\n\nSatisfying یعنی رضایت‌بخش؛ چیزی که باعث می‌شود احساس کنی نیاز، انتظار یا هدفی برآورده شده است.\n\nاین کلمه از فعل satisfy می‌آید.\n\nشکل\n\n\t\n\nنقش\n\n\t\n\nمعنی\n\n\n\n\nsatisfy\n\n\t\n\nفعل\n\n\t\n\nبرآورده کردن، راضی کردن\n\n\n\n\nsatisfied\n\n\t\n\nصفت\n\n\t\n\nراضی، خشنود\n\n\n\n\nsatisfying\n\n\t\n\nصفت\n\n\t\n\nرضایت‌بخش\n\n\n\n\nsatisfaction\n\n\t\n\nاسم\n\n\t\n\nرضایت، خشنودی\n\n\n\n\nsatisfactory\n\n\t\n\nصفت\n\n\t\n\nقابل‌قبول یا رضایت‌بخش از نظر استاندارد\n\nمثال‌ها:\n\nThe job is satisfying. — این شغل رضایت‌بخش است.\n\nI'm satisfied with my salary. — از حقوقم راضی هستم.\n\nThe job satisfies my needs. — این شغل نیازهایم را برآورده می‌کند.\n\nI get a lot of satisfaction from helping people. — از کمک کردن به مردم رضایت زیادی می‌گیرم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82-22",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "تفاوت satisfying و satisfactory\n\nSatisfying بیشتر بر احساس رضایت شخصی تأکید دارد.\n\nSatisfactory بیشتر یعنی چیزی به‌اندازهٔ کافی خوب است یا استانداردهای لازم را برآورده می‌کند.\n\nمثلاً:\n\nHelping people is satisfying, but the salary isn't satisfactory.\n\nکمک به مردم رضایت‌بخش است، اما حقوق قابل‌قبول نیست.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82-23",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "عبارت مهم جزوه: meet all my needs\n\nجملهٔ تو:\n\nI can satisfy or meet all my needs.\n\nطبیعی‌تر است بگویی:\n\nI can earn enough money to meet all my needs.\n\nمی‌توانم به‌اندازه‌ای درآمد داشته باشم که تمام نیازهایم را تأمین کنم.\n\nMeet my needs ترکیب بسیار رایجی است؛ در این بافت معمولاً از satisfy my needs طبیعی‌تر به نظر می‌رسد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82-24",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۸. تمرین مرور واژگان\n\n1. My manager is relaxed and doesn't get angry easily. She is very ___.\n\nlaid-back\nprestigious\nsedentary\n\n2. The company wants to ___ three new software developers.\n\nrecruit\nresign\nretire\n\n3. He left his job voluntarily. He decided to ___.\n\nget fired\nresign\nget sacked\n\n4. She earns a high salary. Her job is very ___.\n\nlucrative\ntiring\npunctual\n\n5. Helping patients gives him a sense of achievement. His job is ___.\n\nsatisfying\nsatisfied\nsatisfaction\n\n6. You should send your ___ to the employer when you apply for the position.\n\nCV\nrecruitment\nconnection\n\n7. He works at a desk all day and gets very little exercise. He has a ___ job.\n\nsedentary\nprestigious\neasy-going\nTry again\n\nاولویت مرور این جلسه: تفاوت employment / recruitment، تفاوت quit / resign / get fired، ترکیب‌های earn money و support a family financially، و خانوادهٔ واژگانی satisfy / satisfied / satisfying / satisfaction.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": []
+  },
+  "extensions": {
+    "capture.message-id": "2ecbfb90-efd1-47f2-8988-790c5ca2ca82",
+    "capture.turn-number": 37
+  }
+}

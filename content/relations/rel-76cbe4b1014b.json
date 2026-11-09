@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-76cbe4b1014b",
+  "type": "member-of",
+  "from": "entry-social",
+  "to": "family-sociable",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+      "locator": "table:2/data-row:362"
+    },
+    {
+      "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+      "locator": "table:2/data-row:727"
+    }
+  ],
+  "extensions": {}
+}

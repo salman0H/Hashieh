@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-avid-reader",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "avid reader"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m08",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-original-2340c3c8-781f-4c46-8506-088417f410fb",
+        "locator": "table:8/data-row:4"
+      },
+      {
+        "sourceId": "src-original-2340c3c8-781f-4c46-8506-088417f410fb",
+        "locator": "table:13/data-row:10"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "avid reader",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-753c6912b064",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "خوانندهٔ بسیار مشتاق"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-2340c3c8-781f-4c46-8506-088417f410fb",
+            "locator": "table:8/data-row:4"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-7d9f65e89627",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "خوانندهٔ مشتاق"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-2340c3c8-781f-4c46-8506-088417f410fb",
+            "locator": "table:13/data-row:10"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m08",
+          "locator": "message-excerpt"
+        },
+        "group": "learner-notes",
+        "sessionId": "session-team-spirit",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-2340c3c8-781f-4c46-8506-088417f410fb",
+          "locator": "table:8/data-row:4"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-team-spirit",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-2340c3c8-781f-4c46-8506-088417f410fb",
+          "locator": "table:13/data-row:10"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-team-spirit",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

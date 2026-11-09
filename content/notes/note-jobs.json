@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-jobs",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Jobs and ambitions — original notes"
+  },
+  "tags": [
+    "source-notes"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m02",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-jobs-source",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "تفاوت استفاده devepment و develoaper چی هستش؟ با مثال توضیح بده.\nدر سوال what kind of job would you like to do? گرامر به این توجه میکنه ک چ کار هایی رو دوست داری انجام بدی؟ ایا نحوه دیگری برای این پرسش هست ک kind رده معنایی دیگ ای داشته باشه؟ و جواب اون باید با چی شروع بشه؟ میتونیم به این صورت جواب بدیم ک:\ni would like have job in tech and programming category. because it is so  useful for my major and future.\ndo you like work with other people? yes, i do. it help me to comminucate and improve my mindset to create a new produnct.\nwhat did you like to be when you were a child? i liked to be a swimmer. for the reason that i lost in my imagination.\nwhat kind of job you think are difficult? in my openion everything about to convince people to do something are tough.\nwhat jobs do you think are the most essrntial? sometimes i looking around of myself and see banch of enviromental issues. i think the most essentia jobs are to secure society ro save and do not destroy the world.\nاین کلمات هم در این یونیت بحث شده:\ndull exciting fun hard incredible stressful tiring unusal receptionist",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-word-families",
+      "concept-would-like",
+      "concept-questions",
+      "concept-present-simple",
+      "concept-past-simple",
+      "concept-writing"
+    ]
+  },
+  "extensions": {}
+}

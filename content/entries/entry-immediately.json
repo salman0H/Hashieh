@@ -1,0 +1,84 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-immediately",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "immediately"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m08",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:2/data-row:683"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "immediately",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-immediately",
+    "senses": [
+      {
+        "id": "sense-27f23d014b55",
+        "partOfSpeech": "Adverb",
+        "translation": {
+          "fa": "بلافاصله"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:2/data-row:683"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m08",
+          "locator": "message-excerpt"
+        },
+        "group": "learner-notes",
+        "sessionId": "session-team-spirit",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:2/data-row:683"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {
+    "language.normalization": {
+      "observed": "imedietly",
+      "candidate": "immediately",
+      "status": "needs-review"
+    }
+  }
+}

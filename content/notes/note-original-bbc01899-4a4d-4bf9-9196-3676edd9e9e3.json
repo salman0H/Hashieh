@@ -1,0 +1,824 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "1. Advanced Grammar — Present Simple vs Present Continuous"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "assessment",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "این بخش را به‌عنوان Advanced Grammar + Unit 7 Class Notes مرتب می‌کنم. چند مورد از جزوه‌ات هم از نظر انگلیسی نیاز به اصلاح دارد؛ مخصوصاً چند مورد که اگر همان شکل حفظ شوند، در Speaking و Writing اشتباه تولید می‌کنند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-2",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "1. Advanced Grammar — Present Simple vs Present Continuous",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-3",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "A. Present Simple\n\nبرای چیزهایی که regularly happen، یعنی به‌طور معمول یا تکراری اتفاق می‌افتند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-4",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "ساختار\n\nSubject + base verb\n\nبرای he / she / it:\n\nSubject + verb-s/es",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-5",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Time expressions\nevery day\nevery week\nevery year\non Mondays\noften\nusually\nsometimes\nrarely\nseldom\nnever",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-6",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Examples\n\nI work from Monday to Friday.\nShe works in a hospital.\nI usually go to the gym after work.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-7",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "2. Present Continuous\n\nبرای چیزی که:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-8",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "1. الآن در حال اتفاق افتادن است\n\nSubject + am/is/are + V-ing\n\nI am studying English now.\nShe is talking to her manager.\nThey are working on a new project.\n\nنشانه‌ها:\n\nnow\nright now\nat the moment\ncurrently",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-9",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "2. موقعیت موقتی\n\nاین نکته مهم است.\n\nI live here.\n\nمعمولاً یعنی اینجا زندگی می‌کنم؛ این یک وضعیت نسبتاً دائمی است.\n\nاما:\n\nI am living here.\n\nیعنی فعلاً / برای یک دوره موقت اینجا زندگی می‌کنم.\n\nمثلاً:\n\nI normally live in Tehran, but I am living in Mashhad this month.\n\nیعنی زندگی در مشهد temporary است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-10",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "نکته مهم\n\nجمله‌ای که در جزوه نوشته‌ای:\n\n❌ I am live here.\n\nغلط است.\n\nاگر Present Continuous باشد:\n\n✅ I am living here.\n\nاگر Present Simple باشد:\n\n✅ I live here.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-11",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "3. Stative Verbs\n\nStative verb = فعل حالتی\n\nاین افعال معمولاً یک state را بیان می‌کنند، نه یک action.\n\nمثلاً:\n\nI know the answer.\n\nknow یک حالت ذهنی است، نه کاری که در حال انجام دادن باشم.\n\nبنابراین معمولاً نمی‌گوییم:\n\n❌ I am knowing the answer.\n\nبلکه:\n\n✅ I know the answer.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-12",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "گروه‌های مهم\nStative verb\tمعنی\nlove\tدوست داشتن\nhate\tمتنفر بودن\nlike\tدوست داشتن\nwant\tخواستن\nneed\tنیاز داشتن\nknow\tدانستن\nunderstand\tمتوجه شدن\nbelieve\tباور داشتن\ndoubt\tشک داشتن\nrecognize\tتشخیص دادن\nown\tمالک بودن\npossess\tدر اختیار داشتن\nowe\tبدهکار بودن\nwish\tآرزو داشتن\nprefer\tترجیح دادن\ndepend\tبستگی داشتن\nseem\tبه نظر رسیدن\nbelong\tتعلق داشتن",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-13",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "4. اما بعضی فعل‌ها هم Stative هستند، هم Dynamic\n\nاین قسمت Advanced Grammar مهم‌تر است.\n\nبعضی افعال بسته به معنی، می‌توانند Continuous شوند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-14",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "THINK",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-15",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Opinion → Stative\n\nWhat do you think of my shoes?\n\nیعنی:\n\nنظرت درباره کفش‌هایم چیست؟\n\nاینجا think یعنی have an opinion.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-16",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Mental activity → Dynamic\n\nI am thinking about my future.\n\nیعنی:\n\nدارم درباره آینده‌ام فکر می‌کنم.\n\nپس:\n\nthink that → معمولاً stative\nthink about → می‌تواند dynamic باشد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-17",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "5. LOOK",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-18",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Appearance → Stative\n\nHe looks like a French man.\n\nیعنی:\n\nظاهرش شبیه یک مرد فرانسوی است.\n\nlooks like = seems to have the appearance of",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-19",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Looking at something → Dynamic\n\nI am looking at that painting.\n\nیعنی:\n\nدارم به آن نقاشی نگاه می‌کنم.\n\nپس:\n\nlook like → حالت / appearance\nlook at → action",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-20",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "6. FEEL",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-21",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "State / opinion\n\nI feel that it is a bad idea.\n\nیعنی:\n\nاحساس می‌کنم / عقیده دارم ایده بدی است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-22",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Physical action/state\n\nI am feeling much better today.\n\nاینجا Continuous ممکن است چون یک temporary condition را بیان می‌کند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-23",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "7. BE + V-ing و تفاوت معنایی مهم\n\nیکی از بهترین مثال‌های جزوه:\n\nHe is stupid.\n\nیعنی:\n\nاو آدم احمقی است.\n\nاین بیشتر یک characteristic است.\n\nاما:\n\nHe is being stupid.\n\nیعنی:\n\nالان دارد احمقانه رفتار می‌کند.\n\nپس:\n\nbe + adjective\n\n→ characteristic / state\n\nbe being + adjective\n\n→ temporary behaviour\n\nمثلاً:\n\nYou are rude.\n\n= تو آدم بی‌ادبی هستی / رفتارت بی‌ادبانه است.\n\nYou are being rude.\n\n= الان داری بی‌ادبانه رفتار می‌کنی.\n\nاین distinction در سطح B1/B2 بسیار مفید است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-24",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "8. Vocabulary — Unit 7: Work Life",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-25",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Jobs",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-26",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Chef vs Cook\n\nCook\n\n= کسی که غذا می‌پزد.\n\nChef\n\n= آشپز حرفه‌ای، معمولاً در رستوران، و اغلب مسئول مدیریت آشپزخانه.\n\nHe works as a cook in a small restaurant.\n\nShe is a chef at a five-star restaurant.\n\nنکته:\n\n❌ The chef is who leads cooks.\n\nطبیعی‌تر:\n\nThe chef is the person who manages the kitchen and supervises the cooks.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-27",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Ingredients\n\ningredient = ماده اولیه غذا\n\nWe need fresh ingredients to make this dish.\n\nمثلاً:\n\nflour\neggs\nmilk\nsugar\nsalt",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-28",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "9. Receptionist\n\nA receptionist deals with customers / visitors / the public.\n\ndeal with = سر و کار داشتن / رسیدگی کردن به\n\nA receptionist deals with customers and answers phone calls.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-29",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "10. Nurse\n\nجزوه:\n\nA nurse take care or look after the patients.\n\nاصلاح:\n\nA nurse takes care of patients.\n\nیا:\n\nA nurse looks after patients.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-30",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "take care of\n\n= مراقبت کردن از\n\nNurses take care of patients.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-31",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "look after\n\n= مراقبت کردن از\n\nShe looks after elderly patients.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-32",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "11. Invest\n\ninvest in something\n\n= در چیزی سرمایه‌گذاری کردن\n\nThe company invested in new technology.\n\nI want to invest in my education.\n\nعبارت مهم:\n\ninvest in\n\nنه:\n\n❌ invest on",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-33",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "12. Run a business\n\nrun a business\n\n= یک کسب‌وکار را اداره کردن\n\nShe runs a successful business.\n\nیعنی:\n\nShe manages a successful business.\n\nاما run در اینجا بسیار طبیعی‌تر است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-34",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "13. Consult\n\nدر جزوه پرسیده بودی:\n\nShe consults others about starting or launching a business.\n\nconsult = با کسی مشورت کردن / از متخصص نظر گرفتن\n\nساختار مهم:\n\nconsult someone about something\n\nمثلاً:\n\nShe consulted her lawyer about the contract.\n\nیا:\n\nI consulted my manager about the problem.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-35",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "14. Advice\n\nاین یکی را دقیق حفظ کن:\n\nadvice = uncountable noun\n\nبنابراین:\n\n❌ an advice\n❌ advices\n❌ give an advice\n\nدرست:\n\ngive advice\n\nsome advice\n\na piece of advice\n\nمثال:\n\nMy teacher gave me some good advice.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-36",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "15. Mop\n\nHe is mopping the floor.\n\nmop = تی کشیدن\n\nmop the floor\n\n= زمین را تی کشیدن",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-37",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "16. Dental Issues\n\ndental issue\n\n= مشکل مربوط به دندان\n\nI have some dental issues.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-38",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Dentist\n\nدندان‌پزشک می‌تواند:\n\nextract a tooth\n\n= دندان کشیدن\n\ngive someone a filling\n\n= دندان را پر کردن\n\ncheck someone's teeth\n\n= دندان‌ها را معاینه کردن\n\nمثال:\n\nThe dentist extracted my bad tooth.\n\nI need to get a filling.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-39",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "17. Challenging vs Difficult\n\nاین distinction مهم است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-40",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Difficult / hard\n\n= سخت\n\nلزوماً مثبت نیست.\n\nThis exam is difficult.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-41",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Challenging\n\n= چالش‌برانگیز\n\nاغلب positive است، چون باعث رشد می‌شود.\n\nThis job is challenging, but I enjoy it.\n\nیعنی:\n\nاین کار چالش‌برانگیز است، ولی از آن لذت می‌برم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-42",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "18. Demanding\n\ndemanding = نیازمند انرژی، زمان یا تلاش زیاد\n\nIt's a demanding job.\n\nیعنی:\n\nشغل سخت و انرژی‌بری است.\n\nدقت کن:\n\ndemand\n\n= درخواست کردن / مطالبه کردن\n\ndemanding\n\n= requiring a lot of effort, time or energy\n\nپس:\n\na demanding job\n\nلزومی ندارد یعنی «درخواست‌کننده».",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-43",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "19. Promising vs Dead-end",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-44",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Promising\n\n= دارای آینده خوب / امیدوارکننده\n\nIt's a promising career.\n\nیعنی:\n\nاین شغل آینده خوبی دارد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-45",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Dead-end job\n\n= شغلی که مسیر پیشرفت ندارد\n\nI don't want a dead-end job.\n\nیعنی:\n\nشغلی نمی‌خواهم که امکان پیشرفت نداشته باشد.\n\nبنابراین:\n\npromising job ≠ dead-end job",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-46",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "20. Secure job\n\nsecure job\n\n= شغلی با امنیت شغلی بالا\n\nI want a secure job because I don't want to worry about losing my income.\n\njob security\n\n= امنیت شغلی\n\nThis company offers good job security.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-47",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "21. Lucrative\n\nlucrative = بسیار پول‌ساز\n\na lucrative career\n\nیعنی:\n\ncareer that earns a lot of money\n\nمقابل آن:\n\nlow-paid\n\nاما دقیقاً antonym نیست.\n\nlucrative → highly profitable\nwell-paid → حقوق خوب\nlow-paid → حقوق پایین\n\nمثال:\n\nProgramming can be a lucrative career.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-48",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "22. Manage a crisis\n\nmanage a crisis\n\n= بحران را مدیریت کردن\n\nA good manager knows how to manage a crisis.\n\nهمچنین:\n\ndeal with a crisis\n\n= با بحران برخورد/مقابله کردن",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-49",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "23. Criticize\n\nاملای درست:\n\ncriticize\n\n= انتقاد کردن\n\nMy manager criticized my work.\n\nاسم:\n\ncriticism = انتقاد\n\nصفت:\n\ncritical = انتقادی / بسیار مهم، بسته به context",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-50",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "24. Sedentary job\n\nsedentary job\n\n= شغل کم‌تحرک، معمولاً پشت میز\n\nProgramming is often a sedentary job.\n\nI have a sedentary job, so I try to exercise regularly.\n\nبرای تو این vocabulary کاربردی است چون می‌توانی درباره شغل Front-end صحبت کنی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-51",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "25. White-collar vs Blue-collar",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-52",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "White-collar job\n\nمعمولاً کار اداری، تخصصی یا professional.\n\nمثلاً:\n\nprogrammer\nengineer\naccountant\nmanager\nlawyer\n\nSoftware development is generally considered a white-collar job.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-53",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Blue-collar job\n\nمعمولاً کارهای فیزیکی، صنعتی یا manual.\n\nمثلاً:\n\nconstruction worker\nmechanic\nfactory worker\nelectrician\n\nElectricians are often considered blue-collar workers.\n\nالبته این دسته‌بندی‌ها در دنیای واقعی کاملاً مطلق نیستند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-54",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "26. Harmony\n\nharmony = هماهنگی / سازگاری\n\nWe need to work together in harmony.\n\nیعنی:\n\nباید هماهنگ با هم کار کنیم.\n\nدر محیط کار:\n\nA good team needs harmony between its members.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-55",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "27. QA\n\nQA = Quality Assurance\n\n= تضمین کیفیت\n\nدر شرکت‌های نرم‌افزاری:\n\nQA engineers test software to find bugs and make sure the product meets quality standards.\n\nمثلاً:\n\nThe developer writes the code, and the QA engineer tests it.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-56",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "28. Responsible for vs In charge of\n\nاین قسمت را حتماً اصلاح کن.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-57",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Responsible for\n\nI am responsible for + noun / V-ing\n\nI am responsible for the website.\n\nI am responsible for developing the website.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-58",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "In charge of\n\nنه at.\n\nI am in charge of + noun / V-ing\n\nI am in charge of the project.\n\nI am in charge of managing the team.\n\nپس:\n\n❌ I am in charge at the project.\n\n✅ I am in charge of the project.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-59",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "29. Food Vocabulary",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-60",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Foodie\n\nfoodie = کسی که علاقه زیادی به غذا و تجربه غذاهای مختلف دارد.\n\nI'm a foodie. I love trying new restaurants.\n\nاین با glutton فرق دارد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-61",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Glutton\n\n= کسی که بیش از حد غذا می‌خورد\n\nHe's a glutton.\n\nمعمولاً بار منفی دارد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-62",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Cooker vs Cook\n\nاین دو را قاطی نکن.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-63",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Cook\n\n= آشپز / کسی که غذا می‌پزد",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-64",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Cooker\n\n= وسیله آشپزی، مخصوصاً در British English\n\nThe cooker is broken.\n\nیعنی:\n\nاجاق گاز خراب است.\n\nپس:\n\n❌ He is a cooker.\n\nاگر منظورت آشپز است:\n\n✅ He is a cook.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-65",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "30. Put food in the oven\n\nجزوه:\n\nPut edible on oven.\n\nاین طبیعی نیست.\n\nedible یک adjective است:\n\nedible = قابل خوردن\n\nبرای غذا بگو:\n\nPut the food in the oven.\n\nیا:\n\nPut the dish in the oven.\n\nمثال:\n\nPut the chicken in the oven for 40 minutes.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-66",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "31. Groceries\n\ngroceries = مواد غذایی و اقلام روزمره‌ای که از supermarket می‌خریم.\n\nI need to buy some groceries.\n\nI went to the supermarket to get some groceries.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-67",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "32. Punctual\n\nاحتمالاً چیزی که در جزوه به شکل Pnkchoual نوشته‌ای:\n\npunctual\n\n= وقت‌شناس، سر وقت\n\nHe is always punctual.\n\nShe is very punctual at work.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-68",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "On time\n\n= سر وقت\n\nThe train arrived on time.\n\nتفاوت:\n\npunctual → ویژگی شخص\n\non time → یک اتفاق/کار\n\nHe is punctual.\n\nHe arrived on time.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-69",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "33. Knack\n\nاین جمله‌ات خوب است:\n\nI have a talent or knack for mixing flavors.\n\nknack for something / doing something\n\n= استعداد یا توانایی طبیعی در انجام کاری\n\nShe has a knack for languages.\n\nHe has a knack for solving problems.\n\nفرقش با talent:\n\ntalent = استعداد\n\nknack = یک توانایی خاص که شخص به‌طور طبیعی در آن خوب است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-70",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "34. چند اصلاح مهم از جزوه\n\nاین‌ها را به شکل صحیح در جزوه‌ات جایگزین کن:\n\nجزوه\tCorrect\nFives advice\tgives advice\ninvest on\tinvest in\nin charge at\tin charge of\ncriticize\tcriticize\nPnkchoual\tpunctual\nCooker = آشپز\tcook = آشپز / cooker = وسیله آشپزی\nput edible on oven\tput the food in the oven\ntake care the patients\ttake care of patients\nnurse take\tnurse takes\nhe is a cooker\the is a cook",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3-71",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "35. مهم‌ترین بخش برای Speaking یونیت 7\n\nاین vocabularyها را فقط حفظ نکن؛ با آنها job description بساز.\n\nمثلاً برای خودت:\n\nI work as a front-end developer. I am responsible for developing user interfaces and improving the user experience. My job can be challenging and demanding because I have to solve problems and work with other people. It is also a sedentary job because I spend a lot of time at my desk. However, I find it exciting because I can create new products and constantly improve my skills.\n\nاینجا چندین مورد از vocabulary همین جلسه را همزمان استفاده کردی:\n\nresponsible for\ndeveloping\nchallenging\ndemanding\nsedentary\nexciting\nimprove\nskills\n\nاین دقیقاً همان روشی است که باید برای B1 Speaking جلو برویم: به‌جای حفظ کردن challenging = چالش‌برانگیز، کلمه را داخل یک reusable sentence pattern یاد بگیری.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-present-simple",
+      "concept-present-continuous",
+      "concept-stative-verbs",
+      "concept-writing"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "bbc01899-4a4d-4bf9-9196-3676edd9e9e3",
+    "capture.turn-number": 25
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-aquatic",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "aquatic"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:26"
+      },
+      {
+        "sourceId": "src-chat-m07",
+        "locator": "normalized-text/line:26",
+        "quote": "Creature = ? —> aquatic creatures = ?"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:2/data-row:187"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:3/data-row:26"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "aquatic",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-aquatic",
+    "senses": [
+      {
+        "id": "sense-48db5dc3748c",
+        "partOfSpeech": "Adjective",
+        "translation": {
+          "fa": "آبزی، مربوط به آب"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "water-based"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:3/data-row:26"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:3/data-row:26"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-862a997f1587",
+        "partOfSpeech": "Adjective",
+        "translation": {
+          "fa": "آبزی؛ مربوط به آب"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:2/data-row:187"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:3/data-row:26"
+        },
+        "group": "priority-c",
+        "sessionId": null,
+        "priority": "C"
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m07",
+          "locator": "normalized-text/line:26",
+          "quote": "Creature = ? —> aquatic creatures = ?"
+        },
+        "group": "learner-notes-exact-match",
+        "sessionId": "session-water-sports",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:2/data-row:187"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:3/data-row:26"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

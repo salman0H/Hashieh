@@ -1,0 +1,184 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-hazardous",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "hazardous"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:16"
+      },
+      {
+        "sourceId": "src-chat-m16",
+        "locator": "table:10/data-row:15"
+      },
+      {
+        "sourceId": "src-chat-m15",
+        "locator": "normalized-text/line:31",
+        "quote": "You must lose weight, it is dangoures, it is hazardous."
+      },
+      {
+        "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+        "locator": "table:8/data-row:3"
+      },
+      {
+        "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+        "locator": "table:9/data-row:16"
+      },
+      {
+        "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+        "locator": "table:10/data-row:15"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "hazardous",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-hazard",
+    "senses": [
+      {
+        "id": "sense-867f21663345",
+        "partOfSpeech": "Adjective",
+        "translation": {
+          "fa": "خطرناک، خطرزا"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "dangerous",
+          "risky"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m16",
+            "locator": "table:9/data-row:16"
+          },
+          {
+            "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+            "locator": "table:9/data-row:16"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-d23cf6691851",
+        "partOfSpeech": "Adjective",
+        "translation": {
+          "fa": "خطرزا"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "dangerous",
+          "risky"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m16",
+            "locator": "table:10/data-row:15"
+          },
+          {
+            "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+            "locator": "table:10/data-row:15"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-30d139649a04",
+        "partOfSpeech": "Adjective",
+        "translation": {
+          "fa": "خطرزا، دارای ریسک جدی"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+            "locator": "table:8/data-row:3"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m16",
+          "locator": "table:9/data-row:16"
+        },
+        "group": "modals",
+        "sessionId": "session-modals",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m16",
+          "locator": "table:10/data-row:15"
+        },
+        "group": "modal-families",
+        "sessionId": "session-modals",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m15",
+          "locator": "normalized-text/line:31",
+          "quote": "You must lose weight, it is dangoures, it is hazardous."
+        },
+        "group": "learner-notes-exact-match",
+        "sessionId": "session-modals",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+          "locator": "table:8/data-row:3"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-modals",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+          "locator": "table:9/data-row:16"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-modals",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+          "locator": "table:10/data-row:15"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-modals",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

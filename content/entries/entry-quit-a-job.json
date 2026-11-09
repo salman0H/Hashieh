@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-quit-a-job",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "quit a job"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82",
+        "locator": "table:3/data-row:1"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "quit a job",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-bf3fcb3ce8f2",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "شغل را ترک کردن؛ معمولاً با تصمیم خود فرد"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82",
+            "locator": "table:3/data-row:1"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82",
+          "locator": "table:3/data-row:1"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-98593651",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

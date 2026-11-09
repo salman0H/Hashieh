@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-c08b6b54b719",
+  "type": "covers",
+  "from": "session-water-sports",
+  "to": "concept-questions",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-chat-m07",
+      "locator": "message-excerpt"
+    }
+  ],
+  "extensions": {}
+}

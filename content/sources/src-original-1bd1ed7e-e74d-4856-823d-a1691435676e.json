@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-1bd1ed7e-e74d-4856-823d-a1691435676e",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 95"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "user",
+    "messageOrdinal": 95,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "FastForward 3(1).pdf\nPDF\n\nClass’s attachment:\n\n\n\n\nWorksheet:\n\nYou have a delusion of knowledge.\n\nThey cab not treat the pationt well.\n\nI don’t agree.\n\n\n\n\nClass:\n\nDid you enter in competition?\nYes, I entered in swimming competition when I was in school, and my rank was first.\nPaddleboarding = ?\nI prefer to swim until control my balance on a board.\nPaddle = oars = پارو\nI am crazy about windsurfing.\nDrown —> for a person —> کسی ک دارره غرق میشه\nSink —> a thing —> غرق شدن ی وسیله مثل کشتی\nI like paddle boarding as a pleasure.\nI lie down on the board.\nTo encounter or to face our fears.\nTo overcome her fears.\nOvercome —> غلبه کردن\nCoast —> خط ساحلی —> سنگی هم میتونه باشه\nConquer —> فتح کردن\nIt is about a man who has fear to swim until his girlfriend, suggests him to try paddle boarding. \nHe is afraid of water.\nHis fear just disappeared.\nStrange = odd = weird \nCreature = ? —> aquatic creatures = ?\nClauses: everything with sub and verb\nSecond-condition: if + past simple + , + would or could or might + base verb\nAn imaginary or fiction with its present & future result\nWould you travel around the world if you were rich?\nWhat would you do if you were rich?\n…\nShow more",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": []
+  },
+  "extensions": {
+    "capture.message-id": "1bd1ed7e-e74d-4856-823d-a1691435676e",
+    "capture.headings": [],
+    "capture.links": []
+  }
+}

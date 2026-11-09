@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "collection-priority-c",
+  "type": "collection",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "priority-c"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "kind": "vocabulary-set",
+    "itemIds": [
+      "entry-breadwinner",
+      "entry-meager",
+      "entry-decent-salary",
+      "entry-handsome-salary",
+      "entry-welfare",
+      "entry-applicant",
+      "entry-recruitment",
+      "entry-employment",
+      "entry-portfolio",
+      "entry-janitor",
+      "entry-sedentary",
+      "entry-white-collar",
+      "entry-blue-collar",
+      "entry-martial-arts",
+      "entry-athlete",
+      "entry-opponent",
+      "entry-competitor",
+      "entry-spectator",
+      "entry-athletics",
+      "entry-paddleboarding",
+      "entry-windsurfing",
+      "entry-drown",
+      "entry-sink",
+      "entry-coast",
+      "entry-creature",
+      "entry-aquatic",
+      "entry-superstition",
+      "entry-superstitious",
+      "entry-inspirational",
+      "entry-instructor",
+      "entry-commentator",
+      "entry-marshal",
+      "entry-jersey",
+      "entry-bib-shorts",
+      "entry-lycra",
+      "entry-ice-rink",
+      "entry-pitch",
+      "entry-court"
+    ]
+  },
+  "extensions": {}
+}

@@ -1,0 +1,316 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "🎵 Song Lab #01 — Safe in the World"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "song-lab",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "حتماً. برای Song Lab با Safe in the World شروع می‌کنیم. این انتخاب برای یادگیری انگلیسی مناسب است چون زبانش نسبتاً طبیعی و قابل‌فهم است، اما چند ساختار مهم B1/B1+، چند collocation و چند عبارت خیلی طبیعی دارد.\n\nاین آهنگ از Wolf Alice است و در آلبوم The Clearing در ۲۲ اوت ۲۰۲۵ منتشر شد؛ مدت آن ۳:۳۱ است. \nApple Music - Web Player\n+1\n\nچون متن کامل ترانه copyrighted است، متن کامل را اینجا بازنشر نمی‌کنم. ولی می‌توانیم از اولین خط تا آخر آهنگ پیش برویم و هر بخش را دقیق تحلیل کنیم. برای هر قسمت، اگر لازم باشد خودت می‌توانی متن همان بخش را بفرستی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15-2",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "🎵 Song Lab #01 — Safe in the World",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15-3",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "1. معنی کلی آهنگ\n\nدر سطح معنایی، راوی درباره‌ی رابطه/حضور فردی صحبت می‌کند که در دوره‌ای ناخوشایند باعث شده احساس امنیت و آرامش کند.\n\nنکته‌ی جالب آهنگ این است که راوی ظاهراً نمی‌تواند دقیقاً اسم احساسی را که تجربه کرده بگذارد. این موضوع در تکرار عبارت:\n\n“No language for my love”\n\nخلاصه می‌شود.\n\nیعنی تقریباً:\n\n«برای عشقی که احساس می‌کنم، زبانی ندارم.»\n\nاین فقط یک جمله‌ی عاشقانه نیست؛ از نظر زبانی هم یک expression بسیار جالب است، چون language for something را به معنای «توانایی بیان کردن چیزی با کلمات» استفاده می‌کند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15-4",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "بخش 1 — شروع آهنگ\n\nاولین جمله:\n\n“I didn't feel good at all”",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15-5",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "at all\n\nیکی از چیزهایی که می‌خواهم از این آهنگ یاد بگیری، همین است.\n\nat all = اصلاً / به هیچ‌وجه\n\nمعمولاً در جمله‌های منفی و سؤال‌ها می‌آید:\n\nI don't like it at all.\nاصلاً دوستش ندارم.\nI didn't understand it at all.\nاصلاً متوجهش نشدم.\nI wasn't tired at all.\nاصلاً خسته نبودم.\n\nپس:\n\nI didn't feel good at all.\n\nیعنی:\n\n«اصلاً حالم خوب نبود.»",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15-6",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Grammar\n\nاینجا داریم:\n\nPast Simple\n\ndidn't + base verb\n\nنه:\n\n❌ I didn't felt good.\n\nبلکه:\n\n✅ I didn't feel good.\n\nاین دقیقاً به مباحث کلاس خودت مربوط است: وقتی did نقش auxiliary دارد، فعل اصلی به base form برمی‌گردد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15-7",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "2. feel good\n\nاین ترکیب را به‌صورت یک واحد یاد بگیر:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15-8",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "feel good\n\n= احساس خوبی داشتن / حال خوبی داشتن\n\nمثلاً:\n\nI feel good today.\n\nاما:\n\nI feel bad.\n\nلزومی ندارد همیشه درباره‌ی احساسات عمیق باشد؛ در انگلیسی روزمره می‌تواند خیلی ساده به معنی «حالم خوبه/بدم» باشد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15-9",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "یک نکته مهم‌تر\n\nfeel یکی از stative/dynamic verbs جالبی است که در کلاس خودت هم داشتید.\n\nمقایسه:\n\nI feel tired.\n\nحالت/احساس فعلی.\n\nاما:\n\nI'm feeling better now.\n\nاینجا continuous کاملاً طبیعی است، چون روی یک وضعیت در حال تغییر/تجربه‌شده تأکید می‌کنیم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15-10",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "3. cushion my heartache\n\nیکی از بهترین قسمت‌های آهنگ برای vocabulary.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15-11",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "cushion\n\nبه‌عنوان فعل:\n\nto cushion something\n\nیعنی:\n\nاثر چیزی را کم کردن / ضربه‌ی چیزی را گرفتن\n\nمثلاً:\n\nThe helmet cushioned the impact.\n\n«کلاه ایمنی شدت ضربه را گرفت.»\n\nاما در آهنگ:\n\ncushion my heartache\n\nیعنی تقریباً:\n\n«درد عاطفی من را تسکین دادن / از شدت رنجم کم کردن.»",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15-12",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "heartache\n\nheartache = درد عاطفی، رنج ناشی از عشق/جدایی\n\nاین با pain یکی نیست.\n\nphysical pain → درد جسمی\nemotional pain → درد عاطفی\nheartache → رنج عاطفی، مخصوصاً مرتبط با عشق/از دست دادن\n\nمثلاً:\n\nMusic helped me through my heartache.\n\nاین جمله برای English شخصی تو هم قابل استفاده است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15-13",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "4. once more\n\nدر قسمت بعدی آهنگ می‌شنوی:\n\nonce more\n\nیعنی:\n\nagain = دوباره\n\nاما once more کمی ادبی‌تر/احساسی‌تر از again است.\n\nمقایسه:\n\nCan you say that again?\n\nطبیعی و روزمره.\n\nCan you say that once more?\n\nکمی formal/literary‌تر.\n\nدر songwriting، once more خیلی رایج است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15-14",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "5. نکته‌ی خیلی مهم: laugh we did\n\nیک ساختار جالب در آهنگ وجود دارد:\n\n“And laugh we did...”\n\nترتیب عادی جمله می‌توانست باشد:\n\nWe did laugh.\n\nاما اینجا:\n\nLaugh + subject + auxiliary\n\nاست.\n\nاین نوع inversion برای emphasis و حالت ادبی/روایی استفاده می‌شود.\n\nمثلاً:\n\nAnd laugh we did.\n\nتقریباً:\n\n«و چه خنده‌ای که کردیم.»\n\nاین را به‌عنوان یک الگوی production یاد بگیر، نه چیزی که در مکالمه‌ی روزمره مرتب استفاده کنی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15-15",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "6. knowing you were there\n\nاین یکی برای B1 خیلی مهم است.\n\nساختار:\n\nknowing + clause\n\nknowing you were there\n\nیعنی:\n\n«با دانستن اینکه تو آنجا بودی»\n\nاما در ترجمه‌ی طبیعی‌تر:\n\n«فقط با این خیال/اطمینان که تو آنجا بودی.»",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15-16",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Grammar\n\nاینجا:\n\nknowing = present participle\n\nو:\n\nyou were there = clause\n\nکل عبارت به جمله‌ی اصلی اطلاعات اضافه می‌کند.\n\nمثلاً:\n\nI slept better knowing you were there.\n\nیعنی:\n\n«با دانستن اینکه تو آنجا بودی، بهتر خوابیدم.»\n\nاین ساختار را به Song Lab → Useful Grammar اضافه می‌کنیم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15-17",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "🧠 Vocabulary Card\nWord / Phrase\tمعنی\tنوع\nfeel good\tحال خوبی داشتن\tcollocation\nat all\tاصلاً\texpression\ncushion\tاز شدت ضربه/اثر چیزی کم کردن\tverb\nheartache\tرنج عاطفی\tnoun\nonce more\tدوباره\texpression\nlaugh\tخندیدن\tverb\nknowing\tبا دانستن / در حالی که می‌داند\tparticiple\nbe there\tحضور داشتن / کنار کسی بودن\texpression",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15-18",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "🎯 چیزهایی که باید واقعاً وارد English خودت کنی\n\nاز این بخش، این‌ها ارزش Active Vocabulary دارند:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15-19",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "1. at all\n\nI don't like it at all.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15-20",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "2. feel good\n\nI don't feel good today.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15-21",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "3. heartache\n\nMusic can help with heartache.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15-22",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "4. be there\n\nاین یکی خیلی مهم‌تر از چیزی است که به نظر می‌رسد.\n\nbe there for someone\n\nیعنی:\n\nدر کنار کسی بودن / حمایت کردن از کسی\n\nمثلاً:\n\nI'll always be there for you.\n\nاین یک expression کاملاً طبیعی و پرکاربرد است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15-23",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "🔊 Pronunciation Hunt\n\nدر اجرای آهنگ، به این موارد توجه کن:\n\ndidn't → /ˈdɪd(ə)nt/\nfeel good → کلمات به هم متصل می‌شوند\nat all → معمولاً at ضعیف تلفظ می‌شود\nyou were → در گفتار طبیعی فشرده‌تر از تلفظ جداگانه‌ی کلمات شنیده می‌شود\nthere → /ðer/\n\nهدف ما این نیست که فقط معنی lyrics را بفهمی؛ می‌خواهیم بتوانی همان نوع English را بشنوی و تولید کنی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15-24",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "🧩 ارتباط با سیستم اصلی تو\n\nاین بخش از آهنگ را به سیستم فعلی‌مان این‌طور وصل می‌کنیم:\n\nSafe in the World\n→ Past Simple\n→ didn't + base verb\n→ at all\n→ Present Participle\n→ feel + adjective\n→ Phrasal/Fixed Expressions\n→ heartache / cushion\n→ Active Vocabulary\n\nو بعداً در Review Engine دوباره همین‌ها را بدون اشاره به آهنگ از تو امتحان می‌گیرم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15-25",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "مرحله‌ی بعد\n\nاز اینجا به بعد بهتر است آهنگ را واقعاً line-by-line جلو ببریم، نه اینکه یک‌باره کل آهنگ را تحلیل کنم.\n\nتو lyrics را لازم نیست دوباره بفرستی؛ من ساختار آهنگ را دارم. \nدر پیام بعدی می‌توانیم وارد بخش بعدی شویم و \nروی `should have + past participle`، `was/were + -ing`، `couldn't` و `cause/because` کار کنیم؛ آن قسمت از نظر گرامری برای سطح B1 تو غنی‌تر است.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-past-simple",
+      "concept-writing"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15",
+    "capture.turn-number": 7
+  }
+}

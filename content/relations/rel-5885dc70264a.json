@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-5885dc70264a",
+  "type": "illustrates",
+  "from": "writing-weekend",
+  "to": "concept-future-forms",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-chat-m03",
+      "locator": "message-excerpt"
+    }
+  ],
+  "extensions": {}
+}

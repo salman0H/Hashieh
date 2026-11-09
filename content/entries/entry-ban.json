@@ -1,0 +1,85 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-ban",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "ban"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:7"
+      },
+      {
+        "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+        "locator": "table:9/data-row:7"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "ban",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-201cd122b20d",
+        "partOfSpeech": "Verb / Noun",
+        "translation": {
+          "fa": "ممنوع کردن؛ ممنوعیت"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "prohibit",
+          "forbid"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m16",
+            "locator": "table:9/data-row:7"
+          },
+          {
+            "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+            "locator": "table:9/data-row:7"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m16",
+          "locator": "table:9/data-row:7"
+        },
+        "group": "modals",
+        "sessionId": "session-modals",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+          "locator": "table:9/data-row:7"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-modals",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

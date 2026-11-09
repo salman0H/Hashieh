@@ -1,0 +1,2311 @@
+{
+  "captureScope": "selected-page-visible-tables",
+  "rows": [
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:1"
+      },
+      "cells": [
+        "afford",
+        "از عهده هزینه چیزی برآمدن",
+        "have enough money for",
+        "Verb"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:2"
+      },
+      "cells": [
+        "achieve",
+        "به دست آوردن، محقق کردن",
+        "accomplish, attain",
+        "Verb"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:3"
+      },
+      "cells": [
+        "deal with",
+        "رسیدگی کردن، کنار آمدن با",
+        "handle, manage",
+        "Phrasal verb"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:4"
+      },
+      "cells": [
+        "manage",
+        "مدیریت کردن، از پس چیزی برآمدن",
+        "handle, deal with",
+        "Verb"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:5"
+      },
+      "cells": [
+        "overcome",
+        "غلبه کردن بر",
+        "conquer, defeat",
+        "Verb"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:6"
+      },
+      "cells": [
+        "expect",
+        "انتظار داشتن",
+        "anticipate",
+        "Verb"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:7"
+      },
+      "cells": [
+        "realize",
+        "متوجه شدن، درک کردن",
+        "become aware of",
+        "Verb"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:8"
+      },
+      "cells": [
+        "figure out",
+        "فهمیدن، راه‌حل پیدا کردن",
+        "work out, understand",
+        "Phrasal verb"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:9"
+      },
+      "cells": [
+        "improve",
+        "بهبود دادن / یافتن",
+        "develop, get better",
+        "Verb"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:10"
+      },
+      "cells": [
+        "experience",
+        "تجربه / تجربه کردن",
+        "undergo, go through",
+        "Noun / Verb"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:11"
+      },
+      "cells": [
+        "struggle",
+        "تقلا کردن، دشواری داشتن",
+        "have difficulty, strive",
+        "Verb / Noun"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:12"
+      },
+      "cells": [
+        "challenging",
+        "چالش‌برانگیز",
+        "demanding, difficult",
+        "Adjective"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:13"
+      },
+      "cells": [
+        "flexible",
+        "انعطاف‌پذیر",
+        "adaptable",
+        "Adjective"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:14"
+      },
+      "cells": [
+        "anxious",
+        "مضطرب، نگران",
+        "worried, nervous",
+        "Adjective"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:15"
+      },
+      "cells": [
+        "punctual",
+        "وقت‌شناس",
+        "on time",
+        "Adjective"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:16"
+      },
+      "cells": [
+        "reliable",
+        "قابل اعتماد",
+        "dependable, trustworthy",
+        "Adjective"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:17"
+      },
+      "cells": [
+        "responsible for",
+        "مسئولِ",
+        "in charge of",
+        "Phrase"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:18"
+      },
+      "cells": [
+        "in charge of",
+        "مسئول و متصدیِ",
+        "responsible for",
+        "Phrase"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:19"
+      },
+      "cells": [
+        "look forward to",
+        "مشتاقانه منتظر چیزی بودن",
+        "anticipate, be excited about",
+        "Phrase"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:20"
+      },
+      "cells": [
+        "give up",
+        "تسلیم شدن، دست کشیدن",
+        "quit, abandon",
+        "Phrasal verb"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:21"
+      },
+      "cells": [
+        "take up",
+        "شروع کردن یک سرگرمی یا فعالیت",
+        "start, begin",
+        "Phrasal verb"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:22"
+      },
+      "cells": [
+        "run out of",
+        "تمام شدن چیزی",
+        "use up, have no more",
+        "Phrasal verb"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:23"
+      },
+      "cells": [
+        "get in touch with",
+        "تماس برقرار کردن",
+        "contact, reach",
+        "Phrase"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:24"
+      },
+      "cells": [
+        "apply for",
+        "درخواست دادن برای",
+        "submit an application for",
+        "Phrasal verb"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:25"
+      },
+      "cells": [
+        "look for",
+        "دنبال چیزی گشتن",
+        "search for, seek",
+        "Phrasal verb"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:26"
+      },
+      "cells": [
+        "get fired",
+        "اخراج شدن",
+        "be dismissed, be sacked",
+        "Phrase"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:27"
+      },
+      "cells": [
+        "earn a living",
+        "امرار معاش کردن",
+        "make a living",
+        "Phrase"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:28"
+      },
+      "cells": [
+        "make ends meet",
+        "از پس هزینه‌های زندگی برآمدن",
+        "cover basic expenses",
+        "Idiom"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:29"
+      },
+      "cells": [
+        "cost of living",
+        "هزینه زندگی",
+        "living expenses",
+        "Noun phrase"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:30"
+      },
+      "cells": [
+        "work-life balance",
+        "تعادل کار و زندگی",
+        "—",
+        "Noun phrase"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:31"
+      },
+      "cells": [
+        "under pressure",
+        "تحت فشار",
+        "stressed, under stress",
+        "Phrase"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:32"
+      },
+      "cells": [
+        "make a decision",
+        "تصمیم گرفتن",
+        "decide",
+        "Collocation"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:33"
+      },
+      "cells": [
+        "face a problem",
+        "با مشکلی مواجه شدن",
+        "encounter, deal with",
+        "Collocation"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:34"
+      },
+      "cells": [
+        "get inspired by",
+        "از چیزی الهام گرفتن",
+        "be motivated by",
+        "Phrase"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:35"
+      },
+      "cells": [
+        "take part in",
+        "شرکت کردن در",
+        "participate in",
+        "Phrase"
+      ],
+      "group": "priority-a"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:1"
+      },
+      "cells": [
+        "demanding",
+        "طاقت‌فرسا، نیازمند تلاش زیاد",
+        "challenging, requiring",
+        "Adjective"
+      ],
+      "group": "priority-b"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:2"
+      },
+      "cells": [
+        "promising",
+        "امیدوارکننده، دارای آینده خوب",
+        "encouraging, hopeful",
+        "Adjective"
+      ],
+      "group": "priority-b"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:3"
+      },
+      "cells": [
+        "lucrative",
+        "پردرآمد، سودآور",
+        "profitable, well-paid",
+        "Adjective"
+      ],
+      "group": "priority-b"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:4"
+      },
+      "cells": [
+        "prestigious",
+        "معتبر، پرآوازه",
+        "respected, distinguished",
+        "Adjective"
+      ],
+      "group": "priority-b"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:5"
+      },
+      "cells": [
+        "satisfying",
+        "رضایت‌بخش",
+        "fulfilling, rewarding",
+        "Adjective"
+      ],
+      "group": "priority-b"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:6"
+      },
+      "cells": [
+        "rewarding",
+        "ارزشمند و رضایت‌بخش",
+        "satisfying, worthwhile",
+        "Adjective"
+      ],
+      "group": "priority-b"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:7"
+      },
+      "cells": [
+        "spectacular",
+        "تماشایی، شگفت‌انگیز",
+        "impressive, breathtaking",
+        "Adjective"
+      ],
+      "group": "priority-b"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:8"
+      },
+      "cells": [
+        "gorgeous",
+        "بسیار زیبا",
+        "beautiful, stunning",
+        "Adjective"
+      ],
+      "group": "priority-b"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:9"
+      },
+      "cells": [
+        "unusual",
+        "غیرمعمول",
+        "uncommon, strange",
+        "Adjective"
+      ],
+      "group": "priority-b"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:10"
+      },
+      "cells": [
+        "unpredictable",
+        "غیرقابل پیش‌بینی",
+        "uncertain, unforeseeable",
+        "Adjective"
+      ],
+      "group": "priority-b"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:11"
+      },
+      "cells": [
+        "repetitive",
+        "تکراری",
+        "recurring, monotonous",
+        "Adjective"
+      ],
+      "group": "priority-b"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:12"
+      },
+      "cells": [
+        "frustrating",
+        "کلافه‌کننده",
+        "annoying, irritating",
+        "Adjective"
+      ],
+      "group": "priority-b"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:13"
+      },
+      "cells": [
+        "exhausting",
+        "بسیار خسته‌کننده",
+        "tiring, draining",
+        "Adjective"
+      ],
+      "group": "priority-b"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:14"
+      },
+      "cells": [
+        "enthusiastic",
+        "مشتاق، پرانرژی",
+        "passionate, eager",
+        "Adjective"
+      ],
+      "group": "priority-b"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:15"
+      },
+      "cells": [
+        "keen on",
+        "علاقه‌مند به",
+        "interested in, fond of",
+        "Phrase"
+      ],
+      "group": "priority-b"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:16"
+      },
+      "cells": [
+        "passionate about",
+        "علاقه شدید داشتن به",
+        "enthusiastic about",
+        "Phrase"
+      ],
+      "group": "priority-b"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:17"
+      },
+      "cells": [
+        "laid-back",
+        "راحت‌گیر، بی‌استرس",
+        "easy-going, relaxed",
+        "Adjective"
+      ],
+      "group": "priority-b"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:18"
+      },
+      "cells": [
+        "criticise",
+        "انتقاد کردن",
+        "disapprove of, find fault with",
+        "Verb"
+      ],
+      "group": "priority-b"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:19"
+      },
+      "cells": [
+        "praise",
+        "تحسین کردن",
+        "compliment, admire",
+        "Verb / Noun"
+      ],
+      "group": "priority-b"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:20"
+      },
+      "cells": [
+        "rescue",
+        "نجات دادن",
+        "save, recover",
+        "Verb"
+      ],
+      "group": "priority-b"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:21"
+      },
+      "cells": [
+        "survive",
+        "زنده ماندن، دوام آوردن",
+        "stay alive, endure",
+        "Verb"
+      ],
+      "group": "priority-b"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:22"
+      },
+      "cells": [
+        "encounter",
+        "مواجه شدن با",
+        "face, come across",
+        "Verb / Noun"
+      ],
+      "group": "priority-b"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:23"
+      },
+      "cells": [
+        "overcome your fears",
+        "بر ترس‌هایت غلبه کردن",
+        "conquer your fears",
+        "Phrase"
+      ],
+      "group": "priority-b"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:24"
+      },
+      "cells": [
+        "narrow down",
+        "محدود کردن گزینه‌ها",
+        "reduce, shortlist",
+        "Phrasal verb"
+      ],
+      "group": "priority-b"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:25"
+      },
+      "cells": [
+        "run into",
+        "اتفاقی ملاقات کردن / برخورد کردن",
+        "bump into, encounter",
+        "Phrasal verb"
+      ],
+      "group": "priority-b"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:26"
+      },
+      "cells": [
+        "bring back memories",
+        "خاطرات را زنده کردن",
+        "remind someone of",
+        "Phrase"
+      ],
+      "group": "priority-b"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:27"
+      },
+      "cells": [
+        "make fun of",
+        "مسخره کردن",
+        "mock, tease",
+        "Phrase"
+      ],
+      "group": "priority-b"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:28"
+      },
+      "cells": [
+        "work out",
+        "ورزش کردن / حل کردن",
+        "exercise / solve",
+        "Phrasal verb"
+      ],
+      "group": "priority-b"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:29"
+      },
+      "cells": [
+        "chill out",
+        "استراحت کردن، ریلکس کردن",
+        "relax, unwind",
+        "Phrasal verb"
+      ],
+      "group": "priority-b"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:30"
+      },
+      "cells": [
+        "in person",
+        "حضوری",
+        "face-to-face",
+        "Phrase"
+      ],
+      "group": "priority-b"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:31"
+      },
+      "cells": [
+        "face-to-face",
+        "رودررو",
+        "in person",
+        "Phrase"
+      ],
+      "group": "priority-b"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:1"
+      },
+      "cells": [
+        "breadwinner",
+        "نان‌آور خانواده",
+        "provider",
+        "Noun"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:2"
+      },
+      "cells": [
+        "meager",
+        "ناچیز، اندک",
+        "inadequate, scanty",
+        "Adjective"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:3"
+      },
+      "cells": [
+        "decent salary",
+        "حقوق مناسب",
+        "reasonable salary",
+        "Noun phrase"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:4"
+      },
+      "cells": [
+        "handsome salary",
+        "حقوق قابل‌توجه",
+        "generous salary",
+        "Noun phrase"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:5"
+      },
+      "cells": [
+        "welfare",
+        "رفاه",
+        "well-being",
+        "Noun"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:6"
+      },
+      "cells": [
+        "applicant",
+        "متقاضی",
+        "candidate",
+        "Noun"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:7"
+      },
+      "cells": [
+        "recruitment",
+        "فرایند استخدام",
+        "hiring",
+        "Noun"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:8"
+      },
+      "cells": [
+        "employment",
+        "اشتغال",
+        "work, occupation",
+        "Noun"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:9"
+      },
+      "cells": [
+        "portfolio",
+        "نمونه‌کار",
+        "collection of work",
+        "Noun"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:10"
+      },
+      "cells": [
+        "janitor",
+        "سرایدار",
+        "caretaker",
+        "Noun"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:11"
+      },
+      "cells": [
+        "sedentary",
+        "کم‌تحرک",
+        "inactive",
+        "Adjective"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:12"
+      },
+      "cells": [
+        "white-collar",
+        "مربوط به مشاغل اداری",
+        "office-based",
+        "Adjective"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:13"
+      },
+      "cells": [
+        "blue-collar",
+        "مربوط به مشاغل یدی",
+        "manual",
+        "Adjective"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:14"
+      },
+      "cells": [
+        "martial arts",
+        "هنرهای رزمی",
+        "combat sports",
+        "Noun"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:15"
+      },
+      "cells": [
+        "athlete",
+        "ورزشکار",
+        "sportsperson",
+        "Noun"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:16"
+      },
+      "cells": [
+        "opponent",
+        "حریف",
+        "rival, competitor",
+        "Noun"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:17"
+      },
+      "cells": [
+        "competitor",
+        "شرکت‌کننده یا رقیب",
+        "contestant, rival",
+        "Noun"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:18"
+      },
+      "cells": [
+        "spectator",
+        "تماشاگر",
+        "viewer, observer",
+        "Noun"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:19"
+      },
+      "cells": [
+        "athletics",
+        "دوومیدانی",
+        "track and field",
+        "Noun"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:20"
+      },
+      "cells": [
+        "paddleboarding",
+        "ورزش پاروزنی روی تخته",
+        "stand-up paddleboarding",
+        "Noun"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:21"
+      },
+      "cells": [
+        "windsurfing",
+        "موج‌سواری با بادبان",
+        "—",
+        "Noun"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:22"
+      },
+      "cells": [
+        "drown",
+        "غرق شدن",
+        "—",
+        "Verb"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:23"
+      },
+      "cells": [
+        "sink",
+        "فرو رفتن در آب",
+        "go down, submerge",
+        "Verb"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:24"
+      },
+      "cells": [
+        "coast",
+        "ساحل، خط ساحلی",
+        "shoreline",
+        "Noun"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:25"
+      },
+      "cells": [
+        "creature",
+        "موجود زنده",
+        "being, organism",
+        "Noun"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:26"
+      },
+      "cells": [
+        "aquatic",
+        "آبزی، مربوط به آب",
+        "water-based",
+        "Adjective"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:27"
+      },
+      "cells": [
+        "superstition",
+        "خرافات",
+        "—",
+        "Noun"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:28"
+      },
+      "cells": [
+        "superstitious",
+        "خرافاتی",
+        "—",
+        "Adjective"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:29"
+      },
+      "cells": [
+        "inspirational",
+        "الهام‌بخش",
+        "motivating, encouraging",
+        "Adjective"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:30"
+      },
+      "cells": [
+        "instructor",
+        "مربی، آموزش‌دهنده",
+        "teacher, trainer",
+        "Noun"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:31"
+      },
+      "cells": [
+        "commentator",
+        "گزارشگر، مفسر",
+        "reporter, analyst",
+        "Noun"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:32"
+      },
+      "cells": [
+        "marshal",
+        "مأمور نظم‌دهنده، مسئول کنترل",
+        "official, organiser",
+        "Noun"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:33"
+      },
+      "cells": [
+        "jersey",
+        "پیراهن ورزشی",
+        "sports shirt",
+        "Noun"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:34"
+      },
+      "cells": [
+        "bib shorts",
+        "شورت دوچرخه‌سواری بنددار",
+        "cycling shorts",
+        "Noun"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:35"
+      },
+      "cells": [
+        "lycra",
+        "پارچه کشی مخصوص لباس ورزشی",
+        "spandex",
+        "Noun"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:36"
+      },
+      "cells": [
+        "ice rink",
+        "پیست یخ",
+        "skating rink",
+        "Noun"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:37"
+      },
+      "cells": [
+        "pitch",
+        "زمین بازی، معمولاً فوتبال",
+        "playing field",
+        "Noun"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:38"
+      },
+      "cells": [
+        "court",
+        "زمین بازی ورزش‌هایی مثل بسکتبال",
+        "playing area",
+        "Noun"
+      ],
+      "group": "priority-c"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:4/data-row:1"
+      },
+      "cells": [
+        "make ends meet",
+        "هزینه‌های ضروری زندگی را تأمین کردن",
+        "cover basic expenses",
+        "Idiom"
+      ],
+      "group": "chunks"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:4/data-row:2"
+      },
+      "cells": [
+        "work for peanuts",
+        "با حقوق بسیار کم کار کردن",
+        "earn very little",
+        "Idiom"
+      ],
+      "group": "chunks"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:4/data-row:3"
+      },
+      "cells": [
+        "be on the same page",
+        "هم‌نظر بودن",
+        "agree, share the same understanding",
+        "Idiom"
+      ],
+      "group": "chunks"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:4/data-row:4"
+      },
+      "cells": [
+        "work under pressure",
+        "تحت فشار کار کردن",
+        "perform under stress",
+        "Collocation"
+      ],
+      "group": "chunks"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:4/data-row:5"
+      },
+      "cells": [
+        "manage a crisis",
+        "مدیریت بحران کردن",
+        "handle a crisis",
+        "Collocation"
+      ],
+      "group": "chunks"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:4/data-row:6"
+      },
+      "cells": [
+        "keep the team spirit up",
+        "روحیه تیم را بالا نگه داشتن",
+        "boost team morale",
+        "Collocation"
+      ],
+      "group": "chunks"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:4/data-row:7"
+      },
+      "cells": [
+        "accept defeat",
+        "شکست را پذیرفتن",
+        "admit losing",
+        "Collocation"
+      ],
+      "group": "chunks"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:4/data-row:8"
+      },
+      "cells": [
+        "achieve a goal",
+        "به هدف رسیدن",
+        "accomplish an objective",
+        "Collocation"
+      ],
+      "group": "chunks"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:4/data-row:9"
+      },
+      "cells": [
+        "score a point",
+        "امتیاز کسب کردن",
+        "earn a point",
+        "Collocation"
+      ],
+      "group": "chunks"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:4/data-row:10"
+      },
+      "cells": [
+        "enter a competition",
+        "وارد مسابقه شدن",
+        "participate in a competition",
+        "Collocation"
+      ],
+      "group": "chunks"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:4/data-row:11"
+      },
+      "cells": [
+        "treat someone with respect",
+        "با کسی محترمانه رفتار کردن",
+        "show respect",
+        "Collocation"
+      ],
+      "group": "chunks"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:4/data-row:12"
+      },
+      "cells": [
+        "deal with disappointment",
+        "با ناامیدی کنار آمدن",
+        "handle disappointment",
+        "Collocation"
+      ],
+      "group": "chunks"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:4/data-row:13"
+      },
+      "cells": [
+        "put someone in danger",
+        "کسی را در معرض خطر قرار دادن",
+        "endanger someone",
+        "Collocation"
+      ],
+      "group": "chunks"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:4/data-row:14"
+      },
+      "cells": [
+        "pay peanuts",
+        "حقوق بسیار کم پرداخت کردن",
+        "pay very little",
+        "Idiom"
+      ],
+      "group": "chunks"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:4/data-row:15"
+      },
+      "cells": [
+        "take a breath",
+        "نفس کشیدن",
+        "breathe in",
+        "Phrase"
+      ],
+      "group": "chunks"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:4/data-row:16"
+      },
+      "cells": [
+        "get on the board",
+        "سوار تخته شدن",
+        "—",
+        "Phrase"
+      ],
+      "group": "chunks"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:4/data-row:17"
+      },
+      "cells": [
+        "fall into the sea",
+        "داخل دریا افتادن",
+        "—",
+        "Phrase"
+      ],
+      "group": "chunks"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:4/data-row:18"
+      },
+      "cells": [
+        "lose your fear",
+        "ترست را از دست دادن",
+        "overcome your fear",
+        "Phrase"
+      ],
+      "group": "chunks"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m14",
+        "locator": "table:4/data-row:19"
+      },
+      "cells": [
+        "meet your needs",
+        "نیازهایت را برآورده کردن",
+        "satisfy your needs",
+        "Collocation"
+      ],
+      "group": "chunks"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:1"
+      },
+      "cells": [
+        "permission",
+        "اجازه، مجوز",
+        "authorisation, consent",
+        "Noun"
+      ],
+      "group": "modals"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:2"
+      },
+      "cells": [
+        "permit",
+        "اجازه دادن، مجوز",
+        "allow, authorize",
+        "Verb / Noun"
+      ],
+      "group": "modals"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:3"
+      },
+      "cells": [
+        "obligation",
+        "الزام، وظیفه",
+        "duty, responsibility",
+        "Noun"
+      ],
+      "group": "modals"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:4"
+      },
+      "cells": [
+        "prohibition",
+        "ممنوعیت",
+        "ban, restriction",
+        "Noun"
+      ],
+      "group": "modals"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:5"
+      },
+      "cells": [
+        "obligatory",
+        "اجباری، الزامی",
+        "compulsory, mandatory",
+        "Adjective"
+      ],
+      "group": "modals"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:6"
+      },
+      "cells": [
+        "forbidden",
+        "ممنوع",
+        "prohibited, not allowed",
+        "Adjective"
+      ],
+      "group": "modals"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:7"
+      },
+      "cells": [
+        "ban",
+        "ممنوع کردن؛ ممنوعیت",
+        "prohibit, forbid",
+        "Verb / Noun"
+      ],
+      "group": "modals"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:8"
+      },
+      "cells": [
+        "prohibit",
+        "ممنوع کردن",
+        "forbid, ban",
+        "Verb"
+      ],
+      "group": "modals"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:9"
+      },
+      "cells": [
+        "deny",
+        "رد کردن، انکار کردن",
+        "refuse, reject",
+        "Verb"
+      ],
+      "group": "modals"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:10"
+      },
+      "cells": [
+        "allowed",
+        "مجاز",
+        "permitted, authorised",
+        "Adjective"
+      ],
+      "group": "modals"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:11"
+      },
+      "cells": [
+        "allow",
+        "اجازه دادن",
+        "permit, let",
+        "Verb"
+      ],
+      "group": "modals"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:12"
+      },
+      "cells": [
+        "cut down on",
+        "کاهش دادن مصرف یا مقدار",
+        "reduce, decrease",
+        "Phrasal verb"
+      ],
+      "group": "modals"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:13"
+      },
+      "cells": [
+        "fatty",
+        "دارای چربی زیاد",
+        "high-fat",
+        "Adjective"
+      ],
+      "group": "modals"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:14"
+      },
+      "cells": [
+        "greasy",
+        "چرب، روغنی",
+        "oily, fatty",
+        "Adjective"
+      ],
+      "group": "modals"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:15"
+      },
+      "cells": [
+        "hazard",
+        "خطر، عامل خطر",
+        "danger, risk",
+        "Noun"
+      ],
+      "group": "modals"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:16"
+      },
+      "cells": [
+        "hazardous",
+        "خطرناک، خطرزا",
+        "dangerous, risky",
+        "Adjective"
+      ],
+      "group": "modals"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:17"
+      },
+      "cells": [
+        "danger",
+        "خطر",
+        "hazard, risk",
+        "Noun"
+      ],
+      "group": "modals"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:18"
+      },
+      "cells": [
+        "dangerous",
+        "خطرناک",
+        "hazardous, risky",
+        "Adjective"
+      ],
+      "group": "modals"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:19"
+      },
+      "cells": [
+        "masterpiece",
+        "شاهکار",
+        "great work, work of art",
+        "Noun"
+      ],
+      "group": "modals"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:20"
+      },
+      "cells": [
+        "uniform",
+        "لباس فرم، یونیفرم",
+        "standard outfit",
+        "Noun"
+      ],
+      "group": "modals"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:21"
+      },
+      "cells": [
+        "seat belt",
+        "کمربند ایمنی",
+        "safety belt",
+        "Noun"
+      ],
+      "group": "modals"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:22"
+      },
+      "cells": [
+        "speed limit",
+        "محدودیت سرعت",
+        "maximum speed",
+        "Noun phrase"
+      ],
+      "group": "modals"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:23"
+      },
+      "cells": [
+        "in a row",
+        "پشت سر هم",
+        "consecutively, back to back",
+        "Phrase"
+      ],
+      "group": "modals"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:24"
+      },
+      "cells": [
+        "back to back",
+        "پشت سر هم، بدون فاصله زیاد",
+        "consecutively",
+        "Phrase"
+      ],
+      "group": "modals"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:25"
+      },
+      "cells": [
+        "from now on",
+        "از این به بعد",
+        "starting now, henceforth",
+        "Phrase"
+      ],
+      "group": "modals"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:26"
+      },
+      "cells": [
+        "three-day trip",
+        "سفر سه‌روزه",
+        "three-day journey",
+        "Noun phrase"
+      ],
+      "group": "modals"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:27"
+      },
+      "cells": [
+        "emigrate",
+        "از کشور خود مهاجرت کردن",
+        "move abroad",
+        "Verb"
+      ],
+      "group": "modals"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:28"
+      },
+      "cells": [
+        "immigrate",
+        "به کشور دیگری مهاجرت کردن",
+        "move into another country",
+        "Verb"
+      ],
+      "group": "modals"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:29"
+      },
+      "cells": [
+        "reduce",
+        "کاهش دادن",
+        "decrease, cut down",
+        "Verb"
+      ],
+      "group": "modals"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:30"
+      },
+      "cells": [
+        "compulsory",
+        "اجباری",
+        "mandatory, obligatory",
+        "Adjective"
+      ],
+      "group": "modals"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:10/data-row:1"
+      },
+      "cells": [
+        "permit",
+        "اجازه دادن",
+        "allow, authorize",
+        "Verb"
+      ],
+      "group": "modal-families"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:10/data-row:2"
+      },
+      "cells": [
+        "permission",
+        "اجازه، مجوز",
+        "consent",
+        "Noun"
+      ],
+      "group": "modal-families"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:10/data-row:3"
+      },
+      "cells": [
+        "permissible",
+        "مجاز، قابل قبول",
+        "allowed, acceptable",
+        "Adjective"
+      ],
+      "group": "modal-families"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:10/data-row:4"
+      },
+      "cells": [
+        "permissive",
+        "آسان‌گیر، دارای محدودیت کم",
+        "lenient",
+        "Adjective"
+      ],
+      "group": "modal-families"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:10/data-row:5"
+      },
+      "cells": [
+        "prohibit",
+        "ممنوع کردن",
+        "forbid, ban",
+        "Verb"
+      ],
+      "group": "modal-families"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:10/data-row:6"
+      },
+      "cells": [
+        "prohibition",
+        "ممنوعیت",
+        "ban, restriction",
+        "Noun"
+      ],
+      "group": "modal-families"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:10/data-row:7"
+      },
+      "cells": [
+        "prohibited",
+        "ممنوع‌شده",
+        "forbidden, banned",
+        "Adjective"
+      ],
+      "group": "modal-families"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:10/data-row:8"
+      },
+      "cells": [
+        "oblige",
+        "ملزم کردن",
+        "compel, require",
+        "Verb"
+      ],
+      "group": "modal-families"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:10/data-row:9"
+      },
+      "cells": [
+        "obligation",
+        "الزام، تعهد",
+        "duty, responsibility",
+        "Noun"
+      ],
+      "group": "modal-families"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:10/data-row:10"
+      },
+      "cells": [
+        "obligatory",
+        "اجباری",
+        "compulsory, mandatory",
+        "Adjective"
+      ],
+      "group": "modal-families"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:10/data-row:11"
+      },
+      "cells": [
+        "danger",
+        "خطر",
+        "hazard, risk",
+        "Noun"
+      ],
+      "group": "modal-families"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:10/data-row:12"
+      },
+      "cells": [
+        "dangerous",
+        "خطرناک",
+        "hazardous, risky",
+        "Adjective"
+      ],
+      "group": "modal-families"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:10/data-row:13"
+      },
+      "cells": [
+        "endanger",
+        "به خطر انداختن",
+        "put at risk, jeopardise",
+        "Verb"
+      ],
+      "group": "modal-families"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:10/data-row:14"
+      },
+      "cells": [
+        "hazard",
+        "عامل خطر",
+        "danger, risk",
+        "Noun"
+      ],
+      "group": "modal-families"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:10/data-row:15"
+      },
+      "cells": [
+        "hazardous",
+        "خطرزا",
+        "dangerous, risky",
+        "Adjective"
+      ],
+      "group": "modal-families"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:10/data-row:16"
+      },
+      "cells": [
+        "reduce",
+        "کاهش دادن",
+        "decrease, lessen",
+        "Verb"
+      ],
+      "group": "modal-families"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:10/data-row:17"
+      },
+      "cells": [
+        "reduction",
+        "کاهش",
+        "decrease, decline",
+        "Noun"
+      ],
+      "group": "modal-families"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m16",
+        "locator": "table:10/data-row:18"
+      },
+      "cells": [
+        "reduced",
+        "کاهش‌یافته",
+        "decreased, lowered",
+        "Adjective / Past participle"
+      ],
+      "group": "modal-families"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m09",
+        "locator": "table:1/data-row:1"
+      },
+      "cells": [
+        "instruct",
+        "آموزش دادن، دستور دادن",
+        "",
+        "Verb"
+      ],
+      "group": "instruct-family"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m09",
+        "locator": "table:1/data-row:2"
+      },
+      "cells": [
+        "instructor",
+        "مربی",
+        "",
+        "Noun"
+      ],
+      "group": "instruct-family"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m09",
+        "locator": "table:1/data-row:3"
+      },
+      "cells": [
+        "instruction",
+        "دستورالعمل، آموزش",
+        "",
+        "Noun"
+      ],
+      "group": "instruct-family"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m09",
+        "locator": "table:1/data-row:4"
+      },
+      "cells": [
+        "instructions",
+        "دستورالعمل‌ها",
+        "",
+        "Noun plural"
+      ],
+      "group": "instruct-family"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m09",
+        "locator": "table:1/data-row:5"
+      },
+      "cells": [
+        "instructive",
+        "آموزنده",
+        "",
+        "Adjective"
+      ],
+      "group": "instruct-family"
+    },
+    {
+      "sourceRef": {
+        "sourceId": "src-chat-m09",
+        "locator": "table:1/data-row:6"
+      },
+      "cells": [
+        "instructional",
+        "آموزشی",
+        "",
+        "Adjective"
+      ],
+      "group": "instruct-family"
+    }
+  ],
+  "notes": [
+    "No 474-row Excel file was recovered.",
+    "English definitions remain unknown when only equivalents were supplied.",
+    "Source table data rows are counted after the header; table numbers are local to each message."
+  ]
+}

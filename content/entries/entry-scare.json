@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-scare",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "scare"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-863aac04-c82a-4811-9d0a-ff0724ef73da",
+        "locator": "table:2/data-row:1"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:2/data-row:205"
+      },
+      {
+        "sourceId": "src-original-f77edba4-2fe8-4440-b664-8727591c2d9d",
+        "locator": "table:2/data-row:23"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "scare",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-scare",
+    "senses": [
+      {
+        "id": "sense-dff386dbefff",
+        "partOfSpeech": "Verb",
+        "translation": {
+          "fa": "ترساندن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-863aac04-c82a-4811-9d0a-ff0724ef73da",
+            "locator": "table:2/data-row:1"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-6f54bf4375d2",
+        "partOfSpeech": "Noun / Verb",
+        "translation": {
+          "fa": "ترس؛ ترساندن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:2/data-row:205"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-2f0da03c85de",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "ترساندن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-f77edba4-2fe8-4440-b664-8727591c2d9d",
+            "locator": "table:2/data-row:23"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-863aac04-c82a-4811-9d0a-ff0724ef73da",
+          "locator": "table:2/data-row:1"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-water-sports",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:2/data-row:205"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f77edba4-2fe8-4440-b664-8727591c2d9d",
+          "locator": "table:2/data-row:23"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-1920ed9d",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

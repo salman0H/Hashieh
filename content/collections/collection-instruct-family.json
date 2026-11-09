@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "collection-instruct-family",
+  "type": "collection",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "instruct-family"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m09",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "kind": "vocabulary-set",
+    "itemIds": [
+      "entry-instruct",
+      "entry-instructor",
+      "entry-instruction",
+      "entry-instructions",
+      "entry-instructive",
+      "entry-instructional"
+    ]
+  },
+  "extensions": {}
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "concept-zero-conditional",
+  "type": "concept",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "zero conditional"
+  },
+  "tags": [
+    "grammar-index"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-e057cd15-8da7-4798-a253-42312cfcb7dc",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-eaf487cb-e12a-4036-9b2c-c1a15feacadc",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-747a90d2-a2e7-4550-acea-fd39618be743",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-02f65f74-ec0e-4018-b236-59d82004da17",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-7b035c8b-b8a4-489c-9aac-213cb328ed92",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-f631f914-5a6f-4bab-9096-ba4eff92f42b",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-4ae32885-48ea-4808-abbd-d100a0d4fc36",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-0bf90c5f-c5db-4309-82ae-fd6d7e99efab",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-e98ddd7e-6fa3-4789-98e6-c5e64a48d742",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-2340c3c8-781f-4c46-8506-088417f410fb",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "summary": null,
+    "blockIds": []
+  },
+  "extensions": {}
+}

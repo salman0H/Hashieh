@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-anxiety",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "anxiety"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+        "locator": "table:1/data-row:5"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "anxiety",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-dd60803c5aa2",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "اضطراب؛ اسم"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-ee13a698a687",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "He suffers from anxiety.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+            "locator": "table:1/data-row:5"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+          "locator": "table:1/data-row:5"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-04d90228",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-bdd2ecc2-6b28-4a3a-9ea0-8a55d47b5fd0",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 34"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "assistant",
+    "messageOrdinal": 34,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "حتماً. این بار آزمون را فقط روی نقاط ضعف قبلی نمی‌برم؛ بلکه همان‌ها را با واژگان و contextهای Units 5–8 کتاب Ready for B1 Preliminary ترکیب می‌کنم تا مجبور شوی از گرامر و vocabulary با هم استفاده کنی.\n\nتمرکز اصلی:\n\nPresent Perfect vs Past Simple\nPresent Perfect vs Present Perfect Continuous\nRelative Clauses\nDefining vs Non-defining\nComparatives / Superlatives\nFuture forms\nZero / First / Second Conditional\nmustn't vs don't have to\nVocabulary مربوط به Nature, Environment, Travel, Work Life, Sports\nlitter, fast fashion, return ticket, hand luggage, receptionist, accept defeat و واژگان مشابه\n\nاین بار اسم گرامر را در سؤال‌ها نمی‌گویم؛ باید خودت از context تشخیص بدهی.\n\nGive feedback",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": []
+  },
+  "extensions": {
+    "capture.message-id": "bdd2ecc2-6b28-4a3a-9ea0-8a55d47b5fd0",
+    "capture.headings": [],
+    "capture.links": []
+  }
+}

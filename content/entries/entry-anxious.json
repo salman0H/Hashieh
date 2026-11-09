@@ -1,0 +1,127 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-anxious",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "anxious"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:14"
+      },
+      {
+        "sourceId": "src-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+        "locator": "table:1/data-row:1"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:1/data-row:14"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "anxious",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-30922b37c3fe",
+        "partOfSpeech": "Adjective",
+        "translation": {
+          "fa": "مضطرب، نگران"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "worried",
+          "nervous"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:1/data-row:14"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:1/data-row:14"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-ee8776f2341e",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "مضطرب، نگران؛ معمولاً وقتی دربارهٔ چیزی نگرانی"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-cbab722a1692",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "I'm anxious about my exam.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+            "locator": "table:1/data-row:1"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:1/data-row:14"
+        },
+        "group": "priority-a",
+        "sessionId": null,
+        "priority": "A"
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+          "locator": "table:1/data-row:1"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-04d90228",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:1/data-row:14"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

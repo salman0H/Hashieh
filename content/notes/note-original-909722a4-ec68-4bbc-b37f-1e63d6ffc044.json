@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-909722a4-ec68-4bbc-b37f-1e63d6ffc044",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "یک آزمون دیگ بگیر از مورادی ک باید مرور کنم و سعی کن از متنی ک از کتاب بهت دادم بیشتر استفاده کنی و لغات رو هم بیشتر در یان سیستم دخیل کن"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message",
+    "assessment",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-909722a4-ec68-4bbc-b37f-1e63d6ffc044",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-909722a4-ec68-4bbc-b37f-1e63d6ffc044-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "یک آزمون دیگ بگیر از مورادی ک باید مرور کنم و سعی کن از متنی ک از کتاب بهت دادم بیشتر استفاده کنی و لغات رو هم بیشتر در یان سیستم دخیل کن",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": []
+  },
+  "extensions": {
+    "capture.message-id": "909722a4-ec68-4bbc-b37f-1e63d6ffc044",
+    "capture.turn-number": 17
+  }
+}

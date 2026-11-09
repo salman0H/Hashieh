@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "family-superstition",
+  "type": "collection",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "superstition — word family"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m06",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "kind": "word-family",
+    "itemIds": [
+      "entry-superstition",
+      "entry-superstitious"
+    ]
+  },
+  "extensions": {}
+}

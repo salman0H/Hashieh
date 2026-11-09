@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-e819707b-0ab7-49cd-996f-ce2f16ba88da",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "خیلی این روند رو دوست داشتم ک بررسی کردی اهنگ رو ولی به نظرت تو این چت که مخصوص درست کردن جزوه و خوندن اکادمیک زبان هست جای خوبی برای این کار نباشه از این رو می"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message",
+    "song-lab",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-e819707b-0ab7-49cd-996f-ce2f16ba88da",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-e819707b-0ab7-49cd-996f-ce2f16ba88da-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "خیلی این روند رو دوست داشتم ک بررسی کردی اهنگ رو ولی به نظرت تو این چت که مخصوص درست کردن جزوه و خوندن اکادمیک زبان هست جای خوبی برای این کار نباشه از این رو میخوام یک پرامپت جامع و دقیق درست کنی که همین روم=ند رو به صورت کامل توضیح بده و ب مواردی ک نیاز هم دارم رفرنس بده و درست توی اون قید کنه ک در اینجا باید آنگ رو بر اساس چ سطحی و چ مواردی دسته بندی کنه و حتما برای اشنایی با فضای آهنگ قید کن ابتدا در نحوه داستان یا موردی ک داستان اهنگ دراه اون رو پی میگیره یک توضیح مختصر کوتاهی بده تا راحت تر بشه گرامر ها یا لغات استفاده شده رو درک کرد",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": []
+  },
+  "extensions": {
+    "capture.message-id": "e819707b-0ab7-49cd-996f-ce2f16ba88da",
+    "capture.turn-number": 10
+  }
+}

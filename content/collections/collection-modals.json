@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "collection-modals",
+  "type": "collection",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "modals"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m16",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "kind": "vocabulary-set",
+    "itemIds": [
+      "entry-permission",
+      "entry-permit",
+      "entry-obligation",
+      "entry-prohibition",
+      "entry-obligatory",
+      "entry-forbidden",
+      "entry-ban",
+      "entry-prohibit",
+      "entry-deny",
+      "entry-allowed",
+      "entry-allow",
+      "entry-cut-down-on",
+      "entry-fatty",
+      "entry-greasy",
+      "entry-hazard",
+      "entry-hazardous",
+      "entry-danger",
+      "entry-dangerous",
+      "entry-masterpiece",
+      "entry-uniform",
+      "entry-seat-belt",
+      "entry-speed-limit",
+      "entry-in-a-row",
+      "entry-back-to-back",
+      "entry-from-now-on",
+      "entry-three-day-trip",
+      "entry-emigrate",
+      "entry-immigrate",
+      "entry-reduce",
+      "entry-compulsory"
+    ]
+  },
+  "extensions": {}
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "exercise-practice-present-simple",
+  "type": "exercise",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "fa": "تمرین تکمیلی؛ present-simple"
+  },
+  "tags": [
+    "supplemental-practice"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-f892377a-352f-45b2-8930-8b7d20f6d637",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "mode": "practice",
+    "prompt": "She ___ to class every Monday.",
+    "options": [
+      "go",
+      "goes",
+      "going"
+    ],
+    "answers": [
+      {
+        "number": 1,
+        "text": "goes"
+      }
+    ],
+    "explanation": {
+      "fa": "برای عادت تکراری از حال ساده استفاده می‌کنیم؛ با she به فعل s اضافه می‌شود."
+    },
+    "conceptIds": [
+      "concept-present-simple"
+    ],
+    "gradable": true,
+    "missing": []
+  },
+  "extensions": {}
+}

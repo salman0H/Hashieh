@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-d7c64465-ec7d-4c35-ae6c-acaf73b8c172",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 57"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "user",
+    "messageOrdinal": 57,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "4 selections\n\nابنجا چون داریم میگیم the day یک روز ب خصوص رو منظورمون نیست؟\n\nدر این مورد بیشتر مثال بزن چون با گرامری ک دارم یاد میگیرم یکی هست\n\nدر مورد این ترکیب بیشتر توضیح بده\n\nدر مورد مصدر ها بیشتر بگو توی مکالمه استفاده کردنشون و اینکه با verb+ing تو افعال اشتباه نگیرمشون\n\nجواب تستت:\n\npromising\ndemanding \nrepetitive\nlucrative \ndemanding \nwell-paid",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": []
+  },
+  "extensions": {
+    "capture.message-id": "d7c64465-ec7d-4c35-ae6c-acaf73b8c172",
+    "capture.headings": [],
+    "capture.links": []
+  }
+}

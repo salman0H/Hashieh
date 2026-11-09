@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-get-rid-of",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "get rid of"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-67124b86-f826-444b-b576-8ecf06cc7df0",
+        "locator": "table:1/data-row:4"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "get rid of",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-ec986cd41890",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "از شر چیزی خلاص شدن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-67124b86-f826-444b-b576-8ecf06cc7df0",
+            "locator": "table:1/data-row:4"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-67124b86-f826-444b-b576-8ecf06cc7df0",
+          "locator": "table:1/data-row:4"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

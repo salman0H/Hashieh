@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-cheer-someone-on",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "cheer someone on"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-f892377a-352f-45b2-8930-8b7d20f6d637",
+        "locator": "table:3/data-row:5"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "cheer someone on",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-c74c8e3d3647",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "کسی را تشویق کردن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-f892377a-352f-45b2-8930-8b7d20f6d637",
+            "locator": "table:3/data-row:5"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f892377a-352f-45b2-8930-8b7d20f6d637",
+          "locator": "table:3/data-row:5"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-1fc4fb80",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

@@ -1,0 +1,159 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-prestigious",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "prestigious"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:4"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:1/data-row:166"
+      },
+      {
+        "sourceId": "src-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82",
+        "locator": "table:1/data-row:4"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:2/data-row:4"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "prestigious",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-prestige",
+    "senses": [
+      {
+        "id": "sense-ef6e863c1a2a",
+        "partOfSpeech": "Adjective",
+        "translation": {
+          "fa": "معتبر، پرآوازه"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "respected",
+          "distinguished"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:2/data-row:4"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:2/data-row:4"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-639f165e6827",
+        "partOfSpeech": "Adjective",
+        "translation": {
+          "fa": "معتبر، پراعتبار"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:1/data-row:166"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-b26aeed9ebd3",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "معتبر و دارای اعتبار یا جایگاه اجتماعی بالا"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-4eea0bb98429",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "It's a prestigious company.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82",
+            "locator": "table:1/data-row:4"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:2/data-row:4"
+        },
+        "group": "priority-b",
+        "sessionId": null,
+        "priority": "B"
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:1/data-row:166"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82",
+          "locator": "table:1/data-row:4"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-98593651",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:2/data-row:4"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

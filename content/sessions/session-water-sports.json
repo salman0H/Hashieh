@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "session-water-sports",
+  "type": "session",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Water sports, fears and second conditional"
+  },
+  "tags": [
+    "class-notes"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m07",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-original-1bd1ed7e-e74d-4856-823d-a1691435676e",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-863aac04-c82a-4811-9d0a-ff0724ef73da",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "occurredAt": null,
+    "dateLabel": "Monday 1:54 PM",
+    "datePrecision": "unknown",
+    "conceptIds": [
+      "concept-clauses",
+      "concept-second-conditional",
+      "concept-questions",
+      "concept-vocabulary-in-context",
+      "concept-past-simple",
+      "concept-present-perfect",
+      "concept-modals",
+      "concept-used-to",
+      "concept-word-families",
+      "concept-writing"
+    ],
+    "itemIds": [
+      "note-water-sports",
+      "question-drown-sink",
+      "note-original-1bd1ed7e-e74d-4856-823d-a1691435676e",
+      "note-original-863aac04-c82a-4811-9d0a-ff0724ef73da"
+    ],
+    "sourceMessageIds": [
+      "src-chat-m07",
+      "src-original-1bd1ed7e-e74d-4856-823d-a1691435676e",
+      "src-original-863aac04-c82a-4811-9d0a-ff0724ef73da"
+    ],
+    "completeness": "partial",
+    "missing": [
+      "original attachments",
+      "earlier assistant explanation"
+    ]
+  },
+  "extensions": {}
+}

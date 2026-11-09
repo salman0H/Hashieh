@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-4854e7d4-672e-4b90-86ea-0eae6466e4fc",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 79"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "user",
+    "messageOrdinal": 79,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "این جزوه رو بررسی کن:\n\nWorkshop:\n\nHave you ever —> focus all the past time and actions are importantly \n\nHave you ever done bungee jumping?\n\nI have never done that.\nI would like to try it once because I think it is an exiting thing to do.\nI have done that activity before.\nI have done it once in my life, it was about 2 years ago I went to Milad tower.\n\nPresent perfect: If we want to connect past and present.\n\nI would like do this once.\n\nI have done it before/recanly/lately. —> I did this 2 years ago.\n\nI have eaten this food once.\n \n\n\\\n\nThe most delicious food I have ever\n\n \n\nHe is always supports me. stressed. He is very help me.\nHe always supports me.\nHe really helps me.\nstressed\nThe most beautiful thing I have ever worn it is a red hat. It's not have the material to be a waterproof hat. It is make me remember him.\nIt doesn't have the material. It's not waterproof.\nthe most beautiful thing I have ever worn is a red hat.\nIt makes me remember him.\n\\\n\n\n\n\nClass: \n\nFollow = keep up with —> keep up with news.\nWhat kind of news you keep up with.\nWith your own pace. —> pace = ?\nTech more interesting for me.\nVarious —> متنوع\nLocal newspaper\nWriting: \nI am the best person you can recruit for this career. I grew up with news all the day I looked up with truth! In my last job I wrote tech column, but It was being tiring for me. I want satisfy or meet my wishes to get a new opportunity. I learned about this career from my father and he leaned from his father and this loop is permanent, so, be a reporter is in my blood. My reason is my commitment to every people who live in this neghiboor, they deserve to know the truth. I am strict man about news, I do not plateau on a same level I interest to know everything!\n\n\n\n\nی سری اسمرین هم برات فرستادم اون ها رو هم بررسی کن برام و مواردی ک هایلایت کردم رو از لحاظ گرامری و لفات بررسی کن\n\n…\nShow more",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": []
+  },
+  "extensions": {
+    "capture.message-id": "4854e7d4-672e-4b90-86ea-0eae6466e4fc",
+    "capture.headings": [],
+    "capture.links": []
+  }
+}

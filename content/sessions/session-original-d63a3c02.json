@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "session-original-d63a3c02",
+  "type": "session",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Services, clothing, weather and intensifiers"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-d63a3c02-81f3-497a-9f82-beab5e56e428",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-2a091de6-2bbf-4f90-8607-d023e02d65aa",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "occurredAt": null,
+    "dateLabel": null,
+    "datePrecision": "unknown",
+    "conceptIds": [
+      "concept-so-such-too-enough",
+      "concept-used-to",
+      "concept-writing"
+    ],
+    "itemIds": [
+      "note-original-d63a3c02-81f3-497a-9f82-beab5e56e428",
+      "note-original-2a091de6-2bbf-4f90-8607-d023e02d65aa"
+    ],
+    "sourceMessageIds": [
+      "src-original-d63a3c02-81f3-497a-9f82-beab5e56e428",
+      "src-original-2a091de6-2bbf-4f90-8607-d023e02d65aa"
+    ],
+    "completeness": "partial",
+    "missing": [
+      "Any referenced original attachments are not imported in this text pass."
+    ]
+  },
+  "extensions": {}
+}

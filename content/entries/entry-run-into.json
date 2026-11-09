@@ -1,0 +1,85 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-run-into",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "run into"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:25"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:2/data-row:25"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "run into",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-b1336c555ba1",
+        "partOfSpeech": "Phrasal verb",
+        "translation": {
+          "fa": "اتفاقی ملاقات کردن / برخورد کردن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "bump into",
+          "encounter"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:2/data-row:25"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:2/data-row:25"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:2/data-row:25"
+        },
+        "group": "priority-b",
+        "sessionId": null,
+        "priority": "B"
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:2/data-row:25"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

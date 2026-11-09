@@ -1,0 +1,177 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-make-ends-meet",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "make ends meet"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:28"
+      },
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:4/data-row:1"
+      },
+      {
+        "sourceId": "src-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a",
+        "locator": "table:1/data-row:1"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:1/data-row:28"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:4/data-row:1"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "make ends meet",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-c661691cb467",
+        "partOfSpeech": "Idiom",
+        "translation": {
+          "fa": "از پس هزینه‌های زندگی برآمدن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "cover basic expenses"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:1/data-row:28"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:1/data-row:28"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-9c31c6ba177c",
+        "partOfSpeech": "Idiom",
+        "translation": {
+          "fa": "هزینه‌های ضروری زندگی را تأمین کردن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "cover basic expenses"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:4/data-row:1"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:4/data-row:1"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-de2cf7ef64cb",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "از پس هزینه‌های زندگی برآمدن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-1216a48060b1",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "Many people struggle to make ends meet.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a",
+            "locator": "table:1/data-row:1"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:1/data-row:28"
+        },
+        "group": "priority-a",
+        "sessionId": null,
+        "priority": "A"
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:4/data-row:1"
+        },
+        "group": "chunks",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a",
+          "locator": "table:1/data-row:1"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-ab3a1c6d",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:1/data-row:28"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:4/data-row:1"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

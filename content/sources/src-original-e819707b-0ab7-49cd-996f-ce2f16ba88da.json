@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-e819707b-0ab7-49cd-996f-ce2f16ba88da",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 19"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "user",
+    "messageOrdinal": 19,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "خیلی این روند رو دوست داشتم ک بررسی کردی اهنگ رو ولی به نظرت تو این چت که مخصوص درست کردن جزوه و خوندن اکادمیک زبان هست جای خوبی برای این کار نباشه از این رو میخوام یک پرامپت جامع و دقیق درست کنی که همین روم=ند رو به صورت کامل توضیح بده و ب مواردی ک نیاز هم دارم رفرنس بده و درست توی اون قید کنه ک در اینجا باید آنگ رو بر اساس چ سطحی و چ مواردی دسته بندی کنه و حتما برای اشنایی با فضای آهنگ قید کن ابتدا در نحوه داستان یا موردی ک داستان اهنگ دراه اون رو پی میگیره یک توضیح مختصر کوتاهی بده تا راحت تر بشه گرامر ها یا لغات استفاده شده رو درک کرد",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": []
+  },
+  "extensions": {
+    "capture.message-id": "e819707b-0ab7-49cd-996f-ce2f16ba88da",
+    "capture.headings": [],
+    "capture.links": []
+  }
+}

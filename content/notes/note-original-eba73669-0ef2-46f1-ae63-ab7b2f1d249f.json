@@ -1,0 +1,79 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-eba73669-0ef2-46f1-ae63-ab7b2f1d249f",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "نقشه فعلی جزوه"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-eba73669-0ef2-46f1-ae63-ab7b2f1d249f",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-eba73669-0ef2-46f1-ae63-ab7b2f1d249f-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "متن جزوه را به‌عنوان منبع اصلی سیستم یادگیری انگلیسی این جلسه در نظر می‌گیرم. ساختار و اصطلاحات خود جزوه را حفظ می‌کنم، ولی هرجا در آینده تمرین یا مرور داشته باشیم، می‌توانم مشخص کنم کدام نکته مستقیماً از جزوه است و کدام مورد توضیح تکمیلی است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-eba73669-0ef2-46f1-ae63-ab7b2f1d249f-2",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "نقشه فعلی جزوه\nSession\tموضوعات اصلی\n1\tParts of Speech، Subject، Object، Verb، Adjective، Adverb\n2\tTo be، Yes/No Questions، Wh-Questions، Interested in / Be into\n3\tPresent Simple، Present Continuous، future arrangements، annoying habits\n4\tPast Simple، regular/irregular verbs، emphatic did\n5\tPast To Be، Past Continuous، background of a story\n6\tWill vs Be Going To\n7\tPresent Perfect، just / yet / already / since / for / never\n8\tModals: can/could, may/might, should, must/have to, shall\n9\tPresent Perfect Continuous، Conditionals 0/1/2\n10\tAdvanced Grammar: Present Simple vs Continuous، Stative/Dynamic verbs، Past Simple vs Continuous، Present Perfect vs Past Simple\nVocabulary\tdoer, chase, faith, distractions, mess up, tough, cuddle up, huddle up, choke up, choking, nepotism, confident, confidence",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-eba73669-0ef2-46f1-ae63-ab7b2f1d249f-3",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "نکته مهم برای ادامه سیستم\n\nمن این جزوه را صرفاً به‌صورت یک لیست Grammar Topic نمی‌بینم؛ سه لایه دارد:\n\nGrammar Core\n\nساختار جمله\nTenses\nModals\nConditionals\nStative/Dynamic verbs\n\nUsage & Nuance\n\nتفاوت will و be going to\nتفاوت Present Simple و Present Continuous\nتفاوت Past Simple و Present Perfect\nکاربردهای مختلف can/could/may/might\nکاربرد always + Present Continuous برای رفتار آزاردهنده\n\nVocabulary & Natural English\n\nPhrasal verbs مثل mess up, cuddle up, huddle up\nواژگان مفهومی مثل nepotism, confidence, distraction\nاصطلاحات و کاربردهای conversational\n\nاز اینجا به بعد، وقتی با من English practice انجام می‌دهی، می‌توانیم این جزوه را به‌عنوان baseline در نظر بگیریم؛ یعنی مثلاً اگر جمله‌ای بنویسی، فقط نمی‌گویم «غلط است»، بلکه در صورت مرتبط بودن آن را به یکی از همین مباحث وصل می‌کنم:\n\nYour sentence → Correction → Grammar rule → Why → Natural alternative → Error Log\n\nو یک نکته مهم: بعضی توضیحات جزوه از نظر grammar accuracy یا wording نیاز به اصلاح دارند. فعلاً آن‌ها را به‌عنوان محتوای منبع حفظ می‌کنم و بی‌سر و صدا تغییرشان نمی‌دهم. اگر در مرور به یکی از آن‌ها برسیم، مشخص می‌کنم «طبق جزوه» چه گفته شده و «در انگلیسی استاندارد» چه نکته‌ای باید یاد بگیری.\n\nاین جزوه حالا می‌تواند بخش A1–A8 / Class Notes سیستم یادگیری‌مان باشد.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-present-simple",
+      "concept-present-continuous",
+      "concept-past-simple",
+      "concept-past-continuous",
+      "concept-present-perfect",
+      "concept-present-perfect-continuous",
+      "concept-parts-of-speech",
+      "concept-phrasal-verbs"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "eba73669-0ef2-46f1-ae63-ab7b2f1d249f",
+    "capture.turn-number": 3
+  }
+}

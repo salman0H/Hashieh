@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "resource-prior-google-doc",
+  "type": "resource",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Prior language reference Google Doc"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m01",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "uri": "https://docs.google.com/document/d/1vcHF-bknw-WuZ3a7JLFmLYcVnffWFSJadPLFWS7Cwhc/edit?usp=sharing",
+    "mediaType": "application/vnd.google-apps.document",
+    "availability": "referenced-only",
+    "description": {
+      "en": "Link recorded from message 1; document contents not imported."
+    }
+  },
+  "extensions": {}
+}

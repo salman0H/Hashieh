@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-grade",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "grade"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-863aac04-c82a-4811-9d0a-ff0724ef73da",
+        "locator": "table:14/data-row:7"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:2/data-row:485"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "grade",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-grade",
+    "senses": [
+      {
+        "id": "sense-9a2e10c54322",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "نمره یا رتبه"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-863aac04-c82a-4811-9d0a-ff0724ef73da",
+            "locator": "table:14/data-row:7"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-6352dea2d840",
+        "partOfSpeech": "Noun / Verb",
+        "translation": {
+          "fa": "نمره؛ نمره دادن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:2/data-row:485"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-863aac04-c82a-4811-9d0a-ff0724ef73da",
+          "locator": "table:14/data-row:7"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-water-sports",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:2/data-row:485"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

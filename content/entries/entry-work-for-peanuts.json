@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-work-for-peanuts",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "work for peanuts"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:4/data-row:2"
+      },
+      {
+        "sourceId": "src-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a",
+        "locator": "table:1/data-row:3"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:4/data-row:2"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "work for peanuts",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-9c72f6b3554c",
+        "partOfSpeech": "Idiom",
+        "translation": {
+          "fa": "با حقوق بسیار کم کار کردن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "earn very little"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:4/data-row:2"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:4/data-row:2"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-488e6379861e",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "با دستمزد بسیار کم کار کردن؛ اصطلاح غیررسمی"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-7dc63666f977",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "Some employees work long hours for peanuts.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a",
+            "locator": "table:1/data-row:3"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:4/data-row:2"
+        },
+        "group": "chunks",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a",
+          "locator": "table:1/data-row:3"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-ab3a1c6d",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:4/data-row:2"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

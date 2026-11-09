@@ -1,0 +1,333 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-021012b8-e9d3-421d-af1d-fe1a7a57e626",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "بررسی جزوه، یادداشت‌های کلاس و عبارت‌های هایلایت‌شده"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "assessment",
+    "song-lab",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-021012b8-e9d3-421d-af1d-fe1a7a57e626",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-021012b8-e9d3-421d-af1d-fe1a7a57e626-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "بررسی جزوه، یادداشت‌های کلاس و عبارت‌های هایلایت‌شده\n\nجزوه‌ات سه بخش اصلی دارد که باید با هم بررسی شوند:\n\nWorkshop: زمان Present Perfect، تجربه‌های زندگی، صفت عالی و اصلاح جمله‌های شخصی.\n\nClass: واژگان مربوط به اخبار و روزنامه‌نگاری، عبارت‌های کاربردی و متن معرفی خودت برای استخدام به‌عنوان خبرنگار.\n\nتصاویر کتاب: عبارت‌های هایلایت‌شده در چهار تصویر؛ با تمرکز بر معنی، کاربرد، ساختار گرامری و تفاوت‌های ظریف.\n\nدر اصلاح‌ها، بین سه مورد تفاوت می‌گذارم: اشتباه گرامری، عبارت غیراصطلاحی (unnatural English)، و انتخاب واژه‌ای که معنی موردنظرت را دقیق منتقل نمی‌کند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-021012b8-e9d3-421d-af1d-fe1a7a57e626-2",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۱. بررسی Workshop: Present Perfect و تجربه‌های زندگی",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-021012b8-e9d3-421d-af1d-fe1a7a57e626-3",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "الف) کاربرد Have you ever ...?\n\nجملهٔ تو:\n\nHave you ever done bungee jumping?\n\nاین جمله از نظر گرامری درست است. معنی: «تا حالا بانجی‌جامپینگ انجام داده‌ای؟»\n\nساختار:\n\nHave/Has + subject + ever + past participle?\nHave/Has + subject + ever + past participle?\n\never در سؤال‌های مربوط به تجربهٔ زندگی یعنی «تا حالا، در هیچ زمانی از زندگی».\n\ndone شکل سوم فعل do است: do – did – done.\n\nbungee jumping اسم فعالیت است و با do می‌آید.\n\nمثال‌های دیگر:\n\nHave you ever travelled abroad? — تا حالا به خارج از کشور سفر کرده‌ای؟\n\nHave you ever tried sushi? — تا حالا سوشی امتحان کرده‌ای؟\n\nHave you ever met a famous person? — تا حالا یک فرد مشهور را ملاقات کرده‌ای؟\n\nنکته: Present Perfect لزوماً تمام گذشته را پوشش نمی‌دهد؛ در این ساختار، تمرکز روی تجربه‌ای است که تا زمان حال برای فرد اتفاق افتاده یا نیفتاده است، نه زمان دقیق آن.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-021012b8-e9d3-421d-af1d-fe1a7a57e626-4",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "ب) پاسخ به سؤال دربارهٔ تجربه\n\nاگر تجربه نداشته باشی\n\nI have never done that.\n\nمن هیچ‌وقت آن کار را انجام نداده‌ام.\n\nاگر تجربه داشته باشی\n\nI have done it before.\n\nقبلاً این کار را انجام داده‌ام.\n\nاگر بخواهی تعداد دفعات را بگویی\n\nI have done it once in my life.\n\nدر طول زندگی‌ام یک بار این کار را انجام داده‌ام.\n\nاگر زمان دقیق را هم بدانی\n\nI did it about two years ago.\n\nحدود دو سال پیش انجامش دادم.\n\nنکتهٔ مهم این است که جملهٔ زیر دو بخش با دو کاربرد متفاوت دارد:\n\nI have done it once in my life. It was about two years ago, when I went to Milad Tower.\n\nI have done it once in my life: گزارش تجربه تا زمان حال؛ Present Perfect.\n\nIt was about two years ago: اشاره به زمان مشخص در گذشته؛ Past Simple.\n\nwhen I went to Milad Tower: رویدادی در گذشته؛ Past Simple.\n\nبرای طبیعی‌تر شدن جمله، اگر منظورت این است که از برج میلاد بانجی‌جامپینگ انجام داده‌ای، بهتر است بگویی:\n\nI tried bungee jumping once, about two years ago, at Milad Tower.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-021012b8-e9d3-421d-af1d-fe1a7a57e626-5",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "ج) تفاوت recently، lately و before\n\nجملهٔ جزوه:\n\nI have done it before/recanly/lately.\n\nاملای درست recently است، نه recanly.\n\nعبارت\n\n\t\n\nمعنی و کاربرد\n\n\n\n\nbefore\n\n\t\n\nقبلاً؛ در زمانی نامشخص پیش از حال\n\n\n\n\nrecently\n\n\t\n\nاخیراً؛ در گذشتهٔ نزدیک\n\n\n\n\nlately\n\n\t\n\nاخیراً؛ اغلب برای وضعیت‌ها یا اتفاقات تکرارشونده در یک دورهٔ اخیر\n\nمثال‌ها:\n\nI have tried it before. — قبلاً امتحانش کرده‌ام.\n\nI have tried it recently. — اخیراً امتحانش کرده‌ام.\n\nI haven't been exercising much lately. — این اواخر زیاد ورزش نکرده‌ام.\n\nاما وقتی زمان مشخصی مثل «دو سال پیش» را بیان می‌کنی، معمولاً باید از Past Simple استفاده کنی:\n\nI did it two years ago. ✓\n\nI have done it two years ago. ✗\n\nعلت: two years ago زمان مشخصی در گذشته را تعیین می‌کند و با Present Perfect معمولی سازگار نیست.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-021012b8-e9d3-421d-af1d-fe1a7a57e626-6",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "د) I would like to try it once\n\nجملهٔ جزوه:\n\nI would like do this once.\n\nشکل درست:\n\nI would like to do this once.\n\nیا طبیعی‌تر در این موقعیت:\n\nI would like to try it sometime.\n\nساختار:\n\nwould like + to-infinitive\n\nI would like to learn Python.\n\nI would like to visit Japan.\n\nI would like to try bungee jumping.\n\nبعد از would like، فعل با to می‌آید؛ نمی‌گوییم would like do.\n\nتفاوت ظریف:\n\ntry it once = یک بار امتحانش کنم.\n\ntry it sometime = یک زمانی امتحانش کنم؛ زمان دقیق مشخص نیست.\n\ntry it for the first time = برای اولین بار امتحانش کنم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-021012b8-e9d3-421d-af1d-fe1a7a57e626-7",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "هـ) The most delicious food I have ever ...\n\nاین عبارت هنوز کامل نشده است. برای تکمیل آن:\n\nThe most delicious food I have ever eaten was the pasta I tried in Italy.\n\nخوشمزه‌ترین غذایی که تا حالا خورده‌ام، پاستایی بود که در ایتالیا امتحان کردم.\n\nساختار:\n\nthe + superlative + noun + subject + have/has ever + past participle\n\nمثال‌های دیگر:\n\nThe best book I have ever read is ...\n\nThe most exciting activity I have ever tried was ...\n\nThe most beautiful place I have ever visited is ...\n\never در اینجا تجربه را از میان تمام تجربه‌های زندگی تا زمان حال بررسی می‌کند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-021012b8-e9d3-421d-af1d-fe1a7a57e626-8",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "و) اصلاح چند جملهٔ دیگر از Workshop\n\nجملهٔ اولیه\n\n\t\n\nاصلاح و دلیل\n\n\n\n\nHe is always supports me.\n\n\t\n\nHe always supports me. بعد از فعل اصلی supports به is نیاز نداریم.\n\n\n\n\nHe is very help me.\n\n\t\n\nHe really helps me. یا He is very helpful. فعل و صفت را با هم اشتباه گرفته بودی.\n\n\n\n\nThe most beautiful thing I have ever worn it is a red hat.\n\n\t\n\nThe most beautiful thing I have ever worn is a red hat. عبارت موصولی، فاعل جمله را توصیف می‌کند؛ it اضافه است.\n\n\n\n\nIt's not have the material to be a waterproof hat.\n\n\t\n\nIt isn't waterproof. یا It isn't made of waterproof material.\n\n\n\n\nIt makes me remember him.\n\n\t\n\nاز نظر گرامری درست است؛ It reminds me of him طبیعی‌تر است.\n\nدو نکتهٔ تکمیلی:\n\nalways معمولاً پیش از فعل اصلی می‌آید: He always supports me. اما با فعل be معمولاً بعد از آن قرار می‌گیرد: He is always helpful.\n\nremind someone of someone/something یعنی چیزی را به یاد کسی یا چیزی انداختن: This song reminds me of my childhood.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-021012b8-e9d3-421d-af1d-fe1a7a57e626-9",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۲. بررسی یادداشت‌های Class",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-021012b8-e9d3-421d-af1d-fe1a7a57e626-10",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "الف) Follow و keep up with\n\nfollow یعنی دنبال کردن، پیگیری کردن یا دنبالِ مطالب کسی/چیزی بودن.\n\nkeep up with یعنی از تغییرات یا اطلاعات جدید عقب نماندن و همگام ماندن.\n\nI follow several technology websites. — چند وب‌سایت فناوری را دنبال می‌کنم.\n\nI keep up with the latest tech news. — اخبار جدید فناوری را پیگیری می‌کنم.\n\nIt's hard to keep up with all the changes in AI. — همگام ماندن با تمام تغییرات هوش مصنوعی دشوار است.\n\nدر سؤال:\n\nWhat kind of news do you keep up with?\n\nاصلاح مهم این است که در سؤال Present Simple باید از do استفاده کنیم: What kind of news do you ...?\n\nپاسخ نمونه:\n\nI mainly keep up with technology news, especially AI and software development.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-021012b8-e9d3-421d-af1d-fe1a7a57e626-11",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "ب) At your own pace\n\npace یعنی سرعت یا آهنگ انجام یک فعالیت.\n\nat your own pace = با سرعت خودت، مطابق توان و زمان‌بندی خودت\n\nat a slow pace = با سرعت کم\n\nat a steady pace = با سرعتی ثابت\n\npick up the pace = سرعت را بیشتر کردن\n\nkeep pace with = هم‌قدم یا هم‌سطح ماندن با\n\nمثال:\n\nYou can learn English at your own pace.\n\nمی‌توانی انگلیسی را با سرعت مناسب خودت یاد بگیری.\n\nتفاوت:\n\nkeep up with the news = اخبار را مرتب پیگیری کردن.\n\nkeep pace with developments in technology = از پیشرفت‌های فناوری عقب نماندن.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-021012b8-e9d3-421d-af1d-fe1a7a57e626-12",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "ج) Tech more interesting for me\n\nجمله کامل نیست. شکل درست:\n\nTech is more interesting to me.\n\nیا:\n\nI find technology more interesting than politics.\n\nچرا؟\n\nدر جملهٔ اول به فعل is نیاز داریم. همچنین هر دو عبارت interesting to me و interesting for me ممکن‌اند، اما معمولاً:\n\ninteresting to me = برای من جالب است.\n\nuseful for me = برای من مفید است.\n\nاگر بخواهی علاقهٔ شخصی‌ات را بیان کنی، طبیعی‌تر است بگویی:\n\nI'm more interested in technology than in politics.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-021012b8-e9d3-421d-af1d-fe1a7a57e626-13",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "د) Various\n\nvarious صفت است و معنی «گوناگون، متنوع، مختلف» می‌دهد.\n\nvarious types of news = انواع مختلف اخبار\n\nvarious career opportunities = فرصت‌های شغلی گوناگون\n\nvarious reasons = دلایل مختلف\n\nتفاوت با variety:\n\nvarious = صفت: various jobs\n\nvariety = اسم: a variety of jobs\n\nمثال:\n\nThe newspaper covers various topics.\n\nThe newspaper covers a variety of topics.\n\nهر دو یعنی روزنامه موضوعات متنوعی را پوشش می‌دهد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-021012b8-e9d3-421d-af1d-fe1a7a57e626-14",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "هـ) Local newspaper\n\nیعنی «روزنامهٔ محلی»؛ روزنامه‌ای که اخبار یک شهر، منطقه یا جامعهٔ محلی را پوشش می‌دهد.\n\nlocal news = اخبار محلی\n\nnational news = اخبار ملی\n\ninternational news = اخبار بین‌المللی\n\na local newspaper reporter = خبرنگار یک روزنامهٔ محلی",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-021012b8-e9d3-421d-af1d-fe1a7a57e626-15",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۳. اصلاح Writing تو دربارهٔ خبرنگاری\n\nمتنت ایدهٔ مشخصی دارد: می‌خواهی خودت را فردی مناسب برای شغل خبرنگاری معرفی کنی، سابقهٔ خانوادگی‌ات را توضیح بدهی و روی تعهدت به حقیقت و مردم تأکید کنی. مشکل اصلی متن، کمبود ایده نیست؛ ترکیب‌های واژگانی، ساختار فعل‌ها، حروف اضافه و طبیعی بودن جمله‌ها است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-021012b8-e9d3-421d-af1d-fe1a7a57e626-16",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "نسخهٔ اصلاح‌شده\nWriting\n\nI believe I am the right person for this position. I grew up surrounded by news, and I have always been interested in finding out the truth. In my previous job, I wrote a technology column, but the work eventually became tiring.\n\nNow, I want to find a new opportunity that better matches my interests and ambitions. I learned about this profession from my father, who learned it from his father. This tradition has continued through generations, so being a reporter feels like it's in my blood.\n\nI am committed to the people who live in this neighbourhood because they deserve to know the truth. I take journalism seriously, and I believe that a good reporter should always be accurate, honest, and curious. I don't want to stagnate or remain at the same level; I am always interested in learning new things and broadening my knowledge.\n\nاین نسخه وفادار به ایدهٔ اصلی توست، اما آن را برای معرفی حرفه‌ای به کارفرما مناسب‌تر می‌کند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-021012b8-e9d3-421d-af1d-fe1a7a57e626-17",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "تحلیل جمله‌به‌جملهٔ اشتباه‌های مهم\n\nنوشتهٔ تو\n\n\t\n\nاصلاح\n\n\t\n\nتوضیح\n\n\n\n\nthe best person you can recruit for this career\n\n\t\n\nthe right person for this position\n\n\t\n\nrecruit درست است، اما این عبارت برای معرفی خودت کمی غیرطبیعی است. position یعنی موقعیت شغلی مشخص.\n\n\n\n\nI grew up with news all the day\n\n\t\n\nI grew up surrounded by news\n\n\t\n\nall the day طبیعی نیست؛ all day یعنی تمام طول روز. عبارت grew up surrounded by می‌گوید در محیطی پر از اخبار بزرگ شده‌ای.\n\n\n\n\nI looked up with truth\n\n\t\n\nI have always been interested in finding out the truth\n\n\t\n\nlook up در این معنا مناسب نیست. find out the truth یعنی حقیقت را کشف کردن.\n\n\n\n\nIn my last job I wrote tech column\n\n\t\n\nIn my previous job, I wrote a technology column\n\n\t\n\nپیش از اسم مفرد شمارش‌پذیر column به a نیاز داری.\n\n\n\n\nit was being tiring\n\n\t\n\nit became tiring\n\n\t\n\nبرای بیان اینکه کاری به‌مرور خسته‌کننده شد، became tiring طبیعی‌تر است.\n\n\n\n\nI want satisfy ...\n\n\t\n\nI want to find ...\n\n\t\n\nساختار want + to + verb است.\n\n\n\n\nthis loop is permanent\n\n\t\n\nthis tradition has continued through generations\n\n\t\n\nloop معمولاً به چرخه اشاره می‌کند؛ برای انتقال تجربهٔ خانوادگی، tradition مناسب‌تر است.\n\n\n\n\nbe a reporter is in my blood\n\n\t\n\nbeing a reporter feels like it's in my blood\n\n\t\n\nوقتی عبارت فعلی نقش فاعل دارد، معمولاً از Gerund استفاده می‌کنیم: Being a reporter ...\n\n\n\n\nMy reason is my commitment to every people\n\n\t\n\nI am committed to the people ...\n\n\t\n\npeople در این کاربرد جمع است؛ every people درست نیست. می‌توان گفت every person یا all the people.\n\n\n\n\nI am strict man about news\n\n\t\n\nI take journalism seriously\n\n\t\n\nstrict معمولاً برای فرد سخت‌گیر یا قوانین سخت استفاده می‌شود. برای دقت حرفه‌ای، این عبارت طبیعی‌تر است.\n\n\n\n\nI do not plateau on a same level\n\n\t\n\nI don't want to stagnate or remain at the same level\n\n\t\n\nplateau می‌تواند به‌عنوان فعل به معنی ثابت ماندن سطح پیشرفت به کار رود، اما در این جمله stagnate یا remain at the same level طبیعی‌تر است.\n\n\n\n\nI interest to know everything\n\n\t\n\nI am interested in learning new things\n\n\t\n\nساختار درست: be interested in + noun/V-ing.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-021012b8-e9d3-421d-af1d-fe1a7a57e626-18",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "سه ساختار گرامری که باید از همین متن یاد بگیری\n\n۱. grow up + ...\n\nبرای صحبت دربارهٔ محیط یا شرایط دوران رشد:\n\nI grew up in a small town.\n\nI grew up surrounded by books.\n\nI grew up with a strong interest in technology.\n\n۲. want + to-infinitive\n\nI want to improve my writing.\n\nI want to find a better job.\n\nI want to become a professional reporter.\n\nبعد از want فعل پایه با to می‌آید، نه مستقیماً فعل پایه.\n\n۳. be committed to + noun/V-ing\n\nاینجا to حرف اضافه است، بنابراین اگر فعل بیاید باید -ing بگیرد:\n\nI am committed to my work.\n\nI am committed to telling the truth.\n\nShe is committed to helping her community.\n\nاین همان الگویی است که در look forward to meeting you و object to paying more هم می‌بینی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-021012b8-e9d3-421d-af1d-fe1a7a57e626-19",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۴. بررسی تمام عبارت‌های هایلایت‌شده در تصاویر",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-021012b8-e9d3-421d-af1d-fe1a7a57e626-20",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "تصویر اول: متن «Being a reporter»\n\n1. vet\n\nاسم | دامپزشک\n\nشکل کامل آن veterinarian است. Vet در مکالمه رایج‌تر و کوتاه‌تر است.\n\nI wanted to become a vet.\n\nThe vet examined my cat.\n\n2. I didn't do\n\nساختار منفی Past Simple:\n\nsubject + didn't + base verb\n\nI didn't do very well in science.\n\nShe didn't understand the question.\n\nبعد از didn't فعل به شکل پایه برمی‌گردد؛ نمی‌گوییم didn't did.\n\n3. was being a reporter\n\nدر متن اصلی: One of them was being a reporter.\n\nاین عبارت در این بافت کمی نامعمول است. اگر منظور یکی از مشاغل معرفی‌شده در مدرسه باشد، طبیعی‌تر است:\n\nOne of them was being a reporter. — ممکن است به نقش یا رفتار موقتی اشاره کند.\n\nOne of them was a reporter. — یکی از آن‌ها خبرنگار بود.\n\nOne of the careers was journalism. — یکی از مشاغل، روزنامه‌نگاری بود.\n\nwas being از was + being ساخته شده و معمولاً روی رفتار یا نقش موقتی تأکید می‌کند؛ برای معرفی شغل معمولاً was a reporter مناسب‌تر است.\n\n4. I got some proper training with a local newspaper\n\nget training = آموزش دیدن\n\nproper training = آموزش مناسب و اصولی\n\nlocal newspaper = روزنامهٔ محلی\n\ngot گذشتهٔ get است. جمله می‌گوید در یک روزنامهٔ محلی آموزش عملی مناسبی دیدم.\n\nمثال: I got some proper training before starting the job.\n\n5. photocopies\n\nاسم جمع | فتوکپی‌ها\n\nmake photocopies = فتوکپی گرفتن\n\nphotocopy a document = از یک سند فتوکپی گرفتن\n\ncopy معنای عمومی‌تری دارد؛ photocopy مشخصاً به کپی با دستگاه فتوکپی اشاره می‌کند.\n\n6. a cat being stuck up a tree\n\nمعنی: «گربه‌ای که بالای درخت گیر کرده بود.»\n\nاین ساختار را به‌صورت زیر تجزیه کن:\n\na cat = گربه\n\nbeing stuck = در وضعیت گیر افتادن بودن\n\nup a tree = بالای درخت\n\nدر اینجا stuck به معنی «گیر افتاده» است. عبارت a cat stuck up a tree هم بسیار طبیعی است.\n\nمثال: We saw a dog stuck in the mud.\n\n7. I soon learnt to do it!\n\nمعنی: «به‌زودی یاد گرفتم این کار را انجام دهم.»\n\nlearn to do something = یاد گرفتن انجام کاری\n\nsoon = به‌زودی\n\nlearnt و learned هر دو شکل گذشتهٔ پذیرفته‌شده‌اند؛ learnt در انگلیسی بریتانیایی رایج‌تر است.\n\nتفاوت مهم:\n\nI learned to do it. = یاد گرفتم انجامش بدهم.\n\nI learned how to do it. = یاد گرفتم چطور انجامش بدهم.\n\n8. I still enjoy it\n\nstill یعنی «هنوز» و ادامه داشتن یک وضعیت را نشان می‌دهد.\n\nI still enjoy my job.\n\nShe still lives in Mashhad.\n\nI still haven't finished the book.\n\nجایگاه معمول still پیش از فعل اصلی است؛ با فعل be معمولاً بعد از آن می‌آید: I am still interested in journalism.\n\n9. it really wasn't my area of interest\n\nمعنی: «واقعاً حوزهٔ موردعلاقهٔ من نبود.»\n\narea of interest = حوزهٔ علاقه\n\nreally = واقعاً\n\nwasn't = was not\n\nاین عبارت از I didn't like it دقیق‌تر است؛ ممکن است موضوع را بد ندانی، اما به آن علاقهٔ تخصصی نداشته باشی.\n\n10. politics\n\nمعنی: سیاست.\n\nاسم است و معمولاً به شکل politics نوشته می‌شود، حتی وقتی دربارهٔ حوزهٔ سیاست به‌طور کلی صحبت می‌کنیم.\n\nI am interested in politics.\n\nShe writes about politics.\n\nتوجه: politics از نظر شکل به -s ختم می‌شود، اما در معنای موضوع سیاسی معمولاً با فعل مفرد می‌آید: Politics is complicated.\n\n11. generally pretty good\n\nمعنی: «به‌طور کلی نسبتاً/خیلی خوب.»\n\ngenerally = به‌طور کلی؛ قید\n\npretty = در اینجا قید شدت، یعنی «نسبتاً» یا «خیلی»\n\ngood = صفت\n\nساختار: adverb + adverb of degree + adjective\n\nمثال: The working conditions are generally pretty good.\n\npretty در این کاربرد غیررسمی است؛ در متن رسمی می‌توان گفت generally very good.\n\n12. read more than three paragraphs online\n\nمعنی: «بیش از سه پاراگراف را به‌صورت آنلاین خواندن.»\n\nmore than یعنی «بیشتر از». این عبارت برای مقدار یا تعداد استفاده می‌شود.\n\nmore than three people\n\nmore than an hour\n\nmore than three paragraphs\n\nدر جملهٔ متن، when یک موقعیت کلی را معرفی می‌کند و read در اینجا شکل پایهٔ فعل است که با فاعل جمع people در Present Simple به کار رفته است.\n\n13. they often lose interest\n\nمعنی: «آن‌ها اغلب علاقه‌شان را از دست می‌دهند.»\n\nlose interest یک ترکیب رایج است؛ یعنی علاقه یا انگیزه نسبت به چیزی کاهش می‌یابد.\n\nlose interest in a subject\n\nlose interest in reading\n\nHe lost interest in the project.\n\nبعد از interest برای مشخص کردن موضوع، اغلب از in استفاده می‌کنیم.\n\n14. until I retire\n\nمعنی: «تا زمانی که بازنشسته شوم.»\n\nuntil نقطهٔ پایان یک وضعیت یا فعالیت را مشخص می‌کند.\n\nI'll work here until I retire.\n\nWait here until I come back.\n\nنکتهٔ گرامری: برای اشاره به آینده، بعد از until معمولاً Present Simple می‌آید، نه will:\n\nuntil I retire، نه until I will retire.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-021012b8-e9d3-421d-af1d-fe1a7a57e626-21",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "تصویر دوم: ایمیل دربارهٔ پیدا کردن شغل\n\n1. you've quit your job\n\nyou've مخفف you have است و quit در اینجا شکل پایه و گذشتهٔ فعل هم‌شکل است.\n\nYou have quit your job. = تو شغلت را ترک کرده‌ای.\n\nquit a job = شغل را ترک کردن\n\nresign from a job = استعفا دادن؛ رسمی‌تر\n\nPresent Perfect در این جمله به اتفاقی در گذشته اشاره می‌کند که برای وضعیت فعلی مهم است.\n\n2. you're moving to the city in June\n\nساختار Present Continuous برای یک برنامه یا arrangement آینده:\n\nam/is/are + V-ing\n\nYou're moving in June.\n\nI'm meeting my manager tomorrow.\n\nدر این جمله، نقل مکان یک برنامهٔ نسبتاً مشخص است؛ بنابراین Present Continuous طبیعی است.\n\n3. Don't worry about looking for a job\n\nساختار:\n\nworry about + noun/V-ing\n\nچون about حرف اضافه است، اگر پس از آن فعل بیاید، از -ing استفاده می‌کنیم.\n\nDon't worry about the exam.\n\nDon't worry about finding a job.\n\nlook for a job یعنی دنبال شغل گشتن؛ با find a job که یعنی شغل پیدا کردن، فرق دارد.\n\n4. you'll find one quickly\n\nyou'll = you will.\n\none جایگزین اسم مفرد شمارش‌پذیرِ قبلاً ذکرشده است؛ در اینجا به‌جای تکرار job آمده.\n\nThere are many jobs, and I think you'll find one.\n\nI need a pen. Do you have one?\n\nquickly قید است و چگونگی انجام عمل پیدا کردن را توضیح می‌دهد.\n\n5. I think you can earn a lot of money\n\nI think = فکر می‌کنم\n\ncan earn = می‌توانی درآمد کسب کنی\n\na lot of money = پول زیاد\n\nearn money یعنی از طریق کار، درآمد کسب کردن. make money هم بسیار رایج است و معنای مشابهی دارد.\n\nبعد از modal can فعل به شکل پایه می‌آید: can earn، نه can earns.\n\n6. You could apply for a job with my employer\n\napply for a job = برای یک شغل درخواست دادن\n\nemployer = کارفرما\n\nemployee = کارمند\n\ncould در اینجا پیشنهاد ملایم و مؤدبانه می‌دهد.\n\nمثال: You could apply for a position in our company.\n\nتفاوت apply for و apply to:\n\napply for a job = برای شغل درخواست دادن\n\napply to a company = به یک شرکت درخواست دادن\n\n7. a few people are retiring soon\n\na few یعنی «چند نفر»، و معمولاً برای اسم جمع شمارش‌پذیر استفاده می‌شود.\n\na few employees\n\na few opportunities\n\nretire یعنی پس از پایان دورهٔ کاری، بازنشسته شدن. retiring در این جمله Present Continuous است و به اتفاقی مورد انتظار در آیندهٔ نزدیک اشاره دارد.\n\n8. retirement age\n\nمعنی: سن بازنشستگی.\n\nretirement اسم است؛ از فعل retire ساخته شده.\n\nretire = بازنشسته شدن\n\nretirement = بازنشستگی\n\nretirement age = سن بازنشستگی\n\nمثال: He plans to work until retirement age.\n\n9. so you might get a permanent job\n\nso = بنابراین؛ نتیجه\n\nmight = ممکن است؛ احتمال\n\npermanent job = شغل دائمی\n\nاینجا so نتیجهٔ جملهٔ قبل را معرفی می‌کند. might احتمال را بیان می‌کند، نه قطعیت را.\n\npermanent در مقابل temporary قرار می‌گیرد.\n\n10. send in your CV\n\nsend in یعنی ارسال کردن یا تحویل دادن یک سند، درخواست یا مدرک.\n\nsend in your CV\n\nsend in an application\n\nsend in the required documents\n\nCV در انگلیسی بریتانیایی رایج است؛ در آمریکایی، résumé معمول‌تر است.\n\n11. fill in an application form\n\nیعنی فرم درخواست را تکمیل کردن.\n\nfill in a form = فرم را پر کردن؛ بریتانیایی رایج\n\nfill out a form = فرم را پر کردن؛ آمریکایی رایج\n\nfill in در اینجا یک phrasal verb است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-021012b8-e9d3-421d-af1d-fe1a7a57e626-22",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "تصویر سوم: Useful Language — Adjectives\n\nدر این تصویر، واژه‌ها بر اساس سه دستهٔ JOB، PEOPLE و PLACE مرتب شده‌اند. بعضی صفت‌ها می‌توانند در چند دسته قرار بگیرند؛ پس دسته‌بندی مطلق نیست.\n\nواژه\n\n\t\n\nمعنی\n\n\t\n\nترکیب نمونه\n\n\n\n\nbright\n\n\t\n\nروشن؛ باهوش\n\n\t\n\na bright room / a bright student\n\n\n\n\nclever\n\n\t\n\nباهوش، زیرک\n\n\t\n\na clever person\n\n\n\n\nconfident\n\n\t\n\nبااعتمادبه‌نفس\n\n\t\n\na confident reporter\n\n\n\n\nenjoyable\n\n\t\n\nلذت‌بخش\n\n\t\n\nan enjoyable job\n\n\n\n\nfriendly\n\n\t\n\nدوستانه، خوش‌برخورد\n\n\t\n\nfriendly colleagues\n\n\n\n\nhelpful\n\n\t\n\nکمک‌کننده، مفید\n\n\t\n\na helpful manager\n\n\n\n\nhonest\n\n\t\n\nصادق\n\n\t\n\nan honest person\n\n\n\n\nmodern\n\n\t\n\nمدرن، امروزی\n\n\t\n\na modern office\n\n\n\n\nprofessional\n\n\t\n\nحرفه‌ای\n\n\t\n\na professional journalist\n\n\n\n\nspectacular\n\n\t\n\nخیره‌کننده، بسیار چشمگیر\n\n\t\n\na spectacular view\n\n\n\n\nstressful\n\n\t\n\nپراسترس\n\n\t\n\na stressful job\n\n\n\n\nstrict\n\n\t\n\nسخت‌گیر\n\n\t\n\na strict manager\n\nچند تفاوت ظریف:\n\nbright برای مکان می‌تواند «روشن» و برای فرد «باهوش» باشد.\n\nclever بیشتر به توانایی فکری یا زیرکی اشاره دارد.\n\nconfident یعنی فرد به توانایی خودش اعتماد دارد؛ با arrogant، یعنی متکبر، یکی نیست.\n\nenjoyable چیزی است که از آن لذت می‌بری؛ enjoyed چیزی است که از آن لذت برده شده یا فرد آن را تجربه کرده است.\n\nhelpful برای آدم‌ها یعنی کمک‌کننده و برای اطلاعات یعنی مفید.\n\nprofessional هم به رفتار حرفه‌ای و هم به فعالیت یا فرد متخصص اشاره می‌کند.\n\nspectacular از beautiful قوی‌تر است و بر تأثیرگذاری و چشمگیر بودن تأکید می‌کند.\n\nstressful چیزی است که استرس ایجاد می‌کند؛ stressed حالتی است که فرد تجربه می‌کند: The job is stressful. I feel stressed.\n\nstrict الزاماً صفت منفی نیست؛ ممکن است برای قوانین یا مدیری که استانداردهای مشخصی دارد به کار برود.\n\nنمونه‌های کاربردی مرتبط با کار:\n\nI want to work in a modern and professional environment.\n\nMy manager is strict but helpful.\n\nBeing a reporter can be exciting but stressful.\n\nA confident reporter asks clear questions.\n\nThe city has a spectacular view.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-021012b8-e9d3-421d-af1d-fe1a7a57e626-23",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "تصویر چهارم: متن «The Four-Day Week»\n\n1. obviously\n\nمعنی: بدیهی است؛ آشکارا.\n\nقید است و نظر گوینده را دربارهٔ جمله نشان می‌دهد.\n\nObviously, a four-day week sounds attractive to many workers.\n\nHe was obviously tired.\n\nدر جملهٔ اول، obviously نشان می‌دهد گوینده موضوع را روشن یا قابل‌انتظار می‌داند.\n\n2. look after\n\nمعنی: مراقبت کردن از کسی یا چیزی.\n\nlook after your health\n\nlook after children\n\nShe looks after her elderly parents.\n\nlook after با look for فرق دارد:\n\nlook after = مراقبت کردن\n\nlook for = دنبال چیزی گشتن\n\n3. isn't it?\n\nاین عبارت در جملهٔ But it's a bad idea for businesses, isn't it? یک question tag است؛ یعنی سؤال کوتاهی که برای تأیید گرفتن یا جلب موافقت اضافه می‌شود.\n\nجمله مثبت → tag منفی:\n\n- It's a good idea, isn't it?\n\nجمله منفی → tag مثبت:\n\n- It isn't a good idea, is it?\n\nدر جملهٔ تصویر، فعل اصلی is است، بنابراین tag هم با is ساخته می‌شود.\n\n4. Surprisingly\n\nمعنی: به‌طرز شگفت‌آوری؛ برخلاف انتظار.\n\nاین قید نشان می‌دهد اطلاعات بعدی برای گوینده غیرمنتظره است.\n\nSurprisingly, the experiment was successful.\n\nThe company, surprisingly, agreed to the proposal.\n\nتفاوت:\n\nsurprising = شگفت‌آور؛ صفت برای چیزی که باعث تعجب می‌شود.\n\nsurprised = متعجب؛ صفت برای کسی که احساس تعجب می‌کند.\n\n5. experiments\n\nمعنی: آزمایش‌ها.\n\nمفرد: experiment؛ جمع: experiments.\n\nconduct an experiment = آزمایش انجام دادن\n\na scientific experiment = آزمایش علمی\n\nrecent experiments suggest that ... = آزمایش‌های اخیر نشان می‌دهند که ...\n\nدر متن، suggest that یعنی «حاکی از آن است که» یا «نشان می‌دهد که»؛ الزاماً به معنای اثبات قطعی نیست.\n\n6. there are benefits for companies, too\n\nمعنی: برای شرکت‌ها هم مزایایی وجود دارد.\n\nthere are برای وجود اسم جمع\n\nbenefits = مزایا\n\ntoo در انتهای جمله = هم، همچنین\n\nمقایسه:\n\nThere is a benefit. — یک مزیت وجود دارد.\n\nThere are benefits. — مزایایی وجود دارند.\n\n7. workers are happier\n\nhappier صفت تفضیلی (comparative adjective) از happy است.\n\nچون happy به y ختم می‌شود، y به i تبدیل می‌شود و -er می‌گیرد:\n\nhappy → happier → happiest\n\nWorkers are happier with flexible hours.\n\nThis job is more stressful than my previous one.\n\nبرای مقایسهٔ صفت‌های کوتاه معمولاً -er و برای بسیاری از صفت‌های بلند more + adjective استفاده می‌شود.\n\n8. fewer mistakes\n\nfewer برای اسم‌های شمارش‌پذیر جمع به کار می‌رود.\n\nfewer mistakes\n\nfewer employees\n\nfewer working days\n\nدر مقابل، less معمولاً با اسم‌های غیرقابل‌شمارش می‌آید:\n\nless stress\n\nless time\n\nless money\n\nپس می‌گوییم fewer mistakes، نه less mistakes در انگلیسی معیار.\n\n9. amount of work\n\nمعنی: مقدار کار.\n\namount of معمولاً با اسم غیرقابل‌شمارش می‌آید:\n\nthe amount of work\n\nthe amount of time\n\nthe amount of money\n\nبرای اسم شمارش‌پذیر معمولاً از number of استفاده می‌کنیم:\n\nthe number of employees\n\nthe number of mistakes\n\nدر اینجا work به معنی کار به‌طور کلی، غیرقابل‌شمارش است.\n\n10. for instance\n\nمعنی: برای مثال.\n\nاز نظر معنی تقریباً معادل for example است.\n\nSome jobs are stressful. For instance, emergency medicine can be demanding.\n\nSome employees prefer flexible hours, for instance.\n\nمعمولاً for instance را برای معرفی نمونه‌ای مشخص از یک ادعای کلی به کار می‌بریم.\n\n11. introduce a four-day week\n\nدر این متن introduce یعنی یک سیاست، سیستم یا روش جدید را برقرار یا اجرا کردن.\n\nintroduce a new policy\n\nintroduce a flexible schedule\n\nintroduce a four-day working week\n\nاینجا منظور معرفی شفاهی نیست؛ منظور اجرای یک نظام کاری جدید است.\n\nنکتهٔ تکمیلی دربارهٔ تصویر چهارم: شماره‌های A4، E1، B2، D3، G5 داخل متن، به‌احتمال زیاد نشانگرهای تمرین تطبیق پاراگراف با جمله‌ها هستند، نه بخشی از متن اصلی. چون گزینه‌های تمرین در تصاویر حاضر نیستند، نمی‌توان پاسخ‌های آن تمرین را از همین تصویر به‌طور قطعی تعیین کرد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-021012b8-e9d3-421d-af1d-fe1a7a57e626-24",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۵. Vocabulary Review — واژه‌هایی که باید فعالانه یاد بگیری\n\nاین بخش را برای مرور فاصله‌دار نگه دار. به‌جای حفظ کردن ترجمه، سعی کن هر عبارت را در یک جملهٔ شخصی استفاده کنی.\n\nعبارت\n\n\t\n\nمعنی\n\n\t\n\nترکیب قابل استفاده\n\n\n\n\nkeep up with\n\n\t\n\nهمگام ماندن، پیگیری کردن\n\n\t\n\nkeep up with the news\n\n\n\n\nfind out the truth\n\n\t\n\nحقیقت را کشف کردن\n\n\t\n\nfind out what happened\n\n\n\n\narea of interest\n\n\t\n\nحوزهٔ علاقه\n\n\t\n\nmy main area of interest\n\n\n\n\nlose interest in\n\n\t\n\nعلاقه را از دست دادن\n\n\t\n\nlose interest in a subject\n\n\n\n\nlook after\n\n\t\n\nمراقبت کردن\n\n\t\n\nlook after your health\n\n\n\n\nlook for\n\n\t\n\nدنبال چیزی گشتن\n\n\t\n\nlook for a job\n\n\n\n\napply for\n\n\t\n\nدرخواست دادن\n\n\t\n\napply for a position\n\n\n\n\nsend in\n\n\t\n\nارسال کردن\n\n\t\n\nsend in your CV\n\n\n\n\nfill in a form\n\n\t\n\nفرم پر کردن\n\n\t\n\nfill in an application form\n\n\n\n\nearn money\n\n\t\n\nدرآمد کسب کردن\n\n\t\n\nearn a good salary\n\n\n\n\nretirement age\n\n\t\n\nسن بازنشستگی\n\n\t\n\nreach retirement age\n\n\n\n\nat your own pace\n\n\t\n\nبا سرعت خودت\n\n\t\n\nlearn at your own pace\n\n\n\n\nin my blood\n\n\t\n\nذاتی یا ریشه‌دار در خانواده بودن\n\n\t\n\nJournalism is in my blood.\n\n\n\n\nbe committed to\n\n\t\n\nمتعهد بودن به\n\n\t\n\nbe committed to telling the truth\n\n\n\n\nproper training\n\n\t\n\nآموزش اصولی\n\n\t\n\nget proper training\n\n\n\n\nlose interest\n\n\t\n\nعلاقه را از دست دادن\n\n\t\n\nreaders lose interest\n\n\n\n\nfewer mistakes\n\n\t\n\nاشتباهات کمتر\n\n\t\n\nmake fewer mistakes\n\n\n\n\na stressful job\n\n\t\n\nشغل پراسترس\n\n\t\n\njournalism can be stressful\n\n\n\n\na permanent job\n\n\t\n\nشغل دائمی\n\n\t\n\nfind a permanent job\n\n\n\n\na local newspaper\n\n\t\n\nروزنامهٔ محلی\n\n\t\n\nwork for a local newspaper",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-021012b8-e9d3-421d-af1d-fe1a7a57e626-25",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "چند تفاوت که نباید با هم اشتباه بگیری\n\n- stressed vs stressful:\nI feel stressed. / My job is stressful.\n\n- interested vs interesting:\nI'm interested in politics. / Politics is interesting.\n\n- retire vs tire:\nHe plans to retire next year. / The long journey tired me.\n\n- employer vs employee:\nThe employer hired a new employee.\n\n- fewer vs less:\nfewer mistakes / less time\n\n- find vs find out:\nfind a job یعنی شغل پیدا کردن؛ find out the truth یعنی از حقیقت مطلع شدن.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-021012b8-e9d3-421d-af1d-fe1a7a57e626-26",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۶. تمرین کوتاه برای تثبیت\n\nبدون نگاه کردن به پاسخ‌های قبلی، جاهای خالی را کامل کن. این تمرین واژه‌های جدید را با گرامرهایی که قبلاً خوانده‌ای ترکیب می‌کند.\n\n1. Have you ever _____ bungee jumping?\n\ntry\ntried\ntrying\n\n2. I am interested _____ technology news.\n\nat following\nin following\nto follow\n\n3. She _____ supports me, even when I'm stressed.\n\nis always\nalways\nalways is\n\n4. I sent _____ my CV yesterday.\n\nin\nfor\nafter\n\n5. My job is stressful, so I often feel _____.\n\nstressful\nstressed\nstress\n\n6. A good reporter should make _____ mistakes.\n\nless\nfewer\nlittle\n\n7. I will keep working here until I _____.\n\nwill retire\nretire\nretiring\n\n8. I want _____ a career in journalism.\n\nbuild\nbuilding\nto build\nبررسی پاسخ‌ها\n\nاولویت مطالعه‌ات برای این جلسه: ساختارهای Present Perfect، want + to-infinitive، be interested in + V-ing، تفاوت صفت و قید، و ترکیب‌های شغلی مثل apply for a job و send in your CV. این‌ها هم در جزوهٔ کلاس تکرار شده‌اند و هم در نوشتن متن‌های شخصی و حرفه‌ای کاربرد مستقیم دارند.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-present-simple",
+      "concept-present-continuous",
+      "concept-past-simple",
+      "concept-present-perfect",
+      "concept-gerund-infinitive",
+      "concept-phrasal-verbs",
+      "concept-writing"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "021012b8-e9d3-421d-af1d-fe1a7a57e626",
+    "capture.turn-number": 40
+  }
+}

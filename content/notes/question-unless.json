@@ -1,0 +1,45 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "question-unless",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Unless / only if transformation"
+  },
+  "tags": [
+    "needs-review"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m08",
+        "locator": "message-excerpt",
+        "quote": "only if I had extra money, I would go to a fancy restaurant."
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-question-unless",
+        "type": "question",
+        "version": 1,
+        "data": {
+          "prompt": "only if I had extra money, I would go to a fancy restaurant.",
+          "answer": null,
+          "reasonUnanswered": "Requires content review; source wording preserved."
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-unless-only-if"
+    ]
+  },
+  "extensions": {}
+}

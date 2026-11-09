@@ -1,0 +1,798 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-chat-m14",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — visible message 14"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/share/6af0508a-19f8-83ed-91a4-002901ccaac9",
+    "role": "assistant",
+    "messageOrdinal": 14,
+    "ordinalScope": "rendered-message-sequence-on-2026-11-08",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "selected-text-and-tables",
+    "text": null,
+    "attachmentIndicators": {
+      "files": 0,
+      "images": 0
+    },
+    "limitations": [
+      "Page capture is partial; ordinal is not a stable original chat message ID.",
+      "Whitespace/UI labels normalized; no claim of byte-exact transcript.",
+      "Referenced attachments are not captured."
+    ],
+    "tables": [
+      {
+        "locator": "table:1",
+        "rows": [
+          [
+            "afford",
+            "از عهده هزینه چیزی برآمدن",
+            "have enough money for",
+            "Verb"
+          ],
+          [
+            "achieve",
+            "به دست آوردن، محقق کردن",
+            "accomplish, attain",
+            "Verb"
+          ],
+          [
+            "deal with",
+            "رسیدگی کردن، کنار آمدن با",
+            "handle, manage",
+            "Phrasal verb"
+          ],
+          [
+            "manage",
+            "مدیریت کردن، از پس چیزی برآمدن",
+            "handle, deal with",
+            "Verb"
+          ],
+          [
+            "overcome",
+            "غلبه کردن بر",
+            "conquer, defeat",
+            "Verb"
+          ],
+          [
+            "expect",
+            "انتظار داشتن",
+            "anticipate",
+            "Verb"
+          ],
+          [
+            "realize",
+            "متوجه شدن، درک کردن",
+            "become aware of",
+            "Verb"
+          ],
+          [
+            "figure out",
+            "فهمیدن، راه‌حل پیدا کردن",
+            "work out, understand",
+            "Phrasal verb"
+          ],
+          [
+            "improve",
+            "بهبود دادن / یافتن",
+            "develop, get better",
+            "Verb"
+          ],
+          [
+            "experience",
+            "تجربه / تجربه کردن",
+            "undergo, go through",
+            "Noun / Verb"
+          ],
+          [
+            "struggle",
+            "تقلا کردن، دشواری داشتن",
+            "have difficulty, strive",
+            "Verb / Noun"
+          ],
+          [
+            "challenging",
+            "چالش‌برانگیز",
+            "demanding, difficult",
+            "Adjective"
+          ],
+          [
+            "flexible",
+            "انعطاف‌پذیر",
+            "adaptable",
+            "Adjective"
+          ],
+          [
+            "anxious",
+            "مضطرب، نگران",
+            "worried, nervous",
+            "Adjective"
+          ],
+          [
+            "punctual",
+            "وقت‌شناس",
+            "on time",
+            "Adjective"
+          ],
+          [
+            "reliable",
+            "قابل اعتماد",
+            "dependable, trustworthy",
+            "Adjective"
+          ],
+          [
+            "responsible for",
+            "مسئولِ",
+            "in charge of",
+            "Phrase"
+          ],
+          [
+            "in charge of",
+            "مسئول و متصدیِ",
+            "responsible for",
+            "Phrase"
+          ],
+          [
+            "look forward to",
+            "مشتاقانه منتظر چیزی بودن",
+            "anticipate, be excited about",
+            "Phrase"
+          ],
+          [
+            "give up",
+            "تسلیم شدن، دست کشیدن",
+            "quit, abandon",
+            "Phrasal verb"
+          ],
+          [
+            "take up",
+            "شروع کردن یک سرگرمی یا فعالیت",
+            "start, begin",
+            "Phrasal verb"
+          ],
+          [
+            "run out of",
+            "تمام شدن چیزی",
+            "use up, have no more",
+            "Phrasal verb"
+          ],
+          [
+            "get in touch with",
+            "تماس برقرار کردن",
+            "contact, reach",
+            "Phrase"
+          ],
+          [
+            "apply for",
+            "درخواست دادن برای",
+            "submit an application for",
+            "Phrasal verb"
+          ],
+          [
+            "look for",
+            "دنبال چیزی گشتن",
+            "search for, seek",
+            "Phrasal verb"
+          ],
+          [
+            "get fired",
+            "اخراج شدن",
+            "be dismissed, be sacked",
+            "Phrase"
+          ],
+          [
+            "earn a living",
+            "امرار معاش کردن",
+            "make a living",
+            "Phrase"
+          ],
+          [
+            "make ends meet",
+            "از پس هزینه‌های زندگی برآمدن",
+            "cover basic expenses",
+            "Idiom"
+          ],
+          [
+            "cost of living",
+            "هزینه زندگی",
+            "living expenses",
+            "Noun phrase"
+          ],
+          [
+            "work-life balance",
+            "تعادل کار و زندگی",
+            "—",
+            "Noun phrase"
+          ],
+          [
+            "under pressure",
+            "تحت فشار",
+            "stressed, under stress",
+            "Phrase"
+          ],
+          [
+            "make a decision",
+            "تصمیم گرفتن",
+            "decide",
+            "Collocation"
+          ],
+          [
+            "face a problem",
+            "با مشکلی مواجه شدن",
+            "encounter, deal with",
+            "Collocation"
+          ],
+          [
+            "get inspired by",
+            "از چیزی الهام گرفتن",
+            "be motivated by",
+            "Phrase"
+          ],
+          [
+            "take part in",
+            "شرکت کردن در",
+            "participate in",
+            "Phrase"
+          ]
+        ]
+      },
+      {
+        "locator": "table:2",
+        "rows": [
+          [
+            "demanding",
+            "طاقت‌فرسا، نیازمند تلاش زیاد",
+            "challenging, requiring",
+            "Adjective"
+          ],
+          [
+            "promising",
+            "امیدوارکننده، دارای آینده خوب",
+            "encouraging, hopeful",
+            "Adjective"
+          ],
+          [
+            "lucrative",
+            "پردرآمد، سودآور",
+            "profitable, well-paid",
+            "Adjective"
+          ],
+          [
+            "prestigious",
+            "معتبر، پرآوازه",
+            "respected, distinguished",
+            "Adjective"
+          ],
+          [
+            "satisfying",
+            "رضایت‌بخش",
+            "fulfilling, rewarding",
+            "Adjective"
+          ],
+          [
+            "rewarding",
+            "ارزشمند و رضایت‌بخش",
+            "satisfying, worthwhile",
+            "Adjective"
+          ],
+          [
+            "spectacular",
+            "تماشایی، شگفت‌انگیز",
+            "impressive, breathtaking",
+            "Adjective"
+          ],
+          [
+            "gorgeous",
+            "بسیار زیبا",
+            "beautiful, stunning",
+            "Adjective"
+          ],
+          [
+            "unusual",
+            "غیرمعمول",
+            "uncommon, strange",
+            "Adjective"
+          ],
+          [
+            "unpredictable",
+            "غیرقابل پیش‌بینی",
+            "uncertain, unforeseeable",
+            "Adjective"
+          ],
+          [
+            "repetitive",
+            "تکراری",
+            "recurring, monotonous",
+            "Adjective"
+          ],
+          [
+            "frustrating",
+            "کلافه‌کننده",
+            "annoying, irritating",
+            "Adjective"
+          ],
+          [
+            "exhausting",
+            "بسیار خسته‌کننده",
+            "tiring, draining",
+            "Adjective"
+          ],
+          [
+            "enthusiastic",
+            "مشتاق، پرانرژی",
+            "passionate, eager",
+            "Adjective"
+          ],
+          [
+            "keen on",
+            "علاقه‌مند به",
+            "interested in, fond of",
+            "Phrase"
+          ],
+          [
+            "passionate about",
+            "علاقه شدید داشتن به",
+            "enthusiastic about",
+            "Phrase"
+          ],
+          [
+            "laid-back",
+            "راحت‌گیر، بی‌استرس",
+            "easy-going, relaxed",
+            "Adjective"
+          ],
+          [
+            "criticise",
+            "انتقاد کردن",
+            "disapprove of, find fault with",
+            "Verb"
+          ],
+          [
+            "praise",
+            "تحسین کردن",
+            "compliment, admire",
+            "Verb / Noun"
+          ],
+          [
+            "rescue",
+            "نجات دادن",
+            "save, recover",
+            "Verb"
+          ],
+          [
+            "survive",
+            "زنده ماندن، دوام آوردن",
+            "stay alive, endure",
+            "Verb"
+          ],
+          [
+            "encounter",
+            "مواجه شدن با",
+            "face, come across",
+            "Verb / Noun"
+          ],
+          [
+            "overcome your fears",
+            "بر ترس‌هایت غلبه کردن",
+            "conquer your fears",
+            "Phrase"
+          ],
+          [
+            "narrow down",
+            "محدود کردن گزینه‌ها",
+            "reduce, shortlist",
+            "Phrasal verb"
+          ],
+          [
+            "run into",
+            "اتفاقی ملاقات کردن / برخورد کردن",
+            "bump into, encounter",
+            "Phrasal verb"
+          ],
+          [
+            "bring back memories",
+            "خاطرات را زنده کردن",
+            "remind someone of",
+            "Phrase"
+          ],
+          [
+            "make fun of",
+            "مسخره کردن",
+            "mock, tease",
+            "Phrase"
+          ],
+          [
+            "work out",
+            "ورزش کردن / حل کردن",
+            "exercise / solve",
+            "Phrasal verb"
+          ],
+          [
+            "chill out",
+            "استراحت کردن، ریلکس کردن",
+            "relax, unwind",
+            "Phrasal verb"
+          ],
+          [
+            "in person",
+            "حضوری",
+            "face-to-face",
+            "Phrase"
+          ],
+          [
+            "face-to-face",
+            "رودررو",
+            "in person",
+            "Phrase"
+          ]
+        ]
+      },
+      {
+        "locator": "table:3",
+        "rows": [
+          [
+            "breadwinner",
+            "نان‌آور خانواده",
+            "provider",
+            "Noun"
+          ],
+          [
+            "meager",
+            "ناچیز، اندک",
+            "inadequate, scanty",
+            "Adjective"
+          ],
+          [
+            "decent salary",
+            "حقوق مناسب",
+            "reasonable salary",
+            "Noun phrase"
+          ],
+          [
+            "handsome salary",
+            "حقوق قابل‌توجه",
+            "generous salary",
+            "Noun phrase"
+          ],
+          [
+            "welfare",
+            "رفاه",
+            "well-being",
+            "Noun"
+          ],
+          [
+            "applicant",
+            "متقاضی",
+            "candidate",
+            "Noun"
+          ],
+          [
+            "recruitment",
+            "فرایند استخدام",
+            "hiring",
+            "Noun"
+          ],
+          [
+            "employment",
+            "اشتغال",
+            "work, occupation",
+            "Noun"
+          ],
+          [
+            "portfolio",
+            "نمونه‌کار",
+            "collection of work",
+            "Noun"
+          ],
+          [
+            "janitor",
+            "سرایدار",
+            "caretaker",
+            "Noun"
+          ],
+          [
+            "sedentary",
+            "کم‌تحرک",
+            "inactive",
+            "Adjective"
+          ],
+          [
+            "white-collar",
+            "مربوط به مشاغل اداری",
+            "office-based",
+            "Adjective"
+          ],
+          [
+            "blue-collar",
+            "مربوط به مشاغل یدی",
+            "manual",
+            "Adjective"
+          ],
+          [
+            "martial arts",
+            "هنرهای رزمی",
+            "combat sports",
+            "Noun"
+          ],
+          [
+            "athlete",
+            "ورزشکار",
+            "sportsperson",
+            "Noun"
+          ],
+          [
+            "opponent",
+            "حریف",
+            "rival, competitor",
+            "Noun"
+          ],
+          [
+            "competitor",
+            "شرکت‌کننده یا رقیب",
+            "contestant, rival",
+            "Noun"
+          ],
+          [
+            "spectator",
+            "تماشاگر",
+            "viewer, observer",
+            "Noun"
+          ],
+          [
+            "athletics",
+            "دوومیدانی",
+            "track and field",
+            "Noun"
+          ],
+          [
+            "paddleboarding",
+            "ورزش پاروزنی روی تخته",
+            "stand-up paddleboarding",
+            "Noun"
+          ],
+          [
+            "windsurfing",
+            "موج‌سواری با بادبان",
+            "—",
+            "Noun"
+          ],
+          [
+            "drown",
+            "غرق شدن",
+            "—",
+            "Verb"
+          ],
+          [
+            "sink",
+            "فرو رفتن در آب",
+            "go down, submerge",
+            "Verb"
+          ],
+          [
+            "coast",
+            "ساحل، خط ساحلی",
+            "shoreline",
+            "Noun"
+          ],
+          [
+            "creature",
+            "موجود زنده",
+            "being, organism",
+            "Noun"
+          ],
+          [
+            "aquatic",
+            "آبزی، مربوط به آب",
+            "water-based",
+            "Adjective"
+          ],
+          [
+            "superstition",
+            "خرافات",
+            "—",
+            "Noun"
+          ],
+          [
+            "superstitious",
+            "خرافاتی",
+            "—",
+            "Adjective"
+          ],
+          [
+            "inspirational",
+            "الهام‌بخش",
+            "motivating, encouraging",
+            "Adjective"
+          ],
+          [
+            "instructor",
+            "مربی، آموزش‌دهنده",
+            "teacher, trainer",
+            "Noun"
+          ],
+          [
+            "commentator",
+            "گزارشگر، مفسر",
+            "reporter, analyst",
+            "Noun"
+          ],
+          [
+            "marshal",
+            "مأمور نظم‌دهنده، مسئول کنترل",
+            "official, organiser",
+            "Noun"
+          ],
+          [
+            "jersey",
+            "پیراهن ورزشی",
+            "sports shirt",
+            "Noun"
+          ],
+          [
+            "bib shorts",
+            "شورت دوچرخه‌سواری بنددار",
+            "cycling shorts",
+            "Noun"
+          ],
+          [
+            "lycra",
+            "پارچه کشی مخصوص لباس ورزشی",
+            "spandex",
+            "Noun"
+          ],
+          [
+            "ice rink",
+            "پیست یخ",
+            "skating rink",
+            "Noun"
+          ],
+          [
+            "pitch",
+            "زمین بازی، معمولاً فوتبال",
+            "playing field",
+            "Noun"
+          ],
+          [
+            "court",
+            "زمین بازی ورزش‌هایی مثل بسکتبال",
+            "playing area",
+            "Noun"
+          ]
+        ]
+      },
+      {
+        "locator": "table:4",
+        "rows": [
+          [
+            "make ends meet",
+            "هزینه‌های ضروری زندگی را تأمین کردن",
+            "cover basic expenses",
+            "Idiom"
+          ],
+          [
+            "work for peanuts",
+            "با حقوق بسیار کم کار کردن",
+            "earn very little",
+            "Idiom"
+          ],
+          [
+            "be on the same page",
+            "هم‌نظر بودن",
+            "agree, share the same understanding",
+            "Idiom"
+          ],
+          [
+            "work under pressure",
+            "تحت فشار کار کردن",
+            "perform under stress",
+            "Collocation"
+          ],
+          [
+            "manage a crisis",
+            "مدیریت بحران کردن",
+            "handle a crisis",
+            "Collocation"
+          ],
+          [
+            "keep the team spirit up",
+            "روحیه تیم را بالا نگه داشتن",
+            "boost team morale",
+            "Collocation"
+          ],
+          [
+            "accept defeat",
+            "شکست را پذیرفتن",
+            "admit losing",
+            "Collocation"
+          ],
+          [
+            "achieve a goal",
+            "به هدف رسیدن",
+            "accomplish an objective",
+            "Collocation"
+          ],
+          [
+            "score a point",
+            "امتیاز کسب کردن",
+            "earn a point",
+            "Collocation"
+          ],
+          [
+            "enter a competition",
+            "وارد مسابقه شدن",
+            "participate in a competition",
+            "Collocation"
+          ],
+          [
+            "treat someone with respect",
+            "با کسی محترمانه رفتار کردن",
+            "show respect",
+            "Collocation"
+          ],
+          [
+            "deal with disappointment",
+            "با ناامیدی کنار آمدن",
+            "handle disappointment",
+            "Collocation"
+          ],
+          [
+            "put someone in danger",
+            "کسی را در معرض خطر قرار دادن",
+            "endanger someone",
+            "Collocation"
+          ],
+          [
+            "pay peanuts",
+            "حقوق بسیار کم پرداخت کردن",
+            "pay very little",
+            "Idiom"
+          ],
+          [
+            "take a breath",
+            "نفس کشیدن",
+            "breathe in",
+            "Phrase"
+          ],
+          [
+            "get on the board",
+            "سوار تخته شدن",
+            "—",
+            "Phrase"
+          ],
+          [
+            "fall into the sea",
+            "داخل دریا افتادن",
+            "—",
+            "Phrase"
+          ],
+          [
+            "lose your fear",
+            "ترست را از دست دادن",
+            "overcome your fear",
+            "Phrase"
+          ],
+          [
+            "meet your needs",
+            "نیازهایت را برآورده کردن",
+            "satisfy your needs",
+            "Collocation"
+          ]
+        ]
+      }
+    ]
+  },
+  "extensions": {}
+}

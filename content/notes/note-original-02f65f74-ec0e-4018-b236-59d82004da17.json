@@ -1,0 +1,294 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-02f65f74-ec0e-4018-b236-59d82004da17",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Unit 7 — Work Life"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-02f65f74-ec0e-4018-b236-59d82004da17",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-02f65f74-ec0e-4018-b236-59d82004da17-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "بله. با توجه به جزوه‌ای که از Ready for B1 Preliminary Units 5–8 دادی، ابتدای Unit 7 — Work Life را می‌توانیم به‌صورت مرحله‌ای جلو ببریم. فعلاً از مطالبی که منبع تو واقعاً پوشش داده شروع می‌کنیم و چیزی خارج از آن را به‌عنوان محتوای کتاب جا نمی‌زنیم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-02f65f74-ec0e-4018-b236-59d82004da17-2",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Unit 7 — Work Life\n\nدر بخشی که فرستادی، سه محور اصلی داریم:\n\nJobs & Work Life vocabulary\nWill / May / Might\nZero & First Conditional\n\nو برای یادگیری بهتر، این سه را جدا از هم حفظ نمی‌کنیم؛ در context با هم استفاده می‌کنیم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-02f65f74-ec0e-4018-b236-59d82004da17-3",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Phase 1 — Vocabulary: Work Life\n\nاول این کلمات را باید کاملاً مسلط باشی:\n\nWord\tمعنی\tکاربرد\ncareer\tمسیر شغلی / حرفه\tlong-term work path\nemployee\tکارمند\tsomeone who works for a company/person\nemployer\tکارفرما\tsomeone/company that employs people\nmanager\tمدیر\tperson responsible for a team/work\ntemporary\tموقت\tlasting for a limited time\npermanent\tدائمی\tcontinuing indefinitely\nreceptionist\tمسئول پذیرش\tperson who welcomes visitors\nengineer\tمهندس\tdesigns/builds/maintains systems\nchef\tسرآشپز\tprofessional cook\nactor\tبازیگر\tperforms in films/theatre\ndentist\tدندان‌پزشک\ttreats teeth",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-02f65f74-ec0e-4018-b236-59d82004da17-4",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "سه کلمه‌ای که نباید قاطی کنی\n\nemployee ≠ employer\n\nThe employee works for the company.\nThe employer employs the employee.\n\nیعنی:\n\nemployee = کسی که استخدام شده\nemployer = کسی که استخدام می‌کند",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-02f65f74-ec0e-4018-b236-59d82004da17-5",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Career vs Job\n\nاین دو هم مهم‌اند.\n\njob = یک شغل مشخص\n\nI got a new job.\n\ncareer = مسیر حرفه‌ای بلندمدت\n\nI want a career in software development.\n\nمثلاً برای خودت:\n\nMy job is front-end development.\nMy career goal is to become a better software engineer.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-02f65f74-ec0e-4018-b236-59d82004da17-6",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Phase 2 — Will / May / Might\n\nاین بخش از Unit 7 بیشتر درباره‌ی possibility & prediction است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-02f65f74-ec0e-4018-b236-59d82004da17-7",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Will\n\nوقتی درباره چیزی در آینده با اطمینان بیشتری صحبت می‌کنیم یا prediction می‌دهیم:\n\nThe journey will be more comfortable.\n\nساختار:\n\nSubject + will + base verb\n\nI will go.\nShe will come.\nThey will win.\n\nمنفی:\n\nI won't go.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-02f65f74-ec0e-4018-b236-59d82004da17-8",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "May / Might\n\nهر دو برای possibility = احتمال هستند.\n\nShe may come.\n\nیعنی:\n\nممکن است بیاید.\n\nShe might come.\n\nیعنی:\n\nشاید بیاید.\n\nدر سطح B1 لازم نیست درصدهای دقیق مثل 70% و 40% که در جزوه قدیمی‌ات نوشته شده را حفظ کنی. نکته مهم‌تر این است که هر دو possibility را بیان می‌کنند.\n\nساختار:\n\nSubject + may/might + base verb\n\nHe may come.\nHe might come.\n\nمنفی:\n\nHe may not come.\nHe might not come.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-02f65f74-ec0e-4018-b236-59d82004da17-9",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "نکته بسیار مهم\n\nبعد از will / may / might فعل به شکل پایه می‌آید.\n\n❌ He might comes.\n❌ She will goes.\n\n✅ He might come.\n✅ She will go.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-02f65f74-ec0e-4018-b236-59d82004da17-10",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Phase 3 — تفاوت Will و May/Might\n\nاین قسمت را با یک context یاد بگیریم.\n\nفرض کن فردا امتحان داری:\n\nI will study tonight.\n\nیعنی تصمیم/پیش‌بینی نسبتاً قطعی.\n\nاما:\n\nI might study at the library.\n\nیعنی احتمال دارد.\n\nو:\n\nI may study at the library.\n\nباز هم احتمال.\n\nمثال کتاب:\n\nIt probably won't be any quicker, but the journey will be more comfortable.\n\nاینجا گوینده دو prediction دارد:\n\nاحتمالاً سریع‌تر نخواهد بود.\nاما راحت‌تر خواهد بود.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-02f65f74-ec0e-4018-b236-59d82004da17-11",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Phase 4 — Zero Conditional\n\nاین بخش را با First Conditional قاطی نکن.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-02f65f74-ec0e-4018-b236-59d82004da17-12",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Zero Conditional\n\nبرای:\n\nfacts\nhabits\nthings that generally happen\ninstructions\n\nساختار:\n\nIf + Present Simple, Present Simple\n\nIf you heat water, it boils.\n\nیعنی:\n\nاگر آب را گرم کنی، می‌جوشد.\n\nاین یک نتیجه عمومی است؛ درباره یک آینده مشخص صحبت نمی‌کنیم.\n\nمثال مرتبط با محیط کار:\n\nIf I work late, I feel tired.\n\nیعنی معمولاً هر وقت دیر کار کنم، خسته می‌شوم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-02f65f74-ec0e-4018-b236-59d82004da17-13",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Phase 5 — First Conditional\n\nاینجا درباره یک real/possible future situation صحبت می‌کنیم.\n\nساختار اصلی:\n\nIf + Present Simple, will + base verb\n\nIf I finish work early, I will go home.\n\nشرط:\n\nIf I finish work early\n\nنتیجه:\n\nI will go home.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-02f65f74-ec0e-4018-b236-59d82004da17-14",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "نکته مهم\n\nبعد از if برای First Conditional معمولاً will نمی‌آوریم.\n\n❌ If I will finish work early, I will go home.\n\n✅ If I finish work early, I will go home.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-02f65f74-ec0e-4018-b236-59d82004da17-15",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "مقایسه Zero و First\n\nاین قسمت را خوب یاد بگیر:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-02f65f74-ec0e-4018-b236-59d82004da17-16",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Zero\n\nIf I work late, I feel tired.\n\nیعنی:\n\nهر وقت دیر کار کنم → معمولاً خسته می‌شوم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-02f65f74-ec0e-4018-b236-59d82004da17-17",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "First\n\nIf I work late tonight, I will feel tired tomorrow.\n\nیعنی:\n\nاگر امشب دیر کار کنم → فردا خسته خواهم بود.\n\nتفاوت اصلی:\n\nZero = general result\n\nFirst = possible future result",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-02f65f74-ec0e-4018-b236-59d82004da17-18",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Phase 6 — ترکیب Unit 7\n\nحالا سه مبحث را با هم ببین:\n\nIf I get a permanent job, I will be very happy.\n\nFirst Conditional\n\nI might apply for a temporary job first.\n\nMight + base verb\n\nMy manager will probably ask me about my career plans.\n\nWill + base verb\n\nIf I work too much, I feel exhausted.\n\nZero Conditional\n\nاین دقیقاً همان نوع ترکیبی است که برای امتحان B1 ارزش دارد؛ یعنی به‌جای اینکه فقط فرمول را تشخیص بدهی، باید از context بفهمی کدام ساختار مناسب است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-02f65f74-ec0e-4018-b236-59d82004da17-19",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "حالا با خودت کار کنیم\n\nفعلاً جواب‌ها را نگاه نکن؛ این بخش را مثل کلاس انجام بده.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-02f65f74-ec0e-4018-b236-59d82004da17-20",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Part A — Vocabulary\n\n1. Someone who works for a company is an:\n\nA) employer\nB) employee\nC) manager\nD) career\n\n2. Someone who employs workers is an:\n\nA) employee\nB) employer\nC) receptionist\nD) engineer\n\n3. Which sentence uses career correctly?\n\nA) I have a career at 9 a.m. every day.\nB) My career is the laptop on my desk.\nC) I want a career in software development.\nD) I career at a company.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-02f65f74-ec0e-4018-b236-59d82004da17-21",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Part B — Will / May / Might\n\n4.\n\n“Where's Ali?”\n“I'm not sure. He ______ be in his office.”\n\nA) will\nB) might\nC) is\nD) does\n\n5.\n\n“There's someone at the door.”\n“OK, I ______ answer it.”\n\nA) might\nB) may\nC) will\nD) am\n\n6.\n\nI haven't decided yet. I ______ apply for a temporary job.\n\nA) might\nB) will definitely\nC) am\nD) do",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-02f65f74-ec0e-4018-b236-59d82004da17-22",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Part C — Zero / First Conditional\n\n7.\n\nIf people don't save enough money, they ______ have problems later.\n\nA) would\nB) will\nC) are\nD) did\n\n8.\n\nIf I work too many hours, I ______ tired.\n\nA) feel\nB) will feeling\nC) am feel\nD) felt\n\n9.\n\nIf we finish work early today, we ______ for a walk.\n\nA) go\nB) went\nC) will go\nD) would go\n\n10.\n\nIf you want some help with the application, ______ your manager.\n\nA) ask\nB) will ask\nC) asked\nD) would ask",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-02f65f74-ec0e-4018-b236-59d82004da17-23",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Part D — تشخیص نوع جمله\n\nبرای هر جمله فقط بنویس:\n\nZero / First / Possibility\n\n11.\n\nIf I don't sleep enough, I feel tired.\n\n12.\n\nIf I finish this project tonight, I will take tomorrow off.\n\n13.\n\nShe might look for a new job next year.\n\n14.\n\nIf you heat ice, it melts.\n\n15.\n\nIf he gets the job, he will move to London.\n\nجواب‌ها را 1 تا 15 پشت سر هم بفرست. بعد من دقیقاً مثل یک کلاس با تو بررسی می‌کنم: غلط‌ها را فقط اصلاح نمی‌کنم، بلکه مشخص می‌کنم چرا انتخابت غلط بوده، چه patternای باید در ذهنت ساخته شود، و کدام vocabulary را باید وارد جزوه‌ات کنیم.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-present-simple",
+      "concept-zero-conditional",
+      "concept-first-conditional"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "02f65f74-ec0e-4018-b236-59d82004da17",
+    "capture.turn-number": 20
+  }
+}

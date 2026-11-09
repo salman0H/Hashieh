@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "session-original-0bf90c5f",
+  "type": "session",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Conditional review and speaking"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-0bf90c5f-c5db-4309-82ae-fd6d7e99efab",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-e98ddd7e-6fa3-4789-98e6-c5e64a48d742",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "occurredAt": null,
+    "dateLabel": null,
+    "datePrecision": "unknown",
+    "conceptIds": [
+      "concept-zero-conditional",
+      "concept-first-conditional",
+      "concept-present-simple"
+    ],
+    "itemIds": [
+      "note-original-0bf90c5f-c5db-4309-82ae-fd6d7e99efab",
+      "note-original-e98ddd7e-6fa3-4789-98e6-c5e64a48d742"
+    ],
+    "sourceMessageIds": [
+      "src-original-0bf90c5f-c5db-4309-82ae-fd6d7e99efab",
+      "src-original-e98ddd7e-6fa3-4789-98e6-c5e64a48d742"
+    ],
+    "completeness": "partial",
+    "missing": [
+      "Any referenced original attachments are not imported in this text pass."
+    ]
+  },
+  "extensions": {}
+}

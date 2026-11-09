@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-barber-shop",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "barber shop"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-2a091de6-2bbf-4f90-8607-d023e02d65aa",
+        "locator": "table:1/data-row:1"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "barber shop",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-01d072cd61e2",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "آرایشگاه مردانه، معمولاً برای مو و ریش"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-2a091de6-2bbf-4f90-8607-d023e02d65aa",
+            "locator": "table:1/data-row:1"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-2a091de6-2bbf-4f90-8607-d023e02d65aa",
+          "locator": "table:1/data-row:1"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-d63a3c02",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

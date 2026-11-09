@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "concept-stative-verbs",
+  "type": "concept",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "stative verbs"
+  },
+  "tags": [
+    "grammar-index"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-fafbd138-61f8-4f3e-a54c-0222f78527e6",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-7b035c8b-b8a4-489c-9aac-213cb328ed92",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "summary": null,
+    "blockIds": []
+  },
+  "extensions": {}
+}

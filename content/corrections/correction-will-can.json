@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "correction-will-can",
+  "type": "correction",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "will-can"
+  },
+  "tags": [
+    "error-notebook"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m16",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "original": "I will can travel.",
+    "replacement": "I will be able to travel.",
+    "explanation": {
+      "fa": "دو modal اصلی پشت سر هم قرار نمی‌گیرند."
+    },
+    "conceptIds": [
+      "concept-ability"
+    ],
+    "correctionSourceRef": {
+      "sourceId": "src-chat-m16",
+      "locator": "message-excerpt"
+    },
+    "kind": "form",
+    "originalSourceRef": {
+      "sourceId": "src-chat-m16",
+      "locator": "message-excerpt"
+    }
+  },
+  "extensions": {
+    "language.correction-context": {
+      "kind": "assistant-constructed-error-example",
+      "isObservedLearnerMistake": false
+    }
+  }
+}

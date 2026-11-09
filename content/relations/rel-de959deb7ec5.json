@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-de959deb7ec5",
+  "type": "covers",
+  "from": "note-original-944a2cb2-18e6-4a05-af23-92edb86b98d4",
+  "to": "concept-parts-of-speech",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-original-944a2cb2-18e6-4a05-af23-92edb86b98d4",
+      "locator": "message-body"
+    }
+  ],
+  "extensions": {}
+}

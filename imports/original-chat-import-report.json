@@ -1,0 +1,90 @@
+{
+  "capturedOn": "2026-11-08",
+  "sourceUrl": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+  "scope": "visible textual bodies of the selected original conversation branch",
+  "messages": 108,
+  "userMessages": 54,
+  "assistantMessages": 54,
+  "characters": 609347,
+  "sections": 1795,
+  "lexicalRows": 1571,
+  "newEntries": 0,
+  "entries": 1303,
+  "sourceTables": 172,
+  "classSessions": 19,
+  "recordCount": 1927,
+  "relationCount": 1465,
+  "crosswalk": [
+    {
+      "previousSourceId": "src-chat-m01",
+      "originalSourceId": "src-original-ba1b26f6-6895-4308-8ad9-9c5d23290596",
+      "matchMethod": "normalized-exact-prefix-or-full-text"
+    },
+    {
+      "previousSourceId": "src-chat-m02",
+      "originalSourceId": "src-original-dd7591ab-4120-4d85-b87b-d534c6dcf577",
+      "matchMethod": "normalized-exact-prefix-or-full-text"
+    },
+    {
+      "previousSourceId": "src-chat-m03",
+      "originalSourceId": "src-original-1ace4d60-4041-407f-86e9-fd05444c575a",
+      "matchMethod": "normalized-exact-prefix-or-full-text"
+    },
+    {
+      "previousSourceId": "src-chat-m04",
+      "originalSourceId": "src-original-4854e7d4-672e-4b90-86ea-0eae6466e4fc",
+      "matchMethod": "normalized-exact-prefix-or-full-text"
+    },
+    {
+      "previousSourceId": "src-chat-m05",
+      "originalSourceId": "src-original-d0d4111a-fac2-42d5-a2f7-db5a0fa14925",
+      "matchMethod": "normalized-exact-prefix-or-full-text"
+    },
+    {
+      "previousSourceId": "src-chat-m06",
+      "originalSourceId": "src-original-3854a164-fa3c-442d-9ee4-e0a775eaca4a",
+      "matchMethod": "normalized-exact-prefix-or-full-text"
+    },
+    {
+      "previousSourceId": "src-chat-m07",
+      "originalSourceId": "src-original-1bd1ed7e-e74d-4856-823d-a1691435676e",
+      "matchMethod": "normalized-exact-prefix-or-full-text"
+    },
+    {
+      "previousSourceId": "src-chat-m09",
+      "originalSourceId": "src-original-bad3a620-cb57-456d-805a-7719f05ef9d7",
+      "matchMethod": "normalized-exact-prefix-or-full-text"
+    },
+    {
+      "previousSourceId": "src-chat-m10",
+      "originalSourceId": "src-original-5ebe9e64-c38e-4076-966b-73c06cda1147",
+      "matchMethod": "normalized-exact-prefix-or-full-text"
+    },
+    {
+      "previousSourceId": "src-chat-m11",
+      "originalSourceId": "src-original-aca27be7-43f4-45d2-a7f4-b3233c97a2e4",
+      "matchMethod": "normalized-exact-prefix-or-full-text"
+    },
+    {
+      "previousSourceId": "src-chat-m12",
+      "originalSourceId": "src-original-0dd431bd-5af6-45fb-8064-27a445ceff52",
+      "matchMethod": "normalized-exact-prefix-or-full-text"
+    },
+    {
+      "previousSourceId": "src-chat-m13",
+      "originalSourceId": "src-original-ec32410f-0004-449b-915c-204f28feb5b3",
+      "matchMethod": "normalized-exact-prefix-or-full-text"
+    },
+    {
+      "previousSourceId": "src-chat-m15",
+      "originalSourceId": "src-original-9b258c20-89e5-48c5-bdba-dc79b3398af9",
+      "matchMethod": "normalized-exact-prefix-or-full-text"
+    }
+  ],
+  "remainingGaps": [
+    "Referenced attachments and linked documents were not opened in this text extraction pass.",
+    "Selections are preserved only to the extent their text was rendered in the captured message body.",
+    "Separate interactive artifacts or document versions may contain additional text.",
+    "Assistant explanations remain unreviewed source material."
+  ]
+}

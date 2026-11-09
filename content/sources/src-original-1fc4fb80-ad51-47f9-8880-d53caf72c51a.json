@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-1fc4fb80-ad51-47f9-8880-d53caf72c51a",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 91"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "user",
+    "messageOrdinal": 91,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "8 selections\n\nمرور افعال و زمان آینده رو داشته باشیم ابتدا با مرور present perfect simple and continuous\n\n** از این به بعد اگ کلمه ای رو گفتی ک جدید بود چند فاکتور در کنار معنی اون میخوام داشته باشیم: معنی انگلیسی اون و جایگاه اون توی جمله و قطعا ی مثال از اون توی ی جمله و در آخر ی رایتینگ با استفاده از گرامر اون جلسه و اصطلاحات اون جلسه و کلمات اون جلسه به همراه مرور و استفاده از موارد جلسات قبل در آخر هر جزوه ای ک مینویسی مگ اینکه ک صرفا سوال پرسیده باشم و جزوه برات مفرستاده باشم. **\n\nاین اصطلاح به چ معنی ای هست؟\nدر جواب این باید بگم:\n\nIn his opinion money is important things because it is the main thing to live in welfare life. He thinks earning money mustn't be just your goal in your life you should take some time for your rest and enjoyment stuff. In fact a normal salary and a good work-life balance are more important than becoming rich.\n\nجواب ها:‌1 - 2 - 1 - 2\n I prefer to play sport  that is interested for me.\nMy favourite is Karate.\nI do not support any teams.\nI feel that released my anger and I can relax and think widely.\nThe last time was last noght.\n\n\n\n\nجزوه جلسه پیش:\n\nathlete --> ورزشکار\nathletics == track and field -->  دو و میدانی\npermit = ?\nobligation = force to do something\nprohibition = must not\ncommentor = ?\nmarshal = ? \nmilitary = ?\ncommandor = ?\ntheeriling = ?\ni want to work my energy off.\nshe is into or keen on or eager about or oassionate about or ethusiastic about vollyball.\nshe has not supported any teams. --> اون تیمی رو دنبال نمیکنه و نکرده ولی بعد از گفتن این معلوم نیست میکنه یا ن\nshe doesn't support any teams.\ni do some excersise duraing the day.\nit was fun.\nshe looks for inventing some excuses not to do any excersise.\nshe is not intrrested in sports.\njersey --> لباس دوچرخه سواری\nlycra shorts / bib shorts = ?\nshall i do ? = grammar and meaning ?\nthey racing against each other.\nspactators are cheering cyclist on.\nthey might run me over.\nciticize = ?\npraise = ?\nunflattering = ?\nwheter = ? \ncyclists are must wing on the road.\n…\nShow more",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": []
+  },
+  "extensions": {
+    "capture.message-id": "1fc4fb80-ad51-47f9-8880-d53caf72c51a",
+    "capture.headings": [],
+    "capture.links": []
+  }
+}

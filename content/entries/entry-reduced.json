@@ -1,0 +1,85 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-reduced",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "reduced"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m16",
+        "locator": "table:10/data-row:18"
+      },
+      {
+        "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+        "locator": "table:10/data-row:18"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "reduced",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-reduce",
+    "senses": [
+      {
+        "id": "sense-8158bb06e346",
+        "partOfSpeech": "Adjective / Past participle",
+        "translation": {
+          "fa": "کاهش‌یافته"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "decreased",
+          "lowered"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m16",
+            "locator": "table:10/data-row:18"
+          },
+          {
+            "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+            "locator": "table:10/data-row:18"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m16",
+          "locator": "table:10/data-row:18"
+        },
+        "group": "modal-families",
+        "sessionId": "session-modals",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+          "locator": "table:10/data-row:18"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-modals",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

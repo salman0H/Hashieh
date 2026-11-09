@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "session-team-spirit",
+  "type": "session",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Team spirit, hobbies and expressions"
+  },
+  "tags": [
+    "class-notes"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m08",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-original-5fbc8c7a-a206-419d-9300-404cc08d1172",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-2340c3c8-781f-4c46-8506-088417f410fb",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "occurredAt": null,
+    "dateLabel": "Thursday 12:17 PM",
+    "datePrecision": "unknown",
+    "conceptIds": [
+      "concept-present-perfect",
+      "concept-phrasal-verbs",
+      "concept-possessive-plurals",
+      "concept-unless-only-if",
+      "concept-second-conditional",
+      "concept-present-simple",
+      "concept-past-simple",
+      "concept-present-perfect-continuous",
+      "concept-zero-conditional",
+      "concept-first-conditional",
+      "concept-gerund-infinitive",
+      "concept-word-families",
+      "concept-writing"
+    ],
+    "itemIds": [
+      "note-team-spirit",
+      "question-bookworm-register",
+      "question-fallen",
+      "question-unless",
+      "note-original-5fbc8c7a-a206-419d-9300-404cc08d1172",
+      "note-original-2340c3c8-781f-4c46-8506-088417f410fb"
+    ],
+    "sourceMessageIds": [
+      "src-chat-m08",
+      "src-original-5fbc8c7a-a206-419d-9300-404cc08d1172",
+      "src-original-2340c3c8-781f-4c46-8506-088417f410fb"
+    ],
+    "completeness": "partial",
+    "missing": [
+      "original attachments",
+      "earlier assistant explanation"
+    ]
+  },
+  "extensions": {}
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-recently",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "recently"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-021012b8-e9d3-421d-af1d-fe1a7a57e626",
+        "locator": "table:1/data-row:2"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "recently",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-032b04d859e2",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "اخیراً؛ در گذشتهٔ نزدیک"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-021012b8-e9d3-421d-af1d-fe1a7a57e626",
+            "locator": "table:1/data-row:2"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-021012b8-e9d3-421d-af1d-fe1a7a57e626",
+          "locator": "table:1/data-row:2"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-experiences-news",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

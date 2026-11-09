@@ -1,0 +1,116 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-accept-defeat",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "accept defeat"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:4/data-row:7"
+      },
+      {
+        "sourceId": "src-original-63a85bee-f127-44e4-8fe5-335f7fd5ccf8",
+        "locator": "table:1/data-row:6"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:4/data-row:7"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "accept defeat",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-68a50921e93c",
+        "partOfSpeech": "Collocation",
+        "translation": {
+          "fa": "شکست را پذیرفتن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "admit losing"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:4/data-row:7"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:4/data-row:7"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-de77b2e12a02",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "شکست را پذیرفتن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-63a85bee-f127-44e4-8fe5-335f7fd5ccf8",
+            "locator": "table:1/data-row:6"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:4/data-row:7"
+        },
+        "group": "chunks",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-63a85bee-f127-44e4-8fe5-335f7fd5ccf8",
+          "locator": "table:1/data-row:6"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-unit-8",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:4/data-row:7"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

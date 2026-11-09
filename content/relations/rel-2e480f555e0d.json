@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-2e480f555e0d",
+  "type": "contains",
+  "from": "session-experiences-news",
+  "to": "note-original-4854e7d4-672e-4b90-86ea-0eae6466e4fc",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-original-4854e7d4-672e-4b90-86ea-0eae6466e4fc",
+      "locator": "message-body"
+    }
+  ],
+  "extensions": {}
+}

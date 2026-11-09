@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-5ebe9e64-c38e-4076-966b-73c06cda1147",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 102"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "assistant",
+    "messageOrdinal": 102,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "جدول‌ها ادغام شدند و در قالب یک فایل Excel قرار گرفتند.\n\n۴۷۴ ردیف واژگان\n\nستون‌های جدول:\n\nشماره\n\nWord Family — گروه خانوادهٔ کلمات\n\nWord / Phrase\n\nTranslation (Persian)\n\nEnglish Definition\n\nSynonyms / Equivalents\n\nPart of Speech / Category\n\nواژه‌های هم‌خانواده مانند instruct, instructor, instruction و instructional در ردیف‌های جداگانه و زیر یک خانواده قرار گرفته‌اند. موارد تکراری نیز تا حد امکان ادغام شده‌اند.\n\nدانلود جدول یکپارچهٔ واژگان انگلیسی (Excel)\n\nUnified_English_Vocabulary.xlsx\nExcel",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": []
+  },
+  "extensions": {
+    "capture.message-id": "5ebe9e64-c38e-4076-966b-73c06cda1147",
+    "capture.headings": [],
+    "capture.links": []
+  }
+}

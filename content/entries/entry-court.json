@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-court",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "court"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:38"
+      },
+      {
+        "sourceId": "src-chat-m06",
+        "locator": "normalized-text/line:14",
+        "quote": "- pich == rink == court --> زمین بازی"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:3/data-row:38"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "court",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-d60653b22409",
+        "partOfSpeech": "Noun",
+        "translation": {
+          "fa": "زمین بازی ورزش‌هایی مثل بسکتبال"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "playing area"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:3/data-row:38"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:3/data-row:38"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:3/data-row:38"
+        },
+        "group": "priority-c",
+        "sessionId": null,
+        "priority": "C"
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m06",
+          "locator": "normalized-text/line:14",
+          "quote": "- pich == rink == court --> زمین بازی"
+        },
+        "group": "learner-notes-exact-match",
+        "sessionId": "session-sports-habits",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:3/data-row:38"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

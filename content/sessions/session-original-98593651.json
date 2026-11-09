@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "session-original-98593651",
+  "type": "session",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Employment and career"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-98593651-5d80-4acc-80ef-298104c1a64f",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "occurredAt": null,
+    "dateLabel": null,
+    "datePrecision": "unknown",
+    "conceptIds": [],
+    "itemIds": [
+      "note-original-98593651-5d80-4acc-80ef-298104c1a64f",
+      "note-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82"
+    ],
+    "sourceMessageIds": [
+      "src-original-98593651-5d80-4acc-80ef-298104c1a64f",
+      "src-original-2ecbfb90-efd1-47f2-8988-790c5ca2ca82"
+    ],
+    "completeness": "partial",
+    "missing": [
+      "Any referenced original attachments are not imported in this text pass."
+    ]
+  },
+  "extensions": {}
+}

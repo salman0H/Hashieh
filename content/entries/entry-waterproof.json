@@ -1,0 +1,45 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-waterproof",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "waterproof"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m04",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "waterproof",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m04",
+          "locator": "message-excerpt"
+        },
+        "group": "learner-notes",
+        "sessionId": "session-experiences-news",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-chat-m12",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — visible message 12"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/share/6af0508a-19f8-83ed-91a4-002901ccaac9",
+    "role": "assistant",
+    "messageOrdinal": 12,
+    "ordinalScope": "rendered-message-sequence-on-2026-11-08",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "selected-text-and-tables",
+    "text": "بررسی و آموزش گرامر: توضیح قواعد، کاربردها، ساختارها، استثناها و اشتباهات رایج.\nبررسی واژگان و اصطلاحات: معنی فارسی و انگلیسی، جایگاه دستوری، نحوهٔ استفاده و مثال.\nگسترش خانوادهٔ کلمات: شکل‌های اسمی، فعلی، صفتی و قیدی هر واژه، در صورت وجود، همراه با معنی و مثال.\nمرور مطالب قبلی: استفاده از واژگان و گرامر جلسات گذشته برای تثبیت یادگیری.\nWriting: یک متن کاربردی با استفاده از گرامر و واژگان جلسهٔ جدید و مرور هدفمند مطالب قبلی.\nجدول واژگان جدید: جدولی مستقل برای اضافه‌کردن به انتهای جدول اصلی.",
+    "attachmentIndicators": {
+      "files": 0,
+      "images": 0
+    },
+    "limitations": [
+      "Page capture is partial; ordinal is not a stable original chat message ID.",
+      "Whitespace/UI labels normalized; no claim of byte-exact transcript.",
+      "Referenced attachments are not captured."
+    ]
+  },
+  "extensions": {
+    "capture.original-source-id": "src-original-0dd431bd-5af6-45fb-8064-27a445ceff52"
+  }
+}

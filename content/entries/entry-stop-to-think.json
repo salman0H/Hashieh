@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-stop-to-think",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "stop to think"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-62eefce7-353a-4f48-a4fc-5f24badfd797",
+        "locator": "table:2/data-row:10"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "stop to think",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-632a2beea7ff",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "توقف برای انجام کار دیگری"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-62eefce7-353a-4f48-a4fc-5f24badfd797",
+            "locator": "table:2/data-row:10"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-62eefce7-353a-4f48-a4fc-5f24badfd797",
+          "locator": "table:2/data-row:10"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

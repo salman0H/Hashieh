@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-ef559b3b0ef8",
+  "type": "member-of",
+  "from": "entry-witness",
+  "to": "family-witness",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+      "locator": "table:2/data-row:517"
+    }
+  ],
+  "extensions": {}
+}

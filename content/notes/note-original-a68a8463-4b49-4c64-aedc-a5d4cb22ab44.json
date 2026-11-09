@@ -1,0 +1,71 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-a68a8463-4b49-4c64-aedc-a5d4cb22ab44",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Vocabulary Review / Spaced Review"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "assessment",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-a68a8463-4b49-4c64-aedc-a5d4cb22ab44",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-a68a8463-4b49-4c64-aedc-a5d4cb22ab44-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "حتماً. از این به بعد این را به ساختار ثابت خروجی‌های آموزش زبان اضافه می‌کنم:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-a68a8463-4b49-4c64-aedc-a5d4cb22ab44-2",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Vocabulary Review / Spaced Review\n\nهر بار که یک جزوه، Unit، سؤال یا متن را بررسی می‌کنیم:\n\nکلمات جدید همان بخش را بررسی می‌کنم.\nآن‌ها را با vocabulary جلسات و Units قبلی مقایسه می‌کنم.\nاگر کلمه‌ای قبلاً خوانده‌ای ولی احتمال فراموشی‌اش بالاست، آن را دوباره در context برمی‌گردانم.\nکلمات را از نظر کاربرد اولویت‌بندی می‌کنم:\nEveryday English — کاربرد روزمره\nB1 / Cambridge — مهم برای آزمون B1\nIELTS / Academic — ارزشمند برای مسیر IELTS\nLow priority — کلمات کم‌کاربردتر\nسعی می‌کنم vocabulary قدیمی را با گرامر جدید ترکیب کنم، نه اینکه صرفاً لیست لغت تکراری بدهم.\n\nمثلاً اگر امروز demanding را یاد بگیریم و قبلاً challenging, stressful, tiring, repetitive را داشته باشی، به‌جای اینکه فقط بگویم:\n\ndemanding = demanding\n\nیک Vocabulary Cluster می‌سازیم:\n\na demanding job → شغلی که انرژی/زمان زیادی می‌گیرد\na stressful job → شغلی که استرس زیادی ایجاد می‌کند\na tiring job → شغلی که باعث خستگی می‌شود\na repetitive job → شغلی که کارهای مشابه مرتب تکرار می‌شوند\na challenging job → شغلی که دشوار است ولی می‌تواند باعث رشد شود\n\nو بعد مثلاً:\n\nAlthough software development can be demanding and stressful, I find it challenging and rewarding.\n\nدر نتیجه هم Unit 7 را مرور کرده‌ای، هم vocabulary قبلی فعال شده، هم یک ساختار مناسب Speaking/IELTS ساخته‌ای.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-a68a8463-4b49-4c64-aedc-a5d4cb22ab44-3",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "یک تغییر دیگر هم اعمال می‌کنم\n\nدر پایان هر بخش، یک قسمت کوتاه به نام:\n\n🔁 Vocabulary Recall\n\nمی‌گذارم که در آن چند کلمه قدیمی را عمداً بدون ترجمه در جمله‌های جدید می‌آورم تا خودت معنی یا کاربردشان را از context بازیابی کنی.\n\nمثلاً:\n\nWorking at a desk all day can be sedentary, but the job itself can still be challenging.\n\nو از تو می‌پرسم:\n\nWhat do sedentary and challenging mean here?\n\nاین روش برای تو بهتر از تکرار فهرست ترجمه‌هاست، چون هدفمان تبدیل vocabulary از passive vocabulary → active vocabulary است.\n\nهمچنین در انتخاب vocabulary، IELTS usefulness را در نظر می‌گیرم؛ یعنی کلماتی مثل lack, develop, essential, challenging, demanding, environmental, unpredictable, secure, significant و contribute را بیشتر برمی‌گردانم، چون قابلیت استفاده در موضوعات مختلف را دارند، نه فقط Unit 7.\n\nاز این به بعد این بخش جزو ساختار ثابت بررسی جزوه‌ها و تمرین‌هایمان خواهد بود.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": []
+  },
+  "extensions": {
+    "capture.message-id": "a68a8463-4b49-4c64-aedc-a5d4cb22ab44",
+    "capture.turn-number": 26
+  }
+}

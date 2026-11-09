@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "correction-modal-s",
+  "type": "correction",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "modal-s"
+  },
+  "tags": [
+    "error-notebook"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m16",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "original": "She can plays football.",
+    "replacement": "She can play football.",
+    "explanation": {
+      "fa": "بعد از modal اصلی، فعل پایه می‌آید."
+    },
+    "conceptIds": [
+      "concept-modal-base-form"
+    ],
+    "correctionSourceRef": {
+      "sourceId": "src-chat-m16",
+      "locator": "message-excerpt"
+    },
+    "kind": "form",
+    "originalSourceRef": {
+      "sourceId": "src-chat-m16",
+      "locator": "message-excerpt"
+    }
+  },
+  "extensions": {
+    "language.correction-context": {
+      "kind": "assistant-constructed-error-example",
+      "isObservedLearnerMistake": false
+    }
+  }
+}

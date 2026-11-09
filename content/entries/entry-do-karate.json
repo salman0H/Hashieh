@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-do-karate",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "do karate"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-63a85bee-f127-44e4-8fe5-335f7fd5ccf8",
+        "locator": "table:1/data-row:3"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "do karate",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-1ea318aabed2",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "کاراته کار کردن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-63a85bee-f127-44e4-8fe5-335f7fd5ccf8",
+            "locator": "table:1/data-row:3"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-63a85bee-f127-44e4-8fe5-335f7fd5ccf8",
+          "locator": "table:1/data-row:3"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-unit-8",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

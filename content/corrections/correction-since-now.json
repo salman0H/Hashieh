@@ -1,0 +1,46 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "correction-since-now",
+  "type": "correction",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "since-now"
+  },
+  "tags": [
+    "error-notebook"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m16",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "original": "I ought to study since now.",
+    "replacement": "I ought to start studying now.",
+    "explanation": {
+      "fa": "since now در این کاربرد طبیعی نیست."
+    },
+    "conceptIds": [
+      "concept-advice"
+    ],
+    "correctionSourceRef": {
+      "sourceId": "src-chat-m16",
+      "locator": "message-excerpt"
+    },
+    "kind": "form",
+    "originalSourceRef": {
+      "sourceId": "src-chat-m15",
+      "locator": "message-excerpt"
+    }
+  },
+  "extensions": {}
+}

@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-9158fcce7d99",
+  "type": "inflection-of",
+  "from": "entry-instructions",
+  "to": "entry-instruction",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-chat-m09",
+      "locator": "message-excerpt"
+    }
+  ],
+  "extensions": {}
+}

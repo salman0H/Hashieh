@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-2ddafb4f04c7",
+  "type": "member-of",
+  "from": "entry-instructive",
+  "to": "family-instruct",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-chat-m09",
+      "locator": "message-excerpt"
+    },
+    {
+      "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+      "locator": "table:2/data-row:232"
+    }
+  ],
+  "extensions": {}
+}

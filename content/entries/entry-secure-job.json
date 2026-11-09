@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-secure-job",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "secure job"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-4b0f62cf-9334-4ad2-b7df-ddeecf3ea636",
+        "locator": "table:6/data-row:4"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "secure job",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-5600dc8ca63e",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "شغل باثبات و امن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-cce91e13c2d9",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "I hope to find a secure job.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-4b0f62cf-9334-4ad2-b7df-ddeecf3ea636",
+            "locator": "table:6/data-row:4"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-4b0f62cf-9334-4ad2-b7df-ddeecf3ea636",
+          "locator": "table:6/data-row:4"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-future",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

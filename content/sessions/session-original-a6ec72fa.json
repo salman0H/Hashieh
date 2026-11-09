@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "session-original-a6ec72fa",
+  "type": "session",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Foundation notes A1–A8"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-a6ec72fa-ac7a-4a39-81bd-0c5be90ecc0a",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-eba73669-0ef2-46f1-ae63-ab7b2f1d249f",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "occurredAt": null,
+    "dateLabel": null,
+    "datePrecision": "unknown",
+    "conceptIds": [
+      "concept-present-continuous",
+      "concept-past-simple",
+      "concept-present-perfect",
+      "concept-parts-of-speech",
+      "concept-modals",
+      "concept-present-simple",
+      "concept-past-continuous",
+      "concept-present-perfect-continuous",
+      "concept-phrasal-verbs"
+    ],
+    "itemIds": [
+      "note-original-a6ec72fa-ac7a-4a39-81bd-0c5be90ecc0a",
+      "note-original-eba73669-0ef2-46f1-ae63-ab7b2f1d249f"
+    ],
+    "sourceMessageIds": [
+      "src-original-a6ec72fa-ac7a-4a39-81bd-0c5be90ecc0a",
+      "src-original-eba73669-0ef2-46f1-ae63-ab7b2f1d249f"
+    ],
+    "completeness": "partial",
+    "missing": [
+      "Any referenced original attachments are not imported in this text pass."
+    ]
+  },
+  "extensions": {}
+}

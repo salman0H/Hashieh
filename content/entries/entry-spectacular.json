@@ -1,0 +1,169 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-spectacular",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "spectacular"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:7"
+      },
+      {
+        "sourceId": "src-original-021012b8-e9d3-421d-af1d-fe1a7a57e626",
+        "locator": "table:4/data-row:10"
+      },
+      {
+        "sourceId": "src-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+        "locator": "table:2/data-row:2"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:2/data-row:7"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "spectacular",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-b75d82af261b",
+        "partOfSpeech": "Adjective",
+        "translation": {
+          "fa": "تماشایی، شگفت‌انگیز"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "impressive",
+          "breathtaking"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:2/data-row:7"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:2/data-row:7"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-952e47952b26",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "خیره‌کننده، بسیار چشمگیر"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-5bc12f48c25a",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "a spectacular view",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-021012b8-e9d3-421d-af1d-fe1a7a57e626",
+            "locator": "table:4/data-row:10"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-e5016fcbe49c",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "خیره‌کننده، باشکوه یا بسیار تأثیرگذار"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-39cdcf7c3b97",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "The view was spectacular.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+            "locator": "table:2/data-row:2"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:2/data-row:7"
+        },
+        "group": "priority-b",
+        "sessionId": null,
+        "priority": "B"
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-021012b8-e9d3-421d-af1d-fe1a7a57e626",
+          "locator": "table:4/data-row:10"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-experiences-news",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+          "locator": "table:2/data-row:2"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-04d90228",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:2/data-row:7"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

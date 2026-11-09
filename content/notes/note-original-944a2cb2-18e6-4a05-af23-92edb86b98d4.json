@@ -1,0 +1,438 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-944a2cb2-18e6-4a05-af23-92edb86b98d4",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "1. Development vs Developer"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "assessment",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-944a2cb2-18e6-4a05-af23-92edb86b98d4",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "بله. این بخش از Unit 7 – Work Life دقیقاً برای Speaking طراحی شده و جواب‌هایی که نوشتی برای تمرین خیلی مناسب‌اند؛ اما چند خطای مهم در grammar, collocation, word choice داری که اگر همین الآن اصلاحشان کنیم، در Speaking B1 خیلی بهتر می‌شوی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-2",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "1. Development vs Developer\n\nاول املای درست:\n\n❌ devepment\n✅ development\n\nاین دو از یک خانواده‌اند، اما نقش دستوری متفاوتی دارند.\n\nWord\tPart of speech\tMeaning\ndevelop\tverb\tتوسعه دادن / رشد کردن\ndevelopment\tnoun\tتوسعه / فرایند رشد\ndeveloper\tnoun\tتوسعه‌دهنده؛ کسی که توسعه می‌دهد\ndeveloped\tadjective\tتوسعه‌یافته\ndeveloping\tadjective\tدر حال توسعه",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-3",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Developer\n\nیعنی person who develops something.\n\nI am a software developer.\nمن یک توسعه‌دهنده نرم‌افزار هستم.\n\nShe works as a web developer.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-4",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Development\n\nخودِ فرایند یا فعالیت توسعه است.\n\nSoftware development is difficult.\n\nI am interested in web development.\n\nThis project needs more development.\n\nپس:\n\nI am a developer.\nمن توسعه‌دهنده هستم.\n\nولی:\n\nI am interested in software development.\nمن به توسعه نرم‌افزار علاقه‌مندم.\n\nیک قانون ساده:\n\n-er → person\ndevelop → developer\n\n-ment → process/activity/result\ndevelop → development",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-5",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "برای تو:\n\nاگر بخواهی بگویی «به حوزه برنامه‌نویسی و تکنولوژی علاقه دارم»:\n\nI would like to have a job in technology and software development.\n\nاگر بخواهی بگویی «می‌خواهم توسعه‌دهنده شوم»:\n\nI would like to work as a software developer.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-6",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "2. What kind of job... دقیقاً چه معنایی دارد؟\n\nجمله کتاب:\n\nWhat kind of job would you like to do?\n\nاینجا kind یعنی:\n\ntype / category\n\nیعنی:\n\n«چه نوع شغلی دوست داری داشته باشی؟»\n\nنه اینکه الزاماً اسم دقیق شغل را بپرستد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-7",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "سه سؤال مشابه اما با تفاوت معنایی\n1. What kind of job would you like to do?\n\nتمرکز روی نوع / حوزه شغل:\n\nWhat kind of job would you like to do?\n\nI'd like to work in technology.\n\n2. What job would you like to do?\n\nمستقیم‌تر است و بیشتر دنبال شغل مشخص است:\n\nWhat job would you like to do?\n\nI'd like to be a software developer.\n\n3. What would you like to do for a living?\n\nاین یکی خیلی طبیعی‌تر و conversational است.\n\nfor a living = برای امرار معاش / به عنوان شغل\n\nWhat would you like to do for a living?\n\nI'd like to work as a software developer.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-8",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "یک تفاوت مهم دیگر\n\nWhat kind of work do you like?\n\nلزومی ندارد درباره شغل باشد.\n\nمثلاً:\n\nI like creative work.\n\nI like working with computers.\n\nI like working with other people.\n\nپس:\n\njob = شغل مشخص\n\nwork = کار / نوع فعالیت کاری",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-9",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "3. جواب تو را اصلاح کنیم\n\nجواب تو:\n\n❌ I would like have job in tech and programming category. because it is so useful for my major and future.\n\nچند مشکل داریم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-10",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "مشکل 1\n\nبعد از:\n\nwould like\n\nباید to + verb بیاید.\n\nwould like to have\n\nنه:\n\n❌ would like have",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-11",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "مشکل 2\n\nhave job\n\nباید:\n\nhave a job\n\nچون job قابل‌شمارش است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-12",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "مشکل 3\n\nprogramming category\n\nاز نظر grammatical ممکن است قابل فهم باشد، ولی طبیعی نیست.\n\nبهتر:\n\nthe technology and programming field\n\nیا:\n\nthe tech industry\n\nیا:\n\nsoftware development",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-13",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "نسخه B1 طبیعی:\n\nI would like to have a job in the technology and programming field because it is useful for my major and my future career.\n\nاما برای Speaking حتی طبیعی‌تر:\n\nI'd like to work in technology and software development because it's related to my major and I think it will be useful for my future career.\n\nاین نسخه را حفظ نکن؛ ساختارش را یاد بگیر.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-14",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Pattern\n\nI'd like to work in [field] because it's related to [my major] and it will help me [future goal].\n\nمثلاً:\n\nI'd like to work in environmental science because I'm interested in protecting nature.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-15",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "4. Do you like working with other people?\n\nجواب تو:\n\n❌ Yes, I do. It help me to comminucate and improve my mindset to create a new produnct.\n\nنسخه صحیح:\n\nYes, I do. It helps me communicate with other people and improve my way of thinking. It also helps me come up with new ideas and create new products.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-16",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "نکته مهم\n\nبعد از:\n\nhelp + object\n\nدو حالت رایج داریم:\n\nhelp me communicate\n\nیا:\n\nhelp me to communicate\n\nهر دو درست‌اند، ولی در انگلیسی روزمره help me communicate بسیار طبیعی است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-17",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "come up with\n\nاین را به vocabulary یونیتت اضافه کن:\n\ncome up with an idea\nایده‌ای به ذهن رسیدن / ایده‌ای ارائه کردن\n\nمثلاً:\n\nWorking with other people helps me come up with new ideas.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-18",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "5. What did you like to be when you were a child?\n\nاینجا جواب تو:\n\n❌ I liked to be a swimmer.\n\nاز نظر grammar کاملاً غیرممکن نیست، ولی منظور سؤال احتمالاً «وقتی بچه بودی دوست داشتی چه‌کاره شوی؟» است.\n\nطبیعی‌تر:\n\nI wanted to be a swimmer.\n\nیا:\n\nI wanted to become a professional swimmer.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-19",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "فرق:\n\nI liked swimming.\nشنا کردن را دوست داشتم.\n\nI wanted to be a swimmer.\nمی‌خواستم شناگر شوم.\n\nاین دو را قاطی نکن.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-20",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "جمله آخر تو\n\nbecause I lost in my imagination.\n\nاین جمله معنای موردنظر را منتقل نمی‌کند.\n\nاگر منظورت این است که «در تخیلاتم غرق می‌شدم»:\n\nI used to get lost in my imagination.\n\nget lost in something\n\nیعنی:\n\nغرق چیزی شدن\n\nاما اگر واقعاً منظورت دلیل انتخاب swimming است، باید دلیل منطقی‌تری بدهی:\n\nI wanted to be a swimmer because I loved swimming and I thought it would be exciting.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-21",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "6. What kind of jobs do you think are difficult?\n\nجمله تو:\n\n❌ In my openion everything about to convince people to do something are tough.\n\nایده‌ات خوب است. ساختار مشکل دارد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-22",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Opinion\n\n❌ openion\n✅ opinion\n\nعبارت استاندارد:\n\nIn my opinion, ...",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-23",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "everything about convincing people\n\nبعد از about وقتی درباره یک activity صحبت می‌کنیم، gerund (-ing) طبیعی است:\n\nabout convincing people\n\nنه:\n\n❌ about to convince\n\nچون about to + verb معنی کاملاً متفاوتی دارد:\n\nI am about to leave.\n\nیعنی:\n\n«الان در آستانه رفتنم.»",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-24",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "are یا is؟\n\nEverything is\n\nچون everything از نظر grammatical singular است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-25",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "نسخه صحیح:\n\nIn my opinion, jobs that involve convincing people to do something are tough.\n\nاین حتی بهتر است.\n\ninvolve = شامل بودن / مستلزم بودن\n\nSome jobs involve dealing with difficult customers.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-26",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "7. What jobs do you think are the most essential?\n\nاینجا ایده‌ات جالب است ولی باید natural‌تر شود.\n\nتو نوشتی:\n\nsometimes i looking around of myself and see banch of enviromental issues.\n\nاصلاح:\n\nSometimes I look around me and see a lot of environmental problems.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-27",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "نکات:\n\n❌ sometimes I looking\n✅ sometimes I look\n\n❌ around of myself\n✅ around me\n\n❌ banch\n✅ a bunch of / a lot of\n\n❌ enviromental\n✅ environmental\n\nبعد:\n\nI think the most essential jobs are to secure society to save and do not destroy the world.\n\nاینجا ساختار jobs are to... مناسب نیست.\n\nمی‌توانی بگویی:\n\nI think the most essential jobs are jobs that protect society and the environment.\n\nیا اگر می‌خواهی ایده‌ات را قوی‌تر کنی:\n\nI think the most essential jobs are those that protect society and the environment because we are facing a lot of environmental problems.\n\nthose اینجا جای jobs را می‌گیرد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-28",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "8. Vocabulary این بخش\n\nاین 8 کلمه را باید فعال یاد بگیری، نه فقط معنی‌شان را حفظ کنی.\n\nWord\tMeaning\tExample\ndull\tکسل‌کننده\tThe job is dull.\nexciting\tهیجان‌انگیز\tBeing a pilot sounds exciting.\nfun\tسرگرم‌کننده\tWorking with children can be fun.\nhard\tسخت\tBeing a doctor is hard.\nincredible\tفوق‌العاده\tIt was an incredible experience.\nstressful\tپراسترس\tMy job can be stressful.\ntiring\tخسته‌کننده\tWorking all day is tiring.\nunusual\tغیرمعمول\tIt's an unusual job.\nreceptionist\tمسئول پذیرش\tThe receptionist welcomed me.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-29",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "یک نکته مهم\n\nstressful ≠ stressed\n\nMy job is stressful.\nشغلم استرس‌زاست.\n\nI am stressed.\nمن استرس دارم.\n\nهمین الگو:\n\nThe job is tiring.\nThe worker is tired.\n\nThe film is exciting.\nI am excited.\n\nاین distinction در B1 بسیار مهم است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-30",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "9. حالا یک ساختار بهتر برای Speaking\n\nبرای سؤال‌های این صفحه، سعی کن جواب‌هایت را با این فرمول بسازی:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-31",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Answer structure\n\nDirect answer → Reason → Example/Extra detail\n\nمثلاً:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-32",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "What kind of job would you like to do?\n\nI'd like to work in technology and software development.\nI'm interested in programming, and it's closely related to my major.\nI'd also like to work on projects where I can create useful products.\n\nاین جواب B1 خیلی بهتر از یک جمله کوتاه است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-33",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Do you like working with other people?\n\nYes, I do.\nWorking with other people helps me communicate better and improve my way of thinking.\nIt also gives me the opportunity to come up with new ideas.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-34",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "What jobs do you think are difficult?\n\nIn my opinion, jobs that involve convincing people can be quite difficult.\nYou need to understand different personalities and communicate with people effectively.\nI think this can be stressful sometimes.\n\nاینجا عمداً vocabulary یونیت را وارد کردیم:\n\ndifficult\ninvolve\nconvincing\npersonalities\ncommunicate\nstressful",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-35",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "10. یک نکته مهم درباره سؤال‌های Unit 7\n\nکتاب دارد تو را به سمت description of jobs می‌برد، بنابراین فقط grammar مهم نیست. باید بتوانی شغل را با adjective توصیف کنی.\n\nمثلاً:\n\nBeing a receptionist can be stressful because you have to deal with many people.\n\nWorking as a software developer can be challenging but exciting.\n\nWorking in a cave sounds unusual and difficult.\n\nBeing a tour guide could be fun and exciting.\n\nWorking in an office all day might be dull and tiring.\n\nاین دقیقاً همان چیزی است که برای Speaking B1 لازم داری: grammar + vocabulary + reason، نه صرفاً جمله‌های گرامری جدا از context.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-944a2cb2-18e6-4a05-af23-92edb86b98d4-36",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "تمرین بعدی\n\nحالا بدون نگاه کردن به جواب‌های من، به این 5 سؤال انگلیسی جواب بده. هر جواب حدود 2–4 جمله باشد:\n\nWhat kind of job would you like to do? Why?\nWould you like to work with other people or alone? Why?\nWhat job would you definitely not like to do? Why?\nWhat jobs do you think are the most stressful?\nWhat job did you want to do when you were a child?\n\nمن بعدش هر جواب را در چهار لایه بررسی می‌کنم:\n\nGrammar → Vocabulary → Natural English → B1 Speaking quality\n\nو در پایان، از اشتباهات خودت یک mini lesson برایت می‌سازیم تا فقط اصلاح نشوند، بلکه واقعاً وارد زبان فعال تو شوند.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-gerund-infinitive",
+      "concept-parts-of-speech",
+      "concept-used-to"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "944a2cb2-18e6-4a05-af23-92edb86b98d4",
+    "capture.turn-number": 21
+  }
+}

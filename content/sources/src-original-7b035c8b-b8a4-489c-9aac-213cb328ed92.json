@@ -1,0 +1,1437 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-7b035c8b-b8a4-489c-9aac-213cb328ed92",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 78"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "assistant",
+    "messageOrdinal": 78,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "برای اینکه اسم گرامرها، ساختارشان و زمان استفاده از آن‌ها را با هم قاطی نکنی، بهتر است یک جزوهٔ مرجع گرامر انگلیسی داشته باشی که فقط قواعد را فهرست نکند؛ بلکه به تو کمک کند هنگام جمله‌سازی تصمیم بگیری کدام ساختار را انتخاب کنی.\n\nاین جزوه را بر اساس گرامرهایی که تا اینجا در کلاس و تمرین‌هایت کار کرده‌ای تنظیم می‌کنم و نکات پایه‌ای لازم برای درک آن‌ها را هم اضافه می‌کنم. توضیحات فارسی‌اند، مثال‌ها انگلیسی‌اند و تفاوت ساختارهای مشابه، خطاهای رایج و الگوهای کاربردی مشخص شده‌اند.\n\nچند قرارداد برای خواندن جزوه:\n\nS = Subject، فاعل\n\nV1 = شکل پایهٔ فعل؛ مثل go, work\n\nV2 = شکل گذشته؛ مثل went, worked\n\nV3 = قسمت سوم فعل؛ مثل gone, worked\n\nO = Object، مفعول\n\nV-ing = شکل فعلی با -ing؛ مثل going, working\n\nAdj = صفت\n\nN = اسم\n\nWriting\nجزوهٔ مرجع گرامر انگلیسی\nاز ساختار جمله تا زمان‌ها، افعال کمکی، شرطی‌ها و مصدرها\n\nهدف: بتوانم ساختار مناسب را تشخیص بدهم، جملهٔ درست بسازم و بدانم چرا یک ساختار درست یا غلط است.\n\nفهرست مطالب\n\nساختار جمله و اجزای کلام\n\nفعل to be، افعال اصلی و افعال کمکی\n\nجملهٔ مثبت، منفی، پرسشی و Wh-questions\n\nPresent Simple\n\nPresent Continuous\n\nStative Verbs و Dynamic Verbs\n\nPast Simple\n\nPast Continuous\n\nتفاوت Past Simple و Past Continuous\n\nآینده: Will، Going to، Present Continuous و Present Simple\n\nPresent Perfect Simple\n\nPresent Perfect Continuous\n\nتفاوت Present Perfect و Past Simple\n\nافعال کمکی وجهی (Modal Verbs)\n\nساختار مجهول (Passive Voice)\n\nجملات شرطی صفر، اول و دوم\n\nRelative Clauses\n\nصفات، قیدها و ترتیب آن‌ها\n\nمقایسه‌ای و عالی (Comparatives & Superlatives)\n\nSo، Such، Too و Enough\n\nGerund و Infinitive\n\nالگوهای فعل (Verb Patterns)\n\nحروف اضافه (Prepositions)\n\nUsed to\n\nاسم‌های شمارش‌پذیر و شمارش‌ناپذیر\n\nحروف تعریف A، An و The\n\nQuantifiers: Much، Many، Some، Any و غیره\n\nThere is / There are\n\nتوافق فاعل و فعل\n\nکلمات ربط و جمله‌های وابسته\n\nنکات مهم دربارهٔ افعال و ترکیب‌های واژگانی\n\nجدول تصمیم‌گیری برای انتخاب گرامر\n\nخطاهای رایج و چک‌لیست جمله‌سازی\n\nبخش اول: ساختار جمله و اجزای کلام\n1.1. اجزای اصلی جمله\nSubject — فاعل\n\nکسی یا چیزی که جمله دربارهٔ آن است یا عمل را انجام می‌دهد.\n\nI work every day.\n\nMy manager is strict.\n\nThe train arrived late.\n\nVerb — فعل\n\nعمل، اتفاق یا وضعیت را بیان می‌کند.\n\nI work.\n\nShe is tired.\n\nThey arrived.\n\nObject — مفعول\n\nشخص یا چیزی که عمل روی آن انجام می‌شود.\n\nI read a book.\n\nShe called her manager.\n\nThey solved the problem.\n\nالگوی رایج:\n\nSubject + Verb + Object\n\nمثال:\n\nShe + solved + the problem.\n\nنکته: تمام جمله‌ها مفعول ندارند.\n\nShe sleeps.\n\nThe train arrived.\n\nHe works at a company.\n\n1.2. Parts of Speech — اجزای کلام\nنوع کلمه\tکاربرد\tمثال\nNoun\tاسم\tjob, experience, anxiety\nVerb\tفعل\twork, decide, improve\nAdjective\tصفت\tanxious, strict, lucrative\nAdverb\tقید\tquickly, usually, extremely\nPronoun\tضمیر\tI, she, him, they\nPreposition\tحرف اضافه\tin, on, at, for\nConjunction\tحرف ربط\tand, but, because, although\nDeterminer\tتعیین‌کنندهٔ اسم\ta, the, my, some\nModal\tفعل کمکی وجهی\tcan, should, might\n\nتفاوت مهم:\n\nanxiety = اسم\n\nanxious = صفت\n\nanxiously = قید\n\nمثال:\n\nHe has anxiety.\n\nHe is anxious.\n\nHe waited anxiously.\n\nبخش دوم: فعل To Be و افعال کمکی\n2.1. فعل To Be در زمان حال\nفاعل\tفعل\nI\tam\nHe / She / It\tis\nYou / We / They\tare\n\nمثال:\n\nI am tired.\n\nShe is a developer.\n\nThey are at work.\n\nمنفی\n\nI am not tired.\n\nShe isn't available.\n\nThey aren't ready.\n\nپرسشی\n\nفعل be را قبل از فاعل می‌آوریم:\n\nAre you tired?\n\nIs she at work?\n\nAm I late?\n\nبرای سؤال‌های Wh:\n\nWhere are you?\n\nWhy is she upset?\n\nWhat is your job?\n\n2.2. فعل To Be در گذشته\nفاعل\tفعل\nI / He / She / It\twas\nYou / We / They\twere\n\nمثال:\n\nI was nervous.\n\nThey were busy.\n\nShe wasn't at work.\n\nWere you tired?\n\n2.3. فعل To Be چه کاربردهایی دارد؟\nالف) توصیف وضعیت\n\nSubject + be + adjective\n\nI am anxious.\n\nThe office is modern.\n\nThe job was demanding.\n\nب) معرفی یا هویت\n\nShe is a nurse.\n\nHe is my colleague.\n\nج) مکان\n\nI am at home.\n\nThe manager is in the office.\n\nد) زمان‌های استمراری\n\nbe + V-ing\n\nI am working.\n\nShe was sleeping.\n\nهـ) ساختار مجهول\n\nbe + V3\n\nThe email was sent.\n\nThe employee was fired.\n\nنکتهٔ بسیار مهم: be در این کاربردها لزوماً فعل اصلی جمله نیست؛ گاهی فعل کمکی است.\n\nبخش سوم: جملهٔ مثبت، منفی و پرسشی\n3.1. وقتی فعل اصلی To Be است\n\nمثبت:\n\nShe is tired.\n\nمنفی:\n\nShe isn't tired.\n\nپرسشی:\n\nIs she tired?\n\nدر این حالت از do/does/did استفاده نمی‌کنیم.\n\nغلط: Does she be tired?\n\nدرست: Is she tired?\n\n3.2. وقتی فعل اصلی یک فعل معمولی است\n\nدر زمان حال ساده، برای سؤال و منفی از do/does استفاده می‌کنیم.\n\nمثبت:\n\nShe works here.\n\nمنفی:\n\nShe doesn't work here.\n\nپرسشی:\n\nDoes she work here?\n\nدر گذشته:\n\nمثبت:\n\nShe worked here.\n\nمنفی:\n\nShe didn't work here.\n\nپرسشی:\n\nDid she work here?\n\nقانون مهم\n\nبعد از do / does / did، فعل اصلی به شکل پایه می‌آید.\n\nDoes she work? نه works\n\nDid he go? نه went\n\nShe didn't have time. نه had\n\n3.3. افعال کمکی در سؤال و منفی\n\nاگر جمله از قبل فعل کمکی داشته باشد، معمولاً همان فعل کمکی را جابه‌جا می‌کنیم یا منفی می‌کنیم.\n\nShe is working. → Is she working?\n\nHe has finished. → Has he finished?\n\nThey can swim. → Can they swim?\n\nShe will come. → Will she come?\n\nنیازی نیست do را به این جمله‌ها اضافه کنیم.\n\n3.4. Emphatic Do / Does / Did\n\nگاهی برای تأکید از do/does/did در جملهٔ مثبت استفاده می‌کنیم.\n\nI do understand you.\n\nShe does work hard.\n\nI did call you.\n\nاین ساختار معمولاً برای تأکید، اصلاح برداشت طرف مقابل یا اصرار بر حقیقت جمله استفاده می‌شود.\n\nبخش چهارم: Present Simple\n4.1. ساختار\n\nمثبت:\n\nS + V1\n\nبرای he/she/it معمولاً به فعل s یا es اضافه می‌کنیم.\n\nI work.\n\nShe works.\n\nHe watches TV.\n\nThe train leaves at 8.\n\nمنفی:\n\nS + don't/doesn't + V1\n\nپرسشی:\n\nDo/Does + S + V1?\n\n4.2. کاربردها\nالف) عادت و کارهای تکراری\n\nI go to the gym four times a week.\n\nShe usually arrives on time.\n\nHe often reads before bed.\n\nب) واقعیت عمومی\n\nWater boils at 100°C at standard atmospheric pressure.\n\nThe Earth revolves around the Sun.\n\nج) وضعیت نسبتاً پایدار\n\nI live in Mashhad.\n\nShe works for a software company.\n\nد) جدول زمانی رسمی\n\nThe train leaves at 8:15 tomorrow.\n\nThe conference begins at 9 a.m.\n\nهـ) دستورالعمل و مراحل\n\nFirst, you open the application.\n\nThen, you enter your username.\n\n4.3. قیدهای رایج\n\nalways\n\nusually\n\noften\n\nsometimes\n\nrarely\n\nseldom\n\nnever\n\nevery day / week / year\n\nقیدهای تکرار معمولاً قبل از فعل اصلی می‌آیند:\n\nI usually work late.\n\nShe often studies at night.\n\nاما بعد از be می‌آیند:\n\nShe is usually busy.\n\nThey are often late.\n\n4.4. نکتهٔ سوم‌شخص مفرد\n\nwork → works\n\nwatch → watches\n\ngo → goes\n\nstudy → studies\n\nhave → has\n\nbe → is\n\nپس:\n\nShe wants a new job.\n\nHe has a good CV.\n\nThe company hires developers.\n\nاما بعد از doesn't و does در سؤال، شکل پایه می‌آید:\n\nDoes she want a new job?\n\nShe doesn't have enough experience.\n\nبخش پنجم: Present Continuous\n5.1. ساختار\n\nS + am/is/are + V-ing\n\nI am studying.\n\nShe is working.\n\nThey are waiting.\n\nمنفی:\n\nI am not studying.\n\nShe isn't working.\n\nپرسشی:\n\nAre you studying?\n\nIs she working?\n\n5.2. کاربردها\nالف) عملی که اکنون در جریان است\n\nI am reading your message.\n\nShe is talking to her manager.\n\nب) وضعیت موقت\n\nI am living with my parents while my apartment is being renovated.\n\nHe is working at a different branch this month.\n\nج) تغییرات و روندها\n\nThe company is growing.\n\nTechnology is changing quickly.\n\nد) برنامهٔ آیندهٔ هماهنگ‌شده\n\nI'm meeting my friend at 6 tomorrow.\n\nWe're having dinner with our colleagues tonight.\n\nوجود عبارت آینده به‌تنهایی کافی نیست؛ باید ببینیم آیا برنامه یا هماهنگی مشخصی وجود دارد.\n\n5.3. املای V-ing\n\nwork → working\n\nmake → making\n\nrun → running\n\nsit → sitting\n\nlie → lying\n\n5.4. Present Simple در برابر Present Continuous\nPresent Simple\tPresent Continuous\nعادت یا وضعیت معمول\tعمل جاری یا وضعیت موقت\nI work from home.\tI'm working from home this week.\nShe lives here.\tShe's living here temporarily.\nHe usually wears a suit.\tHe's wearing a suit today.\n\nنکته: I am living here به معنی «دارم همین لحظه زندگی می‌کنم» نیست؛ می‌تواند به وضعیت موقتی در یک دوره اشاره کند.\n\nبخش ششم: Stative Verbs و Dynamic Verbs\n6.1. Stative Verbs\n\nاین افعال معمولاً وضعیت، احساس، مالکیت یا شناخت را بیان می‌کنند و اغلب در زمان استمراری به کار نمی‌روند.\n\nنمونه‌ها:\n\nknow\n\nunderstand\n\nbelieve\n\nwant\n\nneed\n\nown\n\nbelong\n\nprefer\n\nrecognize\n\nseem\n\nremember\n\nmean\n\nمعمولاً:\n\nI know the answer.\n\nShe owns a car.\n\nI want a new job.\n\nThis bag belongs to me.\n\nدر کاربرد معمول نمی‌گوییم:\n\nI am knowing the answer.\n\nShe is owning a car.\n\n6.2. Dynamic Verbs\n\nاین افعال فعالیت یا عمل را بیان می‌کنند و معمولاً می‌توانند در زمان استمراری بیایند.\n\nwork\n\nrun\n\neat\n\nstudy\n\nwrite\n\ntalk\n\nbuild\n\nمثال:\n\nI am studying.\n\nHe is building a website.\n\n6.3. بعضی افعال هر دو کاربرد را دارند\nThink\n\nنظر یا عقیده:\n\nI think this is a bad idea.\n\nفرایند فکر کردن:\n\nI'm thinking about changing jobs.\n\nHave\n\nمالکیت:\n\nI have a car.\n\nخوردن یا تجربه کردن:\n\nI'm having lunch.\n\nWe're having a great time.\n\nLook\n\nبه نظر رسیدن:\n\nYou look tired.\n\nنگاه کردن:\n\nI'm looking at the painting.\n\nFeel\n\nحالت یا احساس:\n\nI feel that this is wrong.\n\nI feel tired.\n\nحس کردن به‌عنوان فعالیت:\n\nI'm feeling the fabric to check its texture.\n\nBe\n\nرفتار معمول:\n\nHe is rude.\n\nرفتار موقت:\n\nHe is being rude today.\n\nHe is being rude یعنی امروز رفتار بی‌ادبانه‌ای دارد؛ نه اینکه الزاماً همیشه آدم بی‌ادبی باشد.\n\nبخش هفتم: Past Simple\n7.1. ساختار\n\nفعل باقاعده: V1 + ed\n\nفعل بی‌قاعده: شکل مخصوص گذشته، V2\n\nwork → worked\n\nplay → played\n\ngo → went\n\nsee → saw\n\nhave → had\n\nfeel → felt\n\nrun → ran\n\nمثبت:\n\nI worked yesterday.\n\nShe went home.\n\nمنفی:\n\nS + didn't + V1\n\nI didn't work yesterday.\n\nShe didn't go home.\n\nپرسشی:\n\nDid + S + V1?\n\nDid you work yesterday?\n\nDid she go home?\n\n7.2. کاربردها\nالف) اتفاق تمام‌شده در گذشته\n\nI visited Shiraz last year.\n\nShe called me yesterday.\n\nب) دنباله‌ای از اتفاقات گذشته\n\nI arrived at the office, opened my laptop and started working.\n\nج) عادت گذشته که اکنون تمام شده است\n\nI worked at that company in 2024.\n\n7.3. نشانه‌های رایج\n\nyesterday\n\nlast week / month / year\n\ntwo days ago\n\nin 2020\n\nwhen I was a child\n\nنکته: اگر زمان گذشته مشخص و تمام‌شده باشد، معمولاً Past Simple لازم است.\n\nI saw him yesterday.\n\nنه: I have seen him yesterday.\n\nبخش هشتم: Past Continuous\n8.1. ساختار\n\nS + was/were + V-ing\n\nI was working.\n\nShe was sleeping.\n\nThey were talking.\n\nمنفی:\n\nI wasn't working.\n\nThey weren't talking.\n\nپرسشی:\n\nWere you working?\n\nWas she sleeping?\n\n8.2. کاربردها\nالف) عملی که در زمان مشخصی در گذشته در جریان بود\n\nAt 8 p.m., I was studying.\n\nThis time yesterday, we were travelling.\n\nب) پس‌زمینهٔ داستان\n\nIt was raining, and people were waiting at the station.\n\nج) عمل در جریان که اتفاق دیگری آن را قطع می‌کند\n\nI was studying when my friend called.\n\nدر این جمله:\n\nwas studying = عمل در جریان\n\ncalled = اتفاقی که در آن زمان رخ داد\n\nد) دو عمل هم‌زمان\n\nWhile I was cooking, my brother was setting the table.\n\n8.3. When و While\n\nقاعدهٔ رایج:\n\nwhen اغلب قبل از اتفاق کوتاه‌تر می‌آید.\n\nwhile اغلب برای عملی که در جریان است به کار می‌رود.\n\nمثال:\n\nI was driving when the phone rang.\n\nWhile I was driving, the phone rang.\n\nاین قاعده مطلق نیست؛ هر دو کلمه بسته به ساختار جمله کاربردهای متنوع‌تری دارند.\n\nبخش نهم: تفاوت Past Simple و Past Continuous\nPast Simple\tPast Continuous\nاتفاق گذشته به‌صورت کامل\tعمل در جریان در یک زمان گذشته\nI cooked dinner.\tI was cooking dinner.\nThe phone rang.\tI was talking on the phone.\n\nمثال ترکیبی:\n\nI was working when the manager called me.\n\nوقتی مدیر با من تماس گرفت، مشغول کار بودم.\n\nI worked until 6 p.m.\n\nتا ساعت ۶ کار کردم.\n\nنکته: Past Continuous به‌تنهایی به این معنی نیست که عمل حتماً طولانی بوده؛ فقط آن را در حال جریان نشان می‌دهد.\n\nبخش دهم: ساختارهای آینده\n\nانگلیسی برای آینده چند ساختار دارد. انتخاب آن‌ها فقط به کلمه‌ای مثل tomorrow وابسته نیست؛ نوع معنا و موقعیت هم اهمیت دارد.\n\n10.1. Will\n\nساختار:\n\nS + will + V1\n\nI will call you.\n\nShe will help us.\n\nمنفی:\n\nI won't forget.\n\nپرسشی:\n\nWill you come?\n\nکاربردهای رایج:\n\nالف) تصمیم لحظه‌ای\n\nThe phone is ringing. I'll answer it.\n\nب) پیشنهاد و کمک\n\nI'll help you with your homework.\n\nج) قول\n\nI will never forget your help.\n\nد) پیش‌بینی یا نظر دربارهٔ آینده\n\nI think the company will grow.\n\nPeople will probably work differently in the future.\n\nهـ) واقعیت آینده\n\nI'll be 30 next year.\n\n10.2. Be going to\n\nساختار:\n\nS + am/is/are + going to + V1\n\nI'm going to study tonight.\n\nShe is going to apply for the job.\n\nکاربردها:\n\nالف) قصد یا برنامهٔ قبلی\n\nI've decided that I'm going to study harder next term.\n\nب) پیش‌بینی بر اساس شواهد فعلی\n\nLook at those clouds! It's going to rain.\n\nBe careful! You're going to drop that glass.\n\nGoing to لزوماً به معنی «خیلی قطعی» نیست؛ بیشتر بر قصد قبلی یا شواهد موجود تأکید می‌کند.\n\n10.3. Present Continuous برای آینده\n\nبرای برنامه‌های هماهنگ‌شده:\n\nI'm meeting my friend tomorrow.\n\nWe're visiting a client next Monday.\n\nاین ساختار معمولاً نشان می‌دهد که برنامه‌ای تنظیم شده است.\n\n10.4. Present Simple برای آینده\n\nبرای جدول زمانی یا برنامهٔ رسمی:\n\nThe train leaves at 7:30 tomorrow.\n\nThe conference begins at 9 a.m. next Monday.\n\n10.5. مقایسهٔ چهار ساختار\nجمله\tتأکید\nI'll meet Sarah tomorrow.\tبیان آینده؛ بسته به بافت ممکن است تصمیم، قول یا پیش‌بینی باشد\nI'm going to meet Sarah tomorrow.\tقصد قبلی\nI'm meeting Sarah tomorrow.\tبرنامهٔ هماهنگ‌شده\nThe train leaves at 8 tomorrow.\tجدول زمانی\n\nاین‌ها همیشه متضاد یکدیگر نیستند؛ گاهی چند ساختار برای یک موقعیت ممکن‌اند، اما زاویهٔ معنایی فرق می‌کند.\n\n10.6. قاعدهٔ آینده بعد از کلمات زمانی\n\nدر جمله‌های زمانی که با when, before, after, as soon as, until شروع می‌شوند، معمولاً برای اشاره به آینده از Present Simple استفاده می‌کنیم.\n\nI'll call you when I get home.\n\nWe'll leave as soon as the train arrives.\n\nI'll wait until she comes.\n\nدر این کاربرد، معمولاً نمی‌گوییم:\n\nWhen I will get home...\n\nAs soon as the train will arrive...\n\nاما will در جملهٔ اصلی می‌تواند باقی بماند.\n\nبخش یازدهم: Present Perfect Simple\n11.1. ساختار\n\nS + have/has + V3\n\nI have finished.\n\nShe has arrived.\n\nThey have seen the film.\n\nمنفی:\n\nI haven't finished.\n\nShe hasn't arrived.\n\nپرسشی:\n\nHave you finished?\n\nHas she arrived?\n\n11.2. کاربردها\nالف) تجربهٔ زندگی بدون زمان دقیق\n\nI've visited Shiraz.\n\nHave you ever worked abroad?\n\nI've never tried rock climbing.\n\nب) اتفاق گذشته با نتیجه یا ارتباط فعلی\n\nI've lost my keys.\nکلیدهایم را گم کرده‌ام؛ اکنون هم به آن‌ها دسترسی ندارم.\n\nج) اتفاق اخیر\n\nShe's just arrived.\n\nI've already sent the email.\n\nHe hasn't finished yet.\n\nد) وضعیت یا دوره‌ای که تا حالا ادامه داشته است\n\nI've known him for five years.\n\nShe's worked here since 2022.\n\n11.3. کلمات مهم\nEver\n\nمعمولاً در سؤال دربارهٔ تجربه:\n\nHave you ever travelled abroad?\n\nNever\n\nI've never been there.\n\nJust\n\nاتفاقی که کمی پیش رخ داده:\n\nI've just finished my work.\n\nAlready\n\nکاری که تا این زمان انجام شده:\n\nI've already sent my CV.\n\nYet\n\nدر سؤال و منفی، اغلب در پایان جمله:\n\nHave you finished yet?\n\nI haven't finished yet.\n\nSince و For\n\nsince = نقطهٔ شروع\n\nfor = مدت زمان\n\nمثال:\n\nI've lived here since 2022.\n\nI've lived here for four years.\n\n11.4. نکتهٔ مهم\n\nPresent Perfect فقط «گذشته» نیست؛ ارتباطی میان گذشته و اکنون ایجاد می‌کند.\n\nاگر زمان گذشته را مشخص و تمام‌شده بیان کنی، معمولاً Past Simple لازم است:\n\nI finished the report yesterday.\n\nI've finished the report.\n\nجملهٔ دوم زمان دقیق را بیان نمی‌کند و بر نتیجهٔ فعلی تأکید دارد.\n\nبخش دوازدهم: Present Perfect Continuous\n12.1. ساختار\n\nS + have/has + been + V-ing\n\nI have been studying.\n\nShe has been working.\n\nThey have been waiting.\n\nمنفی:\n\nI haven't been sleeping well.\n\nپرسشی:\n\nHave you been working?\n\n12.2. کاربردها\nالف) عملی که از گذشته شروع شده و هنوز ادامه دارد\n\nI've been learning English for two years.\n\nShe has been working here since June.\n\nب) تأکید بر مدت یا استمرار فعالیت\n\nI've been studying all morning.\n\nThey've been waiting for an hour.\n\nج) فعالیتی که اخیراً ادامه داشته و نتیجه‌اش اکنون دیده می‌شود\n\nYou're out of breath. Have you been running?\n\nThe ground is wet. It has been raining.\n\n12.3. Present Perfect Simple در برابر Continuous\n\nPresent Perfect Simple معمولاً بر نتیجه، تکمیل، تعداد یا تجربه تأکید می‌کند.\n\nI've written three emails.\n\nI've read the book.\n\nPresent Perfect Continuous معمولاً بر فعالیت، استمرار یا مدت تأکید می‌کند.\n\nI've been writing emails all morning.\n\nI've been reading for two hours.\n\nمقایسه:\n\nI've painted the room.\nاتاق را رنگ کرده‌ام؛ نتیجهٔ کار مهم است.\n\nI've been painting the room.\nمدتی است مشغول رنگ کردن اتاقم؛ بر فعالیت تأکید دارم و لزوماً به معنی تکمیل کار نیست.\n\n12.4. نکتهٔ Stative Verbs\n\nافعالی مانند know, believe, own معمولاً در زمان‌های استمراری به کار نمی‌روند.\n\nI've known her for years.\n\nنه:\n\nI've been knowing her for years.\n\nبخش سیزدهم: تفاوت Present Perfect و Past Simple\n\nاین یکی از تفاوت‌های مهم گرامر انگلیسی است.\n\nPresent Perfect\tPast Simple\nارتباط با اکنون\tاتفاق گذشته در زمان تمام‌شده\nI've lost my phone.\tI lost my phone yesterday.\nHave you ever visited Shiraz?\tDid you visit Shiraz last year?\nShe's just arrived.\tShe arrived at 8 p.m.\n\nقاعدهٔ کاربردی:\n\nاگر زمان گذشته را مشخص می‌کنی، معمولاً Past Simple را انتخاب کن:\n\nyesterday\n\nlast week\n\nin 2020\n\ntwo days ago\n\nاگر دربارهٔ تجربه تا اکنون، نتیجهٔ فعلی یا بازه‌ای که هنوز ادامه دارد صحبت می‌کنی، Present Perfect اغلب مناسب‌تر است.\n\nبخش چهاردهم: Modal Verbs\n14.1. ساختار اصلی\n\nModal + V1\n\ncan swim\n\nshould study\n\nmight come\n\nmust leave\n\nwill help\n\nبعد از Modal، فعل پایه می‌آید؛ نه to + verb و نه V-s.\n\nدرست:\n\nShe can swim.\n\nHe should work.\n\nIt might rain.\n\nغلط:\n\nShe can swims.\n\nHe should to work.\n\nاستثنای ظاهری مهم: have to یک ساختار متفاوت است و بعد از have to فعل پایه می‌آید.\n\n14.2. کاربردهای مهم\nCan\n\nتوانایی یا اجازه:\n\nI can swim.\n\nCan I use your laptop?\n\nCould\n\nتوانایی گذشته، درخواست مؤدبانه یا احتمال:\n\nI could swim when I was five.\n\nCould you help me?\n\nIt could rain later.\n\nMay / Might\n\nاحتمال:\n\nShe may arrive late.\n\nHe might change his job.\n\nدرخواست اجازهٔ مؤدبانه:\n\nMay I come in?\n\nShould\n\nتوصیه:\n\nYou should get more sleep.\n\nYou shouldn't worry too much.\n\nMust\n\nالزام یا نتیجه‌گیری قوی:\n\nYou must wear a seat belt.\n\nHe must be tired.\n\nHave to\n\nالزام، اغلب ناشی از قانون یا شرایط:\n\nI have to work tomorrow.\n\nShe has to wear a uniform.\n\nMustn't در برابر Don't have to\n\nاین تفاوت بسیار مهم است:\n\nYou mustn't smoke here.\nنباید اینجا سیگار بکشی؛ ممنوع است.\n\nYou don't have to come early.\nلازم نیست زود بیایی؛ اختیاری است.\n\nShall\n\nدر بعضی پیشنهادها و سؤال‌های مؤدبانه:\n\nShall we start?\n\nShall I open the window?\n\n14.3. احتمال\n\nMay, might و could می‌توانند احتمال را نشان دهند:\n\nIt may rain.\n\nIt might rain.\n\nIt could rain.\n\nتفاوت میزان احتمال همیشه یک قانون ثابت و دقیق نیست؛ بافت و لحن هم اهمیت دارند.\n\nبخش پانزدهم: Passive Voice — ساختار مجهول\n15.1. تفاوت معلوم و مجهول\n\nمعلوم:\n\nThe company hired Sarah.\n\nشرکت سارا را استخدام کرد.\n\nمجهول:\n\nSarah was hired by the company.\n\nسارا توسط شرکت استخدام شد.\n\nدر معلوم، انجام‌دهندهٔ عمل در جایگاه فاعل است. در مجهول، تمرکز بر شخص یا چیزی است که عمل روی آن انجام شده.\n\n15.2. ساختار اصلی\n\nSubject + be + V3\n\nمثال:\n\nThe email is sent.\n\nThe email was sent.\n\nThe email has been sent.\n\nThe email will be sent.\n\n15.3. مجهول در زمان‌های رایج\nزمان\tساختار\tمثال\nPresent Simple\tam/is/are + V3\tThe office is cleaned daily.\nPast Simple\twas/were + V3\tThe office was cleaned yesterday.\nPresent Continuous\tam/is/are being + V3\tThe office is being cleaned.\nPresent Perfect\thave/has been + V3\tThe email has been sent.\nFuture with will\twill be + V3\tThe report will be sent tomorrow.\nModal\tmodal + be + V3\tThe problem must be solved.\n15.4. چه زمانی از مجهول استفاده می‌کنیم؟\n\nوقتی انجام‌دهنده مهم نیست.\n\nوقتی انجام‌دهنده را نمی‌دانیم.\n\nوقتی نتیجه یا موضوع عمل مهم‌تر است.\n\nمثال:\n\nMy laptop was stolen.\n\nThe project was completed on time.\n\nThe employee was fired.\n\nBy + agent را زمانی اضافه می‌کنیم که انجام‌دهنده اهمیت داشته باشد:\n\nThe software was developed by our team.\n\nبخش شانزدهم: Conditional Sentences — جملات شرطی\n\nجملات شرطی معمولاً دو بخش دارند:\n\nIf-clause = بخش شرط\n\nMain clause = بخش نتیجه\n\n16.1. Zero Conditional\nساختار\n\nIf + Present Simple, Present Simple\n\nکاربرد\n\nحقایق عمومی، قوانین و نتایج معمول.\n\nIf you heat ice, it melts.\n\nIf people don't sleep enough, they often feel tired.\n\nIf I have a problem, I usually ask my manager.\n\n16.2. First Conditional\nساختار\n\nIf + Present Simple, will + V1\n\nکاربرد\n\nشرط واقعی یا محتمل در آینده.\n\nIf I finish work early, I'll go to the gym.\n\nIf it rains, we'll stay home.\n\nIf she doesn't arrive soon, she'll miss the train.\n\nنکتهٔ مهم: معمولاً بعد از if برای شرط آینده از Present Simple استفاده می‌کنیم، نه will.\n\nIf I get home early, I'll call you.\n\nنه: If I will get home early...\n\n16.3. Second Conditional\nساختار\n\nIf + Past Simple, would + V1\n\nکاربرد\n\nموقعیت فرضی، غیرواقعی یا کم‌احتمال در حال یا آینده.\n\nIf I had more time, I would learn another language.\n\nIf she lived closer, we would meet more often.\n\nIf I were you, I would apply for the job.\n\nدر جملهٔ شرطی دوم، شکل گذشته معمولاً زمان گذشتهٔ واقعی را نشان نمی‌دهد؛ بلکه فاصله از واقعیت یا فرضی بودن را نشان می‌دهد.\n\nWere یا Was؟\n\nدر عبارت‌های فرضی رسمی، مخصوصاً If I were you، از were استفاده می‌کنیم.\n\nIf I were you, I'd talk to my manager.\n\nIf he were here, he'd help us.\n\nدر گفتار غیررسمی، was هم شنیده می‌شود؛ اما برای نوشتار استاندارد و آزمون، were انتخاب مطمئن‌تری است.\n\n16.4. Unless\n\nUnless تقریباً به معنی if ... not است.\n\nUnless you hurry, you'll miss the train.\n\nIf you don't hurry, you'll miss the train.\n\nپس معمولاً بعد از unless دوباره منفی‌سازی مشابه را اضافه نمی‌کنیم.\n\n16.5. تفاوت سه شرطی\nنوع\tمعنا\tمثال\nZero\tنتیجهٔ عمومی\tIf you heat water, it boils.\nFirst\tآیندهٔ محتمل\tIf I have time, I'll call you.\nSecond\tفرضی یا کم‌احتمال\tIf I had time, I'd call you.\nبخش هفدهم: Relative Clauses — جمله‌های موصولی\n\nاین ساختار برای توضیح دادن دربارهٔ یک شخص، مکان یا چیز استفاده می‌شود.\n\n17.1. ضمایر و قیدهای موصولی\nکلمه\tکاربرد\tمثال\nwho\tافراد\tThe woman who works here is friendly.\nwhich\tاشیا و حیوانات\tThe laptop which I bought is fast.\nthat\tافراد یا اشیا در جملهٔ موصولی محدودکننده\tThe book that I bought is useful.\nwhose\tمالکیت\tI know a man whose son is a doctor.\nwhere\tمکان\tThis is the house where I live.\nwhen\tزمان\tI remember the day when we met.\n17.2. Defining Relative Clauses\n\nاطلاعات ضروری برای مشخص کردن شخص یا چیز؛ بدون ویرگول.\n\nThe employee who manages the project is experienced.\n\nThe train that leaves at 8 is usually crowded.\n\nدر این نوع جمله می‌توان در بسیاری از موارد that را به‌جای who/which به کار برد.\n\n17.3. Non-defining Relative Clauses\n\nاطلاعات اضافه دربارهٔ شخص یا چیز مشخص؛ با ویرگول.\n\nMy brother, who lives in Tehran, is a software engineer.\n\nMy laptop, which I bought last year, is already broken.\n\nنکته‌ها:\n\nدر این نوع جمله از that استفاده نمی‌کنیم.\n\nضمیر موصولی را معمولاً نمی‌توان حذف کرد.\n\nاطلاعات بین ویرگول‌ها برای مشخص کردن مرجع ضروری نیست.\n\n17.4. چه زمانی می‌توان ضمیر موصولی را حذف کرد؟\n\nاگر ضمیر موصولی نقش مفعول داشته باشد، در جملهٔ موصولی محدودکننده معمولاً می‌توان آن را حذف کرد.\n\nThe book that I bought is useful.\n\nThe book I bought is useful.\n\nاما اگر نقش فاعل داشته باشد، نمی‌توان آن را حذف کرد.\n\nThe man who works here is friendly.\n\nنه: The man works here is friendly.\n\n17.5. Where در برابر Which\n\nThis is the house where I live.\n\nThis is the house which I bought.\n\nWhere به مکانِ انجام عمل اشاره می‌کند؛ which به خود مکان یا شیء اشاره دارد.\n\nمقایسه:\n\nThe house where I live = خانه‌ای که در آن زندگی می‌کنم.\n\nThe house which I bought = خانه‌ای که خریدم.\n\nاز نظر معنایی، where اغلب معادل ساختارهایی مثل in which یا at which است:\n\nThe house where I live.\n\nThe house in which I live.\n\nبخش هجدهم: Adjectives و Adverbs\n18.1. صفت\n\nصفت اسم را توصیف می‌کند یا پس از فعل ربطی وضعیت فاعل را بیان می‌کند.\n\na modern office\n\na lucrative job\n\nShe is anxious.\n\nThe task seems difficult.\n\n18.2. قید\n\nقید می‌تواند فعل، صفت، قید دیگر یا کل جمله را توصیف کند.\n\nقید حالت\n\nHe works carefully.\n\nShe speaks clearly.\n\nقید تکرار\n\nI usually work late.\n\nShe rarely complains.\n\nقید شدت\n\nextremely cold\n\nvery difficult\n\nquite interesting\n\ntoo expensive\n\nقید زمان\n\nyesterday\n\ntomorrow\n\nnow\n\nrecently\n\nقید احتمال\n\nprobably\n\nperhaps\n\nmaybe\n\n18.3. تفاوت صفت و قید\n\nHe is a careful driver.\n\nHe drives carefully.\n\nCareful صفت است؛ carefully قید.\n\nاما همهٔ قیدها با -ly ساخته نمی‌شوند و همهٔ کلمات ختم‌شونده به -ly هم قید نیستند.\n\nمثال:\n\nfast → fast\n\nhard → hard\n\nfriendly → صفت\n\nlovely → صفت\n\n18.4. -ed و -ing در صفات\n\nاغلب:\n\n-ed احساس شخص را بیان می‌کند.\n\n-ing چیزی را توصیف می‌کند که آن احساس را ایجاد می‌کند.\n\nI'm bored. The film is boring.\n\nI'm excited. The trip is exciting.\n\nI'm exhausted. The job is exhausting.\n\nI'm interested in programming. Programming is interesting.\n\nبخش نوزدهم: Comparatives و Superlatives\n19.1. صفت مقایسه‌ای\n\nبرای مقایسهٔ دو چیز:\n\ntaller than\n\ncheaper than\n\nmore expensive than\n\nmore interesting than\n\nمثال:\n\nThis job is more demanding than my previous job.\n\nMy new laptop is lighter than my old one.\n\n19.2. صفت عالی\n\nبرای بیان بیشترین یا کمترین میزان در یک گروه:\n\nthe tallest\n\nthe cheapest\n\nthe most expensive\n\nthe most interesting\n\nمثال:\n\nThis is the most expensive option.\n\nShe's the most experienced employee on the team.\n\n19.3. شکل‌های بی‌قاعده\nصفت\tمقایسه‌ای\tعالی\ngood\tbetter\tbest\nbad\tworse\tworst\nfar\tfarther/further\tfarthest/furthest\n19.4. As ... as\n\nبرای بیان برابری:\n\nShe is as tall as her brother.\n\nThis job is as demanding as my previous job.\n\nمنفی:\n\nThis laptop isn't as expensive as that one.\n\n19.5. نکات رایج\n\nthan برای مقایسه: bigger than\n\nthe معمولاً پیش از صفت عالی: the biggest\n\nصفت کوتاه معمولاً -er/-est می‌گیرد؛ صفت بلند معمولاً با more/most می‌آید.\n\nmore better غلط است؛ بگو better.\n\nthe most easiest غلط است؛ بگو the easiest.\n\nبخش بیستم: So، Such، Too و Enough\n\nاین چهار کلمه به هم مرتبط‌اند، اما ساختارهای یکسانی ندارند.\n\n20.1. So\n\nمعمولاً قبل از صفت یا قید:\n\nso difficult\n\nso quickly\n\nso expensive\n\nمثال:\n\nThe task was so difficult.\n\nShe speaks so quickly.\n\nهمچنین:\n\nso much time\n\nso many people\n\nso little money\n\nso few opportunities\n\n20.2. Such\n\nمعمولاً قبل از عبارت اسمی:\n\nsuch a difficult task\n\nsuch an interesting book\n\nsuch difficult tasks\n\nساختار:\n\nsuch + a/an + adjective + singular countable noun\n\nsuch + adjective + plural/uncountable noun\n\nمثال:\n\nIt was such a long day.\n\nThey are such friendly people.\n\nWe had such bad weather.\n\n20.3. So ... that و Such ... that\n\nبرای بیان نتیجه:\n\nThe task was so difficult that I needed help.\n\nIt was such a difficult task that I needed help.\n\nدر این ساختار that نتیجه را معرفی می‌کند و معمولاً نباید حذف شود.\n\n20.4. Too\n\nیعنی بیش از حد؛ معمولاً بیش از میزانی که مناسب یا قابل‌قبول است.\n\ntoo expensive\n\ntoo difficult\n\ntoo much work\n\ntoo many people\n\nساختار:\n\ntoo + adjective + to-infinitive\n\nThe box is too heavy to carry.\n\nI'm too tired to study.\n\nToo فقط در جملهٔ منفی استفاده نمی‌شود:\n\nThe room is too hot to sleep in.\n\nاین جمله از نظر گرامری مثبت است، اما معنای منفی یا نامطلوب دارد.\n\n20.5. Enough\n\nیعنی به‌اندازهٔ کافی.\n\nقبل از اسم:\n\nenough time\n\nenough money\n\nenough experience\n\nبعد از صفت یا قید:\n\ngood enough\n\nquickly enough\n\nwarm enough\n\nمثال:\n\nI have enough experience.\n\nShe's old enough to drive.\n\nHe didn't work hard enough.\n\nمقایسه:\n\ntoo expensive = بیش از حد گران\n\ncheap enough = به‌اندازهٔ کافی ارزان\n\nso expensive = بسیار گران\n\nsuch an expensive car = چنین ماشین گرانی\n\nبخش بیست‌ویکم: Gerund و Infinitive\n21.1. Infinitive چیست؟\nTo-infinitive\n\nto + V1\n\nto work\n\nto study\n\nto improve\n\nto be\n\nمثال:\n\nI want to learn English.\n\nShe decided to apply for the job.\n\nWe need to be careful.\n\nBare infinitive\n\nشکل پایهٔ فعل بدون to:\n\ncan swim\n\nwill go\n\nshould study\n\nmust leave\n\nبعد از Modalها معمولاً از bare infinitive استفاده می‌کنیم.\n\n21.2. Gerund چیست؟\n\nشکل V-ing که نقش اسمی دارد.\n\nSwimming is good exercise.\n\nI enjoy learning English.\n\nShe avoids making mistakes.\n\nGerund از نظر شکل با Present Participle یکی است، اما نقش گرامری متفاوتی دارد.\n\nمقایسه:\n\nWorking is important. → Gerund؛ نقش اسمی\n\nI am working. → Present Participle در زمان استمراری\n\nIt was an interesting job. → صفت\n\n21.3. بعد از کدام فعل‌ها To-infinitive می‌آید؟\n\nwant to do\n\nneed to do\n\ndecide to do\n\nhope to do\n\nplan to do\n\npromise to do\n\nlearn to do\n\nwould like to do\n\nexpect to do\n\nمثال:\n\nI decided to study tonight.\n\nShe wants to improve her English.\n\nWe plan to hire a developer.\n\n21.4. بعد از کدام فعل‌ها Gerund می‌آید؟\n\nenjoy doing\n\navoid doing\n\nfinish doing\n\nkeep doing\n\nsuggest doing\n\nconsider doing\n\nmind doing\n\npractise doing\n\nمثال:\n\nI enjoy learning English.\n\nAvoid making the same mistake.\n\nShe suggested taking a taxi.\n\n21.5. بعد از حرف اضافه، V-ing می‌آید\n\nاگر بعد از یک حرف اضافه فعل بیاید، معمولاً آن را به شکل V-ing می‌آوریم.\n\ninterested in learning\n\ngood at speaking\n\nresponsible for managing\n\nin charge of hiring\n\nafraid of failing\n\nlook forward to meeting you\n\nobject to paying more\n\nمثال:\n\nI'm good at solving problems.\n\nShe is responsible for managing the team.\n\nI look forward to meeting you.\n\nنکتهٔ مهم: در look forward to meeting، کلمهٔ to حرف اضافه است، نه نشانهٔ مصدر.\n\n21.6. بعد از کلمات پرسشی: Question word + to-infinitive\n\nI don't know what to do.\n\nShe explained how to use the software.\n\nWe need to decide where to go.\n\nHe doesn't know when to start.\n\nاین ساختار با جملهٔ پرسشی کامل فرق دارد:\n\nI don't know what to do.\n\nI don't know what I should do.\n\nهر دو درست‌اند، اما ساختارشان متفاوت است.\n\n21.7. افعالی که هر دو ساختار را می‌پذیرند\nLike / Love / Hate / Prefer\n\nI like swimming.\n\nI like to swim.\n\nهر دو می‌توانند درست باشند؛ تفاوت معنایی معمولاً ظریف است.\n\nStop doing در برابر Stop to do\n\nHe stopped smoking.\nسیگار کشیدن را ترک کرد.\n\nHe stopped to smoke.\nتوقف کرد تا سیگار بکشد.\n\nRemember doing در برابر Remember to do\n\nI remember meeting her.\nیادم است که او را ملاقات کردم.\n\nRemember to call her.\nیادت باشد به او زنگ بزنی.\n\nTry doing در برابر Try to do\n\nTry restarting the computer.\nامتحان کن کامپیوتر را دوباره راه‌اندازی کنی؛ یک روش را آزمایش کن.\n\nI tried to restart the computer.\nتلاش کردم کامپیوتر را دوباره راه‌اندازی کنم.\n\nForget doing در برابر Forget to do\n\nI'll never forget meeting him.\nهرگز ملاقات کردن او را فراموش نمی‌کنم.\n\nI forgot to call him.\nفراموش کردم به او زنگ بزنم.\n\n21.8. اشتباه رایج\n\nI'm good at speaking English.\n\nI want to speak English.\n\nI enjoy learning English.\n\nI need to learn English.\n\nانتخاب V-ing یا to-infinitive اغلب به الگوی خود فعل یا حرف اضافه بستگی دارد؛ نمی‌توان همیشه یکی را به‌جای دیگری گذاشت.\n\nبخش بیست‌ودوم: Prepositions\n\nحروف اضافه معمولاً رابطهٔ مکان، زمان، جهت یا ارتباط میان کلمات را نشان می‌دهند.\n\n22.1. زمان: At / On / In\nAt\n\nبرای ساعت و بعضی زمان‌های مشخص:\n\nat 7 o'clock\n\nat noon\n\nat midnight\n\nat night\n\nOn\n\nبرای روزها و تاریخ‌ها:\n\non Monday\n\non Friday morning\n\non 17 October\n\nIn\n\nبرای ماه، سال، فصل و بخش‌هایی از روز:\n\nin October\n\nin 2026\n\nin summer\n\nin the morning\n\nin the afternoon\n\nin the evening\n\n22.2. مکان: At / On / In\n\nin the room / in the city\n\non the table / on the wall\n\nat the station / at work / at home\n\nاین‌ها قواعد عمومی‌اند و بعضی عبارت‌های ثابت کاربرد ویژه دارند.\n\n22.3. Preposition + V-ing\n\ninterested in working\n\ngood at programming\n\nresponsible for managing\n\nafraid of making mistakes\n\nlook forward to meeting\n\nبعد از حرف اضافه، اگر فعل بیاید، معمولاً V-ing استفاده می‌شود.\n\n22.4. ترکیب‌های ثابت مهم\n\ndepend on\n\nrely on\n\ninvest in\n\napply for a job\n\nlook for a job\n\nsearch for information\n\nconsult someone about something\n\nsuffer from\n\npay for\n\napologize for\n\nsucceed in\n\nfocus on\n\nمثال:\n\nI'm applying for a job.\n\nShe invested in the company.\n\nWe need to focus on improving performance.\n\nنکته: حرف اضافه را همیشه نمی‌توان از فارسی ترجمه کرد؛ بهتر است ترکیب را یک‌جا یاد بگیری.\n\nبخش بیست‌وسوم: Used to\n23.1. Used to + V1\n\nبرای عادت یا وضعیت گذشته که اکنون دیگر وجود ندارد یا تغییر کرده است.\n\nI used to play football.\n\nI used to live in Mashhad.\n\nI didn't use to drink coffee.\n\n23.2. شکل منفی\n\ndidn't use to + V1\n\nI didn't use to have a sweet tooth.\n\nShe didn't use to work here.\n\nبعد از didn't از use استفاده می‌کنیم، نه used.\n\n23.3. شکل پرسشی\n\nDid + S + use to + V1?\n\nDid you use to play football?\n\nDid she use to live here?\n\n23.4. تفاوت Used to و Usually\n\nI used to work here.\nقبلاً اینجا کار می‌کردم، اما اکنون معمولاً دیگر این‌طور نیست.\n\nI usually work here.\nمعمولاً اینجا کار می‌کنم؛ عادت فعلی.\n\n23.5. تفاوت Used to و Be used to\n\nاین دو ساختار را اشتباه نگیر:\n\nI used to wake up early.\nقبلاً عادت داشتم زود بیدار شوم.\n\nI'm used to waking up early.\nبه زود بیدار شدن عادت دارم.\n\nدر be used to، کلمهٔ to حرف اضافه است؛ پس اگر فعل بیاید، V-ing می‌آید.\n\nبخش بیست‌وچهارم: Countable و Uncountable Nouns\n24.1. اسم‌های شمارش‌پذیر\n\nمی‌توانیم آن‌ها را بشماریم:\n\none book, two books\n\none employee, three employees\n\na job, several jobs\n\nاسم مفرد شمارش‌پذیر معمولاً به یک تعیین‌کننده نیاز دارد:\n\na job\n\nthe job\n\nmy job\n\n24.2. اسم‌های شمارش‌ناپذیر\n\nمعمولاً به‌صورت مستقیم شمرده نمی‌شوند:\n\ninformation\n\nadvice\n\nexperience در معنی کلی\n\nequipment\n\nfurniture\n\nmoney\n\ntraffic\n\nنادرست:\n\nan advice\n\nmany information\n\nan equipment\n\nدرست:\n\nsome advice\n\na piece of advice\n\nmuch information\n\na lot of equipment\n\n24.3. Experience\n\nExperience در معنی کلی: تجربه، معمولاً غیرقابل‌شمارش.\n\nAn experience / experiences: یک تجربهٔ مشخص یا تجربه‌های مشخص.\n\nمثال:\n\nShe has a lot of experience in programming.\n\nIt was an unforgettable experience.\n\nI had several interesting experiences abroad.\n\n24.4. Advice\n\nMy manager gave me some advice.\n\nShe gave me a useful piece of advice.\n\nنه: an advice\n\nبخش بیست‌وپنجم: A، An و The\n25.1. A / An\n\nبرای اسم مفرد شمارش‌پذیر، وقتی مرجع را مشخص نکرده‌ایم یا برای اولین بار معرفی می‌کنیم.\n\nI work for a company.\n\nShe is an engineer.\n\nHe bought a laptop.\n\nانتخاب a/an بر اساس صداست، نه صرفاً حرف اول کلمه:\n\na university\n\nan hour\n\n25.2. The\n\nوقتی شنونده می‌تواند تشخیص دهد دربارهٔ کدام شخص یا چیز صحبت می‌کنیم.\n\nI bought a laptop. The laptop is very fast.\n\nPlease close the door.\n\nThe train leaves at 8.\n\n25.3. بدون حرف تعریف\n\nبرای مفاهیم عمومی در جمع یا اسم‌های شمارش‌ناپذیر:\n\nEmployees need training.\n\nInformation is important.\n\nExperience matters.\n\nاما:\n\nThe employees in this office are friendly.\n\nThe information you sent was useful.\n\nدر این دو جمله، مرجع مشخص است.\n\n25.4. نکتهٔ مهم دربارهٔ The\n\nThe فقط به معنی «آن» نیست؛ نشان می‌دهد که مرجع برای گوینده و شنونده مشخص یا قابل‌شناسایی است.\n\nThe day was exhausting.\nدربارهٔ روز مشخصی صحبت می‌کنیم.\n\nبخش بیست‌وششم: Quantifiers\n26.1. Much و Many\n\nmany + plural countable noun\n\nmuch + uncountable noun\n\nمثال:\n\nmany employees\n\nmany opportunities\n\nmuch money\n\nmuch time\n\nدر جمله‌های مثبت روزمره، a lot of اغلب طبیعی‌تر است:\n\nI have a lot of work.\n\nShe has a lot of friends.\n\n26.2. Some و Any\n\nsome معمولاً در جملهٔ مثبت\n\nany معمولاً در جملهٔ منفی و پرسشی\n\nمثال:\n\nI have some experience.\n\nI don't have any experience.\n\nDo you have any questions?\n\nاما این قانون مطلق نیست؛ some در پیشنهاد یا درخواست هم می‌آید:\n\nWould you like some tea?\n\nCan I have some water?\n\n26.3. Few / A few / Little / A little\nعبارت\tکاربرد و معنا\nfew\tتعداد کم؛ معمولاً بار منفی\na few\tچندتا؛ مقداری مثبت\nlittle\tمقدار کم؛ معمولاً بار منفی\na little\tمقداری؛ کمی مثبت\n\nمثال:\n\nI have few friends here.\nدوستان کمی دارم؛ تأکید بر کمبود.\n\nI have a few friends here.\nچند دوست دارم.\n\nWe have little time.\nوقت بسیار کمی داریم.\n\nWe have a little time.\nکمی وقت داریم.\n\nFew/a few با اسم شمارش‌پذیر جمع می‌آیند؛ little/a little با اسم شمارش‌ناپذیر.\n\nبخش بیست‌وهفتم: There is / There are\n\nبرای گفتن اینکه چیزی وجود دارد یا در مکانی هست:\n\nThere is a book on the desk.\n\nThere are three people in the room.\n\nThere is some information in the report.\n\nگذشته:\n\nThere was a problem.\n\nThere were two vacancies.\n\nمنفی:\n\nThere isn't a problem.\n\nThere aren't any vacancies.\n\nپرسشی:\n\nIs there a pharmacy nearby?\n\nAre there any job opportunities?\n\nبه تفاوت این دو دقت کن:\n\nIt is a problem. = این یک مشکل است.\n\nThere is a problem. = مشکلی وجود دارد.\n\nبخش بیست‌وهشتم: توافق فاعل و فعل\n\nفعل باید از نظر شخص و تعداد با فاعل هماهنگ باشد.\n\n28.1. Present Simple\n\nI work.\n\nYou work.\n\nHe works.\n\nShe works.\n\nThey work.\n\n28.2. Everyone / Everybody / Nobody\n\nاین کلمات از نظر گرامری مفرد محسوب می‌شوند:\n\nEveryone is ready.\n\nNobody knows the answer.\n\nEverybody wants to succeed.\n\n28.3. Staff و People\n\nPeople جمع است:\n\nPeople are waiting.\n\nStaff بسته به نوع انگلیسی و نحوهٔ نگاه به گروه می‌تواند جمع یا اسم گروهی تلقی شود؛ برای جلوگیری از اشتباه، ساختار جمله را با بافت هماهنگ کن.\n\nThe staff are friendly. (رایج در انگلیسی بریتانیایی)\n\nThe staff is small. (در بعضی کاربردهای آمریکایی، وقتی گروه به‌صورت یک واحد دیده می‌شود)\n\nبخش بیست‌ونهم: Conjunctions و جمله‌های وابسته\n29.1. And / But / Or / So\n\nI was tired, but I kept working.\n\nShe studied hard, so she passed the exam.\n\nWe can take a bus or a taxi.\n\nHe is friendly and professional.\n\n29.2. Because و Because of\n\nBecause + clause\n\nI stayed home because I was tired.\n\nBecause of + noun / noun phrase\n\nI stayed home because of the rain.\n\nThe train was delayed because of heavy traffic.\n\nغلط:\n\nBecause of I was tired.\n\nدرست:\n\nBecause I was tired.\n\nBecause of my tiredness.\n\n29.3. Although و Despite\n\nAlthough + clause\n\nAlthough I was tired, I continued working.\n\nDespite + noun / V-ing\n\nDespite the rain, we went out.\n\nDespite being tired, I continued working.\n\n29.4. So و Because\n\nI was tired, so I went home.\n\nI went home because I was tired.\n\nدر جملهٔ اول، نتیجه را بیان می‌کنیم؛ در جملهٔ دوم، دلیل را.\n\n29.5. When و While در جمله‌های وابسته\n\nWhen I arrived, the meeting had started.\n\nWhile I was waiting, I checked my emails.\n\nWhen و while فقط برای زمان گذشته نیستند؛ در آینده هم می‌توانند به کار روند:\n\nI'll call you when I arrive.\n\nDon't interrupt me while I'm working.\n\nبخش سی‌ام: نکات مهم دربارهٔ ترکیب‌های واژگانی\n\nبعضی اشتباه‌ها نه از زمان فعل، بلکه از انتخاب ساختار یا ترکیب واژگانی ناشی می‌شوند.\n\n30.1. صفت یا اسم؟\n\nanxious = صفت\n\nanxiety = اسم\n\nstressed = صفت\n\nstress = اسم یا فعل\n\nsatisfying = صفت\n\nsatisfaction = اسم\n\nflexible = صفت\n\nflexibility = اسم\n\nمثال:\n\nI'm anxious.\n\nI have anxiety.\n\nI'm stressed.\n\nI feel stress.\n\nThe job is satisfying.\n\nI get satisfaction from my work.\n\n30.2. Affect و Effect\n\naffect معمولاً فعل: تأثیر گذاشتن\n\neffect معمولاً اسم: اثر یا تأثیر\n\nStress affects my sleep.\n\nStress has an effect on my sleep.\n\n30.3. Make و Do\n\nترکیب‌های رایج:\n\nmake money\n\nmake a decision\n\nmake a mistake\n\nmake progress\n\ndo homework\n\ndo exercise\n\ndo business\n\ndo your best\n\nاین ترکیب‌ها را بهتر است به‌صورت واحدهای واژگانی یاد بگیری.\n\n30.4. Job و Work\n\nJob معمولاً شمارش‌پذیر است:\n\na job\n\ntwo jobs\n\na full-time job\n\nWork در معنی کلی فعالیت کاری معمولاً شمارش‌ناپذیر است:\n\nI have a lot of work.\n\nI'm at work.\n\nShe goes to work at 8.\n\n30.5. Verb Patterns مربوط به شغل\n\napply for a job\n\nwork as a developer\n\nwork for a company\n\nwork in software development\n\nbe responsible for managing a team\n\nbe in charge of recruitment\n\ninvest in a business\n\nconsult someone about a problem\n\nlook for a job\n\nhire someone for a position\n\nبخش سی‌ویکم: جدول تصمیم‌گیری برای انتخاب گرامر\n\nهنگام جمله‌سازی، این پرسش‌ها را به‌ترتیب از خودت بپرس.\n\nسؤال ۱: دربارهٔ چه زمانی صحبت می‌کنم؟\n\nعادت، واقعیت یا وضعیت معمول → Present Simple\n\nعمل در جریان یا وضعیت موقت → Present Continuous\n\nاتفاق تمام‌شده در گذشته → Past Simple\n\nعمل در جریان در گذشته → Past Continuous\n\nتجربه یا نتیجهٔ مرتبط با اکنون → Present Perfect\n\nاستمرار فعالیت از گذشته تا اکنون → Present Perfect Continuous\n\nآینده → بسته به قصد، برنامه، پیش‌بینی یا جدول زمانی، ساختار مناسب را انتخاب کن.\n\nسؤال ۲: آیا جمله فعل کمکی دارد؟\n\nbe → برای سؤال یا منفی معمولاً خود be را به کار ببر.\n\nhave/has در Perfect → همان را جابه‌جا یا منفی کن.\n\nModal → همان را جابه‌جا یا منفی کن.\n\nفعل معمولی در Present/Past Simple → از do/does/did استفاده کن.\n\nسؤال ۳: بعد از فعل، چه ساختاری لازم است؟\n\nneed to do\n\ndecide to do\n\nwant to do\n\nenjoy doing\n\navoid doing\n\ngood at doing\n\ninterested in doing\n\nlook forward to doing\n\nسؤال ۴: آیا جمله فرضی است؟\n\nحقیقت عمومی → Zero Conditional\n\nشرط واقعی یا محتمل آینده → First Conditional\n\nموقعیت فرضی یا کم‌احتمال → Second Conditional\n\nسؤال ۵: آیا می‌خواهم شخص یا چیزی را توصیف کنم؟\n\nصفت یا اطلاعات اضافه دربارهٔ اسم → Relative Clause\n\nشخص → who\n\nشیء → which\n\nمالکیت → whose\n\nمکان → where\n\nاطلاعات ضروری → Defining\n\nاطلاعات اضافه با ویرگول → Non-defining\n\nسؤال ۶: آیا می‌خواهم نتیجه یا انجام‌دهنده را برجسته کنم؟\n\nتمرکز بر انجام‌دهنده → Active\n\nتمرکز بر چیزی که عمل روی آن انجام شده → Passive\n\nبخش سی‌ودوم: خطاهای رایج برای مرور\nنادرست\tدرست\tدلیل\nShe don't work.\tShe doesn't work.\tسوم‌شخص مفرد\nDid she went?\tDid she go?\tبعد از did، شکل پایه\nI have anxious.\tI am anxious.\tanxious صفت است\nI am live here.\tI live here. / I'm living here.\tساختار زمان حال\nI am knowing him.\tI know him.\tknow معمولاً استمراری نمی‌شود\nI didn't used to...\tI didn't use to...\tبعد از didn't شکل پایه\nI look forward to meet you.\tI look forward to meeting you.\tto در این عبارت حرف اضافه است\nI'm good at to speak.\tI'm good at speaking.\tحرف اضافه + V-ing\nShe suggested to go.\tShe suggested going.\tsuggest + V-ing\nHe can speaks.\tHe can speak.\tModal + شکل پایه\nShe was fired by the company.\tدرست است\tمجهول\nIf I will have time...\tIf I have time...\tFirst Conditional\nsuch long day\tsuch a long day\tاسم مفرد شمارش‌پذیر\nso a beautiful place\tsuch a beautiful place\tso + صفت؛ such + عبارت اسمی\ntoo much people\ttoo many people\tpeople شمارش‌پذیر جمع است\nan advice\tsome advice / a piece of advice\tadvice شمارش‌ناپذیر\nHe is more better.\tHe is better.\tbetter خودش مقایسه‌ای است\nThe man works here is kind.\tThe man who works here is kind.\tضمیر فاعلی موصولی را حذف نمی‌کنیم\nI have a lot of works.\tI have a lot of work.\twork در معنی کلی شمارش‌ناپذیر است\nبخش سی‌وسوم: چک‌لیست نهایی جمله‌سازی\n\nقبل از اینکه جمله‌ای را تمام‌شده بدانی، این موارد را بررسی کن:\n\nفاعل: چه کسی یا چه چیزی؟\n\nفعل: فعل اصلی چیست؟\n\nزمان: عادت، حال جاری، گذشته، تجربه یا آینده؟\n\nفعل کمکی: آیا به be, do, have یا Modal نیاز دارم؟\n\nشکل فعل: V1, V2, V3 یا V-ing؟\n\nالگوی فعل: بعد از فعل، to-infinitive می‌آید یا V-ing؟\n\nحرف اضافه: آیا ترکیب فعل یا صفت به حرف اضافهٔ مشخصی نیاز دارد؟\n\nاسم: شمارش‌پذیر است یا شمارش‌ناپذیر؟\n\nحرف تعریف: آیا a, an, the یا هیچ‌کدام لازم است؟\n\nتوافق: آیا فعل با فاعل هماهنگ است؟\n\nترتیب کلمات: آیا قید و صفت در جای مناسب آمده‌اند؟\n\nمعنا: آیا جمله واقعاً همان چیزی را می‌گوید که قصد دارم؟\n\nروش استفاده از این جزوه\n\nاین جزوه برای مراجعهٔ سریع طراحی شده است؛ لازم نیست تمام قواعد را یک‌جا حفظ کنی.\n\nبرای هر موضوع، این سه مرحله را انجام بده:\n\nتشخیص: از روی جمله بفهم چه ساختاری استفاده شده است.\n\nتولید: با همان ساختار سه جمله دربارهٔ زندگی، کار یا یادگیری خودت بساز.\n\nمقایسه: ساختار را با نزدیک‌ترین گرامر مشابه مقایسه کن؛ مثلاً Present Perfect با Past Simple یا Gerund با Infinitive.\n\nمهم‌ترین هدف این است که فقط نام گرامر را به خاطر نسپاری؛ باید بتوانی تشخیص بدهی چه زمانی، با چه ساختاری و به چه دلیل از آن استفاده می‌کنی.\n\nاین نسخه یک مرجع جامع برای مباحثی است که تا اینجا کار کرده‌ای، اما تمام گرامر زبان انگلیسی را پوشش نمی‌دهد؛ موضوعاتی مثل شرطی‌های سوم و ترکیبی، نقل‌قول غیرمستقیم، بندهای اسمی و وجه‌های پیشرفته‌تر هنوز می‌توانند به نسخهٔ بعدی اضافه شوند.",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": [
+      {
+        "locator": "table:1",
+        "rows": [
+          [
+            "نوع کلمه",
+            "کاربرد",
+            "مثال"
+          ],
+          [
+            "Noun",
+            "اسم",
+            "job, experience, anxiety"
+          ],
+          [
+            "Verb",
+            "فعل",
+            "work, decide, improve"
+          ],
+          [
+            "Adjective",
+            "صفت",
+            "anxious, strict, lucrative"
+          ],
+          [
+            "Adverb",
+            "قید",
+            "quickly, usually, extremely"
+          ],
+          [
+            "Pronoun",
+            "ضمیر",
+            "I, she, him, they"
+          ],
+          [
+            "Preposition",
+            "حرف اضافه",
+            "in, on, at, for"
+          ],
+          [
+            "Conjunction",
+            "حرف ربط",
+            "and, but, because, although"
+          ],
+          [
+            "Determiner",
+            "تعیین‌کنندهٔ اسم",
+            "a, the, my, some"
+          ],
+          [
+            "Modal",
+            "فعل کمکی وجهی",
+            "can, should, might"
+          ]
+        ]
+      },
+      {
+        "locator": "table:2",
+        "rows": [
+          [
+            "فاعل",
+            "فعل"
+          ],
+          [
+            "I",
+            "am"
+          ],
+          [
+            "He / She / It",
+            "is"
+          ],
+          [
+            "You / We / They",
+            "are"
+          ]
+        ]
+      },
+      {
+        "locator": "table:3",
+        "rows": [
+          [
+            "فاعل",
+            "فعل"
+          ],
+          [
+            "I / He / She / It",
+            "was"
+          ],
+          [
+            "You / We / They",
+            "were"
+          ]
+        ]
+      },
+      {
+        "locator": "table:4",
+        "rows": [
+          [
+            "Present Simple",
+            "Present Continuous"
+          ],
+          [
+            "عادت یا وضعیت معمول",
+            "عمل جاری یا وضعیت موقت"
+          ],
+          [
+            "I work from home.",
+            "I'm working from home this week."
+          ],
+          [
+            "She lives here.",
+            "She's living here temporarily."
+          ],
+          [
+            "He usually wears a suit.",
+            "He's wearing a suit today."
+          ]
+        ]
+      },
+      {
+        "locator": "table:5",
+        "rows": [
+          [
+            "Past Simple",
+            "Past Continuous"
+          ],
+          [
+            "اتفاق گذشته به‌صورت کامل",
+            "عمل در جریان در یک زمان گذشته"
+          ],
+          [
+            "I cooked dinner.",
+            "I was cooking dinner."
+          ],
+          [
+            "The phone rang.",
+            "I was talking on the phone."
+          ]
+        ]
+      },
+      {
+        "locator": "table:6",
+        "rows": [
+          [
+            "جمله",
+            "تأکید"
+          ],
+          [
+            "I'll meet Sarah tomorrow.",
+            "بیان آینده؛ بسته به بافت ممکن است تصمیم، قول یا پیش‌بینی باشد"
+          ],
+          [
+            "I'm going to meet Sarah tomorrow.",
+            "قصد قبلی"
+          ],
+          [
+            "I'm meeting Sarah tomorrow.",
+            "برنامهٔ هماهنگ‌شده"
+          ],
+          [
+            "The train leaves at 8 tomorrow.",
+            "جدول زمانی"
+          ]
+        ]
+      },
+      {
+        "locator": "table:7",
+        "rows": [
+          [
+            "Present Perfect",
+            "Past Simple"
+          ],
+          [
+            "ارتباط با اکنون",
+            "اتفاق گذشته در زمان تمام‌شده"
+          ],
+          [
+            "I've lost my phone.",
+            "I lost my phone yesterday."
+          ],
+          [
+            "Have you ever visited Shiraz?",
+            "Did you visit Shiraz last year?"
+          ],
+          [
+            "She's just arrived.",
+            "She arrived at 8 p.m."
+          ]
+        ]
+      },
+      {
+        "locator": "table:8",
+        "rows": [
+          [
+            "زمان",
+            "ساختار",
+            "مثال"
+          ],
+          [
+            "Present Simple",
+            "am/is/are + V3",
+            "The office is cleaned daily."
+          ],
+          [
+            "Past Simple",
+            "was/were + V3",
+            "The office was cleaned yesterday."
+          ],
+          [
+            "Present Continuous",
+            "am/is/are being + V3",
+            "The office is being cleaned."
+          ],
+          [
+            "Present Perfect",
+            "have/has been + V3",
+            "The email has been sent."
+          ],
+          [
+            "Future with will",
+            "will be + V3",
+            "The report will be sent tomorrow."
+          ],
+          [
+            "Modal",
+            "modal + be + V3",
+            "The problem must be solved."
+          ]
+        ]
+      },
+      {
+        "locator": "table:9",
+        "rows": [
+          [
+            "نوع",
+            "معنا",
+            "مثال"
+          ],
+          [
+            "Zero",
+            "نتیجهٔ عمومی",
+            "If you heat water, it boils."
+          ],
+          [
+            "First",
+            "آیندهٔ محتمل",
+            "If I have time, I'll call you."
+          ],
+          [
+            "Second",
+            "فرضی یا کم‌احتمال",
+            "If I had time, I'd call you."
+          ]
+        ]
+      },
+      {
+        "locator": "table:10",
+        "rows": [
+          [
+            "کلمه",
+            "کاربرد",
+            "مثال"
+          ],
+          [
+            "who",
+            "افراد",
+            "The woman who works here is friendly."
+          ],
+          [
+            "which",
+            "اشیا و حیوانات",
+            "The laptop which I bought is fast."
+          ],
+          [
+            "that",
+            "افراد یا اشیا در جملهٔ موصولی محدودکننده",
+            "The book that I bought is useful."
+          ],
+          [
+            "whose",
+            "مالکیت",
+            "I know a man whose son is a doctor."
+          ],
+          [
+            "where",
+            "مکان",
+            "This is the house where I live."
+          ],
+          [
+            "when",
+            "زمان",
+            "I remember the day when we met."
+          ]
+        ]
+      },
+      {
+        "locator": "table:11",
+        "rows": [
+          [
+            "صفت",
+            "مقایسه‌ای",
+            "عالی"
+          ],
+          [
+            "good",
+            "better",
+            "best"
+          ],
+          [
+            "bad",
+            "worse",
+            "worst"
+          ],
+          [
+            "far",
+            "farther/further",
+            "farthest/furthest"
+          ]
+        ]
+      },
+      {
+        "locator": "table:12",
+        "rows": [
+          [
+            "عبارت",
+            "کاربرد و معنا"
+          ],
+          [
+            "few",
+            "تعداد کم؛ معمولاً بار منفی"
+          ],
+          [
+            "a few",
+            "چندتا؛ مقداری مثبت"
+          ],
+          [
+            "little",
+            "مقدار کم؛ معمولاً بار منفی"
+          ],
+          [
+            "a little",
+            "مقداری؛ کمی مثبت"
+          ]
+        ]
+      },
+      {
+        "locator": "table:13",
+        "rows": [
+          [
+            "نادرست",
+            "درست",
+            "دلیل"
+          ],
+          [
+            "She don't work.",
+            "She doesn't work.",
+            "سوم‌شخص مفرد"
+          ],
+          [
+            "Did she went?",
+            "Did she go?",
+            "بعد از did، شکل پایه"
+          ],
+          [
+            "I have anxious.",
+            "I am anxious.",
+            "anxious صفت است"
+          ],
+          [
+            "I am live here.",
+            "I live here. / I'm living here.",
+            "ساختار زمان حال"
+          ],
+          [
+            "I am knowing him.",
+            "I know him.",
+            "know معمولاً استمراری نمی‌شود"
+          ],
+          [
+            "I didn't used to...",
+            "I didn't use to...",
+            "بعد از didn't شکل پایه"
+          ],
+          [
+            "I look forward to meet you.",
+            "I look forward to meeting you.",
+            "to در این عبارت حرف اضافه است"
+          ],
+          [
+            "I'm good at to speak.",
+            "I'm good at speaking.",
+            "حرف اضافه + V-ing"
+          ],
+          [
+            "She suggested to go.",
+            "She suggested going.",
+            "suggest + V-ing"
+          ],
+          [
+            "He can speaks.",
+            "He can speak.",
+            "Modal + شکل پایه"
+          ],
+          [
+            "She was fired by the company.",
+            "درست است",
+            "مجهول"
+          ],
+          [
+            "If I will have time...",
+            "If I have time...",
+            "First Conditional"
+          ],
+          [
+            "such long day",
+            "such a long day",
+            "اسم مفرد شمارش‌پذیر"
+          ],
+          [
+            "so a beautiful place",
+            "such a beautiful place",
+            "so + صفت؛ such + عبارت اسمی"
+          ],
+          [
+            "too much people",
+            "too many people",
+            "people شمارش‌پذیر جمع است"
+          ],
+          [
+            "an advice",
+            "some advice / a piece of advice",
+            "advice شمارش‌ناپذیر"
+          ],
+          [
+            "He is more better.",
+            "He is better.",
+            "better خودش مقایسه‌ای است"
+          ],
+          [
+            "The man works here is kind.",
+            "The man who works here is kind.",
+            "ضمیر فاعلی موصولی را حذف نمی‌کنیم"
+          ],
+          [
+            "I have a lot of works.",
+            "I have a lot of work.",
+            "work در معنی کلی شمارش‌ناپذیر است"
+          ]
+        ]
+      }
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "7b035c8b-b8a4-489c-9aac-213cb328ed92",
+    "capture.headings": [
+      {
+        "level": 1,
+        "text": "جزوهٔ مرجع گرامر انگلیسی"
+      },
+      {
+        "level": 2,
+        "text": "از ساختار جمله تا زمان‌ها، افعال کمکی، شرطی‌ها و مصدرها"
+      },
+      {
+        "level": 1,
+        "text": "فهرست مطالب"
+      },
+      {
+        "level": 1,
+        "text": "بخش اول: ساختار جمله و اجزای کلام"
+      },
+      {
+        "level": 2,
+        "text": "1.1. اجزای اصلی جمله"
+      },
+      {
+        "level": 3,
+        "text": "Subject — فاعل"
+      },
+      {
+        "level": 3,
+        "text": "Verb — فعل"
+      },
+      {
+        "level": 3,
+        "text": "Object — مفعول"
+      },
+      {
+        "level": 2,
+        "text": "1.2. Parts of Speech — اجزای کلام"
+      },
+      {
+        "level": 1,
+        "text": "بخش دوم: فعل To Be و افعال کمکی"
+      },
+      {
+        "level": 2,
+        "text": "2.1. فعل To Be در زمان حال"
+      },
+      {
+        "level": 3,
+        "text": "منفی"
+      },
+      {
+        "level": 3,
+        "text": "پرسشی"
+      },
+      {
+        "level": 2,
+        "text": "2.2. فعل To Be در گذشته"
+      },
+      {
+        "level": 2,
+        "text": "2.3. فعل To Be چه کاربردهایی دارد؟"
+      },
+      {
+        "level": 3,
+        "text": "الف) توصیف وضعیت"
+      },
+      {
+        "level": 3,
+        "text": "ب) معرفی یا هویت"
+      },
+      {
+        "level": 3,
+        "text": "ج) مکان"
+      },
+      {
+        "level": 3,
+        "text": "د) زمان‌های استمراری"
+      },
+      {
+        "level": 3,
+        "text": "هـ) ساختار مجهول"
+      },
+      {
+        "level": 1,
+        "text": "بخش سوم: جملهٔ مثبت، منفی و پرسشی"
+      },
+      {
+        "level": 2,
+        "text": "3.1. وقتی فعل اصلی To Be است"
+      },
+      {
+        "level": 2,
+        "text": "3.2. وقتی فعل اصلی یک فعل معمولی است"
+      },
+      {
+        "level": 3,
+        "text": "قانون مهم"
+      },
+      {
+        "level": 2,
+        "text": "3.3. افعال کمکی در سؤال و منفی"
+      },
+      {
+        "level": 2,
+        "text": "3.4. Emphatic Do / Does / Did"
+      },
+      {
+        "level": 1,
+        "text": "بخش چهارم: Present Simple"
+      },
+      {
+        "level": 2,
+        "text": "4.1. ساختار"
+      },
+      {
+        "level": 2,
+        "text": "4.2. کاربردها"
+      },
+      {
+        "level": 3,
+        "text": "الف) عادت و کارهای تکراری"
+      },
+      {
+        "level": 3,
+        "text": "ب) واقعیت عمومی"
+      },
+      {
+        "level": 3,
+        "text": "ج) وضعیت نسبتاً پایدار"
+      },
+      {
+        "level": 3,
+        "text": "د) جدول زمانی رسمی"
+      },
+      {
+        "level": 3,
+        "text": "هـ) دستورالعمل و مراحل"
+      },
+      {
+        "level": 2,
+        "text": "4.3. قیدهای رایج"
+      },
+      {
+        "level": 2,
+        "text": "4.4. نکتهٔ سوم‌شخص مفرد"
+      },
+      {
+        "level": 1,
+        "text": "بخش پنجم: Present Continuous"
+      },
+      {
+        "level": 2,
+        "text": "5.1. ساختار"
+      },
+      {
+        "level": 2,
+        "text": "5.2. کاربردها"
+      },
+      {
+        "level": 3,
+        "text": "الف) عملی که اکنون در جریان است"
+      },
+      {
+        "level": 3,
+        "text": "ب) وضعیت موقت"
+      },
+      {
+        "level": 3,
+        "text": "ج) تغییرات و روندها"
+      },
+      {
+        "level": 3,
+        "text": "د) برنامهٔ آیندهٔ هماهنگ‌شده"
+      },
+      {
+        "level": 2,
+        "text": "5.3. املای V-ing"
+      },
+      {
+        "level": 2,
+        "text": "5.4. Present Simple در برابر Present Continuous"
+      },
+      {
+        "level": 1,
+        "text": "بخش ششم: Stative Verbs و Dynamic Verbs"
+      },
+      {
+        "level": 2,
+        "text": "6.1. Stative Verbs"
+      },
+      {
+        "level": 2,
+        "text": "6.2. Dynamic Verbs"
+      },
+      {
+        "level": 2,
+        "text": "6.3. بعضی افعال هر دو کاربرد را دارند"
+      },
+      {
+        "level": 3,
+        "text": "Think"
+      },
+      {
+        "level": 3,
+        "text": "Have"
+      },
+      {
+        "level": 3,
+        "text": "Look"
+      },
+      {
+        "level": 3,
+        "text": "Feel"
+      },
+      {
+        "level": 3,
+        "text": "Be"
+      },
+      {
+        "level": 1,
+        "text": "بخش هفتم: Past Simple"
+      },
+      {
+        "level": 2,
+        "text": "7.1. ساختار"
+      },
+      {
+        "level": 2,
+        "text": "7.2. کاربردها"
+      },
+      {
+        "level": 3,
+        "text": "الف) اتفاق تمام‌شده در گذشته"
+      },
+      {
+        "level": 3,
+        "text": "ب) دنباله‌ای از اتفاقات گذشته"
+      },
+      {
+        "level": 3,
+        "text": "ج) عادت گذشته که اکنون تمام شده است"
+      },
+      {
+        "level": 2,
+        "text": "7.3. نشانه‌های رایج"
+      },
+      {
+        "level": 1,
+        "text": "بخش هشتم: Past Continuous"
+      },
+      {
+        "level": 2,
+        "text": "8.1. ساختار"
+      },
+      {
+        "level": 2,
+        "text": "8.2. کاربردها"
+      },
+      {
+        "level": 3,
+        "text": "الف) عملی که در زمان مشخصی در گذشته در جریان بود"
+      },
+      {
+        "level": 3,
+        "text": "ب) پس‌زمینهٔ داستان"
+      },
+      {
+        "level": 3,
+        "text": "ج) عمل در جریان که اتفاق دیگری آن را قطع می‌کند"
+      },
+      {
+        "level": 3,
+        "text": "د) دو عمل هم‌زمان"
+      },
+      {
+        "level": 2,
+        "text": "8.3. When و While"
+      },
+      {
+        "level": 1,
+        "text": "بخش نهم: تفاوت Past Simple و Past Continuous"
+      },
+      {
+        "level": 1,
+        "text": "بخش دهم: ساختارهای آینده"
+      },
+      {
+        "level": 2,
+        "text": "10.1. Will"
+      },
+      {
+        "level": 3,
+        "text": "الف) تصمیم لحظه‌ای"
+      },
+      {
+        "level": 3,
+        "text": "ب) پیشنهاد و کمک"
+      },
+      {
+        "level": 3,
+        "text": "ج) قول"
+      },
+      {
+        "level": 3,
+        "text": "د) پیش‌بینی یا نظر دربارهٔ آینده"
+      },
+      {
+        "level": 3,
+        "text": "هـ) واقعیت آینده"
+      },
+      {
+        "level": 2,
+        "text": "10.2. Be going to"
+      },
+      {
+        "level": 3,
+        "text": "الف) قصد یا برنامهٔ قبلی"
+      },
+      {
+        "level": 3,
+        "text": "ب) پیش‌بینی بر اساس شواهد فعلی"
+      },
+      {
+        "level": 2,
+        "text": "10.3. Present Continuous برای آینده"
+      },
+      {
+        "level": 2,
+        "text": "10.4. Present Simple برای آینده"
+      },
+      {
+        "level": 2,
+        "text": "10.5. مقایسهٔ چهار ساختار"
+      },
+      {
+        "level": 2,
+        "text": "10.6. قاعدهٔ آینده بعد از کلمات زمانی"
+      },
+      {
+        "level": 1,
+        "text": "بخش یازدهم: Present Perfect Simple"
+      },
+      {
+        "level": 2,
+        "text": "11.1. ساختار"
+      },
+      {
+        "level": 2,
+        "text": "11.2. کاربردها"
+      },
+      {
+        "level": 3,
+        "text": "الف) تجربهٔ زندگی بدون زمان دقیق"
+      },
+      {
+        "level": 3,
+        "text": "ب) اتفاق گذشته با نتیجه یا ارتباط فعلی"
+      },
+      {
+        "level": 3,
+        "text": "ج) اتفاق اخیر"
+      },
+      {
+        "level": 3,
+        "text": "د) وضعیت یا دوره‌ای که تا حالا ادامه داشته است"
+      },
+      {
+        "level": 2,
+        "text": "11.3. کلمات مهم"
+      },
+      {
+        "level": 3,
+        "text": "Ever"
+      },
+      {
+        "level": 3,
+        "text": "Never"
+      },
+      {
+        "level": 3,
+        "text": "Just"
+      },
+      {
+        "level": 3,
+        "text": "Already"
+      },
+      {
+        "level": 3,
+        "text": "Yet"
+      },
+      {
+        "level": 3,
+        "text": "Since و For"
+      },
+      {
+        "level": 2,
+        "text": "11.4. نکتهٔ مهم"
+      },
+      {
+        "level": 1,
+        "text": "بخش دوازدهم: Present Perfect Continuous"
+      },
+      {
+        "level": 2,
+        "text": "12.1. ساختار"
+      },
+      {
+        "level": 2,
+        "text": "12.2. کاربردها"
+      },
+      {
+        "level": 3,
+        "text": "الف) عملی که از گذشته شروع شده و هنوز ادامه دارد"
+      },
+      {
+        "level": 3,
+        "text": "ب) تأکید بر مدت یا استمرار فعالیت"
+      },
+      {
+        "level": 3,
+        "text": "ج) فعالیتی که اخیراً ادامه داشته و نتیجه‌اش اکنون دیده می‌شود"
+      },
+      {
+        "level": 2,
+        "text": "12.3. Present Perfect Simple در برابر Continuous"
+      },
+      {
+        "level": 2,
+        "text": "12.4. نکتهٔ Stative Verbs"
+      },
+      {
+        "level": 1,
+        "text": "بخش سیزدهم: تفاوت Present Perfect و Past Simple"
+      },
+      {
+        "level": 1,
+        "text": "بخش چهاردهم: Modal Verbs"
+      },
+      {
+        "level": 2,
+        "text": "14.1. ساختار اصلی"
+      },
+      {
+        "level": 2,
+        "text": "14.2. کاربردهای مهم"
+      },
+      {
+        "level": 3,
+        "text": "Can"
+      },
+      {
+        "level": 3,
+        "text": "Could"
+      },
+      {
+        "level": 3,
+        "text": "May / Might"
+      },
+      {
+        "level": 3,
+        "text": "Should"
+      },
+      {
+        "level": 3,
+        "text": "Must"
+      },
+      {
+        "level": 3,
+        "text": "Have to"
+      },
+      {
+        "level": 3,
+        "text": "Mustn't در برابر Don't have to"
+      },
+      {
+        "level": 3,
+        "text": "Shall"
+      },
+      {
+        "level": 2,
+        "text": "14.3. احتمال"
+      },
+      {
+        "level": 1,
+        "text": "بخش پانزدهم: Passive Voice — ساختار مجهول"
+      },
+      {
+        "level": 2,
+        "text": "15.1. تفاوت معلوم و مجهول"
+      },
+      {
+        "level": 2,
+        "text": "15.2. ساختار اصلی"
+      },
+      {
+        "level": 2,
+        "text": "15.3. مجهول در زمان‌های رایج"
+      },
+      {
+        "level": 2,
+        "text": "15.4. چه زمانی از مجهول استفاده می‌کنیم؟"
+      },
+      {
+        "level": 1,
+        "text": "بخش شانزدهم: Conditional Sentences — جملات شرطی"
+      },
+      {
+        "level": 2,
+        "text": "16.1. Zero Conditional"
+      },
+      {
+        "level": 3,
+        "text": "ساختار"
+      },
+      {
+        "level": 3,
+        "text": "کاربرد"
+      },
+      {
+        "level": 2,
+        "text": "16.2. First Conditional"
+      },
+      {
+        "level": 3,
+        "text": "ساختار"
+      },
+      {
+        "level": 3,
+        "text": "کاربرد"
+      },
+      {
+        "level": 2,
+        "text": "16.3. Second Conditional"
+      },
+      {
+        "level": 3,
+        "text": "ساختار"
+      },
+      {
+        "level": 3,
+        "text": "کاربرد"
+      },
+      {
+        "level": 3,
+        "text": "Were یا Was؟"
+      },
+      {
+        "level": 2,
+        "text": "16.4. Unless"
+      },
+      {
+        "level": 2,
+        "text": "16.5. تفاوت سه شرطی"
+      },
+      {
+        "level": 1,
+        "text": "بخش هفدهم: Relative Clauses — جمله‌های موصولی"
+      },
+      {
+        "level": 2,
+        "text": "17.1. ضمایر و قیدهای موصولی"
+      },
+      {
+        "level": 2,
+        "text": "17.2. Defining Relative Clauses"
+      },
+      {
+        "level": 2,
+        "text": "17.3. Non-defining Relative Clauses"
+      },
+      {
+        "level": 2,
+        "text": "17.4. چه زمانی می‌توان ضمیر موصولی را حذف کرد؟"
+      },
+      {
+        "level": 2,
+        "text": "17.5. Where در برابر Which"
+      },
+      {
+        "level": 1,
+        "text": "بخش هجدهم: Adjectives و Adverbs"
+      },
+      {
+        "level": 2,
+        "text": "18.1. صفت"
+      },
+      {
+        "level": 2,
+        "text": "18.2. قید"
+      },
+      {
+        "level": 3,
+        "text": "قید حالت"
+      },
+      {
+        "level": 3,
+        "text": "قید تکرار"
+      },
+      {
+        "level": 3,
+        "text": "قید شدت"
+      },
+      {
+        "level": 3,
+        "text": "قید زمان"
+      },
+      {
+        "level": 3,
+        "text": "قید احتمال"
+      },
+      {
+        "level": 2,
+        "text": "18.3. تفاوت صفت و قید"
+      },
+      {
+        "level": 2,
+        "text": "18.4. -ed و -ing در صفات"
+      },
+      {
+        "level": 1,
+        "text": "بخش نوزدهم: Comparatives و Superlatives"
+      },
+      {
+        "level": 2,
+        "text": "19.1. صفت مقایسه‌ای"
+      },
+      {
+        "level": 2,
+        "text": "19.2. صفت عالی"
+      },
+      {
+        "level": 2,
+        "text": "19.3. شکل‌های بی‌قاعده"
+      },
+      {
+        "level": 2,
+        "text": "19.4. As ... as"
+      },
+      {
+        "level": 2,
+        "text": "19.5. نکات رایج"
+      },
+      {
+        "level": 1,
+        "text": "بخش بیستم: So، Such، Too و Enough"
+      },
+      {
+        "level": 2,
+        "text": "20.1. So"
+      },
+      {
+        "level": 2,
+        "text": "20.2. Such"
+      },
+      {
+        "level": 2,
+        "text": "20.3. So ... that و Such ... that"
+      },
+      {
+        "level": 2,
+        "text": "20.4. Too"
+      },
+      {
+        "level": 2,
+        "text": "20.5. Enough"
+      },
+      {
+        "level": 1,
+        "text": "بخش بیست‌ویکم: Gerund و Infinitive"
+      },
+      {
+        "level": 2,
+        "text": "21.1. Infinitive چیست؟"
+      },
+      {
+        "level": 3,
+        "text": "To-infinitive"
+      },
+      {
+        "level": 3,
+        "text": "Bare infinitive"
+      },
+      {
+        "level": 2,
+        "text": "21.2. Gerund چیست؟"
+      },
+      {
+        "level": 2,
+        "text": "21.3. بعد از کدام فعل‌ها To-infinitive می‌آید؟"
+      },
+      {
+        "level": 2,
+        "text": "21.4. بعد از کدام فعل‌ها Gerund می‌آید؟"
+      },
+      {
+        "level": 2,
+        "text": "21.5. بعد از حرف اضافه، V-ing می‌آید"
+      },
+      {
+        "level": 2,
+        "text": "21.6. بعد از کلمات پرسشی: Question word + to-infinitive"
+      },
+      {
+        "level": 2,
+        "text": "21.7. افعالی که هر دو ساختار را می‌پذیرند"
+      },
+      {
+        "level": 3,
+        "text": "Like / Love / Hate / Prefer"
+      },
+      {
+        "level": 3,
+        "text": "Stop doing در برابر Stop to do"
+      },
+      {
+        "level": 3,
+        "text": "Remember doing در برابر Remember to do"
+      },
+      {
+        "level": 3,
+        "text": "Try doing در برابر Try to do"
+      },
+      {
+        "level": 3,
+        "text": "Forget doing در برابر Forget to do"
+      },
+      {
+        "level": 2,
+        "text": "21.8. اشتباه رایج"
+      },
+      {
+        "level": 1,
+        "text": "بخش بیست‌ودوم: Prepositions"
+      },
+      {
+        "level": 2,
+        "text": "22.1. زمان: At / On / In"
+      },
+      {
+        "level": 3,
+        "text": "At"
+      },
+      {
+        "level": 3,
+        "text": "On"
+      },
+      {
+        "level": 3,
+        "text": "In"
+      },
+      {
+        "level": 2,
+        "text": "22.2. مکان: At / On / In"
+      },
+      {
+        "level": 2,
+        "text": "22.3. Preposition + V-ing"
+      },
+      {
+        "level": 2,
+        "text": "22.4. ترکیب‌های ثابت مهم"
+      },
+      {
+        "level": 1,
+        "text": "بخش بیست‌وسوم: Used to"
+      },
+      {
+        "level": 2,
+        "text": "23.1. Used to + V1"
+      },
+      {
+        "level": 2,
+        "text": "23.2. شکل منفی"
+      },
+      {
+        "level": 2,
+        "text": "23.3. شکل پرسشی"
+      },
+      {
+        "level": 2,
+        "text": "23.4. تفاوت Used to و Usually"
+      },
+      {
+        "level": 2,
+        "text": "23.5. تفاوت Used to و Be used to"
+      },
+      {
+        "level": 1,
+        "text": "بخش بیست‌وچهارم: Countable و Uncountable Nouns"
+      },
+      {
+        "level": 2,
+        "text": "24.1. اسم‌های شمارش‌پذیر"
+      },
+      {
+        "level": 2,
+        "text": "24.2. اسم‌های شمارش‌ناپذیر"
+      },
+      {
+        "level": 2,
+        "text": "24.3. Experience"
+      },
+      {
+        "level": 2,
+        "text": "24.4. Advice"
+      },
+      {
+        "level": 1,
+        "text": "بخش بیست‌وپنجم: A، An و The"
+      },
+      {
+        "level": 2,
+        "text": "25.1. A / An"
+      },
+      {
+        "level": 2,
+        "text": "25.2. The"
+      },
+      {
+        "level": 2,
+        "text": "25.3. بدون حرف تعریف"
+      },
+      {
+        "level": 2,
+        "text": "25.4. نکتهٔ مهم دربارهٔ The"
+      },
+      {
+        "level": 1,
+        "text": "بخش بیست‌وششم: Quantifiers"
+      },
+      {
+        "level": 2,
+        "text": "26.1. Much و Many"
+      },
+      {
+        "level": 2,
+        "text": "26.2. Some و Any"
+      },
+      {
+        "level": 2,
+        "text": "26.3. Few / A few / Little / A little"
+      },
+      {
+        "level": 1,
+        "text": "بخش بیست‌وهفتم: There is / There are"
+      },
+      {
+        "level": 1,
+        "text": "بخش بیست‌وهشتم: توافق فاعل و فعل"
+      },
+      {
+        "level": 2,
+        "text": "28.1. Present Simple"
+      },
+      {
+        "level": 2,
+        "text": "28.2. Everyone / Everybody / Nobody"
+      },
+      {
+        "level": 2,
+        "text": "28.3. Staff و People"
+      },
+      {
+        "level": 1,
+        "text": "بخش بیست‌ونهم: Conjunctions و جمله‌های وابسته"
+      },
+      {
+        "level": 2,
+        "text": "29.1. And / But / Or / So"
+      },
+      {
+        "level": 2,
+        "text": "29.2. Because و Because of"
+      },
+      {
+        "level": 2,
+        "text": "29.3. Although و Despite"
+      },
+      {
+        "level": 2,
+        "text": "29.4. So و Because"
+      },
+      {
+        "level": 2,
+        "text": "29.5. When و While در جمله‌های وابسته"
+      },
+      {
+        "level": 1,
+        "text": "بخش سی‌ام: نکات مهم دربارهٔ ترکیب‌های واژگانی"
+      },
+      {
+        "level": 2,
+        "text": "30.1. صفت یا اسم؟"
+      },
+      {
+        "level": 2,
+        "text": "30.2. Affect و Effect"
+      },
+      {
+        "level": 2,
+        "text": "30.3. Make و Do"
+      },
+      {
+        "level": 2,
+        "text": "30.4. Job و Work"
+      },
+      {
+        "level": 2,
+        "text": "30.5. Verb Patterns مربوط به شغل"
+      },
+      {
+        "level": 1,
+        "text": "بخش سی‌ویکم: جدول تصمیم‌گیری برای انتخاب گرامر"
+      },
+      {
+        "level": 2,
+        "text": "سؤال ۱: دربارهٔ چه زمانی صحبت می‌کنم؟"
+      },
+      {
+        "level": 2,
+        "text": "سؤال ۲: آیا جمله فعل کمکی دارد؟"
+      },
+      {
+        "level": 2,
+        "text": "سؤال ۳: بعد از فعل، چه ساختاری لازم است؟"
+      },
+      {
+        "level": 2,
+        "text": "سؤال ۴: آیا جمله فرضی است؟"
+      },
+      {
+        "level": 2,
+        "text": "سؤال ۵: آیا می‌خواهم شخص یا چیزی را توصیف کنم؟"
+      },
+      {
+        "level": 2,
+        "text": "سؤال ۶: آیا می‌خواهم نتیجه یا انجام‌دهنده را برجسته کنم؟"
+      },
+      {
+        "level": 1,
+        "text": "بخش سی‌ودوم: خطاهای رایج برای مرور"
+      },
+      {
+        "level": 1,
+        "text": "بخش سی‌وسوم: چک‌لیست نهایی جمله‌سازی"
+      },
+      {
+        "level": 2,
+        "text": "روش استفاده از این جزوه"
+      }
+    ],
+    "capture.links": []
+  }
+}

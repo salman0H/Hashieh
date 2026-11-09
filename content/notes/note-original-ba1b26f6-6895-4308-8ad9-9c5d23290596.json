@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-ba1b26f6-6895-4308-8ad9-9c5d23290596",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "conversations.json"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-ba1b26f6-6895-4308-8ad9-9c5d23290596",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-ba1b26f6-6895-4308-8ad9-9c5d23290596-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "conversations.json\nCode\nuser.json\nCode\nاین خروجی های deepseek هست ک میتونی از توی اون خروجی مکالمه ای یه اسم advanced rules explained رو بررسی کنی ک مربوط به یادگیری زبان هست و خروحی اون رو توی این سشن برام بیاری و از ان استفاده کنی در کتار اون میخوام از این داکس هم استفاده کنی: https://docs.google.com/document/d/1vcHF-bknw-WuZ3a7JLFmLYcVnffWFSJadPLFWS7Cwhc/edit?usp=sharing",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": []
+  },
+  "extensions": {
+    "capture.message-id": "ba1b26f6-6895-4308-8ad9-9c5d23290596",
+    "capture.turn-number": 2
+  }
+}

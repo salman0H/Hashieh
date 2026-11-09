@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-knowing",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "knowing"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:2/data-row:377"
+      },
+      {
+        "sourceId": "src-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15",
+        "locator": "table:1/data-row:7"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "knowing",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-know",
+    "senses": [
+      {
+        "id": "sense-d512d6d99718",
+        "partOfSpeech": "Adjective / Verb",
+        "translation": {
+          "fa": "آگاهانه؛ دانستن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:2/data-row:377"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-3202a76b5af5",
+        "partOfSpeech": "participle",
+        "translation": {
+          "fa": "با دانستن / در حالی که می‌داند"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15",
+            "locator": "table:1/data-row:7"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:2/data-row:377"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15",
+          "locator": "table:1/data-row:7"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

@@ -1,0 +1,153 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-dangerous",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "dangerous"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:18"
+      },
+      {
+        "sourceId": "src-chat-m16",
+        "locator": "table:10/data-row:12"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:2/data-row:389"
+      },
+      {
+        "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+        "locator": "table:8/data-row:2"
+      },
+      {
+        "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+        "locator": "table:9/data-row:18"
+      },
+      {
+        "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+        "locator": "table:10/data-row:12"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "dangerous",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-danger",
+    "senses": [
+      {
+        "id": "sense-6bf0cffb1615",
+        "partOfSpeech": "Adjective",
+        "translation": {
+          "fa": "خطرناک"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "hazardous",
+          "risky"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m16",
+            "locator": "table:9/data-row:18"
+          },
+          {
+            "sourceId": "src-chat-m16",
+            "locator": "table:10/data-row:12"
+          },
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:2/data-row:389"
+          },
+          {
+            "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+            "locator": "table:8/data-row:2"
+          },
+          {
+            "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+            "locator": "table:9/data-row:18"
+          },
+          {
+            "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+            "locator": "table:10/data-row:12"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m16",
+          "locator": "table:9/data-row:18"
+        },
+        "group": "modals",
+        "sessionId": "session-modals",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m16",
+          "locator": "table:10/data-row:12"
+        },
+        "group": "modal-families",
+        "sessionId": "session-modals",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:2/data-row:389"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+          "locator": "table:8/data-row:2"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-modals",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+          "locator": "table:9/data-row:18"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-modals",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+          "locator": "table:10/data-row:12"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-modals",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

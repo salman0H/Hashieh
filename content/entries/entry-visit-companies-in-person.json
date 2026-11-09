@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-visit-companies-in-person",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "visit companies in person"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00",
+        "locator": "table:6/data-row:3"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "visit companies in person",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-bffea9549ad4",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "حضوری به شرکت‌ها مراجعه کنم"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00",
+            "locator": "table:6/data-row:3"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00",
+          "locator": "table:6/data-row:3"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

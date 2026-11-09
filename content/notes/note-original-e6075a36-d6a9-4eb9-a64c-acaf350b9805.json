@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-e6075a36-d6a9-4eb9-a64c-acaf350b9805",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "این چ گرامری هستش؟"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-e6075a36-d6a9-4eb9-a64c-acaf350b9805",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-e6075a36-d6a9-4eb9-a64c-acaf350b9805-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "6 selections\nاین چ گرامری هستش؟\nگرامری که در این دو استفاده شده چ تفاوتی با هم دارن؟\nadverb ها رو مثال بزن.\nدر اینجا منظورم این بود ک میز عسلی های کنار تخت رو بیشتر هدف داشتم برای کفتن.\nمنظورم شیرینی بود.\nچرا در اینجا باید این گرامر asking بیاد\n\nجواب سوالاتت:\na. focus or concentrate \nb. demanding \nc. lucrative or well-paid\nd. interviewed \ne. promising\nf. unprrdictable \ng. well",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": []
+  },
+  "extensions": {
+    "capture.message-id": "e6075a36-d6a9-4eb9-a64c-acaf350b9805",
+    "capture.turn-number": 28
+  }
+}

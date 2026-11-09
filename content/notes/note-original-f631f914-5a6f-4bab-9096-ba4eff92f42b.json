@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-f631f914-5a6f-4bab-9096-ba4eff92f42b",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "این جزوه این جلسه هست این رو برام بررسی کن:"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message",
+    "assessment"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-f631f914-5a6f-4bab-9096-ba4eff92f42b",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-f631f914-5a6f-4bab-9096-ba4eff92f42b-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "این جزوه این جلسه هست این رو برام بررسی کن:\n\nAlready appreciate that \nZero-condition:\nWhen or if + simple present + “ , ” + simple present —> something which is generally true\nIf I study hard, I pass my exams. \n[ if I study hard ] —> if or condition clause \n[ I pass my exams. ] —> result clause \nI pass my exams if I study hard. —> we don’t have “ , “ here.\nDo you pass your exams if you study hard?\nWhen people read more than three paragraphs online, they often lose interest.\nI go to bed when I am tried.\nWhen it rains, she takes the car to work.\nIf you don’t want to be here, go home! —> imperative verbs —> ساختار های جمله های امری نیازی به sub ندارن —< این و برام بررسی کن\nI always wear sunscreen when it is hot.\nIf you want to try a free yoga class, visit our studio next Tuesday.\nIf employees enjoy their job, they work more efficiently. —> effectively = ?\nIf you don’t feel like walking home, take the underground instead. —> ?\nIf a city had good public transport, people don’t drive as much.\nFirst-condition:\nWhen or if + simple present + “ , “ + simple future or all modals like may, could, can, might and etc (modals are for present and future) —> future possibility\nIf I study hard, I will pass my exams.\n[ if I study hard ] —> if or condition clause \n[ I will pass my exams. ] —> result clause \nنکته اینجاست که این گرامر حتما باید با زمانبندی مشخص توی جمله بیاد وگرنه نمیشه تصمیم گرفت ک این اتفاق میتونه در اینده رخ بده\nWill you pass your exams if you study hard?\nWhen it is sunny, we can go to  the beach.\nCould > may > might —> future possibly\nFirst condition: a condition in the present and it is  possible result in the future.\nIf parents read to their children, they will lean to love books.\nI’ll meet you later if I finish work early. —> مثلا در اینجا وجود later باعث استفاده از شرط نوع اول شده\nI won’t get hungry if I eat something now.\nMy aim is important. —> ?\nBeing successful is something for future not now. —> ?\n\n\t•\t\t⁃\tPractical = ?\n\n…",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-zero-conditional",
+      "concept-first-conditional"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "f631f914-5a6f-4bab-9096-ba4eff92f42b",
+    "capture.turn-number": 42
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-narrow-down",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "narrow down"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:24"
+      },
+      {
+        "sourceId": "src-original-f77edba4-2fe8-4440-b664-8727591c2d9d",
+        "locator": "table:2/data-row:16"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:2/data-row:24"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "narrow down",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-8f443704a2b6",
+        "partOfSpeech": "Phrasal verb",
+        "translation": {
+          "fa": "محدود کردن گزینه‌ها"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "reduce",
+          "shortlist"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:2/data-row:24"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:2/data-row:24"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-aaa3d02c1d84",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "محدود کردن گزینه‌ها"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-f77edba4-2fe8-4440-b664-8727591c2d9d",
+            "locator": "table:2/data-row:16"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:2/data-row:24"
+        },
+        "group": "priority-b",
+        "sessionId": null,
+        "priority": "B"
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f77edba4-2fe8-4440-b664-8727591c2d9d",
+          "locator": "table:2/data-row:16"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-1920ed9d",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:2/data-row:24"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

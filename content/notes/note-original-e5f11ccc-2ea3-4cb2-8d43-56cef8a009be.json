@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-e5f11ccc-2ea3-4cb2-8d43-56cef8a009be",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "bitter در این دسته قرار نمیگیره؟"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-e5f11ccc-2ea3-4cb2-8d43-56cef8a009be",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-e5f11ccc-2ea3-4cb2-8d43-56cef8a009be-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "8 selections\nbitter در این دسته قرار نمیگیره؟\nتفاوت may be رو با maybe دوباره بگو\nاین باید اول جمله بیاد؟\nsweet tooth for somethings رو میتونیم برای چیزای دیگ هم استفاده کنیم؟\ni did not use to have a sweet tooth, ... گرامرش رو بررسی کن\nthat he eats ... در اینجا میشه ب دلیل بودن ضمیر that رو حذف کرد؟\nare gerund and infinitive synonym?\ndecided در اینجا به این دلیل گذشته هست ک از قبل تصمیم گرفته شده؟\nسوال اصلی من این هست که بعضی وقت ها این verb + ing معنی مصدر میده و اسم هست نه verb",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-gerund-infinitive"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "e5f11ccc-2ea3-4cb2-8d43-56cef8a009be",
+    "capture.turn-number": 30
+  }
+}

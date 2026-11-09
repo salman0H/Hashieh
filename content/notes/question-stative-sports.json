@@ -1,0 +1,45 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "question-stative-sports",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Does present continuous always mean temporary?"
+  },
+  "tags": [
+    "needs-review"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m06",
+        "locator": "message-excerpt",
+        "quote": "he is doing karate. --> در این مدل به یم عمل موقت اطلاق میشه"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-question-stative-sports",
+        "type": "question",
+        "version": 1,
+        "data": {
+          "prompt": "he is doing karate. --> در این مدل به یم عمل موقت اطلاق میشه",
+          "answer": null,
+          "reasonUnanswered": "Requires content review; source wording preserved."
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-present-continuous"
+    ]
+  },
+  "extensions": {}
+}

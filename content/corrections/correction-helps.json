@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "correction-helps",
+  "type": "correction",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "helps"
+  },
+  "tags": [
+    "error-notebook"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m04",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "original": "He is very help me.",
+    "replacement": "He really helps me.",
+    "explanation": {
+      "fa": "استفاده از فعل اصلی و قید مناسب."
+    },
+    "conceptIds": [
+      "concept-present-simple"
+    ],
+    "correctionSourceRef": {
+      "sourceId": "src-chat-m04",
+      "locator": "message-excerpt"
+    },
+    "kind": "form",
+    "originalSourceRef": {
+      "sourceId": "src-chat-m04",
+      "locator": "message-excerpt"
+    }
+  },
+  "extensions": {
+    "language.correction-context": {
+      "kind": "paired-source-examples",
+      "explanationAuthoredDuringExtraction": true
+    }
+  }
+}

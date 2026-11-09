@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-take-something",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "take something"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-67124b86-f826-444b-b576-8ecf06cc7df0",
+        "locator": "table:1/data-row:5"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "take something",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-70eda032e47b",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "بسته به ترکیب، معانی مختلف"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-67124b86-f826-444b-b576-8ecf06cc7df0",
+            "locator": "table:1/data-row:5"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-67124b86-f826-444b-b576-8ecf06cc7df0",
+          "locator": "table:1/data-row:5"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-2fcb9688-aa7a-49d0-b435-07464e96bf03",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 9"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "user",
+    "messageOrdinal": 9,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "بله همین کتاب هست پس ساختار رو از دیپ سیک کپی کن اطلاعات رو از کتاب بردار و یک ساختار هوشمند درست کن برای یادگیری زبان \nو گاها یک سری اطالعات از جبسات کلاس زبان بهت میدم ک میخوام اون ها رو مثل همون چت دیپ سی کبرام درست جزوش کنی",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": []
+  },
+  "extensions": {
+    "capture.message-id": "2fcb9688-aa7a-49d0-b435-07464e96bf03",
+    "capture.headings": [],
+    "capture.links": []
+  }
+}

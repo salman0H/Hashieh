@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-pay-for-insurance",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "pay for insurance"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-e98ddd7e-6fa3-4789-98e6-c5e64a48d742",
+        "locator": "table:2/data-row:7"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "pay for insurance",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-ba1cead83879",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "هزینهٔ بیمه را پرداخت کردن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-e98ddd7e-6fa3-4789-98e6-c5e64a48d742",
+            "locator": "table:2/data-row:7"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-e98ddd7e-6fa3-4789-98e6-c5e64a48d742",
+          "locator": "table:2/data-row:7"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-0bf90c5f",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

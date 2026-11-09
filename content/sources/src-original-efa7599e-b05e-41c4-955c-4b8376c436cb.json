@@ -1,0 +1,71 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-efa7599e-b05e-41c4-955c-4b8376c436cb",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 101"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "user",
+    "messageOrdinal": 101,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "همین جدول هایی ک درست کردی رو با هم مرج کن نکته ای ک اینجسات منظور از هم خانواده ای ک من گفتم ساختار جمله ای کلمات هست ینی در اینجا instructor ب معنی آموزش دهنده اگ باشه instruct ب معنی آموزش دادن هست و ینی اون ی اسم هست اون یکی دیگ فعل . در کنار همه این ها باید معنی انگلیسی اون ها رو هم بنویسی در کنار فارسی ینی ستون های تو باید این ها \n\nWord / Phrase\n\nTranslation (Persian)\n\nSynonyms / Equivalents\n\nPart of Speech / Category\n\n\n\n\nباشه درکنار ردیف ک شماره ی کلمه هست با در نهایت همه این ها رو با هم توی یک جدول برام بفرست",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": [
+      {
+        "locator": "table:1",
+        "rows": [
+          [
+            ""
+          ]
+        ]
+      },
+      {
+        "locator": "table:2",
+        "rows": [
+          [
+            ""
+          ]
+        ]
+      },
+      {
+        "locator": "table:3",
+        "rows": [
+          [
+            ""
+          ]
+        ]
+      },
+      {
+        "locator": "table:4",
+        "rows": [
+          [
+            ""
+          ]
+        ]
+      }
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "efa7599e-b05e-41c4-955c-4b8376c436cb",
+    "capture.headings": [],
+    "capture.links": []
+  }
+}

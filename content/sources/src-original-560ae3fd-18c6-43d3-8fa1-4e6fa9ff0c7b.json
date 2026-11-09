@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-560ae3fd-18c6-43d3-8fa1-4e6fa9ff0c7b",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 37"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "user",
+    "messageOrdinal": 37,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "یک Final Comprehensive Exam جدید برای Ready for B1 Preliminary Units 5–8 طراحی کن. 20 سؤال جدید، سطح B1، با ترکیب Grammar و Vocabulary در context. مباحث: Present Perfect vs Past Simple، Present Perfect Continuous، Relative Clauses defining/non-defining، Comparatives/Superlatives، so/such/too/enough، Future Forms (will/going to/Present Continuous)، Zero/First/Second Conditional، Modals، و vocabulary از Nature & Environment، Travel، Work Life و Sports. سؤالات با آزمون قبلی تکرار نشوند.",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": []
+  },
+  "extensions": {
+    "capture.message-id": "560ae3fd-18c6-43d3-8fa1-4e6fa9ff0c7b",
+    "capture.headings": [],
+    "capture.links": []
+  }
+}

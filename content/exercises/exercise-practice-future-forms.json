@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "exercise-practice-future-forms",
+  "type": "exercise",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "fa": "تمرین تکمیلی؛ future-forms"
+  },
+  "tags": [
+    "supplemental-practice"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-f892377a-352f-45b2-8930-8b7d20f6d637",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "mode": "practice",
+    "prompt": "Look at those dark clouds! It ___ rain.",
+    "options": [
+      "is going to",
+      "will to",
+      "going"
+    ],
+    "answers": [
+      {
+        "number": 1,
+        "text": "is going to"
+      }
+    ],
+    "explanation": {
+      "fa": "نشانهٔ موجود (ابرهای تیره) مبنای این پیش‌بینی است؛ be going to مناسب است."
+    },
+    "conceptIds": [
+      "concept-future-forms"
+    ],
+    "gradable": true,
+    "missing": []
+  },
+  "extensions": {}
+}

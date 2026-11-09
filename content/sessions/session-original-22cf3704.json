@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "session-original-22cf3704",
+  "type": "session",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Work, restaurants and everyday grammar"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-22cf3704-273d-477e-b942-5c405e372fdf",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-aad291b4-8724-481f-89aa-c7df380822d1",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "occurredAt": null,
+    "dateLabel": null,
+    "datePrecision": "unknown",
+    "conceptIds": [
+      "concept-present-perfect",
+      "concept-present-simple",
+      "concept-present-continuous",
+      "concept-past-simple",
+      "concept-future-forms",
+      "concept-relative-clauses",
+      "concept-first-conditional",
+      "concept-second-conditional",
+      "concept-so-such-too-enough"
+    ],
+    "itemIds": [
+      "note-original-22cf3704-273d-477e-b942-5c405e372fdf",
+      "note-original-aad291b4-8724-481f-89aa-c7df380822d1"
+    ],
+    "sourceMessageIds": [
+      "src-original-22cf3704-273d-477e-b942-5c405e372fdf",
+      "src-original-aad291b4-8724-481f-89aa-c7df380822d1"
+    ],
+    "completeness": "partial",
+    "missing": [
+      "Any referenced original attachments are not imported in this text pass."
+    ]
+  },
+  "extensions": {}
+}

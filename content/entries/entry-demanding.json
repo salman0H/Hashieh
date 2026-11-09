@@ -1,0 +1,201 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-demanding",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "demanding"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:1"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:1/data-row:51"
+      },
+      {
+        "sourceId": "src-original-4b0f62cf-9334-4ad2-b7df-ddeecf3ea636",
+        "locator": "table:6/data-row:5"
+      },
+      {
+        "sourceId": "src-original-aad291b4-8724-481f-89aa-c7df380822d1",
+        "locator": "table:2/data-row:5"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:2/data-row:1"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "demanding",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-demand",
+    "senses": [
+      {
+        "id": "sense-af9c1dfbbd6a",
+        "partOfSpeech": "Adjective",
+        "translation": {
+          "fa": "طاقت‌فرسا، نیازمند تلاش زیاد"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "challenging",
+          "requiring"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:2/data-row:1"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:2/data-row:1"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-fc9805f8aade",
+        "partOfSpeech": "Adjective",
+        "translation": {
+          "fa": "طاقت‌فرسا؛ نیازمند تلاش زیاد"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:1/data-row:51"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-b292621e001f",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "پرفشار، نیازمند تلاش زیاد"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-1da8ccdf8f79",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "My new job is going to be demanding.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-4b0f62cf-9334-4ad2-b7df-ddeecf3ea636",
+            "locator": "table:6/data-row:5"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-56de033d4f0a",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "نیازمند انرژی/زمان زیاد"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-591b47485d5f",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "Nursing can be a demanding job.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-aad291b4-8724-481f-89aa-c7df380822d1",
+            "locator": "table:2/data-row:5"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:2/data-row:1"
+        },
+        "group": "priority-b",
+        "sessionId": null,
+        "priority": "B"
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:1/data-row:51"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-4b0f62cf-9334-4ad2-b7df-ddeecf3ea636",
+          "locator": "table:6/data-row:5"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-future",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-aad291b4-8724-481f-89aa-c7df380822d1",
+          "locator": "table:2/data-row:5"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-22cf3704",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:2/data-row:1"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-baab7105d134",
+  "type": "covers",
+  "from": "note-original-3c1f4303-51cc-4e0a-a799-4bd600c03c15",
+  "to": "concept-gerund-infinitive",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-original-3c1f4303-51cc-4e0a-a799-4bd600c03c15",
+      "locator": "message-body"
+    }
+  ],
+  "extensions": {}
+}

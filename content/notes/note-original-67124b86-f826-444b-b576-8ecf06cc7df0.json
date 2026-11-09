@@ -1,0 +1,450 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-67124b86-f826-444b-b576-8ecf06cc7df0",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "🎵 Song Lab #02 — Burning Pile"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "song-lab",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-67124b86-f826-444b-b576-8ecf06cc7df0",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "بریم سراغ Burning Pile — Mother Mother. این یکی برای Song Lab انتخاب جالب‌تری است، چون نسبت به آهنگ قبلی idiom، استعاره، phrasal verb، informal English و ساختارهای شرطی بیشتری برای استخراج دارد.\n\n5\n5 images",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-2",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "🎵 Song Lab #02 — Burning Pile\n\nاول یک نکته: این آهنگ مربوط به آلبوم O My Heart از Mother Mother است و در 2008 منتشر شد. فضای آهنگ عمداً تاریک، عجیب و تا حدی طنزآمیز است؛ بنابراین نباید هر جمله را کاملاً literal برداشت کنیم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-3",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "هدف ما در این آهنگ\n\nاین بار فقط vocabulary جمع نمی‌کنیم. می‌خواهم روی این موارد تمرکز کنیم:\n\nNatural English\nPhrasal verbs\nIdioms & expressions\nGrammar\nMetaphor\nPronunciation\nعبارت‌هایی که واقعاً بتوانی در English خودت استفاده کنی",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-4",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "1. burning pile",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-5",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "burning\n\nاز فعل:\n\nburn → burning\n\nیعنی:\n\nدر حال سوختن",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-6",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "pile\n\npile = توده / انباشت\n\nمثلاً:\n\na pile of clothes\nیک توده لباس\n\na pile of books\nیک توده کتاب\n\nپس:\n\nburning pile\n\nبه‌صورت literal:\n\n«توده‌ی در حال سوختن»\n\nاما در این آهنگ، burning pile صرفاً یک تصویر فیزیکی نیست؛ بخشی از استعاره‌ی کلی آهنگ است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-7",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "2. all my stuff\n\nیکی از عبارت‌های مهم آهنگ:\n\nall my stuff",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-8",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "stuff\n\nstuff یکی از مهم‌ترین کلمات informal در English است.\n\nیعنی:\n\nوسایل / چیزها / خرت‌وپرت‌ها / مسائل و چیزهای مربوط به یک موضوع\n\nمثلاً:\n\nWhere's my stuff?\n\n«وسایلم کجاست؟»\n\nاما:\n\nI have a lot of stuff to do.\n\nاینجا دیگر به معنی «وسایل» نیست:\n\n«کلی کار دارم.»\n\nپس stuff یک uncountable noun است.\n\n❌ stuffs\n\n✅ stuff",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-9",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "3. I am...\n\nدر بخش ابتدایی آهنگ، یک نکته‌ی مهم وجود دارد: راوی از Present Continuous استفاده می‌کند.\n\nاین همان ساختاری است که در کلاس A1–A8 داشتید:\n\nam/is/are + V-ing\n\nاما اینجا فقط برای «الان در حال انجام دادن» نیست.\n\nاین یکی از کاربردهای مهم Present Continuous است:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-10",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Temporary / current situation\n\nمثلاً:\n\nI'm having a bad day.\n\nیعنی:\n\n«امروز/الان روز بدی دارم.»\n\nنه اینکه ذاتاً آدم بدی هستم.\n\nاین distinction بین:\n\nstate\nو\ntemporary situation\n\nدر English خیلی مهم است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-11",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "4. take my ...\n\nدر این آهنگ چندین بار با فعل take روبه‌رو می‌شویم.\n\nاین دقیقاً جایی است که باید از take به‌عنوان یک verb جداگانه عبور کنیم و آن را به شکل collocation یاد بگیریم.\n\ntake ترکیب‌های بسیار زیادی دارد:\n\ntake a shower\ntake a break\ntake a chance\ntake care\ntake responsibility\ntake something seriously\ntake something away\n\nپس وقتی در آهنگ take دیدی، از خودت بپرس:\n\nWhat does \"take + X\" mean as a unit?\n\nنه اینکه فقط take = گرفتن.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-12",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "5. throw it away\n\nیکی از مهم‌ترین phrasal verbهای این آهنگ:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-13",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "throw away\n\nthrow something away\n\n= دور انداختن\n\nمثلاً:\n\nDon't throw it away.\n\nیعنی:\n\n«دورش ننداز.»\n\nچون away معنی فعل را تغییر می‌دهد:\n\nthrow = پرتاب کردن\nthrow away = دور انداختن",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-14",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Pronoun rule\n\nاگر object ضمیر باشد:\n\n✅ Throw it away.\n\n❌ Throw away it.\n\nاما با noun هر دو فرم ممکن است:\n\nThrow away the paper.\n\nThrow the paper away.\n\nاین دقیقاً از آن grammar pointهایی است که ارزش ورود به Active Grammar ما را دارد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-15",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "6. get rid of\n\nاین expression را حتماً یاد بگیر.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-16",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "get rid of something\n\n= از شر چیزی خلاص شدن / چیزی را دور انداختن\n\nمثلاً:\n\nI need to get rid of these old clothes.\n\n«باید از شر این لباس‌های قدیمی خلاص شوم.»\n\nتفاوت:\n\nthrow away\nتمرکز روی «دور انداختن» است.\n\nget rid of\nتمرکز روی «خلاص شدن از چیزی» است.\n\nمثلاً:\n\nI threw the box away.\n\nفقط می‌گویی جعبه را دور انداختم.\n\nI got rid of the box.\n\nیعنی جعبه دیگر پیش من نیست و خودم را از آن خلاص کردم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-17",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "7. I'm not...\n\nیکی از چیزهایی که در این آهنگ باید روی آن دقت کنی، negative contractions است.\n\nدر spoken English:\n\nI am not → I'm not\nI will not → I won't\nI have not → I haven't\nI cannot → I can't\n\nاین‌ها فقط کوتاه‌نویسی نیستند.\n\nدر listening باید بتوانی شکل فشرده را تشخیص بدهی.\n\nمثلاً:\n\nI'm gonna...\n\nممکن است در سرعت واقعی تقریباً به شکل یک واحد صوتی شنیده شود.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-18",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "8. gonna\n\nاگر در lyrics ببینی:\n\ngonna = going to\n\nاما:\n\ngonna\n\nکاملاً informal spoken English است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-19",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Standard\n\nI'm going to leave.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-20",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Informal\n\nI'm gonna leave.\n\nدر writing رسمی:\n\n❌ gonna\n\nدر conversation:\n\n✅ gonna\n\nدر lyrics:\n\n✅ بسیار رایج\n\nاین دقیقاً یکی از چیزهایی است که در Song Lab می‌خواهیم یاد بگیریم:\n\nTextbook English ≠ Natural spoken English",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-21",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "9. مهم‌ترین بخش: استعاره‌ی burning pile\n\nحالا از grammar خارج شویم.\n\nراوی در آهنگ درباره‌ی خلاص شدن از چیزهای مختلف و قرار گرفتن آن‌ها در یک burning pile صحبت می‌کند.\n\nاگر صرفاً literal بخوانی:\n\n«چیزها را می‌سوزانیم.»\n\nاما تصویر اصلی می‌تواند به شکل استعاری درباره‌ی رها کردن، نابود کردن یا کنار گذاشتن چیزهایی باشد که فرد دیگر نمی‌خواهد با خودش حمل کند.\n\nبه همین دلیل vocabulary آهنگ به سمت:\n\nstuff\npossessions\nrelationships\nproblems\ngetting rid of things\n\nحرکت می‌کند.\n\nاین یک نمونه‌ی خوب از:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-22",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "metaphorical language\n\nاست.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-23",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "🧠 Vocabulary Card\nExpression\tمعنی\tسطح/نوع\nburning pile\tتوده‌ی در حال سوختن\tmetaphor\nstuff\tچیزها / وسایل / مسائل\tinformal noun\nthrow away\tدور انداختن\tphrasal verb\nget rid of\tاز شر چیزی خلاص شدن\tidiomatic expression\ntake something\tبسته به ترکیب، معانی مختلف\tcollocation\ngonna\tgoing to\tinformal\npile\tتوده / انباشت\tnoun\naway\tدور / به سمت بیرون\tparticle",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-24",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "🔥 Grammar Hunt\n\nاز این آهنگ چند موضوع را می‌توانیم به سیستم اصلی تو وصل کنیم:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-25",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Present Continuous\n\nbe + V-ing\n\n⬇️\n\nClass A1–A8 → Session 3",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-26",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Phrasal verbs\n\nthrow + away\n\n⬇️\n\nDeepSeek System → Phrasal Verbs",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-27",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Informal English\n\ngoing to → gonna\n\n⬇️\n\nSong Lab → Natural English",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-28",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Collocations\n\ntake + noun\n\n⬇️\n\nReady for B1 → Vocabulary / Collocations",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-29",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Metaphor\n\nburning pile\n\n⬇️\n\nSong Lab → Context & Meaning",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-30",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "🎧 Pronunciation Hunt\n\nاین آهنگ برای connected speech هم جالب است.\n\nوقتی خواننده سریع می‌خواند، سعی نکن تک‌تک کلمات را جداگانه بشنوی.\n\nبه جای:\n\nI / am / going / to...\n\nیک sound chunk بشنو:\n\nI'm gonna...\n\nهمین مهارت در listening واقعی بسیار مهم‌تر از دانستن تک‌تک قواعد است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-31",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "🎯 Active English — بخش مهم Song Lab\n\nاز این آهنگ نمی‌خواهم ۲۰ کلمه حفظ کنی.\n\nفعلاً این ۵ مورد را Active می‌کنیم:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-32",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "1.\n\nI need to get rid of it.\n\nباید بتوانی خودت جمله بسازی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-33",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "2.\n\nDon't throw it away.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-34",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "3.\n\nI've got a lot of stuff to do.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-35",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "4.\n\nI'm gonna...\n\nبرای برنامه‌ی informal:\n\nI'm gonna watch a movie tonight.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-36",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "5.\n\na pile of + noun\n\na pile of clothes\na pile of books\na pile of work",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-67124b86-f826-444b-b576-8ecf06cc7df0-37",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "🧪 Mini Quiz — همین الان\n\nبدون نگاه کردن به بالا جواب بده:\n\n1. کدام درست است؟\n\nA) Throw away it.\nB) Throw it away.\n\n2. get rid of یعنی چه؟\n\n3. این جمله را informal کن:\n\nI am going to watch the movie.\n\n4. جای خالی:\n\nI have ___ of work to do.\n\nA) a pile\nB) a pile of\nC) piles\n\n5. فرق این دو را بگو:\n\nI threw the phone away.\nI got rid of the phone.\n\nبعد از جواب‌ها، می‌رویم از ابتدای Burning Pile به‌صورت خط‌به‌خط و هر بخش را مثل کلاس خصوصی باز می‌کنیم؛ یعنی vocabulary → grammar → pronunciation → idiom → natural English → تمرین تولیدی.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-present-continuous",
+      "concept-articles",
+      "concept-phrasal-verbs",
+      "concept-writing"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "67124b86-f826-444b-b576-8ecf06cc7df0",
+    "capture.turn-number": 8
+  }
+}

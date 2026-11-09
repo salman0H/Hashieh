@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-e6075a36-d6a9-4eb9-a64c-acaf350b9805",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 55"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "user",
+    "messageOrdinal": 55,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "6 selections\nاین چ گرامری هستش؟\nگرامری که در این دو استفاده شده چ تفاوتی با هم دارن؟\nadverb ها رو مثال بزن.\nدر اینجا منظورم این بود ک میز عسلی های کنار تخت رو بیشتر هدف داشتم برای کفتن.\nمنظورم شیرینی بود.\nچرا در اینجا باید این گرامر asking بیاد\n\nجواب سوالاتت:\na. focus or concentrate \nb. demanding \nc. lucrative or well-paid\nd. interviewed \ne. promising\nf. unprrdictable \ng. well",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": []
+  },
+  "extensions": {
+    "capture.message-id": "e6075a36-d6a9-4eb9-a64c-acaf350b9805",
+    "capture.headings": [],
+    "capture.links": []
+  }
+}

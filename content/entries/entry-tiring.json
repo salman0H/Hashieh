@@ -1,0 +1,167 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-tiring",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "tiring"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m02",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-chat-m04",
+        "locator": "normalized-text/line:30",
+        "quote": "I am the best person you can recruit for this career. I grew up with news all the day I looked up with truth! In my last job I wrote tech column, but It was being tiring for me. I want satisfy or meet my wishes to get a new opportunity. I learned about this career from my father and he leaned from his father and this loop is permanent, so, be a reporter is in my blood. My reason is my commitment to every people who live in this neghiboor, they deserve to know the truth. I am strict man about news, I do not plateau on a same level I interest to know everything!"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:1/data-row:179"
+      },
+      {
+        "sourceId": "src-original-944a2cb2-18e6-4a05-af23-92edb86b98d4",
+        "locator": "table:2/data-row:7"
+      },
+      {
+        "sourceId": "src-original-f77edba4-2fe8-4440-b664-8727591c2d9d",
+        "locator": "table:2/data-row:5"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "tiring",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-tire",
+    "senses": [
+      {
+        "id": "sense-88ad80717be6",
+        "partOfSpeech": "Adjective",
+        "translation": {
+          "fa": "خسته‌کننده"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:1/data-row:179"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-c0e567a9ff5e",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "خسته‌کننده"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-33cf931a0b17",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "Working all day is tiring.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-944a2cb2-18e6-4a05-af23-92edb86b98d4",
+            "locator": "table:2/data-row:7"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-15824a81a18a",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "خسته‌کننده / باعث خستگی"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-f77edba4-2fe8-4440-b664-8727591c2d9d",
+            "locator": "table:2/data-row:5"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m02",
+          "locator": "message-excerpt"
+        },
+        "group": "learner-notes",
+        "sessionId": "session-jobs",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m04",
+          "locator": "normalized-text/line:30",
+          "quote": "I am the best person you can recruit for this career. I grew up with news all the day I looked up with truth! In my last job I wrote tech column, but It was being tiring for me. I want satisfy or meet my wishes to get a new opportunity. I learned about this career from my father and he leaned from his father and this loop is permanent, so, be a reporter is in my blood. My reason is my commitment to every people who live in this neghiboor, they deserve to know the truth. I am strict man about news, I do not plateau on a same level I interest to know everything!"
+        },
+        "group": "learner-notes-exact-match",
+        "sessionId": "session-experiences-news",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:1/data-row:179"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-944a2cb2-18e6-4a05-af23-92edb86b98d4",
+          "locator": "table:2/data-row:7"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-jobs",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f77edba4-2fe8-4440-b664-8727591c2d9d",
+          "locator": "table:2/data-row:5"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-1920ed9d",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

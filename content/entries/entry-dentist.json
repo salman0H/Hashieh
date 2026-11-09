@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-dentist",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "dentist"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-02f65f74-ec0e-4018-b236-59d82004da17",
+        "locator": "table:1/data-row:11"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "dentist",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-a022b5f53c85",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "دندان‌پزشک"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-02f65f74-ec0e-4018-b236-59d82004da17",
+            "locator": "table:1/data-row:11"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-02f65f74-ec0e-4018-b236-59d82004da17",
+          "locator": "table:1/data-row:11"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

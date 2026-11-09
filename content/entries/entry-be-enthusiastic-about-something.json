@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-be-enthusiastic-about-something",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "be enthusiastic about something"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-f892377a-352f-45b2-8930-8b7d20f6d637",
+        "locator": "table:3/data-row:15"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "be enthusiastic about something",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-76b6c34b05e1",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "مشتاق و علاقه‌مند بودن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-f892377a-352f-45b2-8930-8b7d20f6d637",
+            "locator": "table:3/data-row:15"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f892377a-352f-45b2-8930-8b7d20f6d637",
+          "locator": "table:3/data-row:15"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-1fc4fb80",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

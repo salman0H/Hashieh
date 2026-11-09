@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-07207420b3ce",
+  "type": "member-of",
+  "from": "entry-reduced",
+  "to": "family-reduce",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-chat-m16",
+      "locator": "message-excerpt"
+    }
+  ],
+  "extensions": {}
+}

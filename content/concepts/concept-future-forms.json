@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "concept-future-forms",
+  "type": "concept",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Future forms comparison"
+  },
+  "tags": [
+    "grammar"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m03",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-original-9d561005-5f15-4b8b-bc03-dbc2a0a3dd55",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-58f8b5a7-d7ea-4655-b1e8-0634dea067b1",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-925844f6-b092-4cfd-a749-406facb32ec6",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-eaf487cb-e12a-4036-9b2c-c1a15feacadc",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-3affd066-965c-4954-8e82-24141332f022",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-747a90d2-a2e7-4550-acea-fd39618be743",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-bdd2ecc2-6b28-4a3a-9ea0-8a55d47b5fd0",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-560ae3fd-18c6-43d3-8fa1-4e6fa9ff0c7b",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-aad291b4-8724-481f-89aa-c7df380822d1",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-4b0f62cf-9334-4ad2-b7df-ddeecf3ea636",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-7b035c8b-b8a4-489c-9aac-213cb328ed92",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-4ae32885-48ea-4808-abbd-d100a0d4fc36",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-1fc4fb80-ad51-47f9-8880-d53caf72c51a",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-f892377a-352f-45b2-8930-8b7d20f6d637",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "summary": null,
+    "blockIds": []
+  },
+  "extensions": {}
+}

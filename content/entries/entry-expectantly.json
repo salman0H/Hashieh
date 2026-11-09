@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-expectantly",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "expectantly"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-2340c3c8-781f-4c46-8506-088417f410fb",
+        "locator": "table:5/data-row:6"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:2/data-row:653"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "expectantly",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-expect",
+    "senses": [
+      {
+        "id": "sense-0d6a3b753f97",
+        "partOfSpeech": "Adverb",
+        "translation": {
+          "fa": "با حالت انتظار"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-2340c3c8-781f-4c46-8506-088417f410fb",
+            "locator": "table:5/data-row:6"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-89474e696be0",
+        "partOfSpeech": "Adverb",
+        "translation": {
+          "fa": "با انتظار"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:2/data-row:653"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-2340c3c8-781f-4c46-8506-088417f410fb",
+          "locator": "table:5/data-row:6"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-team-spirit",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:2/data-row:653"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

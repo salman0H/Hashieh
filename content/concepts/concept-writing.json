@@ -1,0 +1,167 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "concept-writing",
+  "type": "concept",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Writing and revision"
+  },
+  "tags": [
+    "language-skills"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m02",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-chat-m03",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-chat-m04",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-chat-m16",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-original-ab67a11d-ed33-4461-9677-179d5cd32f20",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-18605eb1-e802-4e62-a64c-e04d52b6499f",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-0e61eff5-4d85-4a33-bcc9-513a81afab62",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-9d561005-5f15-4b8b-bc03-dbc2a0a3dd55",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-4ce0ce7b-5916-444c-b180-aef61e82d324",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-67124b86-f826-444b-b576-8ecf06cc7df0",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-58f8b5a7-d7ea-4655-b1e8-0634dea067b1",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-2a091de6-2bbf-4f90-8607-d023e02d65aa",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-629cb80f-2400-4384-978e-5be02adcc3d9",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-fe8a279b-0fb0-4b09-9115-bb6b1e9bb354",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-62eefce7-353a-4f48-a4fc-5f24badfd797",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-4b0f62cf-9334-4ad2-b7df-ddeecf3ea636",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-9ff6efcc-752d-4195-b44c-cf4c02f3dd45",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-7b035c8b-b8a4-489c-9aac-213cb328ed92",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-4854e7d4-672e-4b90-86ea-0eae6466e4fc",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-021012b8-e9d3-421d-af1d-fe1a7a57e626",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-4aa44674-fed4-4696-aa3a-1560cd199904",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-1fc4fb80-ad51-47f9-8880-d53caf72c51a",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-f892377a-352f-45b2-8930-8b7d20f6d637",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-74d9230e-2b3e-4be2-b4a6-3c73bf159571",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-863aac04-c82a-4811-9d0a-ff0724ef73da",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-2340c3c8-781f-4c46-8506-088417f410fb",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-aca27be7-43f4-45d2-a7f4-b3233c97a2e4",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-0dd431bd-5af6-45fb-8064-27a445ceff52",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "summary": null,
+    "blockIds": []
+  },
+  "extensions": {}
+}

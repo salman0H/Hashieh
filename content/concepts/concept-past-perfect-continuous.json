@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "concept-past-perfect-continuous",
+  "type": "concept",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "past perfect continuous"
+  },
+  "tags": [
+    "grammar-index"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-925844f6-b092-4cfd-a749-406facb32ec6",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-e057cd15-8da7-4798-a253-42312cfcb7dc",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "summary": null,
+    "blockIds": []
+  },
+  "extensions": {}
+}

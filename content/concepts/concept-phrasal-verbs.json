@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "concept-phrasal-verbs",
+  "type": "concept",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Phrasal verbs and multiple senses"
+  },
+  "tags": [
+    "language-skills"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m04",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-chat-m08",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-original-18605eb1-e802-4e62-a64c-e04d52b6499f",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-eba73669-0ef2-46f1-ae63-ab7b2f1d249f",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-9d561005-5f15-4b8b-bc03-dbc2a0a3dd55",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-4ce0ce7b-5916-444c-b180-aef61e82d324",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-67124b86-f826-444b-b576-8ecf06cc7df0",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-58f8b5a7-d7ea-4655-b1e8-0634dea067b1",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-3affd066-965c-4954-8e82-24141332f022",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-9ff6efcc-752d-4195-b44c-cf4c02f3dd45",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-021012b8-e9d3-421d-af1d-fe1a7a57e626",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "summary": null,
+    "blockIds": []
+  },
+  "extensions": {}
+}

@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-36e27f536854",
+  "type": "related-to",
+  "from": "concept-mustnt-vs-dont-have-to",
+  "to": "concept-prohibition",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-chat-m16",
+      "locator": "message-excerpt"
+    }
+  ],
+  "extensions": {}
+}

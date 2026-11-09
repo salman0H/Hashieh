@@ -1,0 +1,146 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-9b5452a9-73d3-4e29-9146-ccf15ea15931",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 48"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "assistant",
+    "messageOrdinal": 48,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "بله. در جمله:\n\nIt is divided into three continents.\n\nکلمه is فعل کمکی نیست؛ اینجا auxiliary verb نیست، بلکه بخشی از passive voice است و نقش to be را دارد.\n\nالبته یک نکته مهم وجود دارد: در passive، فعل to be از نظر دستوری یک auxiliary verb محسوب می‌شود. بنابراین دقیق‌تر بگوییم:\n\nis = auxiliary verb (form of to be)\ndivided = past participle\n\nساختار:\n\nSubject + be + past participle\n\n1. چرا is divided داریم؟\n\nفعل اصلی:\n\ndivide = تقسیم کردن\n\nActive:\n\nThey divide the course into three parts.\n\nاینجا:\n\nThey = subject / انجام‌دهنده\ndivide = main verb\nthe course = object\n\nاما اگر خود course برایمان مهم باشد و نخواهیم روی انجام‌دهنده تأکید کنیم:\n\nThe course is divided into three parts.\n\nحالا:\n\nThe course → subject\nis → auxiliary be\ndivided → past participle\ninto three parts → نتیجه تقسیم\n\nیعنی:\n\nدوره به سه بخش تقسیم شده است.\n\n2. چرا divided آمده و divide نه؟\n\nچون passive همیشه از این ساختار استفاده می‌کند:\n\nBE + Past Participle\n\nمثلاً:\n\nActive\tPassive\nThey clean the room.\tThe room is cleaned.\nThey built the bridge.\tThe bridge was built.\nThey will repair the road.\tThe road will be repaired.\nThey have finished the work.\tThe work has been finished.\n\nپس:\n\nis + divided ✅\n\nولی:\n\nis + divide ❌\n\n3. is اینجا چه چیزی را نشان می‌دهد؟\n\nis زمان و شخص را مشخص می‌کند.\n\nمثلاً:\n\nPresent Simple Passive\n\nThe course is divided into three units.\n\nچون:\n\nsubject = singular\ntense = present\n\nپس:\n\nis + past participle\n\nاگر subject جمع باشد:\n\nThe courses are divided into three units.\n\nاگر گذشته باشد:\n\nThe course was divided into three units.\n\n4. یک نکته مهم‌تر: divided صفت نیست؟\n\nاینجا ممکن است گیج‌کننده باشد.\n\ndivided می‌تواند در بعضی جمله‌ها نقش adjective هم داشته باشد، اما در:\n\nThe course is divided into three parts.\n\nساختار را به عنوان passive voice تحلیل می‌کنیم:\n\nis + past participle\n\nاین همان چیزی است که باید برای B1 یاد بگیری.\n\n5. مثال دوم تو\n\nI'd like to try it as a hobby, not as a permanent career.\n\nاین جمله passive نیست. اینجا یک ساختار بسیار مهم دیگر داریم.\n\nwould like + to + verb\n\nI'd like to try it.\n\nاصل جمله:\n\nI would like to try it.\n\nمخفف:\n\nI'd like to try it.\n\nمعنی:\n\nدوست دارم آن را امتحان کنم.\n\nساختار:\n\nSubject + would like + to + base verb\n\nمثلاً:\n\nI would like to work in technology.\n\nShe would like to become a receptionist.\n\nThey would like to travel abroad.\n\n6. چرا try it as a hobby؟\n\nاینجا:\n\ntry it\n\nیعنی «آن را امتحان کردن».\n\nبعد:\n\nas a hobby\n\nیعنی «به عنوان سرگرمی».\n\nپس:\n\nI'd like to try it as a hobby.\n\n= دوست دارم آن را به عنوان یک سرگرمی امتحان کنم.\n\nبعد:\n\nnot as a permanent career\n\nیعنی:\n\nنه به عنوان یک شغل/مسیر شغلی دائمی.\n\nساختار موازی داریم:\n\nas a hobby\nnot as a permanent career\n\n7. چرا to بعد از would like داریم؟\n\nچون:\n\nwould like + to-infinitive\n\nاما با بعضی افعال ساختار متفاوت است.\n\nمقایسه کن:\n\nI want to try it.\n\nI would like to try it.\n\nI enjoy trying it.\n\nI avoid trying it.\n\nپس باید verb patternها را به صورت chunk یاد بگیری.\n\nچند مورد مهم برای B1:\nStructure\tExample\nwant + to V\tI want to learn.\nwould like + to V\tI'd like to learn.\ndecide + to V\tI decided to learn.\nenjoy + V-ing\tI enjoy learning.\navoid + V-ing\tI avoid working late.\nbe interested in + V-ing\tI'm interested in learning.\n8. و یک نکته مرتبط با جمله خودت\n\nاگر بخواهی درباره شغل مورد علاقه‌ات جواب بدهی:\n\nI'd like to work in technology and programming because it's closely related to my major and my future career.\n\nاین از:\n\nI would like have job in tech and programming category.\n\nطبیعی‌تر است.\n\nیا در سطح B1 و ساده‌تر:\n\nI'd like to have a job in technology because it is related to my major and my future career.\n\nو اگر بخواهی همان ایده‌ی hobby / career را بگویی:\n\nI'd like to try different jobs as hobbies, but I wouldn't want to pursue them as permanent careers.\n\nاینجا pursue a career هم یک collocation مهم است:\n\npursue a career = دنبال کردن / در پیش گرفتن یک مسیر شغلی\n\nجمع‌بندی دو ساختاری که الان پرسیدی\n\nPassive:\n\nThe course is divided into three parts.\n\nis = auxiliary to be\ndivided = past participle\n\nWould like:\n\nI'd like to try it as a hobby.\n\nI'd like = I would like\nto try = infinitive\nas a hobby = نقش/هدف فعالیت\n\nاین دو را با هم قاطی نکن:\n\nis divided → Passive Voice\n\nwould like to try → Verb Pattern / Infinitive",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": [
+      {
+        "locator": "table:1",
+        "rows": [
+          [
+            "Active",
+            "Passive"
+          ],
+          [
+            "They clean the room.",
+            "The room is cleaned."
+          ],
+          [
+            "They built the bridge.",
+            "The bridge was built."
+          ],
+          [
+            "They will repair the road.",
+            "The road will be repaired."
+          ],
+          [
+            "They have finished the work.",
+            "The work has been finished."
+          ]
+        ]
+      },
+      {
+        "locator": "table:2",
+        "rows": [
+          [
+            "Structure",
+            "Example"
+          ],
+          [
+            "want + to V",
+            "I want to learn."
+          ],
+          [
+            "would like + to V",
+            "I'd like to learn."
+          ],
+          [
+            "decide + to V",
+            "I decided to learn."
+          ],
+          [
+            "enjoy + V-ing",
+            "I enjoy learning."
+          ],
+          [
+            "avoid + V-ing",
+            "I avoid working late."
+          ],
+          [
+            "be interested in + V-ing",
+            "I'm interested in learning."
+          ]
+        ]
+      }
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "9b5452a9-73d3-4e29-9146-ccf15ea15931",
+    "capture.headings": [
+      {
+        "level": 1,
+        "text": "1. چرا is divided داریم؟"
+      },
+      {
+        "level": 1,
+        "text": "2. چرا divided آمده و divide نه؟"
+      },
+      {
+        "level": 1,
+        "text": "3. is اینجا چه چیزی را نشان می‌دهد؟"
+      },
+      {
+        "level": 3,
+        "text": "Present Simple Passive"
+      },
+      {
+        "level": 1,
+        "text": "4. یک نکته مهم‌تر: divided صفت نیست؟"
+      },
+      {
+        "level": 1,
+        "text": "5. مثال دوم تو"
+      },
+      {
+        "level": 2,
+        "text": "would like + to + verb"
+      },
+      {
+        "level": 1,
+        "text": "6. چرا try it as a hobby؟"
+      },
+      {
+        "level": 1,
+        "text": "7. چرا to بعد از would like داریم؟"
+      },
+      {
+        "level": 3,
+        "text": "چند مورد مهم برای B1:"
+      },
+      {
+        "level": 2,
+        "text": "8. و یک نکته مرتبط با جمله خودت"
+      },
+      {
+        "level": 3,
+        "text": "جمع‌بندی دو ساختاری که الان پرسیدی"
+      }
+    ],
+    "capture.links": []
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "concept-present-continuous",
+  "type": "concept",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Present continuous"
+  },
+  "tags": [
+    "grammar"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m03",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-chat-m06",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-original-18605eb1-e802-4e62-a64c-e04d52b6499f",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-a6ec72fa-ac7a-4a39-81bd-0c5be90ecc0a",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-eba73669-0ef2-46f1-ae63-ab7b2f1d249f",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-9d561005-5f15-4b8b-bc03-dbc2a0a3dd55",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-67124b86-f826-444b-b576-8ecf06cc7df0",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-1a6b7984-d923-4578-9c20-3d85b3d49cfa",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-58f8b5a7-d7ea-4655-b1e8-0634dea067b1",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-925844f6-b092-4cfd-a749-406facb32ec6",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-e057cd15-8da7-4798-a253-42312cfcb7dc",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-747a90d2-a2e7-4550-acea-fd39618be743",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-560ae3fd-18c6-43d3-8fa1-4e6fa9ff0c7b",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-77659a96-2e7e-43a5-b48f-05eef57140ac",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-aad291b4-8724-481f-89aa-c7df380822d1",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-fafbd138-61f8-4f3e-a54c-0222f78527e6",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-629cb80f-2400-4384-978e-5be02adcc3d9",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-1ace4d60-4041-407f-86e9-fd05444c575a",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-4b0f62cf-9334-4ad2-b7df-ddeecf3ea636",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-9ff6efcc-752d-4195-b44c-cf4c02f3dd45",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-7b035c8b-b8a4-489c-9aac-213cb328ed92",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-021012b8-e9d3-421d-af1d-fe1a7a57e626",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-f892377a-352f-45b2-8930-8b7d20f6d637",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "summary": null,
+    "blockIds": []
+  },
+  "extensions": {}
+}

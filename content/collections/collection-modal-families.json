@@ -1,0 +1,48 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "collection-modal-families",
+  "type": "collection",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "modal-families"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m16",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "kind": "vocabulary-set",
+    "itemIds": [
+      "entry-permit",
+      "entry-permission",
+      "entry-permissible",
+      "entry-permissive",
+      "entry-prohibit",
+      "entry-prohibition",
+      "entry-prohibited",
+      "entry-oblige",
+      "entry-obligation",
+      "entry-obligatory",
+      "entry-danger",
+      "entry-dangerous",
+      "entry-endanger",
+      "entry-hazard",
+      "entry-hazardous",
+      "entry-reduce",
+      "entry-reduction",
+      "entry-reduced"
+    ]
+  },
+  "extensions": {}
+}

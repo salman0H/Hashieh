@@ -1,0 +1,176 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-strict",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "strict"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:1/data-row:150"
+      },
+      {
+        "sourceId": "src-original-021012b8-e9d3-421d-af1d-fe1a7a57e626",
+        "locator": "table:4/data-row:12"
+      },
+      {
+        "sourceId": "src-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+        "locator": "table:1/data-row:6"
+      },
+      {
+        "sourceId": "src-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+        "locator": "table:2/data-row:4"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "strict",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-strict",
+    "senses": [
+      {
+        "id": "sense-80fadb228963",
+        "partOfSpeech": "Adjective",
+        "translation": {
+          "fa": "سخت‌گیر"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:1/data-row:150"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-9950d501f28c",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "سخت‌گیر"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-c2e269aecd8b",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "a strict manager",
+              "locale": "en"
+            }
+          },
+          {
+            "id": "block-example-df65273c9c40",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "My boss was strict but fair.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-021012b8-e9d3-421d-af1d-fe1a7a57e626",
+            "locator": "table:4/data-row:12"
+          },
+          {
+            "sourceId": "src-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+            "locator": "table:2/data-row:4"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-510a937b8dab",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "سخت‌گیر؛ دربارهٔ افراد، قوانین یا مقررات"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-c68390504dde",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "My boss is very strict.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+            "locator": "table:1/data-row:6"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:1/data-row:150"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-021012b8-e9d3-421d-af1d-fe1a7a57e626",
+          "locator": "table:4/data-row:12"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-experiences-news",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+          "locator": "table:1/data-row:6"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-04d90228",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+          "locator": "table:2/data-row:4"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-04d90228",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

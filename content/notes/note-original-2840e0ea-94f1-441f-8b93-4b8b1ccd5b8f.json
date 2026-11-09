@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-2840e0ea-94f1-441f-8b93-4b8b1ccd5b8f",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "الان is به عنوان فعل کمکی اومده؟"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-2840e0ea-94f1-441f-8b93-4b8b1ccd5b8f",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-2840e0ea-94f1-441f-8b93-4b8b1ccd5b8f-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "2 selections\nالان is به عنوان فعل کمکی اومده؟\nگرامر این مثال رپ بیشتر تپضیح بده.",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": []
+  },
+  "extensions": {
+    "capture.message-id": "2840e0ea-94f1-441f-8b93-4b8b1ccd5b8f",
+    "capture.turn-number": 24
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-5ebe9e64-c38e-4076-966b-73c06cda1147",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "جدول‌ها ادغام شدند و در قالب یک فایل Excel قرار گرفتند."
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-5ebe9e64-c38e-4076-966b-73c06cda1147",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-5ebe9e64-c38e-4076-966b-73c06cda1147-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "جدول‌ها ادغام شدند و در قالب یک فایل Excel قرار گرفتند.\n\n۴۷۴ ردیف واژگان\n\nستون‌های جدول:\n\nشماره\n\nWord Family — گروه خانوادهٔ کلمات\n\nWord / Phrase\n\nTranslation (Persian)\n\nEnglish Definition\n\nSynonyms / Equivalents\n\nPart of Speech / Category\n\nواژه‌های هم‌خانواده مانند instruct, instructor, instruction و instructional در ردیف‌های جداگانه و زیر یک خانواده قرار گرفته‌اند. موارد تکراری نیز تا حد امکان ادغام شده‌اند.\n\nدانلود جدول یکپارچهٔ واژگان انگلیسی (Excel)\n\nUnified_English_Vocabulary.xlsx\nExcel",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-parts-of-speech",
+      "concept-word-families"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "5ebe9e64-c38e-4076-966b-73c06cda1147",
+    "capture.turn-number": 51
+  }
+}

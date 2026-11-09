@@ -1,0 +1,116 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-permissive",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "permissive"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m16",
+        "locator": "table:10/data-row:4"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:2/data-row:328"
+      },
+      {
+        "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+        "locator": "table:10/data-row:4"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "permissive",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-permit",
+    "senses": [
+      {
+        "id": "sense-35bd8275295e",
+        "partOfSpeech": "Adjective",
+        "translation": {
+          "fa": "آسان‌گیر، دارای محدودیت کم"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "lenient"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m16",
+            "locator": "table:10/data-row:4"
+          },
+          {
+            "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+            "locator": "table:10/data-row:4"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-478e3fdd336e",
+        "partOfSpeech": "Adjective",
+        "translation": {
+          "fa": "دارای آزادی عمل زیاد"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:2/data-row:328"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m16",
+          "locator": "table:10/data-row:4"
+        },
+        "group": "modal-families",
+        "sessionId": "session-modals",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:2/data-row:328"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+          "locator": "table:10/data-row:4"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-modals",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

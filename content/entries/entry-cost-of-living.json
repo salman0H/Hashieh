@@ -1,0 +1,158 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-cost-of-living",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "cost of living"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:29"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:2/data-row:692"
+      },
+      {
+        "sourceId": "src-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a",
+        "locator": "table:1/data-row:7"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:1/data-row:29"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "cost of living",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-cost-of-living",
+    "senses": [
+      {
+        "id": "sense-8bba05919a0f",
+        "partOfSpeech": "Noun phrase",
+        "translation": {
+          "fa": "هزینه زندگی"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "living expenses"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:1/data-row:29"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:1/data-row:29"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-a073f2e4d9cf",
+        "partOfSpeech": "Noun phrase",
+        "translation": {
+          "fa": "هزینهٔ زندگی"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:2/data-row:692"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-d6ac70725511",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "هزینهٔ زندگی"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-afe4c067d885",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "The cost of living has increased significantly.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a",
+            "locator": "table:1/data-row:7"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:1/data-row:29"
+        },
+        "group": "priority-a",
+        "sessionId": null,
+        "priority": "A"
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:2/data-row:692"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a",
+          "locator": "table:1/data-row:7"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-ab3a1c6d",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:1/data-row:29"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

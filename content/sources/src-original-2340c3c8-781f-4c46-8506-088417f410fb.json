@@ -1,0 +1,687 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-2340c3c8-781f-4c46-8506-088417f410fb",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 98"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "assistant",
+    "messageOrdinal": 98,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "۱. آیا I fallen in a few times اشتباه است؟\n\nبله، این جمله از نظر گرامری اشتباه است؛ چون در Present Perfect به فعل کمکی have نیاز داریم.\n\nنادرست\n\nI fallen in a few times.\n\nدرست\n\nI've fallen in a few times.\n\nساختار: Subject + have/has + past participle (V3)\n\nfall – fell – fallen\n\nI fall — می‌افتم.\n\nI fell — افتادم.\n\nI have fallen — افتاده‌ام.\n\nدر متن Paddleboarding، جملهٔ زیر کاملاً طبیعی است:\n\nI've fallen in a few times, but I quickly get up and get back on the board.\n\nچند بار داخل آب افتاده‌ام، اما سریع بلند می‌شوم و دوباره روی تخته می‌روم.\n\nچرا in؟ در این بافت، fall in یعنی داخل آب افتادن. شکل صریح‌تر آن هم این است:\n\nI've fallen into the water a few times.\n\nتفاوت زمان‌ها:\n\nI've fallen in a few times. — دربارهٔ تجربه‌ام تا الان صحبت می‌کنم.\n\nI fell in a few times yesterday. — دربارهٔ اتفاقی در زمان مشخص گذشته صحبت می‌کنم.\n\nپس مشکل جملهٔ تو فقط حذف have است، نه خود کلمهٔ fallen.\n\nبررسی تمرین‌های UNLESS و جزوهٔ جلسهٔ قبل\n\nاین مجموعه دو بخش گرامری مهم دارد: تبدیل جملات شرطی با unless و تفاوت شرطی نوع اول و دوم. در قسمت واژگان هم چند ترکیب بسیار کاربردی دربارهٔ محیط کار، ورزش، مطالعه و روابط اجتماعی داری.\n\nابتدا تمرین‌ها را تصحیح می‌کنیم، سپس نکات واژگانی را با خانوادهٔ کلمات (Word Families) بررسی می‌کنیم.\n\nبخش اول: UNLESS و تمرین‌های کتاب\n۱. مفهوم و ساختار UNLESS\n\nUnless یعنی «مگر اینکه» یا «اگر ... نکنیم / نباشد».\n\nمعادل مفهومی آن:\n\nUnless = If ... not\n\nمثال:\n\nUnless you hurry, you'll miss the bus.\n\nاگر عجله نکنی، اتوبوس را از دست می‌دهی.\n\nمعادل:\n\nIf you don't hurry, you'll miss the bus.\n\nنکتهٔ اصلی این است که وقتی unless استفاده می‌کنی، معمولاً دیگر نباید در همان بخش شرط not بیاوری؛ چون معنی منفی در خود unless وجود دارد.\n\nFirst Conditional\n\nUnless + Present Simple, will + V1\n\nمثال:\n\nUnless you study, you won't pass the exam.\n\nمگر اینکه درس بخوانی، امتحان را قبول نخواهی شد.\n\nSecond Conditional\n\nUnless + Past Simple, would + V1\n\nمثال:\n\nUnless I had more free time, I wouldn't learn another language.\n\nاگر وقت آزاد بیشتری نداشتم، زبان دیگری یاد نمی‌گرفتم.\n\nنکتهٔ مهم\n\nبعد از unless، برای بیان آینده در شرطی نوع اول معمولاً Present Simple می‌آید، نه will.\n\nدرست: Unless you leave now, you'll be late.\n\nنادرست در الگوی معمول: Unless you will leave now, you'll be late.\n\n۲. بررسی Exercise 1\n\nپاسخ‌های صحیح:\n\nشماره\n\n\t\n\nپاسخ صحیح\n\n\t\n\nتوضیح\n\n\n\n\n1\n\n\t\n\nhurry / will miss\n\n\t\n\nشرطی نوع اول\n\n\n\n\n2\n\n\t\n\nimproves\n\n\t\n\nPresent Simple بعد از unless\n\n\n\n\n3\n\n\t\n\nstudies\n\n\t\n\nفاعل سوم‌شخص مفرد\n\n\n\n\n4\n\n\t\n\nwill stay / is\n\n\t\n\nشرط واقعی و نتیجهٔ آینده\n\n\n\n\n5\n\n\t\n\ndrink\n\n\t\n\nشرطی نوع صفر؛ چون نتیجه یک واقعیت عمومی است\n\n\n\n\n6\n\n\t\n\nhad\n\n\t\n\nشرطی نوع دوم\n\nبررسی نکات اشتباه یا مهم\n\nشمارهٔ ۱\n\nUnless you hurry, you'll miss the bus.\n\nتو ظاهراً hurries نوشته‌ای. این اشتباه است؛ چون فاعل you است و فعل hurry در اینجا s نمی‌گیرد.\n\nHe hurries.\n\nYou hurry.\n\nShe hurries.\n\nهمچنین نتیجه باید will miss باشد، نه would miss؛ چون این جمله دربارهٔ یک وضعیت واقعی و محتمل در آینده است.\n\nشمارهٔ ۲\n\nI won't go out unless the weather improves.\n\nدرست است. معنی: بیرون نمی‌روم، مگر اینکه هوا بهتر شود.\n\nشمارهٔ ۳\n\nUnless she studies harder, she won't pass the exam.\n\nدرست است.\n\nstudy → studies\n\nوقتی فاعل سوم‌شخص مفرد باشد، در زمان حال ساده معمولاً y به ies تبدیل می‌شود.\n\nشمارهٔ ۴\n\nWe will stay at home unless the weather is nice.\n\nپاسخ صحیح:\n\nwill stay\n\nis\n\nاگر در پاسخ تو would stay و would be نوشته شده، هر دو را تغییر بده. این جمله دربارهٔ یک برنامه یا نتیجهٔ محتمل است، نه وضعیت فرضی.\n\nشمارهٔ ۵\n\nUnless you drink enough water, you feel tired.\n\nدرست است. این مثال از شرطی نوع صفر است، چون یک رابطهٔ عمومی میان کم‌آبی و احساس خستگی را بیان می‌کند.\n\nشمارهٔ ۶\n\nUnless I had more free time, I wouldn't learn another language.\n\nپاسخ تو درست است.\n\nاین جمله Second Conditional است؛ چون دربارهٔ وضعیتی فرضی صحبت می‌کند.\n\n۳. بررسی Exercise 2 — بازنویسی با UNLESS\n\nاین قسمت را تقریباً درست انجام داده‌ای.\n\nشماره\n\n\t\n\nپاسخ صحیح\n\n\t\n\nوضعیت\n\n\n\n\n7\n\n\t\n\nUnless you wear a coat, you'll feel cold.\n\n\t\n\nدرست\n\n\n\n\n8\n\n\t\n\nI won't watch TV unless I finish my work.\n\n\t\n\nدرست\n\n\n\n\n9\n\n\t\n\nI'll be worried unless she calls me.\n\n\t\n\nدرست\n\n\n\n\n10\n\n\t\n\nUnless you leave now, you'll miss the train.\n\n\t\n\nدرست\n\n\n\n\n11\n\n\t\n\nWe won't get a seat unless we book a table.\n\n\t\n\nدرست\n\n\n\n\n12\n\n\t\n\nUnless he practises, he won't improve his English.\n\n\t\n\nدرست\n\nدر شمارهٔ ۱۲ فقط توجه کن که:\n\nhe doesn't practise تبدیل می‌شود به unless he practises.\n\nچون unless خودش مفهوم منفی را منتقل می‌کند، دیگر نباید بنویسی:\n\nUnless he doesn't practise ...\n\nاین جمله معنی دیگری ایجاد می‌کند.\n\n۴. تبدیل جملات Second Conditional به UNLESS\nشمارهٔ ۱۳\n\nجملهٔ اولیه:\n\nIf I didn't have so much work, I'd go to the gym.\n\nپاسخ:\n\nUnless I had so much work, I'd go to the gym.\n\nدرست است.\n\nمنطق تبدیل:\n\nIf I didn't have so much work\n\nUnless I had so much work\n\nهر دو در اینجا همان شرط را منتقل می‌کنند: اگر حجم کارم زیاد نبود.\n\nشمارهٔ ۱۴\n\nجملهٔ اولیه:\n\nIf I didn't live so far away, I'd visit you more often.\n\nپاسخ:\n\nUnless I lived so far away, I'd visit you more often.\n\nاین هم درست است.\n\nنکتهٔ ظریف: تفاوت UNLESS و ONLY IF\n\nیادداشتت:\n\nIf I did not have extra money, I wouldn't go to a fancy restaurant.\n\nمعادل:\n\nUnless I had extra money, I wouldn't go to a fancy restaurant.\n\nهمچنین می‌توانی بگویی:\n\nI would only go to a fancy restaurant if I had extra money.\n\nاین جمله هم می‌گوید فقط در صورت داشتن پول اضافه به رستوران گران‌قیمت می‌روی.\n\nاما در ساختار only if باید به جایگاه آن توجه کنی:\n\nطبیعی: I would go only if I had enough money.\n\nرسمی با وارونگی: Only if I had enough money would I go.\n\nبعد از قرار گرفتن Only if در ابتدای جمله، در ساختار رسمی از وارونگی فعل کمکی و فاعل استفاده می‌شود.\n\nتفاوت معنایی:\n\nunless = مگر اینکه؛ یک شرط منفی را مطرح می‌کند.\n\nonly if = فقط در صورتی که؛ روی ضروری بودن یک شرط تأکید می‌کند.\n\nاین دو در مثال بالا از نظر رابطهٔ منطقی معادل‌اند، اما در همهٔ جمله‌ها جایگزین مستقیم یکدیگر نیستند.\n\n۵. بررسی Exercise 3\n\nشماره\n\n\t\n\nگزینهٔ صحیح\n\n\t\n\nپاسخ تو\n\n\n\n\n15\n\n\t\n\nA — leave\n\n\t\n\nدرست\n\n\n\n\n16\n\n\t\n\nB — is\n\n\t\n\nدرست\n\n\n\n\n17\n\n\t\n\nA — exercises\n\n\t\n\nدرست\n\n\n\n\n18\n\n\t\n\nB — take\n\n\t\n\nفقط B درست است\n\n\n\n\n19\n\n\t\n\nC — found\n\n\t\n\nدرست\n\n\n\n\n20\n\n\t\n\nA — get\n\n\t\n\nدرست\n\nنکتهٔ شمارهٔ ۱۸:\n\nUnless we take a taxi, we'll miss our flight.\n\nچون این جمله First Conditional است، بعد از unless از Present Simple استفاده می‌کنیم. will take گزینهٔ مناسبی نیست.\n\nنکتهٔ شمارهٔ ۱۹:\n\nI wouldn't move to another city unless I found a good job there.\n\nاینجا found گذشتهٔ ساده است و نشانهٔ Second Conditional محسوب می‌شود. منظور این نیست که حتماً شغل را در گذشته پیدا کرده‌ای؛ بلکه یک شرط فرضی برای جابه‌جایی در آینده مطرح شده است.\n\nبخش دوم: بررسی واژگان و عبارت‌های کلاس\n۶. I couldn't get off from my work\n\nاین عبارت به شکلی که نوشته‌ای طبیعی نیست. دو عبارت متفاوت وجود دارد که باید از هم جدا کنی:\n\nعبارت\n\n\t\n\nمعنی\n\n\n\n\nget off work\n\n\t\n\nکار روزانه یا شیفت را تمام کردن و از محل کار خارج شدن\n\n\n\n\nget time off work\n\n\t\n\nاز محل کار مرخصی گرفتن\n\n\n\n\nget away from work\n\n\t\n\nبرای مدتی از کار فاصله گرفتن\n\n\n\n\ntake time off\n\n\t\n\nمرخصی گرفتن\n\nمثال:\n\nI couldn't get off work early yesterday.\n\nدیروز نتوانستم زودتر کارم را تمام کنم.\n\nI couldn't get time off work to attend the competition.\n\nنتوانستم برای شرکت در مسابقه از محل کار مرخصی بگیرم.\n\nپس اگر منظورت این بوده که به‌خاطر کار نتوانستی در مسابقه شرکت کنی، جملهٔ دوم مناسب است.\n\n۷. Keep the team spirit up\n\nمعنی: روحیهٔ تیم را بالا نگه داشتن.\n\nEnglish definition: To maintain positive feelings, motivation and cooperation among members of a team.\n\nجایگاه: keep + noun + adjective/phrase\n\nمثال:\n\nThe head coach always tries to keep the team spirit up.\n\nسرمربی همیشه تلاش می‌کند روحیهٔ تیم را بالا نگه دارد.\n\nخانواده و ترکیب‌های مرتبط:\n\nspirit (Noun) = روحیه، روح، حال‌وهوا\n\nspirited (Adjective) = پرشور، باانرژی\n\nspiritedly (Adverb) = با شور و انرژی\n\nteam spirit = روحیهٔ تیمی\n\nmoral = اخلاقی؛ با morale اشتباه نشود.\n\nmorale (Noun) = روحیهٔ گروهی یا سازمانی\n\nتفاوت:\n\nteam spirit = حس اتحاد و همدلی اعضای تیم.\n\nteam morale = سطح انگیزه و روحیهٔ اعضای تیم.\n\nیک عبارت طبیعی دیگر:\n\nThe coach needs to keep the players' morale high.\n\nسرمربی باید روحیهٔ بازیکنان را بالا نگه دارد.\n\n۸. Expectation و Anticipation\n\nاین دو به هم مرتبط‌اند، اما دقیقاً مترادف نیستند.\n\nExpectation\n\nمعنی: انتظار، توقع یا پیش‌بینی چیزی.\n\nEnglish definition: A belief that something will happen or a standard that someone believes should be met.\n\nجایگاه: اسم شمارش‌پذیر؛ expectation/expectations.\n\nمثال:\n\nThe head coach explained his expectations to the players.\n\nسرمربی انتظاراتش را برای بازیکنان توضیح داد.\n\nخانوادهٔ کلمات:\n\nواژه\n\n\t\n\nنوع\n\n\t\n\nمعنی\n\n\n\n\nexpect\n\n\t\n\nVerb\n\n\t\n\nانتظار داشتن\n\n\n\n\nexpectation\n\n\t\n\nNoun\n\n\t\n\nانتظار یا توقع\n\n\n\n\nexpected\n\n\t\n\nAdjective\n\n\t\n\nمورد انتظار\n\n\n\n\nunexpected\n\n\t\n\nAdjective\n\n\t\n\nغیرمنتظره\n\n\n\n\nunexpectedly\n\n\t\n\nAdverb\n\n\t\n\nبه‌طور غیرمنتظره\n\n\n\n\nexpectantly\n\n\t\n\nAdverb\n\n\t\n\nبا حالت انتظار\n\nAnticipation\n\nمعنی: انتظار همراه با پیش‌بینی یا هیجان نسبت به چیزی که قرار است اتفاق بیفتد.\n\nEnglish definition: A feeling of excitement or expectation about something that is going to happen.\n\nجایگاه: اسم؛ معمولاً غیرقابل‌شمارش.\n\nمثال:\n\nThe players waited in anticipation of the final result.\n\nبازیکنان با هیجان و انتظار منتظر نتیجهٔ نهایی بودند.\n\nخانوادهٔ کلمات:\n\nanticipate (Verb) = پیش‌بینی کردن، انتظار داشتن\n\nanticipation (Noun) = انتظار یا اشتیاق\n\nanticipated (Adjective) = مورد انتظار\n\nanticipatory (Adjective) = مربوط به پیش‌بینی یا انتظار\n\nتفاوت کاربردی\n\nI expect the team to win.\n\nانتظار دارم تیم برنده شود؛ یک باور یا پیش‌بینی.\n\nI am waiting in anticipation of the final match.\n\nبا هیجان منتظر مسابقهٔ نهایی هستم.\n\nبنابراین جملهٔ جزوه‌ات:\n\nShe is talking to the players about her expectations.\n\nکاملاً درست است و در این موقعیت از anticipations طبیعی‌تر است.\n\n۹. Teenager و Adolescent\n\nهر دو به دورهٔ نوجوانی مربوط‌اند، ولی کاربردشان کمی فرق دارد.\n\nواژه\n\n\t\n\nتوضیح\n\n\n\n\nteenager\n\n\t\n\nفرد ۱۳ تا ۱۹ ساله؛ کاربرد روزمره\n\n\n\n\nadolescent\n\n\t\n\nفرد در دورهٔ رشد نوجوانی؛ کاربرد علمی‌تر و رسمی‌تر\n\nمثال:\n\nTeenagers often need more independence.\n\nنوجوانان معمولاً به استقلال بیشتری نیاز دارند.\n\nAdolescents experience important physical and psychological changes.\n\nنوجوانان تغییرات جسمی و روانی مهمی را تجربه می‌کنند.\n\nخانوادهٔ کلمات:\n\nadolescence (Noun) = دوران نوجوانی\n\nadolescent (Noun/Adjective) = نوجوان / مربوط به نوجوانی\n\nadolescent development = رشد دوران نوجوانی\n\nتوجه: نوجوانی از نظر رشد انسانی دقیقاً محدود به سن ۱۳ تا ۱۹ نیست؛ teenager بر اساس شکل عددی سن تعریف می‌شود، اما adolescent بیشتر مفهوم رشدی دارد.\n\n۱۰. Bench\n\nمعنی: نیمکت.\n\nEnglish definition: A long seat, often used by several people at the same time.\n\nجایگاه: اسم؛ همچنین در ورزش به گروه بازیکنان ذخیره یا محل نشستن آن‌ها اشاره می‌کند.\n\nمثال‌ها:\n\nThe coach asked the injured player to sit on the bench.\n\nمربی از بازیکن مصدوم خواست روی نیمکت بنشیند.\n\nThe team has several talented players on the bench.\n\nتیم چند بازیکن بااستعداد ذخیره دارد.\n\nترکیب‌های مهم:\n\nsit on the bench = روی نیمکت نشستن\n\nbench player = بازیکن ذخیره\n\nthe substitutes' bench = نیمکت بازیکنان ذخیره\n\nbench press = حرکت پرس سینه با هالتر\n\nنکته: در ورزش اصطلاح be benched یعنی بازیکن در ترکیب اصلی قرار نگرفتن یا به نیمکت منتقل شدن.\n\n۱۱. Get inspired by\n\nمعنی: از کسی یا چیزی الهام گرفتن.\n\nEnglish definition: To feel motivated or encouraged by someone or something.\n\nجایگاه: get/be inspired by + noun\n\nمثال:\n\nI get inspired by athletes who never give up.\n\nاز ورزشکارانی که هرگز تسلیم نمی‌شوند الهام می‌گیرم.\n\nخانوادهٔ کامل واژگان:\n\nواژه\n\n\t\n\nنوع\n\n\t\n\nمعنی\n\n\n\n\ninspire\n\n\t\n\nVerb\n\n\t\n\nالهام بخشیدن\n\n\n\n\ninspiration\n\n\t\n\nNoun\n\n\t\n\nالهام، منبع الهام\n\n\n\n\ninspired\n\n\t\n\nAdjective\n\n\t\n\nالهام‌گرفته\n\n\n\n\ninspiring\n\n\t\n\nAdjective\n\n\t\n\nالهام‌بخش\n\n\n\n\ninspirational\n\n\t\n\nAdjective\n\n\t\n\nالهام‌بخش، انگیزه‌دهنده\n\n\n\n\ninspiringly\n\n\t\n\nAdverb\n\n\t\n\nبه‌شکلی الهام‌بخش؛ کم‌کاربرد\n\nتفاوت:\n\nI am inspired by him. — من از او الهام می‌گیرم.\n\nHe is inspiring. — او الهام‌بخش است.\n\nHis story is inspirational. — داستانش الهام‌بخش است.\n\ninspiring و inspirational بسیار به هم نزدیک‌اند. inspiring در مکالمه و توصیف مستقیم افراد و تجربه‌ها بسیار رایج است.\n\n۱۲. Head Coach و Assistant Coach\n\nHead Coach — سرمربی\n\nEnglish definition: The main coach responsible for leading and managing a sports team.\n\nمثال:\n\nThe head coach is responsible for selecting the starting players.\n\nAssistant Coach — کمک‌مربی\n\nEnglish definition: A coach who helps the head coach train and manage a team.\n\nمثال:\n\nThe assistant coach helps players improve their techniques.\n\nترکیب‌های تکمیلی:\n\ncoaching staff = کادر فنی\n\ncoach = مربی\n\ncoaching = مربی‌گری\n\ncoachable = فردی که پذیرای آموزش و راهنمایی است\n\nteam selection = انتخاب ترکیب تیم\n\ntraining session = جلسهٔ تمرینی\n\n۱۳. Community\n\nتعریفی که در جزوه نوشته‌ای درست است؛ کمی آن را دقیق‌تر می‌کنیم.\n\nمعنی: جامعه یا گروهی از افراد که در یک محدودهٔ جغرافیایی زندگی می‌کنند یا علاقه و هدف مشترکی دارند.\n\nEnglish definition: A group of people who live in the same area or share a common interest, identity or purpose.\n\nجایگاه: اسم؛ شمارش‌پذیر.\n\nمثال:\n\nSport can bring people together and strengthen the local community.\n\nورزش می‌تواند مردم را دور هم جمع کند و جامعهٔ محلی را تقویت کند.\n\nخانوادهٔ واژگان:\n\ncommunity (Noun) = جامعه\n\ncommunities (Plural) = جوامع\n\ncommunal (Adjective) = مشترک یا جمعی\n\ncommunity-based (Adjective) = مبتنی بر جامعه\n\ncommunally (Adverb) = به‌صورت جمعی\n\nترکیب‌های کاربردی:\n\nlocal community = جامعهٔ محلی\n\nonline community = جامعهٔ آنلاین\n\ncommunity centre = مرکز اجتماعی\n\ncommunity service = خدمات اجتماعی\n\nsense of community = احساس تعلق به جامعه\n\n۱۴. Bookworm, Swot, Nerd و Avid Reader\n\nاین چهار واژه دقیقاً هم‌معنی نیستند.\n\nعبارت\n\n\t\n\nمعنی\n\n\t\n\nلحن\n\n\n\n\nbookworm\n\n\t\n\nفردی که بسیار کتاب می‌خواند\n\n\t\n\nمعمولاً خنثی یا مثبت\n\n\n\n\nswot\n\n\t\n\nفردی که زیاد درس می‌خواند\n\n\t\n\nبریتانیایی و گاهی تحقیرآمیز\n\n\n\n\nnerd\n\n\t\n\nفردی با علاقهٔ زیاد و دانش بالا در زمینه‌ای خاص\n\n\t\n\nگاهی منفی، اما امروزه اغلب خنثی یا مثبت\n\n\n\n\navid reader\n\n\t\n\nخوانندهٔ بسیار مشتاق\n\n\t\n\nمثبت و طبیعی\n\nمثال‌ها:\n\nMy brother is a real bookworm.\n\nبرادرم واقعاً عاشق کتاب است.\n\nHe's a bit of a swot; he studies all the time.\n\nاو کمی اهل درس‌خواندن افراطی است؛ همیشه مشغول مطالعه است.\n\nShe's a computer nerd who knows a lot about programming.\n\nاو عاشق کامپیوتر است و دربارهٔ برنامه‌نویسی اطلاعات زیادی دارد.\n\nI'm an avid reader of science and technology books.\n\nمن خوانندهٔ مشتاق کتاب‌های علمی و فناوری هستم.\n\nتفاوت با Enthusiast\n\nEnthusiast یعنی فردی که علاقه و اشتیاق زیادی نسبت به یک موضوع یا فعالیت دارد.\n\nEnglish definition: Someone who is very interested in a particular activity or subject.\n\nجایگاه: اسم؛ اغلب در ساختار ... enthusiast.\n\nمثال:\n\nHe's a fitness enthusiast.\n\nاو علاقه‌مند جدی به تناسب‌اندام است.\n\nخانوادهٔ کلمات:\n\nواژه\n\n\t\n\nنوع\n\n\t\n\nمعنی\n\n\n\n\nenthusiasm\n\n\t\n\nNoun\n\n\t\n\nاشتیاق\n\n\n\n\nenthusiast\n\n\t\n\nNoun\n\n\t\n\nفرد مشتاق\n\n\n\n\nenthusiastic\n\n\t\n\nAdjective\n\n\t\n\nمشتاق\n\n\n\n\nenthusiastically\n\n\t\n\nAdverb\n\n\t\n\nبا اشتیاق\n\nمثال‌های دیگر:\n\na sports enthusiast\n\na technology enthusiast\n\nan enthusiastic learner\n\nShe enthusiastically joined the project.\n\nبرای معرفی خودت می‌توانی بگویی:\n\nI'm a technology enthusiast and an avid reader.\n\nمن علاقه‌مند جدی به فناوری و خواننده‌ای مشتاق هستم.\n\n۱۵. Take up\n\nدر جزوه دو کاربرد مهم آن را نوشته‌ای و هر دو درست‌اند.\n\nکاربرد اول: شروع یک سرگرمی یا فعالیت جدید\n\nEnglish definition: To start doing a new activity, hobby or sport regularly.\n\nساختار:\n\ntake up + noun / V-ing\n\nمثال:\n\nI've recently taken up going to the gym.\n\nاخیراً باشگاه رفتن را شروع کرده‌ام.\n\nمثال‌های بیشتر:\n\ntake up karate = کاراته را شروع کردن\n\ntake up swimming = شنا را شروع کردن\n\ntake up photography = عکاسی را به‌عنوان سرگرمی شروع کردن\n\ntake up a new hobby = سرگرمی جدیدی شروع کردن\n\nخانوادهٔ واژگانی:\n\ntake (Verb) = گرفتن\n\ntook (Past Simple)\n\ntaken (Past Participle)\n\nundertake (Verb) = بر عهده گرفتن؛ واژه‌ای مرتبط از نظر معنی، نه صرف فعل take up\n\nundertaking (Noun) = اقدام یا فعالیتی که بر عهده گرفته می‌شود\n\nنکته: جملهٔ زیر از نظر گرامری ممکن است، اما برای مکالمه معمولاً طبیعی‌تر است بگویی:\n\nI haven't started watching films regularly yet.\n\nهنوز تماشای منظم فیلم را شروع نکرده‌ام.\n\nکاربرد دوم: اشغال کردن زمان یا فضا\n\nEnglish definition: To use or occupy a particular amount of time or space.\n\nمثال:\n\nCommuting takes up two hours of my day.\n\nرفت‌وآمد روزانه‌ام دو ساعت از روزم را می‌گیرد.\n\nمثال‌ها:\n\nThis task takes up a lot of time. — این کار زمان زیادی می‌گیرد.\n\nThe sofa takes up too much space. — مبل فضای زیادی اشغال می‌کند.\n\nWork takes up most of my day. — کار بیشتر روزم را می‌گیرد.\n\nاین دو کاربرد را نباید با هم اشتباه بگیری: یکی شروع فعالیت جدید است و دیگری اشغال کردن منابعی مثل زمان و فضا.\n\n۱۶. Commuting\n\nمعنی: رفت‌وآمد منظم میان خانه و محل کار یا تحصیل.\n\nEnglish definition: The regular journey between home and work or school.\n\nجایگاه: اسم یا Gerund؛ فعل اصلی آن commute است.\n\nمثال:\n\nI spend an hour commuting every day.\n\nهر روز یک ساعت را صرف رفت‌وآمد می‌کنم.\n\nخانوادهٔ واژگان:\n\ncommute (Verb/Noun) = رفت‌وآمد روزانه\n\ncommuting (Noun/Gerund) = رفت‌وآمد روزانه\n\ncommuter (Noun) = کسی که رفت‌وآمد روزانه دارد\n\nترکیب‌ها:\n\ndaily commute = رفت‌وآمد روزانه\n\ncommuting time = زمان رفت‌وآمد\n\nlong commute = مسیر رفت‌وآمد طولانی\n\ncommuter train = قطار مخصوص مسافران روزانه\n\nمثال:\n\nMy commute takes up two hours a day.\n\nرفت‌وآمد روزانه‌ام دو ساعت طول می‌کشد.\n\nنکته: commuting فقط رفتن از محل کار به خانه نیست؛ هم مسیر رفت و هم برگشت را شامل می‌شود.\n\n۱۷. Players' families و مالکیت جمع\n\nتوضیح کلاس از نظر مفهوم درست است. بیایید دقیق‌تر بررسی کنیم.\n\nحالت\n\n\t\n\nمثال\n\n\t\n\nمعنی\n\n\n\n\nمفرد\n\n\t\n\nplayer's family\n\n\t\n\nخانوادهٔ یک بازیکن\n\n\n\n\nجمع\n\n\t\n\nplayers' families\n\n\t\n\nخانواده‌های چند بازیکن\n\n\n\n\nجمع بدون مالکیت\n\n\t\n\nplayers\n\n\t\n\nبازیکنان\n\nقانون:\n\nوقتی اسم جمع به s ختم می‌شود، برای مالکیت تنها یک آپاستروف پس از s قرار می‌دهیم.\n\nplayers + ' + families = players' families\n\nمثال:\n\nthe teacher's office — دفتر یک معلم\n\nthe teachers' office — دفتر معلمان\n\nthe players' uniforms — لباس‌های بازیکنان\n\nthe students' books — کتاب‌های دانش‌آموزان\n\nنکته: در players' families دو ساختار مستقل داریم؛ players' مالکیت را نشان می‌دهد و families خودش اسم جمع است.\n\n۱۸. It's over an hour\n\nاین عبارت یعنی «بیش از یک ساعت است» یا «مدتش بیشتر از یک ساعت است»، اما معنی دقیق به بافت وابسته است.\n\nمثال:\n\nThe journey is over an hour long.\n\nسفر بیش از یک ساعت طول می‌کشد.\n\nاما اگر بخواهی بگویی بیش از یک ساعت از زمانی گذشته:\n\nIt's been over an hour since I called him.\n\nبیش از یک ساعت از زمانی که به او زنگ زدم گذشته است.\n\nمقایسه:\n\nIt's over an hour long. — مدت آن بیش از یک ساعت است.\n\nIt's been over an hour. — بیش از یک ساعت گذشته است.\n\n۱۹. Inspirational\n\nاین واژه را قبلاً هم در جزوه‌های تو داشتیم و ارزش مرور دارد.\n\nمعنی: الهام‌بخش، انگیزه‌دهنده.\n\nEnglish definition: Making someone feel inspired or motivated to do something positive.\n\nجایگاه: صفت؛ پیش از اسم یا بعد از افعالی مثل be, seem, sound.\n\nمثال:\n\nThe coach gave an inspirational speech before the final match.\n\nمربی پیش از مسابقهٔ نهایی سخنرانی الهام‌بخشی کرد.\n\nمقایسهٔ خانوادهٔ کلمات:\n\ninspire — فعل: الهام بخشیدن\n\ninspiration — اسم: الهام\n\ninspired — صفت: الهام‌گرفته\n\ninspiring — صفت: الهام‌بخش\n\ninspirational — صفت: الهام‌بخش\n\nمثال:\n\nHis story inspired me.\n\nداستانش به من انگیزه داد.\n\nI feel inspired by his story.\n\nاز داستانش الهام می‌گیرم.\n\nHis story is inspiring.\n\nداستانش الهام‌بخش است.\n\n۲۰. Affection\n\nمعنی: محبت، علاقهٔ عاطفی و احساس صمیمیت نسبت به کسی.\n\nEnglish definition: A gentle feeling of care, warmth or love towards someone.\n\nجایگاه: اسم غیرقابل‌شمارش؛ معمولاً affection for someone یا show affection.\n\nمثال:\n\nShe has a lot of affection for her family.\n\nاو محبت زیادی نسبت به خانواده‌اش دارد.\n\nخانوادهٔ واژگان:\n\nواژه\n\n\t\n\nنوع\n\n\t\n\nمعنی\n\n\n\n\naffection\n\n\t\n\nNoun\n\n\t\n\nمحبت\n\n\n\n\naffectionate\n\n\t\n\nAdjective\n\n\t\n\nمهربان، بامحبت\n\n\n\n\naffectionately\n\n\t\n\nAdverb\n\n\t\n\nبا محبت\n\n\n\n\naffectionless\n\n\t\n\nAdjective\n\n\t\n\nفاقد محبت؛ کم‌کاربرد\n\nتفاوت با love:\n\nlove معمولاً احساس عمیق‌تری است و دامنهٔ کاربرد بیشتری دارد. affection بیشتر بر محبت، مهربانی، صمیمیت و ابراز احساسات تأکید می‌کند.\n\nمثال:\n\nHe showed affection by supporting his teammates.\n\nاو با حمایت از هم‌تیمی‌هایش محبت خود را نشان داد.\n\n۲۱. Straight away\n\nدر یادداشتت نوشته‌ای:\n\nStarting away == right away == immediately\n\nشکل درست به احتمال زیاد straight away بوده، نه starting away.\n\nاین سه عبارت معنی نزدیک دارند:\n\nstraight away — بلافاصله\n\nright away — بلافاصله\n\nimmediately — فوراً\n\nمثال:\n\nI called the coach straight away.\n\nبلافاصله با مربی تماس گرفتم.\n\nخانوادهٔ کلمات:\n\nimmediate (Adjective) = فوری\n\nimmediately (Adverb) = فوراً\n\nimmediacy (Noun) = فوریت\n\nimmediate response = پاسخ فوری\n\nتفاوت کاربردی: immediately رسمی‌تر است؛ right away و straight away در مکالمه بسیار رایج‌اند.\n\nبخش سوم: Writing ترکیبی\n\nدر این Writing از واژگان همین جلسه و جلسات قبل، به‌ویژه take up، commuting، team spirit، expectations، inspirational، affection و ساختارهای Unless و Second Conditional استفاده کرده‌ام.\n\nWriting\nBalancing Work, Life and Personal Interests\n\nThese days, work takes up a large part of our lives. Many people spend several hours commuting, and they sometimes struggle to make ends meet. I believe that having a decent salary is important, but it shouldn't be our only goal.\n\nRecently, I've taken up going to the gym because I want to improve my physical and mental health. I've been exercising regularly, and I already feel more energetic. If I had more free time, I would also take up swimming or another sport.\n\nI believe that a good head coach should keep the team's spirit up and have realistic expectations of the players. An inspirational coach can encourage athletes to overcome their fears, face challenges and treat their opponents with respect.\n\nUnless people make time for their hobbies and relationships, they may become stressed and lose motivation. If I had to choose between earning more money and having a healthy work-life balance, I would choose balance. After all, success should not come at the expense of our health and happiness.\n\nنکات گرامری و واژگانی Writing\n\nعبارت\n\n\t\n\nنکته\n\n\n\n\nwork takes up a large part of our lives\n\n\t\n\nکاربرد دوم take up: اشغال کردن زمان\n\n\n\n\nstruggle to make ends meet\n\n\t\n\nاصطلاح تأمین هزینه‌های زندگی\n\n\n\n\nI've taken up going to the gym\n\n\t\n\nPresent Perfect Simple + take up\n\n\n\n\nI've been exercising regularly\n\n\t\n\nPresent Perfect Continuous\n\n\n\n\nIf I had more free time, I would ...\n\n\t\n\nSecond Conditional\n\n\n\n\nshould keep the team's spirit up\n\n\t\n\nModal برای توصیه\n\n\n\n\nencourage athletes to overcome ...\n\n\t\n\nencourage + object + to-infinitive\n\n\n\n\nUnless people make time ...\n\n\t\n\nشرطی با unless\n\n\n\n\nIf I had to choose ...\n\n\t\n\nشرط فرضی برای انتخاب\n\nمرور واژگان برای Spaced Review\n\nاین جدول را برای مرور بعدی نگه دار:\n\nواژه یا ترکیب\n\n\t\n\nمعنی\n\n\n\n\nget time off work\n\n\t\n\nمرخصی گرفتن\n\n\n\n\nkeep team spirit up\n\n\t\n\nروحیهٔ تیم را بالا نگه داشتن\n\n\n\n\nexpectations\n\n\t\n\nانتظارات\n\n\n\n\nin anticipation of\n\n\t\n\nدر انتظارِ\n\n\n\n\nteenager / adolescent\n\n\t\n\nنوجوان\n\n\n\n\nget inspired by\n\n\t\n\nالهام گرفتن از\n\n\n\n\nhead coach\n\n\t\n\nسرمربی\n\n\n\n\nassistant coach\n\n\t\n\nکمک‌مربی\n\n\n\n\ncommunity\n\n\t\n\nجامعه، اجتماع\n\n\n\n\navid reader\n\n\t\n\nخوانندهٔ مشتاق\n\n\n\n\nenthusiast\n\n\t\n\nفرد علاقه‌مند و مشتاق\n\n\n\n\ntake up a hobby\n\n\t\n\nشروع یک سرگرمی\n\n\n\n\ntake up time\n\n\t\n\nزمان اشغال کردن\n\n\n\n\ncommuting\n\n\t\n\nرفت‌وآمد روزانه\n\n\n\n\nplayers' families\n\n\t\n\nخانواده‌های بازیکنان\n\n\n\n\ninspirational\n\n\t\n\nالهام‌بخش\n\n\n\n\naffection\n\n\t\n\nمحبت\n\n\n\n\nstraight away\n\n\t\n\nبلافاصله\n\nتمرین پایانی\n\nاین پنج جمله را به انگلیسی ترجمه کن. از واژگان جدید استفاده کن:\n\nاخیراً باشگاه رفتن را شروع کرده‌ام، چون رفت‌وآمد روزانه و کار بخش زیادی از وقتم را می‌گیرند.\n\nاگر وقت آزاد بیشتری داشتم، شنا را هم به‌عنوان یک سرگرمی جدید شروع می‌کردم.\n\nسرمربی باید انتظارات واقع‌بینانه‌ای از بازیکنان داشته باشد و روحیهٔ تیم را بالا نگه دارد.\n\nاگر از نظر مالی مشکل داشته باشم، نمی‌توانم برای یک سرگرمی جدید هزینه کنم.\n\nمگر اینکه برای روابط و علایق شخصی‌مان وقت بگذاریم، ممکن است انگیزه‌مان را از دست بدهیم.\n\nاولویت یادگیری این جلسه: تفاوت take up در دو معنایش، کاربرد unless در شرطی نوع اول و دوم، و خانوادهٔ واژگانی inspire، expect، enthusiast و commute. این چهار گروه را در جمله‌سازی فعال تمرین کن.",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": [
+      {
+        "locator": "table:1",
+        "rows": [
+          [
+            "شماره",
+            "پاسخ صحیح",
+            "توضیح"
+          ],
+          [
+            "1",
+            "hurry / will miss",
+            "شرطی نوع اول"
+          ],
+          [
+            "2",
+            "improves",
+            "Present Simple بعد از unless"
+          ],
+          [
+            "3",
+            "studies",
+            "فاعل سوم‌شخص مفرد"
+          ],
+          [
+            "4",
+            "will stay / is",
+            "شرط واقعی و نتیجهٔ آینده"
+          ],
+          [
+            "5",
+            "drink",
+            "شرطی نوع صفر؛ چون نتیجه یک واقعیت عمومی است"
+          ],
+          [
+            "6",
+            "had",
+            "شرطی نوع دوم"
+          ]
+        ]
+      },
+      {
+        "locator": "table:2",
+        "rows": [
+          [
+            "شماره",
+            "پاسخ صحیح",
+            "وضعیت"
+          ],
+          [
+            "7",
+            "Unless you wear a coat, you'll feel cold.",
+            "درست"
+          ],
+          [
+            "8",
+            "I won't watch TV unless I finish my work.",
+            "درست"
+          ],
+          [
+            "9",
+            "I'll be worried unless she calls me.",
+            "درست"
+          ],
+          [
+            "10",
+            "Unless you leave now, you'll miss the train.",
+            "درست"
+          ],
+          [
+            "11",
+            "We won't get a seat unless we book a table.",
+            "درست"
+          ],
+          [
+            "12",
+            "Unless he practises, he won't improve his English.",
+            "درست"
+          ]
+        ]
+      },
+      {
+        "locator": "table:3",
+        "rows": [
+          [
+            "شماره",
+            "گزینهٔ صحیح",
+            "پاسخ تو"
+          ],
+          [
+            "15",
+            "A — leave",
+            "درست"
+          ],
+          [
+            "16",
+            "B — is",
+            "درست"
+          ],
+          [
+            "17",
+            "A — exercises",
+            "درست"
+          ],
+          [
+            "18",
+            "B — take",
+            "فقط B درست است"
+          ],
+          [
+            "19",
+            "C — found",
+            "درست"
+          ],
+          [
+            "20",
+            "A — get",
+            "درست"
+          ]
+        ]
+      },
+      {
+        "locator": "table:4",
+        "rows": [
+          [
+            "عبارت",
+            "معنی"
+          ],
+          [
+            "get off work",
+            "کار روزانه یا شیفت را تمام کردن و از محل کار خارج شدن"
+          ],
+          [
+            "get time off work",
+            "از محل کار مرخصی گرفتن"
+          ],
+          [
+            "get away from work",
+            "برای مدتی از کار فاصله گرفتن"
+          ],
+          [
+            "take time off",
+            "مرخصی گرفتن"
+          ]
+        ]
+      },
+      {
+        "locator": "table:5",
+        "rows": [
+          [
+            "واژه",
+            "نوع",
+            "معنی"
+          ],
+          [
+            "expect",
+            "Verb",
+            "انتظار داشتن"
+          ],
+          [
+            "expectation",
+            "Noun",
+            "انتظار یا توقع"
+          ],
+          [
+            "expected",
+            "Adjective",
+            "مورد انتظار"
+          ],
+          [
+            "unexpected",
+            "Adjective",
+            "غیرمنتظره"
+          ],
+          [
+            "unexpectedly",
+            "Adverb",
+            "به‌طور غیرمنتظره"
+          ],
+          [
+            "expectantly",
+            "Adverb",
+            "با حالت انتظار"
+          ]
+        ]
+      },
+      {
+        "locator": "table:6",
+        "rows": [
+          [
+            "واژه",
+            "توضیح"
+          ],
+          [
+            "teenager",
+            "فرد ۱۳ تا ۱۹ ساله؛ کاربرد روزمره"
+          ],
+          [
+            "adolescent",
+            "فرد در دورهٔ رشد نوجوانی؛ کاربرد علمی‌تر و رسمی‌تر"
+          ]
+        ]
+      },
+      {
+        "locator": "table:7",
+        "rows": [
+          [
+            "واژه",
+            "نوع",
+            "معنی"
+          ],
+          [
+            "inspire",
+            "Verb",
+            "الهام بخشیدن"
+          ],
+          [
+            "inspiration",
+            "Noun",
+            "الهام، منبع الهام"
+          ],
+          [
+            "inspired",
+            "Adjective",
+            "الهام‌گرفته"
+          ],
+          [
+            "inspiring",
+            "Adjective",
+            "الهام‌بخش"
+          ],
+          [
+            "inspirational",
+            "Adjective",
+            "الهام‌بخش، انگیزه‌دهنده"
+          ],
+          [
+            "inspiringly",
+            "Adverb",
+            "به‌شکلی الهام‌بخش؛ کم‌کاربرد"
+          ]
+        ]
+      },
+      {
+        "locator": "table:8",
+        "rows": [
+          [
+            "عبارت",
+            "معنی",
+            "لحن"
+          ],
+          [
+            "bookworm",
+            "فردی که بسیار کتاب می‌خواند",
+            "معمولاً خنثی یا مثبت"
+          ],
+          [
+            "swot",
+            "فردی که زیاد درس می‌خواند",
+            "بریتانیایی و گاهی تحقیرآمیز"
+          ],
+          [
+            "nerd",
+            "فردی با علاقهٔ زیاد و دانش بالا در زمینه‌ای خاص",
+            "گاهی منفی، اما امروزه اغلب خنثی یا مثبت"
+          ],
+          [
+            "avid reader",
+            "خوانندهٔ بسیار مشتاق",
+            "مثبت و طبیعی"
+          ]
+        ]
+      },
+      {
+        "locator": "table:9",
+        "rows": [
+          [
+            "واژه",
+            "نوع",
+            "معنی"
+          ],
+          [
+            "enthusiasm",
+            "Noun",
+            "اشتیاق"
+          ],
+          [
+            "enthusiast",
+            "Noun",
+            "فرد مشتاق"
+          ],
+          [
+            "enthusiastic",
+            "Adjective",
+            "مشتاق"
+          ],
+          [
+            "enthusiastically",
+            "Adverb",
+            "با اشتیاق"
+          ]
+        ]
+      },
+      {
+        "locator": "table:10",
+        "rows": [
+          [
+            "حالت",
+            "مثال",
+            "معنی"
+          ],
+          [
+            "مفرد",
+            "player's family",
+            "خانوادهٔ یک بازیکن"
+          ],
+          [
+            "جمع",
+            "players' families",
+            "خانواده‌های چند بازیکن"
+          ],
+          [
+            "جمع بدون مالکیت",
+            "players",
+            "بازیکنان"
+          ]
+        ]
+      },
+      {
+        "locator": "table:11",
+        "rows": [
+          [
+            "واژه",
+            "نوع",
+            "معنی"
+          ],
+          [
+            "affection",
+            "Noun",
+            "محبت"
+          ],
+          [
+            "affectionate",
+            "Adjective",
+            "مهربان، بامحبت"
+          ],
+          [
+            "affectionately",
+            "Adverb",
+            "با محبت"
+          ],
+          [
+            "affectionless",
+            "Adjective",
+            "فاقد محبت؛ کم‌کاربرد"
+          ]
+        ]
+      },
+      {
+        "locator": "table:12",
+        "rows": [
+          [
+            "عبارت",
+            "نکته"
+          ],
+          [
+            "work takes up a large part of our lives",
+            "کاربرد دوم take up: اشغال کردن زمان"
+          ],
+          [
+            "struggle to make ends meet",
+            "اصطلاح تأمین هزینه‌های زندگی"
+          ],
+          [
+            "I've taken up going to the gym",
+            "Present Perfect Simple + take up"
+          ],
+          [
+            "I've been exercising regularly",
+            "Present Perfect Continuous"
+          ],
+          [
+            "If I had more free time, I would ...",
+            "Second Conditional"
+          ],
+          [
+            "should keep the team's spirit up",
+            "Modal برای توصیه"
+          ],
+          [
+            "encourage athletes to overcome ...",
+            "encourage + object + to-infinitive"
+          ],
+          [
+            "Unless people make time ...",
+            "شرطی با unless"
+          ],
+          [
+            "If I had to choose ...",
+            "شرط فرضی برای انتخاب"
+          ]
+        ]
+      },
+      {
+        "locator": "table:13",
+        "rows": [
+          [
+            "واژه یا ترکیب",
+            "معنی"
+          ],
+          [
+            "get time off work",
+            "مرخصی گرفتن"
+          ],
+          [
+            "keep team spirit up",
+            "روحیهٔ تیم را بالا نگه داشتن"
+          ],
+          [
+            "expectations",
+            "انتظارات"
+          ],
+          [
+            "in anticipation of",
+            "در انتظارِ"
+          ],
+          [
+            "teenager / adolescent",
+            "نوجوان"
+          ],
+          [
+            "get inspired by",
+            "الهام گرفتن از"
+          ],
+          [
+            "head coach",
+            "سرمربی"
+          ],
+          [
+            "assistant coach",
+            "کمک‌مربی"
+          ],
+          [
+            "community",
+            "جامعه، اجتماع"
+          ],
+          [
+            "avid reader",
+            "خوانندهٔ مشتاق"
+          ],
+          [
+            "enthusiast",
+            "فرد علاقه‌مند و مشتاق"
+          ],
+          [
+            "take up a hobby",
+            "شروع یک سرگرمی"
+          ],
+          [
+            "take up time",
+            "زمان اشغال کردن"
+          ],
+          [
+            "commuting",
+            "رفت‌وآمد روزانه"
+          ],
+          [
+            "players' families",
+            "خانواده‌های بازیکنان"
+          ],
+          [
+            "inspirational",
+            "الهام‌بخش"
+          ],
+          [
+            "affection",
+            "محبت"
+          ],
+          [
+            "straight away",
+            "بلافاصله"
+          ]
+        ]
+      }
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "2340c3c8-781f-4c46-8506-088417f410fb",
+    "capture.headings": [
+      {
+        "level": 2,
+        "text": "۱. آیا I fallen in a few times اشتباه است؟"
+      },
+      {
+        "level": 1,
+        "text": "بررسی تمرین‌های UNLESS و جزوهٔ جلسهٔ قبل"
+      },
+      {
+        "level": 1,
+        "text": "بخش اول: UNLESS و تمرین‌های کتاب"
+      },
+      {
+        "level": 2,
+        "text": "۱. مفهوم و ساختار UNLESS"
+      },
+      {
+        "level": 3,
+        "text": "نکتهٔ مهم"
+      },
+      {
+        "level": 2,
+        "text": "۲. بررسی Exercise 1"
+      },
+      {
+        "level": 3,
+        "text": "بررسی نکات اشتباه یا مهم"
+      },
+      {
+        "level": 2,
+        "text": "۳. بررسی Exercise 2 — بازنویسی با UNLESS"
+      },
+      {
+        "level": 2,
+        "text": "۴. تبدیل جملات Second Conditional به UNLESS"
+      },
+      {
+        "level": 3,
+        "text": "شمارهٔ ۱۳"
+      },
+      {
+        "level": 3,
+        "text": "شمارهٔ ۱۴"
+      },
+      {
+        "level": 3,
+        "text": "نکتهٔ ظریف: تفاوت UNLESS و ONLY IF"
+      },
+      {
+        "level": 2,
+        "text": "۵. بررسی Exercise 3"
+      },
+      {
+        "level": 1,
+        "text": "بخش دوم: بررسی واژگان و عبارت‌های کلاس"
+      },
+      {
+        "level": 2,
+        "text": "۶. I couldn't get off from my work"
+      },
+      {
+        "level": 2,
+        "text": "۷. Keep the team spirit up"
+      },
+      {
+        "level": 2,
+        "text": "۸. Expectation و Anticipation"
+      },
+      {
+        "level": 3,
+        "text": "Expectation"
+      },
+      {
+        "level": 3,
+        "text": "Anticipation"
+      },
+      {
+        "level": 3,
+        "text": "تفاوت کاربردی"
+      },
+      {
+        "level": 2,
+        "text": "۹. Teenager و Adolescent"
+      },
+      {
+        "level": 2,
+        "text": "۱۰. Bench"
+      },
+      {
+        "level": 2,
+        "text": "۱۱. Get inspired by"
+      },
+      {
+        "level": 2,
+        "text": "۱۲. Head Coach و Assistant Coach"
+      },
+      {
+        "level": 2,
+        "text": "۱۳. Community"
+      },
+      {
+        "level": 2,
+        "text": "۱۴. Bookworm, Swot, Nerd و Avid Reader"
+      },
+      {
+        "level": 3,
+        "text": "تفاوت با Enthusiast"
+      },
+      {
+        "level": 2,
+        "text": "۱۵. Take up"
+      },
+      {
+        "level": 3,
+        "text": "کاربرد اول: شروع یک سرگرمی یا فعالیت جدید"
+      },
+      {
+        "level": 3,
+        "text": "کاربرد دوم: اشغال کردن زمان یا فضا"
+      },
+      {
+        "level": 2,
+        "text": "۱۶. Commuting"
+      },
+      {
+        "level": 2,
+        "text": "۱۷. Players' families و مالکیت جمع"
+      },
+      {
+        "level": 2,
+        "text": "۱۸. It's over an hour"
+      },
+      {
+        "level": 2,
+        "text": "۱۹. Inspirational"
+      },
+      {
+        "level": 2,
+        "text": "۲۰. Affection"
+      },
+      {
+        "level": 2,
+        "text": "۲۱. Straight away"
+      },
+      {
+        "level": 1,
+        "text": "بخش سوم: Writing ترکیبی"
+      },
+      {
+        "level": 3,
+        "text": "Balancing Work, Life and Personal Interests"
+      },
+      {
+        "level": 3,
+        "text": "نکات گرامری و واژگانی Writing"
+      },
+      {
+        "level": 2,
+        "text": "مرور واژگان برای Spaced Review"
+      },
+      {
+        "level": 2,
+        "text": "تمرین پایانی"
+      }
+    ],
+    "capture.links": []
+  }
+}

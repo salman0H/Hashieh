@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "resource-m06-images-2",
+  "type": "resource",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Message 6 — images 2"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m06",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "uri": null,
+    "mediaType": "image/unknown",
+    "availability": "missing",
+    "description": {
+      "en": "Attachment indicator observed on shared page; original file and contents not retrieved."
+    }
+  },
+  "extensions": {}
+}

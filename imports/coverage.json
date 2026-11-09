@@ -1,0 +1,54 @@
+{
+  "capturedOn": "2026-11-08",
+  "sourceUrl": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+  "status": "selected-original-branch-message-bodies-captured",
+  "messages": 108,
+  "roles": {
+    "user": 54,
+    "assistant": 54
+  },
+  "characters": 609347,
+  "tables": 172,
+  "captured": [
+    "All 108 observed message bodies in the selected branch",
+    "Original message UUIDs and unique order from overlapping browser captures",
+    "172 tables and 1795 text sections",
+    "Raw text, canonical source and note records, and a lexical-table index"
+  ],
+  "notCaptured": [
+    "Referenced attachments and linked documents were not opened in this text extraction pass.",
+    "Selections are preserved only to the extent their text was rendered in the captured message body.",
+    "Separate interactive artifacts or document versions may contain additional text.",
+    "Assistant explanations remain unreviewed source material."
+  ],
+  "previousSharedLinkScan": {
+    "capturedOn": "2026-11-08",
+    "sourceUrl": "https://chatgpt.com/share/6af0508a-19f8-83ed-91a4-002901ccaac9",
+    "status": "partial",
+    "renderedMessagesObserved": 16,
+    "roles": {
+      "user": 12,
+      "assistant": 4
+    },
+    "navigationPromptLabelsObserved": 54,
+    "warning": "54 navigation labels do not establish 54 retrievable messages. Prompt navigation requested login. No unseen message was reconstructed.",
+    "captured": [
+      "12 normalized learner/request message texts",
+      "selected vocabulary tables from messages 9, 14 and 16",
+      "three writing texts",
+      "corrections and answer keys from accessible text"
+    ],
+    "notCaptured": [
+      "complete assistant prose transcript",
+      "older assistant responses not rendered in shared page",
+      "referenced 474-row Excel vocabulary file",
+      "uploaded images, worksheets and DeepSeek exports",
+      "referenced Google Doc contents"
+    ],
+    "datePolicy": "Retain displayed labels; unknown actual lesson dates and years stay null. Relative labels are not resolved using extraction date.",
+    "demoPolicy": "React sample dataset is design reference only and is not mixed with learner content.",
+    "educationalReview": "All normalized content remains draft and unreviewed; no claims of independent fact checking."
+  },
+  "datePolicy": "Retain displayed labels; unknown actual lesson dates and years stay null. Relative labels are not resolved using extraction date.",
+  "educationalReview": "All normalized content remains draft and unreviewed; no claims of independent fact checking."
+}

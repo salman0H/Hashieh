@@ -1,0 +1,877 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-e057cd15-8da7-4798-a253-42312cfcb7dc",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Phase 1 — Past Tenses & Past Perfect Family"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "assessment",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-e057cd15-8da7-4798-a253-42312cfcb7dc",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "بله. با توجه به ساختارهایی که بعد از میان‌ترم کار کردی، جزوه‌های A1–A10، مثال‌هایی که خودت در کلاس/تمرین نوشته‌ای، و سیستم قبلی DeepSeek، بهتر است مطالب را بر اساس رابطه‌ی گرامرها با هم بچینیم، نه صرفاً بر اساس ترتیب جلسات.\n\nبرای فاینال، من این را به ۶ فاز تقسیم می‌کنم:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-2",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Phase 1 — Past Tenses & Past Perfect Family\n\nاین فاز مهم‌ترین نقطه‌ی شروع است، چون از Past Perfect Continuous شروع می‌کنیم و بعد کل سیستم زمان‌های گذشته را به هم وصل می‌کنیم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-3",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "1. Past Perfect Continuous\n\nStructure\n\nSubject + had been + V-ing\n\nبرای کاری که قبل از یک نقطه/اتفاق دیگر در گذشته مدتی ادامه داشته.\n\nI had been studying for two hours when she called me.\n\nنکته‌ی اصلی:\n\nduration before a past event",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-4",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "2. Past Perfect\n\nSubject + had + V3\n\nکاری که قبل از یک اتفاق دیگر در گذشته تمام شده بود.\n\nI had finished my homework before I went out.\n\nمقایسه:\n\nI had studied English for two hours before dinner.\nI had been studying English for two hours before dinner.\n\nاولی بیشتر روی complete/result\nدومی روی duration/activity",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-5",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "3. Past Continuous\n\nwas/were + V-ing\n\nI was cooking when you called me.\n\nدو اتفاق:\n\nbackground action + interruption\n\nI was studying when my friend called.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-6",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "4. Simple Past\n\nV2\n\nShe bought a dress last week.\n\nبرای finished past actions.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-7",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "5. Past Timeline\n\nاین را باید کاملاً تصویری بفهمی:\n\nPlain text\nPAST\n│\n│  Past Perfect Continuous\n│  ────────────────►\n│                   │\n│              Past Perfect\n│                   │\n│                   ▼\n│              Past Simple\n│\n└──────────────────────────► NOW\n\nمثلاً:\n\nI had been studying for two hours when my friend called.\n\nو:\n\nI was studying when my friend called.\n\nاین دو جمله را در فاینال باید بتوانی بدون فکر کردن به فرمول، از روی مفهوم تشخیص بدهی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-8",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Phase 2 — Present Perfect Family\n\nاینجا دو گرامر مهم تو به هم وصل می‌شوند:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-9",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "1. Present Perfect Simple\n\nhave/has + V3\n\nکاربردهایی که در جزوه داشتی:\n\nexperience\nrecent action\nnumber of times\npresent result\nchanges\n\nمثال‌های خودت:\n\nI have been to Argentina twice.\n\nI have just finished my homework.\n\nI have never been abroad.\n\nI have already revised the lesson.\n\nI haven't finished it yet.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-10",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "2. Present Perfect Continuous\n\nhave/has + been + V-ing\n\nتمرکز روی duration/activity:\n\nI have been studying English for two years.\n\nShe has been working since morning.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-11",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "3. Since / For\n\nsince → starting point\n\nsince 2024\nsince Monday\nsince I was a child\n\nنه:\n\n❌ since I am a child\n\nبلکه:\n\n✅ since I was a child.\n\nfor → duration\n\nfor two years\nfor three hours\nfor a long time",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-12",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "4. Present Perfect vs Past Simple\n\nاین یکی از مهم‌ترین قسمت‌های فاینال است.\n\nI have visited Paris.\n\nدر اینجا زمان مشخص نیست.\n\nاما:\n\nI visited Paris in 2024.\n\nزمان مشخص و تمام‌شده است.\n\nبنابراین:\n\n❌ I have visited Paris two years ago.\n\n✅ I visited Paris two years ago.\n\nو نکته‌ی مهم جزوه:\n\nago → Past Simple",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-13",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "5. Been to vs Gone to\n\nI have been to London.\n\nیعنی رفته‌ام و برگشته‌ام / تجربه‌اش را دارم.\n\nShe has gone to London.\n\nیعنی رفته و هنوز آنجاست / برنگشته.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-14",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Phase 3 — Present & Past Contrast\n\nاینجا تمام tenseها را با هم مقایسه می‌کنیم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-15",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "1. Present Simple\n\nI usually get up early.\n\nکاربرد:\n\nroutine\nhabit\nfact\ntimetable\nlikes/dislikes\n\nمثال خودت:\n\nI love dogs.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-16",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "2. Present Continuous\n\nI am studying now.\n\nبرای:\n\nhappening now\ntemporary situation\nfuture arrangement\nannoying repeated behavior with always\n\nمثال:\n\nI'm speaking right now.\n\nShe is always nagging!\n\nو یک نکته‌ی مهم:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-17",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Stative vs Dynamic Verbs\n\nبعضی افعال معمولاً Continuous نمی‌شوند:\n\nI know him.\nI understand.\nI believe you.\nI love this song.\n\nولی وقتی فعل dynamic باشد:\n\nI am thinking about something.\n\nI am looking at this book.\n\nThey are tasting the soup.\n\nHe is having a shower.\n\nو حتی:\n\nHe is being stupid.\n\nاینجا being یعنی رفتاری که موقتاً دارد نشان می‌دهد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-18",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Phase 4 — Future + Modals",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-19",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "1. Will",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-20",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Instant decision\n\nI'll open the door.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-21",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Promise\n\nI'll help you.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-22",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Offer\n\nI'll carry your bag.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-23",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Prediction without evidence\n\nI think it will rain.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-24",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "2. Be Going To",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-25",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Prior plan\n\nI'm going to study tonight.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-26",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Evidence-based prediction\n\nLook at those clouds! It's going to rain.\n\nپس:\n\nWill → decision now / prediction without evidence\n\nGoing to → previous plan / evidence\n\nو:\n\ngonna\n\nنسخه‌ی informal گفتاریِ:\n\ngoing to",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-27",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Phase 5 — Modals + Conditionals",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-28",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "A. Modals",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-29",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Can\n\nAbility:\n\nI can swim.\n\nPermission:\n\nCan I leave?\n\nPossibility:\n\nIt can be dangerous.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-30",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Could\n\nPast ability:\n\nI could swim when I was five.\n\nPolite request:\n\nCould you help me?\n\nPossibility:\n\nIt could rain tonight.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-31",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "May / Might\n\nPossibility:\n\nIt may rain.\n\nIt might rain.\n\nPermission:\n\nMay I come in?",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-32",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Should\n\nAdvice:\n\nYou should practice speaking.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-33",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Must\n\nStrong/internal obligation:\n\nI must study tonight.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-34",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Have to\n\nExternal obligation:\n\nI have to wear a uniform at work.\n\nمقایسه‌ی مهم:\n\nmustn't = prohibited\n\ndon't have to = not necessary\n\nمثلاً:\n\nYou mustn't smoke here.\n\nیعنی حق نداری.\n\nاما:\n\nYou don't have to come.\n\nیعنی لازم نیست بیایی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-35",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "B. Conditionals",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-36",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Zero Conditional\n\nGeneral truth:\n\nIf you heat water, it boils.\n\nPlain text\nIf + Present Simple → Present Simple",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-37",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "First Conditional\n\nReal/possible future:\n\nIf I pass the exam, I will celebrate.\n\nPlain text\nIf + Present Simple → will + V\n\nنکته:\n\n❌ If I will pass...\n\n✅ If I pass...",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-38",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Second Conditional\n\nUnreal / hypothetical present or future:\n\nIf I were a millionaire, I would travel around the world.\n\nPlain text\nIf + Past Simple → would + V\n\nو برای حالت فرضی رسمی/استاندارد:\n\nIf I were...\n\nIf she were...",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-39",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Phase 6 — Structures & Advanced Grammar\n\nبعد از tenseها، باید ساختارهایی را که در جزوه‌های اخیرت داشتی جمع کنیم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-40",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "1. Used to\n\nبرای عادت یا وضعیت گذشته که دیگر وجود ندارد:\n\nI used to play football.\n\nNegative:\n\nI didn't use to play football.\n\nQuestion:\n\nDid you use to play football?\n\nمثال خودت:\n\nThe students used to make fun of him because of his red glasses.\n\nو:\n\nmake fun of someone\n\nیعنی مسخره کردن کسی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-41",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "2. So / Such",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-42",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "So + adjective/adverb\n\nI was so tired that I slept.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-43",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "So + much/many/few/little + noun\n\nI have so many friends in Tehran that I feel comfortable there.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-44",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Such + noun phrase\n\nShe is such a kind person.\n\nThey are such smart children.\n\nIt was such heavy traffic.\n\nدقت کن:\n\ntraffic\n\nuncountable است.\n\nپس:\n\n❌ such a heavy traffic\n\n✅ such heavy traffic",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-45",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "3. Too / Enough",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-46",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Too + adjective\n\nیعنی بیش از حد:\n\nThe coffee is too hot.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-47",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Too + adjective + to + verb\n\nThe coffee is too hot to drink.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-48",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Adjective + enough\n\nHe is rich enough to buy it.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-49",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Enough + noun\n\nI have enough money.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-50",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "مقایسه‌ی چهار ساختار\nStructure\tExample\nso + adj\tIt is so expensive.\nsuch + noun phrase\tIt is such an expensive car.\ntoo + adj\tIt is too expensive.\nadj + enough\tIt is cheap enough.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-51",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "4. Passive Voice\n\nسه ساختاری که در جزوه داشتی:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-52",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Present Simple Passive\n\nam/is/are + V3\n\nEnglish is spoken here.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-53",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Past Simple Passive\n\nwas/were + V3\n\nThe car was repaired yesterday.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-54",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Present Perfect Passive\n\nhave/has been + V3\n\nThe lesson has been explained.\n\nکاربرد اصلی:\n\nوقتی doer مهم نیست، ناشناخته است یا از context مشخص است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-55",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "5. Prepositions",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-56",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Time",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-57",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "at\n\nat 8 o'clock\nat midday\nat noon",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-58",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "on\n\non Monday\non Friday",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-59",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "in\n\nin 2026\nin summer\nin the morning",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-60",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Place\n\nin the room\n\non the table\n\nat the station\n\nو مثال‌هایی که در جزوه داشتی:\n\nin the top right corner\n\non the left\n\nin the middle\n\nat the top",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-61",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "6. Because / Because of / Due to",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-62",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Because + clause\n\nI stayed home because it was raining.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-63",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Because of + noun\n\nI stayed home because of the rain.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-64",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Due to + noun\n\nThe flight was delayed due to bad weather.\n\nنکته:\n\n❌ due for\n\nدر این ساختار:\n\ndue to",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-65",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "7. Although / Even though / Despite / In spite of",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-66",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Although + clause\n\nAlthough it was raining, we went out.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-67",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Even though + clause\n\nEven though I was tired, I continued studying.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-68",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Despite + noun / V-ing\n\nDespite the rain, we went out.\n\nDespite being tired, I continued studying.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-69",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "In spite of + noun / V-ing\n\nIn spite of the rain, we went out.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-70",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "8. Vocabulary Structures مهم\n\nاین‌ها را هم داخل جزوه‌ی گرامر نگه می‌داریم چون در جمله‌سازی فاینال احتمالاً به کار می‌آیند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-71",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "afford\n\nafford + noun\n\nI can't afford a new phone.\n\nafford + to + verb\n\nI can't afford to buy a new phone.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-72",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Look forward to\n\nدقت:\n\nto اینجا preposition است.\n\nبنابراین:\n\nI look forward to meeting you.\n\nنه:\n\n❌ I look forward to meet you.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-73",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Be interested in\n\nI am interested in English.\n\nI am interested in learning English.\n\nچون:\n\nin + noun / V-ing",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-74",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "ترتیب نهایی مطالعه برای فاینال\n\nاگر بخواهم تمام این سیستم را به شکل یک نقشه‌ی مطالعاتی واقعی دربیاورم:\n\nPlain text\nPHASE 1\nPast Perfect Continuous\n        ↓\nPast Perfect\n        ↓\nPast Continuous\n        ↓\nPast Simple\n        ↓\nPast Tense Contrast\nPlain text\nPHASE 2\nPresent Perfect\n        ↓\nPresent Perfect Continuous\n        ↓\nSince / For\n        ↓\nAlready / Yet / Just / Ever / Never\n        ↓\nBeen to / Gone to\n        ↓\nPresent Perfect vs Past Simple\nPlain text\nPHASE 3\nPresent Simple\n        ↓\nPresent Continuous\n        ↓\nStative vs Dynamic\n        ↓\nPresent Simple vs Continuous\n        ↓\nکل Tense System\nPlain text\nPHASE 4\nWill\n        ↓\nGoing to\n        ↓\nFuture meaning\n        ↓\nCan / Could\n        ↓\nMay / Might\n        ↓\nShould\n        ↓\nMust / Have to\nPlain text\nPHASE 5\nZero Conditional\n        ↓\nFirst Conditional\n        ↓\nSecond Conditional\n        ↓\nConditionals Contrast\nPlain text\nPHASE 6\nUsed to\n        ↓\nPassive Voice\n        ↓\nSo / Such\n        ↓\nToo / Enough\n        ↓\nPrepositions\n        ↓\nBecause / Because of / Due to\n        ↓\nAlthough / Despite / In spite of\n        ↓\nMixed Grammar",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e057cd15-8da7-4798-a253-42312cfcb7dc-75",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "یک نکته مهم برای مطالعه\n\nبرای هر Phase این چرخه را اجرا کن:\n\nجزوه → مثال‌های خودت → کتاب Ready for B1 → Workbook → Error Log → Mixed Exercise\n\nیعنی صرفاً Reading نکن.\n\nمثلاً برای Present Perfect:\n\nجزوه را مرور کن.\nمثال‌های خودت را بدون نگاه کردن بازسازی کن.\nتمرین‌های همان بخش کتاب را حل کن.\nWorkbook را حل کن.\nهر اشتباه را در Error Log بنویس.\nدر پایان، تمرین Present Perfect vs Past Simple vs Present Perfect Continuous بزن.\n\nاین روش باعث می‌شود گرامرها به‌صورت سیستم زمانی در ذهنت قرار بگیرند، نه به شکل ۱۵ فرمول جداگانه.\n\nاگر بخواهی، مرحله‌ی بعدی را می‌توانیم تبدیل کنیم به «جزوه نهایی فاینال»؛ یعنی همین ۶ فاز را با تمام مثال‌های مهمی که خودت در جزوه‌ها داشتی + دام‌های امتحانی + تست تشخیصی هر فاز در یک جزوه‌ی واحد جمع کنیم.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-present-simple",
+      "concept-present-continuous",
+      "concept-past-simple",
+      "concept-past-continuous",
+      "concept-present-perfect",
+      "concept-present-perfect-continuous",
+      "concept-past-perfect",
+      "concept-past-perfect-continuous",
+      "concept-zero-conditional",
+      "concept-first-conditional",
+      "concept-second-conditional",
+      "concept-passive-voice",
+      "concept-used-to"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "e057cd15-8da7-4798-a253-42312cfcb7dc",
+    "capture.turn-number": 13
+  }
+}

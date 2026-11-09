@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-face-to-face",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "face-to-face"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:2/data-row:31"
+      },
+      {
+        "sourceId": "src-chat-m03",
+        "locator": "normalized-text/line:13",
+        "quote": "train always leaves station at 10 .p.m. we are going to visit palace, but we do not have any plan. tommorrow of our decision, we are going to fix our schedule. my friend must brings food and snacks and i've already bought the tikets. our first problem is that tain is late or has delay and train crew = ? tell us \"train will arrive at 11 .p.m.\" suddenly we face-to-face with our othere friends in train. we talk about our travel timetable afterwards. they told us \" we will visit palace too.\" we leave train at 10 .a.m."
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:2/data-row:293"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:2/data-row:31"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "face-to-face",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-face",
+    "senses": [
+      {
+        "id": "sense-a3ce06313ab6",
+        "partOfSpeech": "Phrase",
+        "translation": {
+          "fa": "رودررو"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "in person"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:2/data-row:31"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:2/data-row:31"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-7e975ef754c9",
+        "partOfSpeech": "Adjective / Adverb",
+        "translation": {
+          "fa": "رودررو"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:2/data-row:293"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:2/data-row:31"
+        },
+        "group": "priority-b",
+        "sessionId": null,
+        "priority": "B"
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m03",
+          "locator": "normalized-text/line:13",
+          "quote": "train always leaves station at 10 .p.m. we are going to visit palace, but we do not have any plan. tommorrow of our decision, we are going to fix our schedule. my friend must brings food and snacks and i've already bought the tikets. our first problem is that tain is late or has delay and train crew = ? tell us \"train will arrive at 11 .p.m.\" suddenly we face-to-face with our othere friends in train. we talk about our travel timetable afterwards. they told us \" we will visit palace too.\" we leave train at 10 .a.m."
+        },
+        "group": "learner-notes-exact-match",
+        "sessionId": "session-future",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:2/data-row:293"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:2/data-row:31"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

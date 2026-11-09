@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-cd3bcbda-7aa3-47d3-b0d5-2b58f203d448",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 28"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "assistant",
+    "messageOrdinal": 28,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "بله. Defining و Non-defining Relative Clauses جزو همان Phase 6 / Advanced Grammar هستند و برای فاینال باید تفاوتشان را دقیق بلد باشی.\n\nRelative Clauses\n\nRelative clause جمله‌واره‌ای است که درباره‌ی یک noun اطلاعات بیشتری می‌دهد.\n\nمثلاً:\n\nThe girl who lives next door is my friend.\n\nبخش:\n\nwho lives next door\n\nدرباره‌ی the girl اطلاعات می‌دهد.\n\n1. Defining Relative Clause\nتعریف\n\nاطلاعاتی می‌دهد که برای مشخص کردن noun ضروری است.\n\nاگر relative clause را حذف کنیم، معلوم نیست دقیقاً درباره‌ی کدام شخص/چیز صحبت می‌کنیم.\n\nThe student who sits next to me is very smart.\n\nیعنی از بین دانش‌آموزها، منظورم آن دانش‌آموزی است که کنار من می‌نشیند.\n\nاگر حذف کنیم:\n\nThe student is very smart.\n\nدیگر نمی‌دانیم کدام student.\n\nعلامت مهم\n\nComma نداریم.\n\nThe student who sits next to me is very smart.\n❌ The student, who sits next to me, is very smart.\n\n2. Non-defining Relative Clause\n\nاینجا noun از قبل مشخص است و relative clause فقط اطلاعات اضافی می‌دهد.\n\nMy brother, who lives in Tehran, is an engineer.\n\nما از قبل می‌دانیم my brother چه کسی است.\n\nاطلاعات:\n\nwho lives in Tehran\n\nفقط یک توضیح اضافه است.\n\nعلامت مهم\n\nبین دو comma قرار می‌گیرد.\n\nMy brother, who lives in Tehran, is an engineer.\n\nاگر حذفش کنیم:\n\nMy brother is an engineer.\n\nجمله هنوز کاملاً مشخص است.\n\nتفاوت اصلی\nDefining\tNon-defining\nاطلاعات ضروری\tاطلاعات اضافی\nمشخص می‌کند کدام noun\tnoun از قبل مشخص است\n❌ comma ندارد\t✅ comma دارد\nthat می‌تواند استفاده شود\t❌ that نمی‌توان استفاده کرد\npronoun گاهی حذف می‌شود\tpronoun حذف نمی‌شود\nRelative Pronouns\nWho → people\n\nThe man who called me is my teacher.\n\nWhich → things/animals\n\nThe book which I bought is interesting.\n\nThat → people/things\n\nفقط در defining:\n\nThe book that I bought is interesting.\n\nThe man that called me is my teacher.\n\nاما:\n\n❌ My brother, that lives in Tehran, is an engineer.\n\nباید:\n\n✅ My brother, who lives in Tehran, is an engineer.\n\nWhere\n\nبرای مکان:\n\nThis is the house where I grew up.\n\nتقریباً:\n\nthe house in which I grew up\n\nاما where طبیعی‌تر است.\n\nWhose\n\nبرای مالکیت:\n\nThe girl whose phone was stolen called the police.\n\nیعنی:\n\nدختری که گوشی‌اش دزدیده شده بود...\n\nساختار:\n\nwhose + noun\n\nیک نکته خیلی مهم برای امتحان\n\nدر Defining Relative Clause اگر relative pronoun object باشد، می‌توانیم آن را حذف کنیم.\n\nWith pronoun:\n\nThe book that I bought was expensive.\n\nWithout pronoun:\n\nThe book I bought was expensive.\n\nچون:\n\nI bought the book.\n\nپس that/which اینجا object است.\n\nاما اگر pronoun subject باشد، نمی‌توانیم حذفش کنیم:\n\nThe man who called me is my teacher.\n\n❌ The man called me is my teacher.\n\nچون:\n\nThe man called me.\n\nاینجا who = subject است.\n\nیک تست سریع برای تو\n\nبگو هرکدام Defining یا Non-defining هستند و اگر غلط هستند اصلاحشان کن:\n\nThe students who study hard usually get good grades.\n\nMy father, who is a doctor, works at a hospital.\n\nThe book, that I bought yesterday, is very interesting.\n\nThe woman I met yesterday was very friendly.\n\nTehran, which is the capital of Iran, is a huge city.\n\nThe car who is parked outside belongs to my brother.\n\nاگر خواستی، بعد از جواب این ۶ تا، می‌تونیم Relative Clauses را با همان فرمت فاینال جمع کنیم: rule → example → دام امتحانی → تست.",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": [
+      {
+        "locator": "table:1",
+        "rows": [
+          [
+            "Defining",
+            "Non-defining"
+          ],
+          [
+            "اطلاعات ضروری",
+            "اطلاعات اضافی"
+          ],
+          [
+            "مشخص می‌کند کدام noun",
+            "noun از قبل مشخص است"
+          ],
+          [
+            "❌ comma ندارد",
+            "✅ comma دارد"
+          ],
+          [
+            "that می‌تواند استفاده شود",
+            "❌ that نمی‌توان استفاده کرد"
+          ],
+          [
+            "pronoun گاهی حذف می‌شود",
+            "pronoun حذف نمی‌شود"
+          ]
+        ]
+      }
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "cd3bcbda-7aa3-47d3-b0d5-2b58f203d448",
+    "capture.headings": [
+      {
+        "level": 1,
+        "text": "Relative Clauses"
+      },
+      {
+        "level": 1,
+        "text": "1. Defining Relative Clause"
+      },
+      {
+        "level": 3,
+        "text": "تعریف"
+      },
+      {
+        "level": 3,
+        "text": "علامت مهم"
+      },
+      {
+        "level": 1,
+        "text": "2. Non-defining Relative Clause"
+      },
+      {
+        "level": 3,
+        "text": "علامت مهم"
+      },
+      {
+        "level": 1,
+        "text": "تفاوت اصلی"
+      },
+      {
+        "level": 1,
+        "text": "Relative Pronouns"
+      },
+      {
+        "level": 3,
+        "text": "Who → people"
+      },
+      {
+        "level": 3,
+        "text": "Which → things/animals"
+      },
+      {
+        "level": 3,
+        "text": "That → people/things"
+      },
+      {
+        "level": 1,
+        "text": "Where"
+      },
+      {
+        "level": 1,
+        "text": "Whose"
+      },
+      {
+        "level": 1,
+        "text": "یک نکته خیلی مهم برای امتحان"
+      },
+      {
+        "level": 3,
+        "text": "With pronoun:"
+      },
+      {
+        "level": 3,
+        "text": "Without pronoun:"
+      },
+      {
+        "level": 1,
+        "text": "یک تست سریع برای تو"
+      }
+    ],
+    "capture.links": []
+  }
+}

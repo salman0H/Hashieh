@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-fd8c5b22-0916-4c13-8192-6e8d7e731820",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "non-defining and defining relative clauses ?"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-fd8c5b22-0916-4c13-8192-6e8d7e731820",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-fd8c5b22-0916-4c13-8192-6e8d7e731820-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "non-defining and defining relative clauses ?",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-relative-clauses"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "fd8c5b22-0916-4c13-8192-6e8d7e731820",
+    "capture.turn-number": 14
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-aca27be7-43f4-45d2-a7f4-b3233c97a2e4",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "از این ب بعد کلمات جدید رو ک توی جزوه ها برات میفرستم در کنار اون روشی ک قبلا داشتی برای اینکه بخوای اون ها رو همون مدلی بنویسی در کنار رایتینگی ک مینویسی برام "
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-aca27be7-43f4-45d2-a7f4-b3233c97a2e4",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-aca27be7-43f4-45d2-a7f4-b3233c97a2e4-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "از این ب بعد کلمات جدید رو ک توی جزوه ها برات میفرستم در کنار اون روشی ک قبلا داشتی برای اینکه بخوای اون ها رو همون مدلی بنویسی در کنار رایتینگی ک مینویسی برام ی جدول هم به همین صورت برای کلمات جدید درست کن ک من ب انتهای جدول قبلی اضافه کنم برای استفاده بیشتر",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-writing"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "aca27be7-43f4-45d2-a7f4-b3233c97a2e4",
+    "capture.turn-number": 52
+  }
+}

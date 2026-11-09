@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "subject-english",
+  "type": "subject",
+  "subjectIds": [],
+  "title": {
+    "en": "English"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m02",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "description": {
+      "fa": "آموخته‌های کلاس زبان، واژگان، گرامر، نوشتن و مرور"
+    },
+    "defaultLocales": [
+      "fa",
+      "en"
+    ]
+  },
+  "extensions": {}
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-3ebbcd4a-8d6c-47ef-8d67-55e62f16b716",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "من فردا فاینال دارم از گرامر past perfect continious تا به همین گرامر یک رودمپ درست کن ک هم کتاب رو حل کنم هم کتب کار رو و هم جزوه رو بررسی کنم"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-3ebbcd4a-8d6c-47ef-8d67-55e62f16b716",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-3ebbcd4a-8d6c-47ef-8d67-55e62f16b716-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "من فردا فاینال دارم از گرامر past perfect continious تا به همین گرامر یک رودمپ درست کن ک هم کتاب رو حل کنم هم کتب کار رو و هم جزوه رو بررسی کنم",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-past-perfect"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "3ebbcd4a-8d6c-47ef-8d67-55e62f16b716",
+    "capture.turn-number": 12
+  }
+}

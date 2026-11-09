@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-chat-m13",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — visible message 13"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/share/6af0508a-19f8-83ed-91a4-002901ccaac9",
+    "role": "user",
+    "messageOrdinal": 13,
+    "ordinalScope": "rendered-message-sequence-on-2026-11-08",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "message-text-normalized",
+    "text": "از بین این لغاتی ک بررسی کردی ب نظرت کدوم ها بیشتر ارزش یادگیری م مرور دارن؟",
+    "attachmentIndicators": {
+      "files": 0,
+      "images": 0
+    },
+    "limitations": [
+      "Page capture is partial; ordinal is not a stable original chat message ID.",
+      "Whitespace/UI labels normalized; no claim of byte-exact transcript.",
+      "Referenced attachments are not captured."
+    ]
+  },
+  "extensions": {
+    "capture.original-source-id": "src-original-ec32410f-0004-449b-915c-204f28feb5b3"
+  }
+}

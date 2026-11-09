@@ -1,0 +1,46 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "correction-trip",
+  "type": "correction",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "trip"
+  },
+  "tags": [
+    "error-notebook"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m16",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "original": "a 3 day travel",
+    "replacement": "a three-day trip",
+    "explanation": {
+      "fa": "برای سفر کوتاه از trip استفاده می‌کنیم."
+    },
+    "conceptIds": [
+      "concept-vocabulary-in-context"
+    ],
+    "correctionSourceRef": {
+      "sourceId": "src-chat-m16",
+      "locator": "message-excerpt"
+    },
+    "kind": "form",
+    "originalSourceRef": {
+      "sourceId": "src-chat-m15",
+      "locator": "message-excerpt"
+    }
+  },
+  "extensions": {}
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-0e61eff5-4d85-4a33-bcc9-513a81afab62",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "بله، کتابی که پیدا کردم همان چیزی است که به احتمال زیاد منظورت است: Ready for B1 Preliminary از Macmillan Education، با نویسندگان Fiona Aish, Ethan Mansur, Jo T"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-0e61eff5-4d85-4a33-bcc9-513a81afab62",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-0e61eff5-4d85-4a33-bcc9-513a81afab62-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "بله، کتابی که پیدا کردم همان چیزی است که به احتمال زیاد منظورت است: Ready for B1 Preliminary از Macmillan Education، با نویسندگان Fiona Aish, Ethan Mansur, Jo Tomlinson و Roy Norris. نسخه‌ی جدید آن مربوط به 2025 است و سطح CEFR آن B1 است. \nMacmillan English\n+1\n\nاگر جلدی که مدنظر تو همین است، تأیید کن.\n\nدر این صورت از این به بعد سیستم آموزشمان را بر اساس این سه منبع می‌چینیم:\n\nA1–A8 Class Notes که همین الان فرستادی → مباحثی که در کلاس خوانده‌ای و نقطه‌ی شروع واقعی تو.\nReady for B1 Preliminary → کتاب اصلی برای پیشروی، Reading, Listening, Speaking, Writing, Vocabulary و Grammar.\nسیستم DeepSeek قبلی + Error Log → برای مرور، رفع خطاهای تکرارشونده و مطالبی که قبلاً یاد گرفته‌ای.\n\nخود Macmillan هم برای این کتاب بخش‌های Ready for Grammar، تمرین‌های چهار مهارت، pronunciation، speaking و تمرین‌های مخصوص B1 Preliminary را در نظر گرفته است. \nMacmillan English\n+1\n\nاگر همین کتاب است، قدم بعدی می‌تواند این باشد که فایل/PDF کتاب را هم در اختیارم بگذاری تا دقیقاً Unit به Unit با خود کتاب جلو برویم، نه اینکه از روی اطلاعات عمومی درباره‌ی کتاب حدس بزنم.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-writing"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "0e61eff5-4d85-4a33-bcc9-513a81afab62",
+    "capture.turn-number": 4
+  }
+}

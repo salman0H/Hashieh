@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-showcase-my-projects",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "showcase my projects"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00",
+        "locator": "table:6/data-row:4"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "showcase my projects",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-134f5eeec1bb",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "پروژه‌هایم را به نمایش بگذارم و معرفی کنم"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00",
+            "locator": "table:6/data-row:4"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00",
+          "locator": "table:6/data-row:4"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

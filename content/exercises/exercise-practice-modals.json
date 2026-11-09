@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "exercise-practice-modals",
+  "type": "exercise",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "fa": "تمرین تکمیلی؛ modals"
+  },
+  "tags": [
+    "supplemental-practice"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "mode": "practice",
+    "prompt": "You ___ use your phone during the exam. It is forbidden.",
+    "options": [
+      "mustn’t",
+      "don’t have to",
+      "should"
+    ],
+    "answers": [
+      {
+        "number": 1,
+        "text": "mustn’t"
+      }
+    ],
+    "explanation": {
+      "fa": "mustn’t ممنوعیت است؛ don’t have to یعنی الزامی نیست."
+    },
+    "conceptIds": [
+      "concept-modals"
+    ],
+    "gradable": true,
+    "missing": []
+  },
+  "extensions": {}
+}

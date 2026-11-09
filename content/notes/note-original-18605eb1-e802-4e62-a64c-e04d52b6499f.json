@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-18605eb1-e802-4e62-a64c-e04d52b6499f",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "چیزی که از سیستم قبلی پیدا کردم"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-18605eb1-e802-4e62-a64c-e04d52b6499f",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-18605eb1-e802-4e62-a64c-e04d52b6499f-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "بله. فایل conversations.json را بررسی کردم و بخش مربوط به سیستم یادگیری زبان را از بین مکالمات DeepSeek پیدا کردم. بنابراین می‌توانیم از اینجا به بعد آن را به‌عنوان Learning System پایه این سشن در نظر بگیریم. \nconversations",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-18605eb1-e802-4e62-a64c-e04d52b6499f-2",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "چیزی که از سیستم قبلی پیدا کردم\n\nساختار یادگیری قبلی تو به شکل Module-based بوده و مباحث را مرحله‌به‌مرحله جلو برده:\n\nModule 1–3: Present tenses\nSimple Present\nPresent Continuous\n3rd person singular\nQuestions / negatives\nModule 4: Past tenses\nSimple Past\nPast Continuous\nirregular verbs\nModule 5: Future\nwill\nbe going to\nModule 6: Present Perfect\nPresent Perfect Simple\nPresent Perfect Continuous\never / never / just / already / yet / since / for\nModule 7: Modals\ncan / could / may / might / should / must / have to / shall\nModule 8: Conditionals\nZero\nFirst\nSecond\nModule 9: Passive Voice\nModule 10: Prepositions + Relative Clauses + Advanced Vocabulary\nin / on / at\nwho / which / that / where / whose\ndefining / non-defining relative clauses\nomission of relative pronouns\nSupplementary:\nComparatives / Superlatives\nPersonal Error Log\nPhrasal Verbs\nIdioms\nVocabulary themes\n\nاین ساختار فقط یک لیست گرامر نبوده؛ یک Error Log هم برای اشتباهات شخصی تو داشته، مثلاً:\n\nfeeled → felt\nsince I'm a child → since I was a child\nthanks on → thanks for\nprefer stay → prefer to stay\nlook forward it → look forward to it\nme either → me neither\n\nاین قسمت برای سیستم جدید مهم‌تر از خود لیست گرامر است، چون هدف ما باید eliminating recurring errors باشد، نه فقط تمام کردن grammar topics. \nconversations",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-18605eb1-e802-4e62-a64c-e04d52b6499f-3",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "درباره Advanced Rules Explained\n\nجست‌وجوی دقیق عنوان Advanced Rules Explained نتیجه‌ی مستقیمی با همین عنوان نداد، اما در همان بخش زبان، محتوایی که به احتمال زیاد منظورت است پیدا شد: سیستم شامل توضیح قواعد، مثال، خطاهای شخصی، vocabulary و تمرین بوده و حتی روی موضوعاتی مثل relative clauses، present perfect، conditionals، passive voice و prepositions کار کرده است.\n\nبنابراین فعلاً آن را به‌صورت حدسی با چیز دیگری جایگزین نمی‌کنم. اگر عنوان دقیق Advanced Rules Explained در فایل به شکل دیگری ذخیره شده باشد، باید بخش بیشتری از conversation export را برای پیدا کردن خود conversation بررسی کنیم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-18605eb1-e802-4e62-a64c-e04d52b6499f-4",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "درباره Google Docs\n\nلینک Google Docs را هم امتحان کردم، اما در این محیط محتوای سند قابل دریافت نبود؛ بنابراین محتوای آن را حدس نمی‌زنم و چیزی را به آن نسبت نمی‌دهم. (Invalid URL)\n\nاگر سند را به‌صورت PDF / DOCX / TXT اینجا upload کنی، می‌توانم آن را مستقیماً وارد سیستم کنم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-18605eb1-e802-4e62-a64c-e04d52b6499f-5",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "سیستم جدیدی که پیشنهاد می‌کنم\n\nاز اینجا به بعد بهتر است سه منبع را با هم ترکیب کنیم:\n\n1. Previous DeepSeek System\nمنبع سابقه و progression تو.\n\n2. Advanced Rules Explained\nبرای grammarهای عمیق‌تر و نکات advanced.\n\n3. Google Docs\nبه‌عنوان reference اصلی جدید، وقتی محتوایش در اختیارم باشد.\n\nو من هر جلسه این ساختار را حفظ می‌کنم:\n\nPlain text\nEnglish Learning System\n│\n├── Grammar\n│   ├── Current Topic\n│   ├── Advanced Rules\n│   ├── Exceptions\n│   └── Common Confusions\n│\n├── Vocabulary\n│   ├── New Words\n│   ├── Collocations\n│   ├── Phrasal Verbs\n│   └── Idioms\n│\n├── Error Log\n│   ├── Your Original Sentence\n│   ├── Correct Sentence\n│   ├── Why?\n│   └── Pattern to Remember\n│\n├── Skills\n│   ├── Writing\n│   ├── Speaking\n│   ├── Reading\n│   └── Listening\n│\n└── Review\n    ├── Active Recall\n    ├── Old Errors\n    └── Mixed Practice\n\nیک نکته مهم هم اضافه می‌کنم: هر چیزی که در مکالمه انگلیسی خودت بنویسی، فقط از نظر \"درست/غلط\" بررسی نمی‌کنم. اگر جمله از نظر grammar درست باشد ولی unnatural / awkward باشد، آن را هم مشخص می‌کنم.\n\nمثلاً:\n\nI did a mistake. ❌\nI made a mistake. ✅\n\nو:\n\nI have a lot of stress from my job.\nاز نظر grammatical ممکن است قابل قبول باشد، اما بسته به منظور،\nI'm under a lot of stress at work.\nطبیعی‌تر است.\n\nاین تفاوت بین grammatical English و natural English از اینجا به بعد بخش اصلی سیستم خواهد بود.\n\nبرای شروع، فقط خود Google Doc را به‌صورت فایل upload کن. بعد می‌توانم آن را با همین ساختار قبلی merge کنم و سیستم نهایی را دقیقاً بر اساس منابع خودت بسازم.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-present-continuous",
+      "concept-past-continuous",
+      "concept-present-perfect",
+      "concept-present-perfect-continuous",
+      "concept-relative-clauses",
+      "concept-passive-voice",
+      "concept-phrasal-verbs",
+      "concept-writing"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "18605eb1-e802-4e62-a64c-e04d52b6499f",
+    "capture.turn-number": 2
+  }
+}

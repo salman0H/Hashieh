@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "exercise-future-worksheet",
+  "type": "exercise",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Future worksheet — learner answers"
+  },
+  "tags": [
+    "incomplete-source"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m03",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "mode": "learner-submission",
+    "prompt": null,
+    "options": [],
+    "answers": [
+      {
+        "number": 1,
+        "text": "will start"
+      },
+      {
+        "number": 2,
+        "text": "are meeting"
+      },
+      {
+        "number": 3,
+        "text": "will help"
+      },
+      {
+        "number": 4,
+        "text": "will give"
+      },
+      {
+        "number": 5,
+        "text": "is going to train"
+      },
+      {
+        "number": 6,
+        "text": "am going to buy"
+      },
+      {
+        "number": 7,
+        "text": "leaves"
+      },
+      {
+        "number": 8,
+        "text": "are eating"
+      }
+    ],
+    "explanation": null,
+    "conceptIds": [
+      "concept-future-forms"
+    ],
+    "gradable": false,
+    "missing": [
+      "Original worksheet questions and answer key"
+    ]
+  },
+  "extensions": {}
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-0a98c573-5120-4089-a978-9378c438ac0a",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "این آزمون جدید است و سؤال‌های آزمون قبلی را تکرار نمی‌کند. این بار vocabulary را بیشتر داخل موقعیت‌های واقعی Travel / Work / Nature / Sports قرار داده‌ام و چند "
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "assessment",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-0a98c573-5120-4089-a978-9378c438ac0a",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-0a98c573-5120-4089-a978-9378c438ac0a-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "این آزمون جدید است و سؤال‌های آزمون قبلی را تکرار نمی‌کند. این بار vocabulary را بیشتر داخل موقعیت‌های واقعی Travel / Work / Nature / Sports قرار داده‌ام و چند سؤال هم عمداً روی خطاهای اخیرت تمرکز دارند.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": []
+  },
+  "extensions": {
+    "capture.message-id": "0a98c573-5120-4089-a978-9378c438ac0a",
+    "capture.turn-number": 19
+  }
+}

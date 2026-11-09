@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-keep-practising",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "keep practising"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-62eefce7-353a-4f48-a4fc-5f24badfd797",
+        "locator": "table:2/data-row:14"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "keep practising",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-ad7163c44e67",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "ادامه دادن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-62eefce7-353a-4f48-a4fc-5f24badfd797",
+            "locator": "table:2/data-row:14"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-62eefce7-353a-4f48-a4fc-5f24badfd797",
+          "locator": "table:2/data-row:14"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-846c641e-2dfc-4969-ae23-0a2b1e137db4",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "من جلسه پیش کلاس زبانم رو غایب بودم ک ابتدای یونیت ۷ رو شروع کرده میخوام اون هارو برام بررسی کنی و یکم با هم کار کنیم اون ها رو"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-846c641e-2dfc-4969-ae23-0a2b1e137db4",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-846c641e-2dfc-4969-ae23-0a2b1e137db4-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "من جلسه پیش کلاس زبانم رو غایب بودم ک ابتدای یونیت ۷ رو شروع کرده میخوام اون هارو برام بررسی کنی و یکم با هم کار کنیم اون ها رو",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": []
+  },
+  "extensions": {
+    "capture.message-id": "846c641e-2dfc-4969-ae23-0a2b1e137db4",
+    "capture.turn-number": 20
+  }
+}

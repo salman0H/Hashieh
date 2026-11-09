@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-cbf58ebc9959",
+  "type": "covers",
+  "from": "session-team-spirit",
+  "to": "concept-possessive-plurals",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-chat-m08",
+      "locator": "message-excerpt"
+    }
+  ],
+  "extensions": {}
+}

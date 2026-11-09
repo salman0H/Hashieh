@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-e0ea769fc463",
+  "type": "illustrates",
+  "from": "writing-healthy-lifestyle",
+  "to": "concept-writing",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-chat-m16",
+      "locator": "message-excerpt"
+    }
+  ],
+  "extensions": {}
+}

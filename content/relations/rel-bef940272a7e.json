@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-bef940272a7e",
+  "type": "contains",
+  "from": "session-team-spirit",
+  "to": "note-team-spirit",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-chat-m08",
+      "locator": "message-excerpt"
+    }
+  ],
+  "extensions": {}
+}

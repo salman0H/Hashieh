@@ -1,0 +1,317 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-747a90d2-a2e7-4550-acea-fd39618be743",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 32"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "assistant",
+    "messageOrdinal": 32,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "خوب جواب دادی. مهم‌تر از نمره، الگوی خطاهایت مشخص است: زمان‌ها را نسبتاً خوب می‌شناسی، اما در تشخیص کاربرد دقیق زمان، vocabulary و تفاوت‌های معنایی هنوز چند نقطه ضعف داری.\n\nنتیجه: 28/40\nبخش\tنتیجه\nPresent Perfect / Continuous\t3/5\nRelative Clauses\t4/5\nComparatives / Superlatives\t3/4\nSo / Such / Too / Enough\t5/5\nFuture Forms\t3/4\nConditionals\t4/5\nModals\t1/2\nVocabulary\t5/10\nTotal\t28/40 = 70%\n\nسطحت در این مباحث را فعلاً حدود A2+ → B1 می‌بینم. مشکل اصلی تو «ندانستن گرامر» نیست؛ بیشتر انتخاب ساختار مناسب در context و دقت واژگان است.\n\n1. Present Perfect / Continuous\n1. ✅\n\nI have been studying English all morning.\n\nدرست.\n\nall morning + فعالیتی که ادامه داشته → Present Perfect Continuous\n\n2. ❌\n\nتو نوشتی:\n\nhas ran\n\nصحیح:\n\nIt has been raining.\n\nیا در بعضی contextها:\n\nIt has rained.\n\nاما چون جمله می‌گوید:\n\nLook! The ground is wet.\n\nو تمرکز روی فعالیت اخیر است، بهترین جواب:\n\nIt has been raining.\n\nنکته مهم:\n\n❌ has ran\n❌ has runned\n✅ has run\n\nrun → ran → run\n\nولی اینجا اصلاً run نداریم؛ فعل rain است:\n\nrain → rained → rained\n\n3. ❌\n\nI have been to Argentina twice.\n\nتو نوشتی:\n\nwent\n\nچون twice درباره تجربه تا الان صحبت می‌کند:\n\nI have been to Argentina twice.\n\nاگر زمان مشخص گذشته داشتیم:\n\nI went to Argentina in 2022.\n\nتفاوت کلیدی:\n\nPresent Perfect\n\nI have been to Argentina twice.\n\nتجربه تا اکنون.\n\nPast Simple\n\nI went to Argentina in 2022.\n\nیک اتفاق تمام‌شده در زمان مشخص گذشته.\n\n4. ✅\n\nI renewed my passport last week.\n\nکاملاً درست.\n\nlast week → زمان مشخص گذشته → Past Simple\n\n5. ✅\n\nHow long have you been studying English?\n\nدرست.\n\n2. Relative Clauses\n6. ✅\n\nscientist who studies...\n\n7. ✅\n\npark where I used to play...\n\n8. ❌\n\nتو نوشتی:\n\nwhere\n\nاما:\n\nThat's the mountain which we climbed last summer.\n\nچرا؟\n\nچون:\n\nwe climbed the mountain\n\nپس mountain object فعل climbed است.\n\nمی‌توانیم حتی relative pronoun را حذف کنیم:\n\nThat's the mountain which we climbed.\n\nThat's the mountain that we climbed.\n\nThat's the mountain we climbed. ✅\n\nولی where زمانی است که مکان خودش نقش where an action happens را دارد:\n\nThis is the park where I play football.\n\n9. ❌ / unanswered\n\nHe is an author whose books are very popular.\n\nwhose = مالکیت\n\nwhose books\n\nیعنی:\n\nکتاب‌های او\n\n10. ❌\n\nتو انتخاب کردی:\n\nB\n\nصحیح:\n\nC. My brother, who lives in Tehran, is an engineer.\n\nچون این یک non-defining relative clause است.\n\nاطلاعات who lives in Tehran فقط اطلاعات اضافی است، بنابراین comma داریم:\n\nMy brother, who lives in Tehran, is an engineer.\n\nو در non-defining relative clauses:\n\n❌ that\n❌ حذف relative pronoun\n\n3. Comparatives / Superlatives\n11. ✅\n\nmore popular\n\n12. ❌\n\nتو:\n\nmost large\n\nصحیح:\n\nlargest\n\nChina has one of the largest populations in the world.\n\nساختار مهم:\n\none of the + superlative + plural noun\n\nمثلاً:\n\none of the best players\n\none of the largest cities\n\n13. ✅\n\nmore difficult\n\n14. ✅\n\ngood → better → best\n\n4. So / Such / Too / Enough\n\nاینجا 5/5 گرفتی.\n\n15. ✅\n\nso dangerous that...\n\n16. ✅\n\ntoo cold to swim\n\n17. ✅\n\nsuch a beautiful design that...\n\n18. ✅\n\nenough time\n\n19. ✅\n\nHe was smart enough to answer your question.\n\nساختار را کاملاً درست استفاده کردی:\n\nadjective + enough + to + verb\n\n5. Future Forms\n20. ✅\n\nI will open it.\n\nتصمیم لحظه‌ای.\n\n21. ❌\n\nتو:\n\ngoing to\n\nولی ساختار کامل:\n\nIt's going to rain.\n\nچون evidence داریم:\n\nLook at those clouds.\n\nفرمول:\n\nbe + going to + verb\n\nنه فقط going to.\n\n22. ✅\n\nI am picking her up at midnight.\n\nاین نکته مهم است:\n\nPresent Continuous می‌تواند برای future arrangement استفاده شود.\n\nI'm meeting my friend tomorrow.\n\nI'm picking her up at midnight.\n\n23. ❌ / unanswered\n\nI'm afraid I might not finish everything tonight.\n\nساختار:\n\nmight + not + base verb\n\n6. Conditionals\n24. ✅\n\nIf we finish work early, we will go for a walk.\n\nFirst Conditional:\n\nIf + Present Simple → will + base verb\n\n25. ❌ / unanswered\n\nWhen my parents visit, we always have a big dinner.\n\nاین Zero Conditional است.\n\nچون درباره یک routine / repeated situation صحبت می‌کنیم.\n\nWhen + Present → Present\n\n26. ✅\n\nIf I were you...\n\nاین را حفظ کن؛ یکی از مهم‌ترین expressionهای انگلیسی است:\n\nIf I were you, I would...\n\n27. ✅\n\nwould travel\n\nSecond Conditional:\n\nIf + Past → would + base\n\n28. 🟡\n\nتو نوشتی:\n\nI will lose my money.\n\nاز نظر گرامری ممکن است، اما باید context جمله را کامل کنیم:\n\nIf I don't start saving soon, I will lose my money.\n\nبا توجه به ساختار تمرین، جواب تو از نظر conditional form درست است.\n\n7. Modals\n29. ✅\n\nYou mustn't smoke here.\n\nmustn't = prohibition\n\nیعنی:\n\nممنوع است.\n\n30. ❌\n\nتو:\n\nmustn't\n\nصحیح:\n\ndon't have to\n\nچون جمله می‌گوید:\n\nIt's optional.\n\nتفاوت بسیار مهم:\n\nmustn't\n\n= نباید / ممنوع است\n\nYou mustn't smoke here.\n\ndon't have to\n\n= لازم نیست\n\nYou don't have to wear a mask.\n\nاین دو را نباید با هم قاطی کنی.\n\n8. Vocabulary\n\nاینجا بیشترین ضعف دیده می‌شود.\n\n31. ✅\n\ncave = غار\n\n32. ✅\n\nstream = جویبار / نهر کوچک\n\n33. 🟡\n\ntraffic jam\n\nدرست.\n\nاما:\n\nheavy traffic\n\nهمان معنی دقیق را ندارد.\n\ntraffic jam = ترافیک/راه‌بندان شدید، وسایل نقلیه تقریباً گیر کرده‌اند.\n\nheavy traffic = ترافیک سنگین، ولی لزوماً توقف کامل نیست.\n\n34. ❌\n\nreturn ticket\n\nیعنی:\n\nبلیط رفت‌وبرگشت\n\nنه:\n\nairplane\n\nمثلاً:\n\nI bought a return ticket to London.\n\n35. 🟡\n\nتو نوشتی:\n\ndriving lisence\n\nدو نکته:\n\nspelling:\n\nlicence 🇬🇧\nlicense 🇺🇸\n\nمعنی:\n\ndriving licence = گواهینامه رانندگی\n\nپس concept را درست می‌دانستی.\n\n36. 🟡\n\nhand luggage\n\nدرست.\n\nاما:\n\nbackpack\n\nلزومًا hand luggage نیست.\n\nHand luggage / cabin baggage یعنی چمدان یا وسیله‌ای که اجازه داری با خودت داخل هواپیما ببری.\n\n37. ❌\n\nتو:\n\ntour guide\n\nولی جواب:\n\nreceptionist\n\nreceptionist = مسئول پذیرش\n\nمثلاً در هتل:\n\nI asked the receptionist for my room key.\n\ntour guide = راهنمای گردشگری\n\n38. ✅\n\nchef\n\n39. ❌ / unanswered\n\naccept defeat\n\nیعنی:\n\nشکست را پذیرفتن\n\nمثلاً:\n\nHe refused to accept defeat.\n\n40. Litter vs Fast Fashion\n\nایده کلی را گرفتی، ولی تعریف fast fashion را باید دقیق‌تر کنی.\n\nLitter\n\nLitter = زباله‌ای که در مکان عمومی/طبیعت رها شده است.\n\nمثلاً:\n\nPeople shouldn't leave litter in the forest.\n\nنکته:\n\n❌ throw a trash\n❌ flour\n\nبهتر:\n\nthrow rubbish/trash on the ground\n\nیا:\n\nleave litter on the ground\n\nFast fashion\n\nFast fashion یعنی:\n\ncheap, mass-produced clothing that is quickly produced to follow changing fashion trends.\n\nیعنی لباس‌هایی که:\n\nسریع تولید می‌شوند\nمعمولاً ارزان‌تر هستند\nبرای دنبال کردن trendهای سریع مد تولید می‌شوند\nباعث مصرف و دورریز بیشتر لباس می‌شوند.\n\nجمله تو:\n\n\"something trend for a few periods\"\n\nایده‌اش نزدیک بود، ولی تعریف کامل نبود.\n\nو:\n\n❌ creepy\n\nاحتمالاً منظورت cheap بود.\n\ncheap = ارزان\ncreepy = ترسناک / حال‌به‌هم‌زن به معنای خاص\n\nError Map تو\n\nاز این امتحان، این‌ها را وارد Personal Error Log می‌کنیم:\n\n🔴 Priority 1 — باید مرور شوند\n\n1. Present Perfect vs Past Simple\n\nI have been to Argentina twice.\nI went to Argentina in 2022.\n\n2. Relative clause: which vs where\n\nthe mountain which we climbed\nthe park where we played\n\n3. Defining vs Non-defining\n\nThe man who called me is my teacher.\n\nMy brother, who lives in Tehran, is an engineer.\n\n4. mustn't vs don't have to\n\nmustn't = prohibited\n\ndon't have to = not necessary\n\n🟡 Priority 2\n\n5. Future forms\n\nwill = instant decision\n\nbe going to = prior plan / evidence\n\nPresent Continuous = arrangement\n\n6. Vocabulary precision\n\nخصوصاً:\n\nreturn ticket\nreceptionist\naccept defeat\nfast fashion\nlitter\nhand luggage\nیک نکته مهم درباره عملکردت\n\nتو در قسمت So / Such / Too / Enough و بیشتر conditionalها تقریباً بدون مشکل جواب دادی. یعنی ساختارهای گرامری را وقتی فرمول و context واضح باشند، خوب تشخیص می‌دهی.\n\nمشکل اصلی زمانی ظاهر می‌شود که باید بین دو ساختار نزدیک معنایی انتخاب کنی؛ مثل:\n\nwhere vs which\n\nیا:\n\nmustn't vs don't have to\n\nیا:\n\nPresent Perfect vs Past Simple\n\nبنابراین مرحله بعدی نباید صرفاً «گرامر جدید» باشد. بهتر است روی discrimination exercises کار کنیم؛ یعنی چند گزینه که همگی از نظر ظاهری ممکن‌اند، ولی فقط یکی با context درست است.\n\nمرحله بعدی را می‌توانیم به شکل یک آزمون B1 واقعی‌تر ببریم: بدون اینکه اسم گرامر را به تو بگویم، فقط context می‌دهم و تو باید خودت زمان/ساختار/واژه مناسب را انتخاب کنی.",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": [
+      {
+        "locator": "table:1",
+        "rows": [
+          [
+            "بخش",
+            "نتیجه"
+          ],
+          [
+            "Present Perfect / Continuous",
+            "3/5"
+          ],
+          [
+            "Relative Clauses",
+            "4/5"
+          ],
+          [
+            "Comparatives / Superlatives",
+            "3/4"
+          ],
+          [
+            "So / Such / Too / Enough",
+            "5/5"
+          ],
+          [
+            "Future Forms",
+            "3/4"
+          ],
+          [
+            "Conditionals",
+            "4/5"
+          ],
+          [
+            "Modals",
+            "1/2"
+          ],
+          [
+            "Vocabulary",
+            "5/10"
+          ],
+          [
+            "Total",
+            "28/40 = 70%"
+          ]
+        ]
+      }
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "747a90d2-a2e7-4550-acea-fd39618be743",
+    "capture.headings": [
+      {
+        "level": 2,
+        "text": "نتیجه: 28/40"
+      },
+      {
+        "level": 1,
+        "text": "1. Present Perfect / Continuous"
+      },
+      {
+        "level": 3,
+        "text": "1. ✅"
+      },
+      {
+        "level": 3,
+        "text": "2. ❌"
+      },
+      {
+        "level": 3,
+        "text": "3. ❌"
+      },
+      {
+        "level": 3,
+        "text": "تفاوت کلیدی:"
+      },
+      {
+        "level": 3,
+        "text": "4. ✅"
+      },
+      {
+        "level": 3,
+        "text": "5. ✅"
+      },
+      {
+        "level": 1,
+        "text": "2. Relative Clauses"
+      },
+      {
+        "level": 3,
+        "text": "6. ✅"
+      },
+      {
+        "level": 3,
+        "text": "7. ✅"
+      },
+      {
+        "level": 3,
+        "text": "8. ❌"
+      },
+      {
+        "level": 3,
+        "text": "9. ❌ / unanswered"
+      },
+      {
+        "level": 3,
+        "text": "10. ❌"
+      },
+      {
+        "level": 1,
+        "text": "3. Comparatives / Superlatives"
+      },
+      {
+        "level": 3,
+        "text": "11. ✅"
+      },
+      {
+        "level": 3,
+        "text": "12. ❌"
+      },
+      {
+        "level": 3,
+        "text": "13. ✅"
+      },
+      {
+        "level": 3,
+        "text": "14. ✅"
+      },
+      {
+        "level": 1,
+        "text": "4. So / Such / Too / Enough"
+      },
+      {
+        "level": 3,
+        "text": "15. ✅"
+      },
+      {
+        "level": 3,
+        "text": "16. ✅"
+      },
+      {
+        "level": 3,
+        "text": "17. ✅"
+      },
+      {
+        "level": 3,
+        "text": "18. ✅"
+      },
+      {
+        "level": 3,
+        "text": "19. ✅"
+      },
+      {
+        "level": 1,
+        "text": "5. Future Forms"
+      },
+      {
+        "level": 3,
+        "text": "20. ✅"
+      },
+      {
+        "level": 3,
+        "text": "21. ❌"
+      },
+      {
+        "level": 3,
+        "text": "22. ✅"
+      },
+      {
+        "level": 3,
+        "text": "23. ❌ / unanswered"
+      },
+      {
+        "level": 1,
+        "text": "6. Conditionals"
+      },
+      {
+        "level": 3,
+        "text": "24. ✅"
+      },
+      {
+        "level": 3,
+        "text": "25. ❌ / unanswered"
+      },
+      {
+        "level": 3,
+        "text": "26. ✅"
+      },
+      {
+        "level": 3,
+        "text": "27. ✅"
+      },
+      {
+        "level": 3,
+        "text": "28. 🟡"
+      },
+      {
+        "level": 1,
+        "text": "7. Modals"
+      },
+      {
+        "level": 3,
+        "text": "29. ✅"
+      },
+      {
+        "level": 3,
+        "text": "30. ❌"
+      },
+      {
+        "level": 3,
+        "text": "mustn't"
+      },
+      {
+        "level": 3,
+        "text": "don't have to"
+      },
+      {
+        "level": 1,
+        "text": "8. Vocabulary"
+      },
+      {
+        "level": 3,
+        "text": "31. ✅"
+      },
+      {
+        "level": 3,
+        "text": "32. ✅"
+      },
+      {
+        "level": 3,
+        "text": "33. 🟡"
+      },
+      {
+        "level": 3,
+        "text": "34. ❌"
+      },
+      {
+        "level": 3,
+        "text": "35. 🟡"
+      },
+      {
+        "level": 3,
+        "text": "36. 🟡"
+      },
+      {
+        "level": 3,
+        "text": "37. ❌"
+      },
+      {
+        "level": 3,
+        "text": "38. ✅"
+      },
+      {
+        "level": 3,
+        "text": "39. ❌ / unanswered"
+      },
+      {
+        "level": 1,
+        "text": "40. Litter vs Fast Fashion"
+      },
+      {
+        "level": 3,
+        "text": "Litter"
+      },
+      {
+        "level": 3,
+        "text": "Fast fashion"
+      },
+      {
+        "level": 1,
+        "text": "Error Map تو"
+      },
+      {
+        "level": 3,
+        "text": "🔴 Priority 1 — باید مرور شوند"
+      },
+      {
+        "level": 3,
+        "text": "🟡 Priority 2"
+      },
+      {
+        "level": 2,
+        "text": "یک نکته مهم درباره عملکردت"
+      }
+    ],
+    "capture.links": []
+  }
+}

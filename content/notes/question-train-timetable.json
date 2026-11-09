@@ -1,0 +1,45 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "question-train-timetable",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Does a timetable imply daily repetition?"
+  },
+  "tags": [
+    "needs-review"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m03",
+        "locator": "message-excerpt",
+        "quote": "the train leaves at 8. --> every day at 8 train leaves."
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-question-train-timetable",
+        "type": "question",
+        "version": 1,
+        "data": {
+          "prompt": "the train leaves at 8. --> every day at 8 train leaves.",
+          "answer": null,
+          "reasonUnanswered": "Requires content review; source wording preserved."
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-timetables"
+    ]
+  },
+  "extensions": {}
+}

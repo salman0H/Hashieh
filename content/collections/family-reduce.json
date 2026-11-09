@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "family-reduce",
+  "type": "collection",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "reduce — word family"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m16",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "kind": "word-family",
+    "itemIds": [
+      "entry-reduce",
+      "entry-reduction",
+      "entry-reduced"
+    ]
+  },
+  "extensions": {}
+}

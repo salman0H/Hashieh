@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-overcome",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "overcome"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:5"
+      },
+      {
+        "sourceId": "src-chat-m07",
+        "locator": "normalized-text/line:18",
+        "quote": "To overcome her fears."
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:2/data-row:297"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:1/data-row:5"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "overcome",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-overcome",
+    "senses": [
+      {
+        "id": "sense-30f3512f9dfa",
+        "partOfSpeech": "Verb",
+        "translation": {
+          "fa": "غلبه کردن بر"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "conquer",
+          "defeat"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:1/data-row:5"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:1/data-row:5"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-35d9b7a432da",
+        "partOfSpeech": "Verb",
+        "translation": {
+          "fa": "غلبه کردن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:2/data-row:297"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:1/data-row:5"
+        },
+        "group": "priority-a",
+        "sessionId": null,
+        "priority": "A"
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m07",
+          "locator": "normalized-text/line:18",
+          "quote": "To overcome her fears."
+        },
+        "group": "learner-notes-exact-match",
+        "sessionId": "session-water-sports",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:2/data-row:297"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:1/data-row:5"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

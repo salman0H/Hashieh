@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-2fcb9688-aa7a-49d0-b435-07464e96bf03",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "بله همین کتاب هست پس ساختار رو از دیپ سیک کپی کن اطلاعات رو از کتاب بردار و یک ساختار هوشمند درست کن برای یادگیری زبان "
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-2fcb9688-aa7a-49d0-b435-07464e96bf03",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-2fcb9688-aa7a-49d0-b435-07464e96bf03-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "بله همین کتاب هست پس ساختار رو از دیپ سیک کپی کن اطلاعات رو از کتاب بردار و یک ساختار هوشمند درست کن برای یادگیری زبان \nو گاها یک سری اطالعات از جبسات کلاس زبان بهت میدم ک میخوام اون ها رو مثل همون چت دیپ سی کبرام درست جزوش کنی",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": []
+  },
+  "extensions": {
+    "capture.message-id": "2fcb9688-aa7a-49d0-b435-07464e96bf03",
+    "capture.turn-number": 5
+  }
+}

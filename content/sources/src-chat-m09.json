@@ -1,0 +1,83 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-chat-m09",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — visible message 9"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/share/6af0508a-19f8-83ed-91a4-002901ccaac9",
+    "role": "user",
+    "messageOrdinal": 9,
+    "ordinalScope": "rendered-message-sequence-on-2026-11-08",
+    "capturedOn": "2026-11-08",
+    "dateLabel": "Thursday 4:48 PM",
+    "occurredAt": null,
+    "captureScope": "message-text-normalized",
+    "text": "هدف من درست کردن یک جدول از لفات هست به این صورت، توقعی ک از تو در این پیام دارم این هست ک تمامی لغات جدیدی ک در این چت موجود هستن به غیر این هایی ک برات میفرستم رو برام مثل همین جدول درست کنی، دوباره تاکید میکنم تمامی لغات رو برام به همین صورت جدول کن بدون هیچ مورد اضافه ای، خروجی ای ک میخوام برام بفرستی به این صورت باشه ک به این حدول یک مورد دیگ هم اضافه کنی اونم این که مثل این:\nخانوادهٔ کلمات:\nواژه / نوع / معنی\ninstruct / Verb / آموزش دادن، دستور دادن\ninstructor / Noun / مربی\ninstruction / Noun / دستورالعمل، آموزش\ninstructions / Noun plural / دستورالعمل‌ها\ninstructive / Adjective / آموزنده\ninstructional / Adjective / آموزشی\nخانواده کلمات رو هم داشته باشیم ینی تو جدولی درست کرده باشی ک این کلمات رو هم توش داشته باشه ( همون هایی ک برات فرستادم به همره خانواده ها شون)‌ و جدول جدیدی ک ب این اضافه میشه با کلمات جدید ب همراه هم خانواده هاشون",
+    "attachmentIndicators": {
+      "files": 1,
+      "images": 0
+    },
+    "limitations": [
+      "Page capture is partial; ordinal is not a stable original chat message ID.",
+      "Whitespace/UI labels normalized; no claim of byte-exact transcript.",
+      "Referenced attachments are not captured."
+    ],
+    "tables": [
+      {
+        "locator": "table:1",
+        "rows": [
+          [
+            "instruct",
+            "آموزش دادن، دستور دادن",
+            "",
+            "Verb"
+          ],
+          [
+            "instructor",
+            "مربی",
+            "",
+            "Noun"
+          ],
+          [
+            "instruction",
+            "دستورالعمل، آموزش",
+            "",
+            "Noun"
+          ],
+          [
+            "instructions",
+            "دستورالعمل‌ها",
+            "",
+            "Noun plural"
+          ],
+          [
+            "instructive",
+            "آموزنده",
+            "",
+            "Adjective"
+          ],
+          [
+            "instructional",
+            "آموزشی",
+            "",
+            "Adjective"
+          ]
+        ]
+      }
+    ]
+  },
+  "extensions": {
+    "capture.original-source-id": "src-original-bad3a620-cb57-456d-805a-7719f05ef9d7"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-commitment",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "commitment"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m03",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-chat-m04",
+        "locator": "normalized-text/line:30",
+        "quote": "I am the best person you can recruit for this career. I grew up with news all the day I looked up with truth! In my last job I wrote tech column, but It was being tiring for me. I want satisfy or meet my wishes to get a new opportunity. I learned about this career from my father and he leaned from his father and this loop is permanent, so, be a reporter is in my blood. My reason is my commitment to every people who live in this neghiboor, they deserve to know the truth. I am strict man about news, I do not plateau on a same level I interest to know everything!"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "commitment",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m03",
+          "locator": "message-excerpt"
+        },
+        "group": "learner-notes",
+        "sessionId": "session-future",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m04",
+          "locator": "normalized-text/line:30",
+          "quote": "I am the best person you can recruit for this career. I grew up with news all the day I looked up with truth! In my last job I wrote tech column, but It was being tiring for me. I want satisfy or meet my wishes to get a new opportunity. I learned about this career from my father and he leaned from his father and this loop is permanent, so, be a reporter is in my blood. My reason is my commitment to every people who live in this neghiboor, they deserve to know the truth. I am strict man about news, I do not plateau on a same level I interest to know everything!"
+        },
+        "group": "learner-notes-exact-match",
+        "sessionId": "session-experiences-news",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

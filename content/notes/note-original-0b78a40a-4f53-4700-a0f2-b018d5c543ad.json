@@ -1,0 +1,48 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-0b78a40a-4f53-4700-a0f2-b018d5c543ad",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "در درصد احتمال وقوع این دو چ تفاوت هایی هست؟"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message",
+    "assessment"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-0b78a40a-4f53-4700-a0f2-b018d5c543ad",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-0b78a40a-4f53-4700-a0f2-b018d5c543ad-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "1 selection\nدر درصد احتمال وقوع این دو چ تفاوت هایی هست؟\nایا این درست هست؟:\ni will study tonight, i might study at the library for this exam.\nجواب تست:\nb\nb\nc\nb\nc\na\nb\na\nc\na\nzero\nfirst\npossibility\nzero\nfirst",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": []
+  },
+  "extensions": {
+    "capture.message-id": "0b78a40a-4f53-4700-a0f2-b018d5c543ad",
+    "capture.turn-number": 22
+  }
+}

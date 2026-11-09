@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-e2395d2529cc",
+  "type": "covers",
+  "from": "note-original-cd3bcbda-7aa3-47d3-b0d5-2b58f203d448",
+  "to": "concept-relative-clauses",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-original-cd3bcbda-7aa3-47d3-b0d5-2b58f203d448",
+      "locator": "message-body"
+    }
+  ],
+  "extensions": {}
+}

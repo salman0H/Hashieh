@@ -1,0 +1,144 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-challenging",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "challenging"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:12"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:1/data-row:45"
+      },
+      {
+        "sourceId": "src-original-aad291b4-8724-481f-89aa-c7df380822d1",
+        "locator": "table:2/data-row:4"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:1/data-row:12"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "challenging",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-challenge",
+    "senses": [
+      {
+        "id": "sense-45489269e8b5",
+        "partOfSpeech": "Adjective",
+        "translation": {
+          "fa": "چالش‌برانگیز"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "demanding",
+          "difficult"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:1/data-row:12"
+          },
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:1/data-row:45"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:1/data-row:12"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-7bfbfc3ca603",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "چالش‌برانگیز"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-66801c84994e",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "It's a challenging but rewarding job.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-aad291b4-8724-481f-89aa-c7df380822d1",
+            "locator": "table:2/data-row:4"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:1/data-row:12"
+        },
+        "group": "priority-a",
+        "sessionId": null,
+        "priority": "A"
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:1/data-row:45"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-aad291b4-8724-481f-89aa-c7df380822d1",
+          "locator": "table:2/data-row:4"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-22cf3704",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:1/data-row:12"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

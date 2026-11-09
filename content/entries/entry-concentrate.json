@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-concentrate",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "concentrate"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:1/data-row:92"
+      },
+      {
+        "sourceId": "src-original-aad291b4-8724-481f-89aa-c7df380822d1",
+        "locator": "table:2/data-row:1"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "concentrate",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-concentrate",
+    "senses": [
+      {
+        "id": "sense-5a1e6ec553e4",
+        "partOfSpeech": "Verb",
+        "translation": {
+          "fa": "تمرکز کردن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:1/data-row:92"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-d07b79b473ba",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "تمرکز کردن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-2a47d8b9f37a",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "I can't concentrate in a noisy environment.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-aad291b4-8724-481f-89aa-c7df380822d1",
+            "locator": "table:2/data-row:1"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:1/data-row:92"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-aad291b4-8724-481f-89aa-c7df380822d1",
+          "locator": "table:2/data-row:1"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-22cf3704",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

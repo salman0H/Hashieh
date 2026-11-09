@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-d346c691ef31",
+  "type": "contains",
+  "from": "session-sports-habits",
+  "to": "note-sports-habits",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-chat-m06",
+      "locator": "message-excerpt"
+    }
+  ],
+  "extensions": {}
+}

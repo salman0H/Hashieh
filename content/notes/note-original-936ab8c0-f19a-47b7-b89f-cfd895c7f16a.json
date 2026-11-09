@@ -1,0 +1,327 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "بررسی جزوهٔ جلسهٔ قبل و تقویت مهارت خلاصه‌کردن صحبت دیگران در انگلیسی"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "assessment",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "بررسی جزوهٔ جلسهٔ قبل و تقویت مهارت خلاصه‌کردن صحبت دیگران در انگلیسی\n\nاین جلسه دو بخش مهم دارد: واژگان مربوط به درآمد و شرایط کار، و مهارت مکالمه‌ای که گفتی می‌خواهی تقویت کنی؛ یعنی گوش دادن به نظر هم‌کلاسی، فهمیدن پیام اصلی و بازگویی آن با زبان خودت.\n\nبخش دوم صرفاً به دانستن لغات بیشتر وابسته نیست. باید هم‌زمان سه مهارت را تمرین کنی: تشخیص ایدهٔ اصلی، یادداشت‌برداری از کلمات کلیدی و بازگویی بدون تکرار کلمه‌به‌کلمهٔ حرف طرف مقابل.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a-2",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۱. بررسی واژگان و عبارت‌های جزوه",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a-3",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "درآمد، هزینه‌های زندگی و شرایط کار\n\nعبارت\n\n\t\n\nمعنی و کاربرد\n\n\t\n\nمثال طبیعی\n\n\n\n\nmake ends meet\n\n\t\n\nاز پس هزینه‌های زندگی برآمدن\n\n\t\n\nMany people struggle to make ends meet.\n\n\n\n\nafford\n\n\t\n\nتوان مالی خریدن یا پرداخت هزینهٔ چیزی را داشتن\n\n\t\n\nI can't afford a new laptop right now.\n\n\n\n\nwork for peanuts\n\n\t\n\nبا دستمزد بسیار کم کار کردن؛ اصطلاح غیررسمی\n\n\t\n\nSome employees work long hours for peanuts.\n\n\n\n\nbe on the same page\n\n\t\n\nدربارهٔ موضوعی توافق یا درک مشترک داشتن\n\n\t\n\nWe need to make sure we're on the same page.\n\n\n\n\nwelfare\n\n\t\n\nرفاه؛ در بعضی بافت‌ها کمک‌ها و حمایت‌های اجتماعی\n\n\t\n\nThe government should improve public welfare.\n\n\n\n\nunder pressure\n\n\t\n\nتحت فشار\n\n\t\n\nPeople often make mistakes when they work under pressure.\n\n\n\n\ncost of living\n\n\t\n\nهزینهٔ زندگی\n\n\t\n\nThe cost of living has increased significantly.\n\n\n\n\nmanage a crisis\n\n\t\n\nیک بحران را مدیریت کردن\n\n\t\n\nManagers need to know how to manage a crisis.\n\n\n\n\nbreadwinner\n\n\t\n\nفردی که درآمد اصلی خانواده را تأمین می‌کند\n\n\t\n\nThese days, both partners may be breadwinners.\n\n\n\n\nlook for\n\n\t\n\nدنبال چیزی گشتن\n\n\t\n\nI'm looking for a better-paid job.\n\n\n\n\nseek\n\n\t\n\nجست‌وجو کردن؛ رسمی‌تر از look for\n\n\t\n\nMany graduates seek employment abroad.\n\nچند اصلاح مهم:\n\nmake the ends meet معمولاً به شکل make ends meet گفته می‌شود؛ the نمی‌خواهد.\n\nاملای درست afford است، نه affoard.\n\nafford به معنی «توان مالی داشتن» است، نه صرفاً توانایی انجام کاری. مثلاً I can't afford to take a year off work.\n\nsurvive یعنی زنده ماندن یا از یک وضعیت دشوار جان سالم به در بردن؛ اما الزاماً به معنی نجات دادن خود به‌صورت عمدی نیست.\n\nrescue یعنی نجات دادن شخص یا چیزی از خطر. The firefighters rescued the child.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a-4",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "تفاوت rescue و survive",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a-5",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Rescue — نجات دادن\n\nThe firefighters rescued him.\n\nآتش‌نشان‌ها او را نجات دادند.\n\nفاعل، شخص یا موجود دیگری را از خطر نجات می‌دهد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a-6",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Survive — زنده ماندن\n\nHe survived the accident.\n\nاو از تصادف جان سالم به در برد.\n\nشخص یا موجود از خطر یا وضعیت دشوار جان سالم به در می‌برد.\n\nجملهٔ They rescuer is dead! درست نیست. بسته به منظورت، احتمالاً یکی از این‌ها مناسب است:\n\nThe rescuer is dead. — نجات‌دهنده مرده است.\n\nThey rescued him, but he died later. — او را نجات دادند، اما بعداً فوت کرد.\n\nThey tried to rescue him, but he didn't survive. — تلاش کردند نجاتش دهند، اما او زنده نماند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a-7",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۲. واژه‌های مربوط به حقوق و دستمزد\n\nدر یادداشتت این واژه‌ها را آورده‌ای: meager, decent, normal, average, generous, handsome.\n\nواژه\n\n\t\n\nکاربرد دربارهٔ حقوق\n\n\n\n\nmeagre / meager\n\n\t\n\nناچیز و بسیار کم؛ meagre املای بریتانیایی و meager املای آمریکایی است.\n\n\n\n\ndecent\n\n\t\n\nقابل‌قبول، مناسب و نسبتاً خوب\n\n\n\n\nnormal\n\n\t\n\nمعمول یا عادی؛ لزوماً خوب یا بد نیست\n\n\n\n\naverage\n\n\t\n\nدر حد میانگین\n\n\n\n\ngenerous\n\n\t\n\nسخاوتمندانه؛ برای حقوق، مبلغی نسبتاً بالا یا مطلوب\n\n\n\n\nhandsome\n\n\t\n\nدر ترکیب a handsome salary یعنی حقوق قابل‌توجه و زیاد\n\nدو جملهٔ تو را اصلاح کنیم:\n\n۱. نوشته بودی:\n\nI hate the janitor job due to it is meager salary.\n\nنسخهٔ بهتر:\n\nI wouldn't want to work as a janitor because the salary is so meagre.\n\nیا:\n\nI dislike that janitor job because it pays so little.\n\nنکات:\n\nwork as a janitor = به‌عنوان سرایدار کار کردن.\n\nبعد از because یک جمله می‌آید: because the salary is low.\n\nبعد از due to معمولاً اسم یا عبارت اسمی می‌آید: due to the low salary.\n\nmeagre salary از نظر گرامری درست است، اما در مکالمهٔ روزمره low salary یا poorly paid هم بسیار کاربردی است.\n\n۲. نوشته بودی:\n\nI love be an engeenier because they have handsome salary.\n\nنسخهٔ بهتر:\n\nI'd love to be an engineer because engineers can earn a handsome salary.\n\nنکات:\n\nwould love to + verb: I'd love to be ...\n\nاملای درست engineer است.\n\na handsome salary به حرف تعریف a نیاز دارد.\n\nengineers can earn از they have دقیق‌تر است، چون دربارهٔ درآمدی صحبت می‌کنی که می‌توانند کسب کنند؛ ضمن اینکه همهٔ مهندسان حقوق بالایی ندارند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a-8",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "چند عبارت مفید برای صحبت دربارهٔ حقوق\n\nearn a decent salary — حقوق قابل‌قبولی دریافت کردن\n\nbe poorly paid — دستمزد کمی گرفتن\n\nbe well paid — حقوق خوبی گرفتن\n\nget a pay rise — افزایش حقوق گرفتن\n\nearn a living — امرار معاش کردن\n\nstruggle financially — از نظر مالی در مضیقه بودن\n\nنکتهٔ گرامری:\n\nTo earn a lot is important for our lives. از نظر ساختار ممکن است، اما طبیعی‌تر است بگویی:\n\nEarning enough money is important for our quality of life.\n\nیا:\n\nIt's important to earn enough money to cover our basic needs.\n\nearning در جملهٔ اول نقش اسمی دارد؛ یعنی Gerund است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a-9",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۳. اصلاح عبارت‌های مبهم جزوه",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a-10",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Time is tide\n\nاحتمالاً منظورت Time is tight بوده است؛ یعنی وقت کم است یا زمان‌بندی فشرده است.\n\nTime is tight, so we need to hurry.\nوقت کم است، پس باید عجله کنیم.\n\nI'm working under pressure because the deadline is tomorrow.\nچون مهلت تحویل فرداست، تحت فشار کار می‌کنم.\n\nWe're running out of time.\nداریم وقت کم می‌آوریم.\n\nتفاوت این عبارت‌ها:\n\nTime is tight — وقت محدود است.\n\nWork under pressure — تحت فشار کار کردن.\n\nRun out of time — وقت تمام شدن یا کم آوردن.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a-11",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "They deal with will ppl they lives\n\nاین یادداشت به‌اندازه‌ای واضح نیست که بتوانم با اطمینان اصلاحش کنم. ممکن است منظورت یکی از عبارت‌های زیر بوده باشد:\n\nThey deal with real-life problems. — آن‌ها با مشکلات واقعی زندگی سروکار دارند.\n\nThey deal with difficult people. — آن‌ها با افراد دشوار سروکار دارند.\n\nThey deal with people whose lives are under pressure. — آن‌ها با افرادی سروکار دارند که زندگی‌شان تحت فشار است.\n\nاگر جملهٔ اصلی یا موضوع مکالمهٔ کلاس را به یاد بیاوری، می‌توانم شکل دقیقش را مشخص کنم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a-12",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Tights\n\nاملای درست واژهٔ «جوراب‌شلواری» در انگلیسی بریتانیایی tights است.\n\na pair of tights — یک جفت جوراب‌شلواری\n\nShe is wearing black tights. — او جوراب‌شلواری مشکی پوشیده است.\n\nدر انگلیسی آمریکایی، برای بعضی انواع این پوشش از pantyhose استفاده می‌شود.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a-13",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۴. مهارت اصلی موردنظر تو: خلاصه‌کردن حرف هم‌کلاسی به انگلیسی\n\nفرض کنیم هم‌کلاسی‌ات دربارهٔ حقوق و هزینه‌های زندگی صحبت می‌کند:\n\nThese days, many people work long hours, but they still struggle to make ends meet. The cost of living is so high that they can barely afford their basic needs. I think employers should pay people better salaries.\n\nوظیفهٔ تو این نیست که تمام جمله‌ها را حفظ کنی یا دقیقاً همان کلمات را تکرار کنی. باید سه چیز را تشخیص بدهی:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a-14",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "1. موضوع اصلی — Main topic\n\nLow salaries and the cost of living\n\nحقوق پایین و هزینه‌های زندگی",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a-15",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "2. نظر گوینده — Main opinion\n\nPeople work long hours but still struggle financially.\n\nمردم ساعت‌های طولانی کار می‌کنند، اما همچنان مشکلات مالی دارند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a-16",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "3. پیشنهاد یا نتیجه — Recommendation\n\nEmployers should pay better salaries.\n\nکارفرمایان باید حقوق بهتری پرداخت کنند.\n\nحالا می‌توانی این‌طور خلاصه کنی:\n\nSo, if I understand you correctly, you're saying that people work hard but still struggle to cover their basic needs because the cost of living is so high. You also think employers should pay better salaries.\n\nاین خلاصه خوب است، چون ایدهٔ اصلی و پیشنهاد گوینده را منتقل می‌کند، بدون اینکه متن او را کلمه‌به‌کلمه تکرار کند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a-17",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۵. روش پنج‌مرحله‌ای برای تمرین در کلاس\n\nبه دنبال پیام اصلی باش، نه تمام کلمات.\n\nهنگام شنیدن، از خودت بپرس: «این شخص دقیقاً دربارهٔ چه چیزی صحبت می‌کند؟» اگر یک یا دو کلمه را متوجه نشدی، مکالمه را در ذهنت متوقف نکن.\n\nفقط کلمات کلیدی را یادداشت کن.\n\nبرای مثال:\n\nlong hours → low salary → high living costs → better pay\n\nلازم نیست جملهٔ کامل بنویسی. فلش‌ها کمک می‌کنند رابطهٔ میان ایده‌ها را حفظ کنی.\n\nنظر را از دلیل جدا کن.\n\nمثلاً:\n\nOpinion: Salaries are too low.\n\nReason: The cost of living is high.\n\nExample: People cannot afford basic needs.\n\nاز ساختارهای بازگویی استفاده کن.\n\nبه‌جای تکرار جمله‌های هم‌کلاسی، از عبارت‌هایی مانند She believes that ...، His main point is that ... و According to her, ... استفاده کن.\n\nخلاصه‌ات را با یک بررسی کوتاه تمام کن.\n\nاز خودت بپرس: «آیا نظر اصلی او را منتقل کردم؟ آیا چیزی اضافه کردم که او نگفته بود؟» خلاصه باید وفادار به حرف گوینده باشد، حتی اگر با نظر شخصی تو فرق داشته باشد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a-18",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۶. عبارت‌های آماده برای مکالمه\n\nاین عبارت‌ها را به‌صورت دسته‌بندی‌شده یاد بگیر؛ در کلاس می‌توانی سریع از آن‌ها استفاده کنی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a-19",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "شروع خلاصه\n\nSo, if I understand you correctly, ...\n\nSo, what you're saying is that ...\n\nIf I understood you correctly, your main point is that ...",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a-20",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "بیان نظر طرف مقابل\n\nHe believes that ...\n\nShe thinks that ...\n\nAccording to him, ...\n\nHer main concern is that ...",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a-21",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "بیان دلیل و مثال\n\nThe main reason is that ...\n\nFor example, ...\n\nHe gave the example of ...\n\nShe mentioned that ...",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a-22",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "پرسیدن برای روشن‌شدن منظور\n\nCould you explain what you mean by that?\n\nDo you mean that ...?\n\nCould you give me an example?",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a-23",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "نکتهٔ گرامری مهم: تغییر زمان‌ها در بازگویی\n\nاگر از He said that ... استفاده می‌کنی، در بعضی موقعیت‌ها زمان فعل به عقب برمی‌گردد:\n\nDirect speech: “People work long hours.”\n\nReported speech: He said that people worked long hours.\n\nاما عقب بردن زمان همیشه اجباری نیست؛ به‌ویژه وقتی آن موضوع هنوز درست است، می‌توان زمان حال را حفظ کرد:\n\nHe said that people work long hours these days.\n\nدر سطح فعلی تو، بهتر است ابتدا از ساختارهای ساده‌تر مانند He thinks that ... یا She believes that ... استفاده کنی؛ چون معمولاً برای بازگویی نظر فعلی شخص طبیعی‌اند و درگیر تغییر زمان نمی‌شوی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a-24",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۷. تمرین تعاملی: نظر یک هم‌کلاسی را خلاصه کن\n\nاین بار قرار نیست فقط گرامر را تشخیص بدهی؛ باید پیام اصلی را از یک متن استخراج کنی و به انگلیسی بازگویی کنی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a-25",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "نظر هم‌کلاسی\n\n“I think money is very important because everyone needs to pay for food, housing and other basic things. However, earning a lot of money shouldn't be the only goal in life. People also need time to relax and spend time with their families. In my opinion, a decent salary and a good work-life balance are more important than becoming rich.”\n\nحالا در دو یا سه جمله به انگلیسی خلاصه کن که این شخص چه نظری دارد و چرا.\n\nبررسی خلاصهٔ من",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a-26",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۸. برنامهٔ تمرین پیشنهادی برای تو\n\nبرای اینکه این مهارت از حالت تمرین کلاسی خارج شود و به توانایی واقعی مکالمه تبدیل شود، هفته‌ای سه جلسهٔ ۱۰ تا ۱۵ دقیقه‌ای کافی است:\n\nجلسه\n\n\t\n\nتمرین\n\n\t\n\nهدف\n\n\n\n\nاول\n\n\t\n\nیک متن کوتاه یا فایل شنیداری را گوش بده و فقط ۳ تا ۵ کلمهٔ کلیدی بنویس.\n\n\t\n\nتشخیص پیام اصلی\n\n\n\n\nدوم\n\n\t\n\nهمان محتوا را در ۲ تا ۳ جمله به انگلیسی بازگو کن.\n\n\t\n\nParaphrasing و جمله‌سازی\n\n\n\n\nسوم\n\n\t\n\nنظر گوینده را خلاصه کن و یک سؤال مرتبط از او بپرس.\n\n\t\n\nتعامل واقعی در مکالمه\n\nدر این تمرین‌ها، از واژگان همین جلسه مثل make ends meet, afford, cost of living, decent salary, under pressure و work-life balance استفاده کن.\n\nمعیار پیشرفتت این نباشد که تمام حرف‌های هم‌کلاسی را به خاطر می‌آوری؛ معیار این باشد که بتوانی بدون نگاه‌کردن به یادداشت‌ها، نظر اصلی او را در دو یا سه جملهٔ روشن و طبیعی منتقل کنی.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-gerund-infinitive",
+      "concept-reported-speech"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "936ab8c0-f19a-47b7-b89f-cfd895c7f16a",
+    "capture.turn-number": 44
+  }
+}

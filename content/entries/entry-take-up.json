@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-take-up",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "take up"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:21"
+      },
+      {
+        "sourceId": "src-chat-m08",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:1/data-row:21"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "take up",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-a61f65083bbe",
+        "partOfSpeech": "Phrasal verb",
+        "translation": {
+          "fa": "شروع کردن یک سرگرمی یا فعالیت"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "start",
+          "begin"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:1/data-row:21"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:1/data-row:21"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-take-up-time",
+        "partOfSpeech": "Phrasal verb",
+        "translation": {
+          "fa": "زمان را اشغال یا مصرف کردن"
+        },
+        "definition": {
+          "en": "if something takes up time, it uses a certain amount of your time."
+        },
+        "equivalents": [
+          "use time"
+        ],
+        "examples": [
+          {
+            "id": "block-take-up-commuting",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "commuting takes up two hours of my day.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m08",
+            "locator": "Take up: time usage"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:1/data-row:21"
+        },
+        "group": "priority-a",
+        "sessionId": null,
+        "priority": "A"
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m08",
+          "locator": "message-excerpt"
+        },
+        "group": "learner-notes",
+        "sessionId": "session-team-spirit",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:1/data-row:21"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {
+    "language.enrichment": {
+      "fields": [
+        "payload.senses[sense-take-up-time].translation.fa"
+      ],
+      "origin": "editorial",
+      "reason": "Persian rendering of the English learner-note definition; requires review."
+    }
+  }
+}

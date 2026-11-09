@@ -1,0 +1,283 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "1. آیا می‌توانیم بگوییم I have anxious about my exam؟"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "assessment",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "1. آیا می‌توانیم بگوییم I have anxious about my exam؟\n\nخیر. شکل درست این است:\n\nI feel anxious about my exam. — دربارهٔ امتحانم احساس اضطراب دارم.\n\nI'm anxious about my exam. — بابت امتحانم مضطربم.\n\nI have anxiety about my exam. — دربارهٔ امتحانم اضطراب دارم.\n\nدلیل اصلی این است که anxious صفت است، نه اسم؛ بنابراین نمی‌توانیم آن را مستقیماً بعد از have در این ساختار قرار دهیم.\n\nاین چهار الگو را با هم مقایسه کن:\n\nساختار\n\n\t\n\nمثال\n\n\t\n\nمعنی\n\n\n\n\nfeel + adjective\n\n\t\n\nI feel anxious.\n\n\t\n\nاحساس اضطراب دارم.\n\n\n\n\nbe + adjective\n\n\t\n\nI am anxious.\n\n\t\n\nمضطرب هستم.\n\n\n\n\nhave + noun\n\n\t\n\nI have anxiety.\n\n\t\n\nاضطراب دارم.\n\n\n\n\nbe + past participle/adjective\n\n\t\n\nI am stressed.\n\n\t\n\nتحت فشار روانی هستم.\n\nپس این‌ها همگی درست‌اند:\n\nI feel nervous about the interview.\n\nI'm worried about my results.\n\nI feel stressed about work.\n\nI have a lot of anxiety about my future.\n\nاما این جمله‌ها غلط‌اند:\n\nI have anxious about my exam.\n\nI feel anxiety about my exam. — از نظر دستوری در بعضی بافت‌ها ممکن است، اما در مکالمهٔ معمول I feel anxious طبیعی‌تر است.\n\nنکته: have anxiety به معنی داشتن اضطراب است؛ لزوماً به این معنی نیست که فرد اختلال اضطرابی تشخیص‌داده‌شده دارد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00-2",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "2. چه ساختارهای کاربردی دیگری شبیه این‌ها داریم؟\n\nبهترین روش یادگیری این است که کلمات را به‌صورت الگوهای واژگانی (word patterns) یاد بگیری؛ یعنی فقط خود کلمه را حفظ نکنی، بلکه بدانی معمولاً در چه ساختاری می‌آید.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00-3",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "الف) احساسات و وضعیت‌ها\n\nالگو\n\n\t\n\nمثال\n\n\n\n\nfeel + adjective\n\n\t\n\nI feel exhausted.\n\n\n\n\nbe + adjective\n\n\t\n\nShe is confident.\n\n\n\n\nget + adjective\n\n\t\n\nI get nervous before exams.\n\n\n\n\nbecome + adjective\n\n\t\n\nHe became anxious.\n\n\n\n\nseem + adjective\n\n\t\n\nShe seems worried.\n\n\n\n\nlook + adjective\n\n\t\n\nYou look tired.\n\n\n\n\nsound + adjective\n\n\t\n\nThat sounds exciting.\n\n\n\n\nmake + someone + adjective\n\n\t\n\nThe exam makes me nervous.\n\nبه تفاوت این سه جمله دقت کن:\n\nI am nervous. — مضطربم.\n\nI get nervous before interviews. — قبل از مصاحبه‌ها مضطرب می‌شوم.\n\nInterviews make me nervous. — مصاحبه‌ها باعث می‌شوند مضطرب شوم.\n\nاولی وضعیت فعلی را بیان می‌کند، دومی به تغییر وضعیت یا واکنش تکرارشونده اشاره دارد و سومی علت احساس را بیان می‌کند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00-4",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "ب) الگوهای have + noun\n\nعبارت\n\n\t\n\nمثال\n\n\n\n\nhave difficulty + V-ing\n\n\t\n\nI have difficulty concentrating.\n\n\n\n\nhave trouble + V-ing\n\n\t\n\nShe has trouble sleeping.\n\n\n\n\nhave experience in + noun/V-ing\n\n\t\n\nHe has experience in programming.\n\n\n\n\nhave an opportunity to + verb\n\n\t\n\nI had an opportunity to present my portfolio.\n\n\n\n\nhave a tendency to + verb\n\n\t\n\nHe has a tendency to overthink.\n\n\n\n\nhave confidence in + noun\n\n\t\n\nI have confidence in my abilities.\n\n\n\n\nhave an effect on + noun\n\n\t\n\nStress has an effect on my sleep.\n\nمثلاً به‌جای اینکه بگویی:\n\nI am difficult to concentrate.\n\nبگو:\n\nI have difficulty concentrating.\n\nیعنی تمرکز کردن برایم دشوار است.\n\nاین الگوها برای مکالمه و Writing سطح B1 بسیار مفیدند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00-5",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "3. تفاوت affect و effect\n\nاین دو کلمه از نظر تلفظ و املا شبیه‌اند، اما نقش گرامری و کاربردشان متفاوت است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00-6",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Affect\nمعمولاً فعل\n\nیعنی «تأثیر گذاشتن بر» یا «اثر گذاشتن روی».\n\nStress affects my sleep.\n\nاسترس بر خوابم تأثیر می‌گذارد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00-7",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Effect\nمعمولاً اسم\n\nیعنی «اثر» یا «تأثیر».\n\nStress has a negative effect on my sleep.\n\nاسترس تأثیر منفی بر خوابم دارد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00-8",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "مقایسه در جمله‌های مختلف\n\nفعل: affect\n\n\t\n\nاسم: effect\n\n\n\n\nThe weather affects my mood.\n\n\t\n\nThe weather has an effect on my mood.\n\n\n\n\nLack of sleep affects my concentration.\n\n\t\n\nLack of sleep has an effect on my concentration.\n\n\n\n\nThe new policy affected employees.\n\n\t\n\nThe new policy had an effect on employees.\n\nیک الگوی مهم برای حفظ کردن:\n\naffect + object\n\nhave an effect on + noun\n\nمثلاً:\n\nThe new manager affected the team's performance.\n\nمدیر جدید بر عملکرد تیم تأثیر گذاشت.\n\nThe new manager had a positive effect on the team's performance.\n\nمدیر جدید تأثیر مثبتی بر عملکرد تیم داشت.\n\nنکتهٔ تکمیلی: effect گاهی فعل هم هست، به معنی «محقق یا برقرار کردن»؛ مثلاً effect change. همچنین affect در کاربرد تخصصی روان‌شناسی می‌تواند اسم باشد. اما برای سطح فعلی تو، قاعدهٔ «affect فعل، effect اسم» راهنمای بسیار خوبی است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00-9",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "4. در We need to decide چرا to داریم؟\n\nبله، این ساختار هم to-infinitive دارد؛ اما باید نقش need و to را از هم جدا کنیم.\n\nجمله:\n\nWe need to decide where to go.\n\nباید تصمیم بگیریم کجا برویم.\n\nساختار جمله:\n\nWe = فاعل\n\nneed = فعل اصلی\n\nto decide = مصدر با to؛ متمم فعل need\n\nwhere to go = عبارت پرسشی با مصدر؛ یعنی «کجا رفتن»",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00-10",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "چرا بعد از need از to استفاده می‌کنیم؟\n\nچون یکی از الگوهای فعل need این است:\n\nneed\n+\nto-infinitive\nneed+to-infinitive\n\nمثال:\n\nI need to study.\n\nShe needs to improve her English.\n\nWe need to hire a developer.\n\nThey needed to find a new office.\n\nپس to را صرفاً به‌خاطر وجود کلمهٔ need به‌صورت مکانیکی اضافه نمی‌کنیم؛ بلکه چون فعل need در این معنی با الگوی to + base verb می‌آید.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00-11",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "مقایسه با فعل‌های دیگر\n\nفعل\n\n\t\n\nساختار\n\n\t\n\nمثال\n\n\n\n\nneed\n\n\t\n\nneed to + verb\n\n\t\n\nI need to work.\n\n\n\n\ndecide\n\n\t\n\ndecide to + verb\n\n\t\n\nI decided to apply.\n\n\n\n\nwant\n\n\t\n\nwant to + verb\n\n\t\n\nI want to improve.\n\n\n\n\nenjoy\n\n\t\n\nenjoy + V-ing\n\n\t\n\nI enjoy learning.\n\n\n\n\navoid\n\n\t\n\navoid + V-ing\n\n\t\n\nAvoid making mistakes.\n\nبه این نکته دقت کن که در We need to decide دو فعل وجود دارد، اما فقط فعل اول صرف شده است. Need در زمان حال ساده آمده و decide به شکل مصدر با to است.\n\nو در عبارت زیر:\n\nWe need to decide where to go.\n\nدو مصدر با to داریم:\n\nto decide\n\nto go\n\nدر where to go، عبارت پرسشی where با مصدر ترکیب شده است. این ساختار به ما می‌گوید که باید دربارهٔ مکان تصمیم بگیریم، بدون اینکه یک جملهٔ پرسشی کامل بسازیم.\n\nمقایسه:\n\nWe need to decide where to go. — باید تصمیم بگیریم کجا برویم.\n\nWe need to decide where we should go. — باید تصمیم بگیریم که به نظرت کجا باید برویم.\n\nهر دو درست‌اند؛ دومی یک جملهٔ وابسته با فاعل we و فعل صرف‌شدهٔ should go دارد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00-12",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "5. بررسی گرامر و واژگان بند Writing\n\nمتن فعلی تو:\n\nWhen it comes to the office, I'd describe it as spectacular. It had a modern design, bright rooms, professional staff, and a positive atmosphere.\n\nOverall, I had a good experience on my first day. At first, they didn't expect much from me, but I solved a complicated problem for them. It was a really rewarding feeling.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00-13",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "جملهٔ اول\n\nWhen it comes to the office, I'd describe it as spectacular.\n\nترجمه: وقتی صحبت از دفتر کار می‌شود، آن را خیره‌کننده توصیف می‌کنم.\n\nساختارها:\n\nWhen it comes to + noun/V-ing = وقتی صحبت از چیزی می‌شود.\n\nI'd describe it as ... = من آن را ... توصیف می‌کنم.\n\ndescribe something as + adjective/noun = چیزی را ... توصیف کردن.\n\nمثال‌های مشابه:\n\nWhen it comes to programming, I prefer Python.\n\nI'd describe my manager as strict but fair.\n\nShe described the job as challenging.\n\nنکته: I'd در اینجا مخفف I would است، نه I had. استفاده از would جمله را به شکل یک توصیف یا ارزیابی شخصی درمی‌آورد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00-14",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "جملهٔ دوم\n\nIt had a modern design, bright rooms, professional staff, and a positive atmosphere.\n\nترجمه: طراحی مدرنی داشت، اتاق‌هایش روشن بودند، کارکنان حرفه‌ای بودند و فضای مثبتی داشت.\n\nاز نظر گرامری، جمله درست است. ساختار had چند ویژگی را به دفتر نسبت می‌دهد:\n\na modern design — طراحی مدرن\n\nbright rooms — اتاق‌های روشن\n\nprofessional staff — کارکنان حرفه‌ای\n\na positive atmosphere — فضای مثبت\n\nاین فهرست از نظر معنایی قابل‌قبول است، اما دو مورد از آن‌ها مستقیماً ویژگی‌های محیط فیزیکی‌اند و دو مورد دیگر به افراد و حال‌وهوای محیط اشاره می‌کنند.\n\nاگر بخواهی جمله روان‌تر و دقیق‌تر باشد:\n\nThe office had a modern design and bright rooms, and the staff were professional and friendly.\n\nدفتر طراحی مدرن و اتاق‌های روشنی داشت و کارکنان حرفه‌ای و خوش‌برخورد بودند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00-15",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "جملهٔ سوم\n\nOverall, I had a good experience on my first day.\n\nترجمه: در مجموع، روز اول تجربهٔ خوبی داشتم.\n\nOverall = در مجموع؛ برای جمع‌بندی.\n\nhave an experience گاهی به یک تجربهٔ مشخص اشاره می‌کند، اما برای بیان کلی معمولاً have a good experience طبیعی است.\n\non my first day = در روز اولم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00-16",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "جملهٔ چهارم\n\nAt first, they didn't expect much from me, but I solved a complicated problem for them.\n\nترجمه: در ابتدا انتظار زیادی از من نداشتند، اما من یک مشکل پیچیده را برایشان حل کردم.\n\nساختار گرامری:\n\ndidn't expect = گذشتهٔ سادهٔ منفی؛ بعد از didn't فعل پایه می‌آید.\n\nmuch = مقدار زیاد؛ اینجا به میزان انتظار اشاره می‌کند.\n\nsolve a problem = یک مشکل را حل کردن.\n\ncomplicated = پیچیده.\n\nعبارت بسیار کاربردی:\n\nThey didn't expect much from me.\n\nاین جمله طبیعی است و می‌تواند در توصیف اولین روز کار یا کارآموزی به کار برود.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00-17",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "جملهٔ پنجم\n\nIt was a really rewarding feeling.\n\nترجمه: احساس واقعاً رضایت‌بخشی بود.\n\nrewarding = رضایت‌بخش، ارزشمند از نظر احساسی یا شخصی.\n\nreally = واقعاً؛ قید شدت.\n\nfeeling = احساس.\n\nبا این حال، از نظر ارتباط معنایی، اگر منظورت احساس رضایت پس از حل مسئله است، این نسخه حتی طبیعی‌تر است:\n\nIt was really rewarding to solve such a complicated problem on my first day.\n\nحل کردن چنین مشکل پیچیده‌ای در روز اول واقعاً رضایت‌بخش بود.\n\nدر این ساختار، It was + adjective + to-infinitive داریم؛ یعنی ارزیابی یک عمل با استفاده از صفت.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00-18",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "نسخهٔ کامل و بازبینی‌شدهٔ Writing\nWriting\n\nIt was a summer job, but I'll never forget my first day. At first, I felt stressed because my boss was a strict man, but I had friendly colleagues.\n\nWhen it comes to the office, I'd describe it as spectacular. It had a modern design and bright rooms, and the staff were professional and friendly. The overall atmosphere was positive.\n\nOverall, I had a good experience on my first day. At first, they didn't expect much from me, but I solved a complicated problem for them. It was really rewarding to solve such a complicated problem on my first day.\n\nاین نسخه ساختار اصلی تو را حفظ می‌کند، اما توصیف محیط را منسجم‌تر می‌کند و جملهٔ پایانی را به اتفاقی که باعث رضایت تو شده، پیوند می‌دهد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00-19",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "6. چطور بگوییم می‌خواهم حضوری به شرکت‌ها مراجعه کنم و پورتفولیوم را ارائه بدهم؟\n\nمنظورت این است که فقط در سایت کاریابی دنبال آگهی نگردی؛ بلکه مستقیماً به شرکت‌ها مراجعه کنی، پروژه‌هایت را معرفی کنی و برای استخدام یا فرصت همکاری اقدام کنی.\n\nچند عبارت طبیعی برای این موقعیت داریم:\n\nعبارت\n\n\t\n\nمعنی\n\n\n\n\npresent my portfolio to companies\n\n\t\n\nپورتفولیومم را به شرکت‌ها ارائه کنم\n\n\n\n\napproach companies directly\n\n\t\n\nمستقیماً با شرکت‌ها وارد مذاکره یا ارتباط شوم\n\n\n\n\nvisit companies in person\n\n\t\n\nحضوری به شرکت‌ها مراجعه کنم\n\n\n\n\nshowcase my projects\n\n\t\n\nپروژه‌هایم را به نمایش بگذارم و معرفی کنم\n\n\n\n\nlook for job opportunities\n\n\t\n\nبه دنبال فرصت‌های شغلی بگردم\n\n\n\n\nhand in my CV\n\n\t\n\nرزومه‌ام را تحویل بدهم\n\n\n\n\npitch my skills to potential employers\n\n\t\n\nمهارت‌هایم را به کارفرمایان احتمالی معرفی کنم و برای همکاری متقاعدشان کنم",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00-20",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "چند جملهٔ طبیعی\n\nI want to visit companies in person and present my portfolio to potential employers.\n\nمی‌خواهم حضوری به شرکت‌ها مراجعه کنم و پورتفولیومم را به کارفرمایان احتمالی ارائه بدهم.\n\nI'm planning to approach software companies directly to showcase my projects and look for job opportunities.\n\nبرنامه دارم مستقیماً با شرکت‌های نرم‌افزاری ارتباط بگیرم تا پروژه‌هایم را معرفی کنم و دنبال فرصت‌های شغلی بگردم.\n\nI'd like to introduce myself to hiring managers and demonstrate what I can do.\n\nمی‌خواهم خودم را به مدیران استخدام معرفی کنم و نشان بدهم چه توانایی‌هایی دارم.\n\nنکته: برای برنامه‌نویس، عبارت showcase my projects بسیار کاربردی است؛ چون معمولاً قرار است پروژه‌ها، کدها و دستاوردهای فنی‌ات را به نمایش بگذاری، نه صرفاً یک فایل را تحویل بدهی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00-21",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "7. آیا fire همان fired است؟\n\nهر دو به یک فعل مربوط‌اند، اما نقش گرامری‌شان متفاوت است.\n\nFire فعل پایه است و در زمینهٔ شغلی یعنی «اخراج کردن».\n\nThe company fired him. — شرکت او را اخراج کرد.\n\nMy manager might fire me. — ممکن است مدیرم مرا اخراج کند.\n\nFired شکل گذشته و قسمت سوم فعل fire است.\n\nThe company fired him yesterday. — شرکت دیروز او را اخراج کرد.\n\nHe was fired yesterday. — او دیروز اخراج شد.\n\nHe has been fired. — او اخراج شده است.\n\nساختار مهم:\n\nbe\n+\npast participle\nbe+past participle\n\nدر جملهٔ He was fired، فعل was و قسمت سوم fired با هم ساختار مجهول را می‌سازند. یعنی تمرکز جمله بر فردی است که اخراج شده، نه شرکتی که او را اخراج کرده است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00-22",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "مقایسهٔ نهایی\n\nfire someone = کسی را اخراج کردن.\n\nget fired = اخراج شدن؛ رایج در مکالمه.\n\nbe fired = اخراج شدن؛ ساختار مجهول.\n\nget fired from a job = از یک شغل اخراج شدن.\n\nمثال مناسب برای واژگان همین جلسه:\n\nShe was fired because she was consistently late for work.\n\nاو به دلیل اینکه مرتب برای کار دیر می‌کرد، اخراج شد.\n\nنکتهٔ مرور: fire در زمینهٔ استخدام به معنی اخراج کردن است؛ اما این کلمه در بافت‌های دیگر معانی متفاوتی هم دارد، مانند «آتش» به‌عنوان اسم یا «شلیک کردن» در بعضی کاربردهای فعلی.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-gerund-infinitive",
+      "concept-writing"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "7b1e66cf-dfe9-4826-a2ef-e15e1cb5fd00",
+    "capture.turn-number": 38
+  }
+}

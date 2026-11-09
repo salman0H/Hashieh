@@ -1,0 +1,45 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "question-fatty-greasy",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Fatty vs greasy"
+  },
+  "tags": [
+    "needs-review"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m15",
+        "locator": "message-excerpt",
+        "quote": "Fatty == greasy"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-question-fatty-greasy",
+        "type": "question",
+        "version": 1,
+        "data": {
+          "prompt": "Fatty == greasy",
+          "answer": null,
+          "reasonUnanswered": "Requires content review; source wording preserved."
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-vocabulary-in-context"
+    ]
+  },
+  "extensions": {}
+}

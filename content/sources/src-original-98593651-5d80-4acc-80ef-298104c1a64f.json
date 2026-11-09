@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-98593651-5d80-4acc-80ef-298104c1a64f",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 73"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "user",
+    "messageOrdinal": 73,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "جزوه جلسه پیش:\n\neasy-going = laid-back --> i like people who are laid-back.\nquit = get out = leave = abondon = resign from\nlook for = search\nemplyment = recuitment --> استخدامی \nto get fired = to get sacked --> she was not panctual at all because of that she got fierd.\nto earn or make money.\ninform --> اطلاع دادن \nget contact with my employer.\nsend his CV to a finding job site or employment website or freelancer site.\ncreate a portfolio.\nlook for a job publicly\nhis father! extremely powerful connection.\nCV = resume`\nwe need recuit an admin for our instagram page.\njob oppurtunities = job position = job offercompatition --> about win something\nvariety --> تنوع\nmagesti --> شکوه\nretiring در معنی و لغت چه تفاوتی با tiring داره؟\nshe faces with her faith.\nin contary , to support a fmily financially.\nin iran pay is not good. --> its pay is not good.\neverything about more lurative \nsedentary\nhe is like be a constauction building tower or invest in that.\napplicant = a person who has applied for job\nit is more prestigious.\ni can satisfy or meet all my needs.\nsatisfing = ?\n…\nShow more",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": []
+  },
+  "extensions": {
+    "capture.message-id": "98593651-5d80-4acc-80ef-298104c1a64f",
+    "capture.headings": [],
+    "capture.links": []
+  }
+}

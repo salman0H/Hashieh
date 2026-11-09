@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-3b6901e8ca93",
+  "type": "covers",
+  "from": "session-future",
+  "to": "concept-will",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-chat-m03",
+      "locator": "message-excerpt"
+    }
+  ],
+  "extensions": {}
+}

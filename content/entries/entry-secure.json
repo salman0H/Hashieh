@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-secure",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "secure"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-aad291b4-8724-481f-89aa-c7df380822d1",
+        "locator": "table:2/data-row:6"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "secure",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-9cf9fd0d8be7",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "باثبات/امن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-d1c43b2e51f6",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "I want a secure job.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-aad291b4-8724-481f-89aa-c7df380822d1",
+            "locator": "table:2/data-row:6"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-aad291b4-8724-481f-89aa-c7df380822d1",
+          "locator": "table:2/data-row:6"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-22cf3704",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

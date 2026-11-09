@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-eba73669-0ef2-46f1-ae63-ab7b2f1d249f",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 6"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "assistant",
+    "messageOrdinal": 6,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "متن جزوه را به‌عنوان منبع اصلی سیستم یادگیری انگلیسی این جلسه در نظر می‌گیرم. ساختار و اصطلاحات خود جزوه را حفظ می‌کنم، ولی هرجا در آینده تمرین یا مرور داشته باشیم، می‌توانم مشخص کنم کدام نکته مستقیماً از جزوه است و کدام مورد توضیح تکمیلی است.\n\nنقشه فعلی جزوه\nSession\tموضوعات اصلی\n1\tParts of Speech، Subject، Object، Verb، Adjective، Adverb\n2\tTo be، Yes/No Questions، Wh-Questions، Interested in / Be into\n3\tPresent Simple، Present Continuous، future arrangements، annoying habits\n4\tPast Simple، regular/irregular verbs، emphatic did\n5\tPast To Be، Past Continuous، background of a story\n6\tWill vs Be Going To\n7\tPresent Perfect، just / yet / already / since / for / never\n8\tModals: can/could, may/might, should, must/have to, shall\n9\tPresent Perfect Continuous، Conditionals 0/1/2\n10\tAdvanced Grammar: Present Simple vs Continuous، Stative/Dynamic verbs، Past Simple vs Continuous، Present Perfect vs Past Simple\nVocabulary\tdoer, chase, faith, distractions, mess up, tough, cuddle up, huddle up, choke up, choking, nepotism, confident, confidence\nنکته مهم برای ادامه سیستم\n\nمن این جزوه را صرفاً به‌صورت یک لیست Grammar Topic نمی‌بینم؛ سه لایه دارد:\n\nGrammar Core\n\nساختار جمله\nTenses\nModals\nConditionals\nStative/Dynamic verbs\n\nUsage & Nuance\n\nتفاوت will و be going to\nتفاوت Present Simple و Present Continuous\nتفاوت Past Simple و Present Perfect\nکاربردهای مختلف can/could/may/might\nکاربرد always + Present Continuous برای رفتار آزاردهنده\n\nVocabulary & Natural English\n\nPhrasal verbs مثل mess up, cuddle up, huddle up\nواژگان مفهومی مثل nepotism, confidence, distraction\nاصطلاحات و کاربردهای conversational\n\nاز اینجا به بعد، وقتی با من English practice انجام می‌دهی، می‌توانیم این جزوه را به‌عنوان baseline در نظر بگیریم؛ یعنی مثلاً اگر جمله‌ای بنویسی، فقط نمی‌گویم «غلط است»، بلکه در صورت مرتبط بودن آن را به یکی از همین مباحث وصل می‌کنم:\n\nYour sentence → Correction → Grammar rule → Why → Natural alternative → Error Log\n\nو یک نکته مهم: بعضی توضیحات جزوه از نظر grammar accuracy یا wording نیاز به اصلاح دارند. فعلاً آن‌ها را به‌عنوان محتوای منبع حفظ می‌کنم و بی‌سر و صدا تغییرشان نمی‌دهم. اگر در مرور به یکی از آن‌ها برسیم، مشخص می‌کنم «طبق جزوه» چه گفته شده و «در انگلیسی استاندارد» چه نکته‌ای باید یاد بگیری.\n\nاین جزوه حالا می‌تواند بخش A1–A8 / Class Notes سیستم یادگیری‌مان باشد.",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": [
+      {
+        "locator": "table:1",
+        "rows": [
+          [
+            "Session",
+            "موضوعات اصلی"
+          ],
+          [
+            "1",
+            "Parts of Speech، Subject، Object، Verb، Adjective، Adverb"
+          ],
+          [
+            "2",
+            "To be، Yes/No Questions، Wh-Questions، Interested in / Be into"
+          ],
+          [
+            "3",
+            "Present Simple، Present Continuous، future arrangements، annoying habits"
+          ],
+          [
+            "4",
+            "Past Simple، regular/irregular verbs، emphatic did"
+          ],
+          [
+            "5",
+            "Past To Be، Past Continuous، background of a story"
+          ],
+          [
+            "6",
+            "Will vs Be Going To"
+          ],
+          [
+            "7",
+            "Present Perfect، just / yet / already / since / for / never"
+          ],
+          [
+            "8",
+            "Modals: can/could, may/might, should, must/have to, shall"
+          ],
+          [
+            "9",
+            "Present Perfect Continuous، Conditionals 0/1/2"
+          ],
+          [
+            "10",
+            "Advanced Grammar: Present Simple vs Continuous، Stative/Dynamic verbs، Past Simple vs Continuous، Present Perfect vs Past Simple"
+          ],
+          [
+            "Vocabulary",
+            "doer, chase, faith, distractions, mess up, tough, cuddle up, huddle up, choke up, choking, nepotism, confident, confidence"
+          ]
+        ]
+      }
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "eba73669-0ef2-46f1-ae63-ab7b2f1d249f",
+    "capture.headings": [
+      {
+        "level": 3,
+        "text": "نقشه فعلی جزوه"
+      },
+      {
+        "level": 3,
+        "text": "نکته مهم برای ادامه سیستم"
+      }
+    ],
+    "capture.links": []
+  }
+}

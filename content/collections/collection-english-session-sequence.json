@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "collection-english-session-sequence",
+  "type": "collection",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "English — source session sequence"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m02",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-chat-m03",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-chat-m04",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-chat-m05",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-chat-m06",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-chat-m07",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-chat-m08",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-chat-m15",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "kind": "session-sequence",
+    "itemIds": [
+      "session-jobs",
+      "session-future",
+      "session-experiences-news",
+      "session-unit-8",
+      "session-sports-habits",
+      "session-water-sports",
+      "session-team-spirit",
+      "session-modals"
+    ]
+  },
+  "extensions": {}
+}

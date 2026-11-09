@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "collection-original-class-sessions",
+  "type": "collection",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Class sessions recovered from the original chat"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-24dd29e2-0be1-4851-93b4-927d825577d6",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "kind": "session-sequence",
+    "itemIds": [
+      "session-original-a6ec72fa",
+      "session-original-d63a3c02",
+      "session-jobs",
+      "session-original-1920ed9d",
+      "session-original-77659a96",
+      "session-original-22cf3704",
+      "session-future",
+      "session-original-04d90228",
+      "session-original-98593651",
+      "session-experiences-news",
+      "session-original-f631f914",
+      "session-original-0bf90c5f",
+      "session-original-ab3a1c6d",
+      "session-unit-8",
+      "session-original-1fc4fb80",
+      "session-sports-habits",
+      "session-water-sports",
+      "session-team-spirit",
+      "session-modals"
+    ]
+  },
+  "extensions": {}
+}

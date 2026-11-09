@@ -1,0 +1,84 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "session-modals",
+  "type": "session",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Permission, obligation, advice and prohibition"
+  },
+  "tags": [
+    "class-notes"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m15",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-original-9b258c20-89e5-48c5-bdba-dc79b3398af9",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "occurredAt": null,
+    "dateLabel": "Today 10:59 AM",
+    "datePrecision": "unknown",
+    "conceptIds": [
+      "concept-modals",
+      "concept-modal-base-form",
+      "concept-permission",
+      "concept-ability",
+      "concept-advice",
+      "concept-obligation",
+      "concept-prohibition",
+      "concept-no-obligation",
+      "concept-mustnt-vs-dont-have-to",
+      "concept-writing",
+      "concept-present-simple",
+      "concept-parts-of-speech",
+      "concept-phrasal-verbs",
+      "concept-word-families"
+    ],
+    "itemIds": [
+      "note-modals",
+      "question-fatty-greasy",
+      "question-forbidden-denied",
+      "writing-healthy-lifestyle",
+      "correction-modal-s",
+      "correction-negative-obligation",
+      "correction-since-now",
+      "correction-trip",
+      "correction-week",
+      "correction-will-can",
+      "exercise-choose-options",
+      "exercise-complete-information",
+      "exercise-park-rules",
+      "note-modals-reference",
+      "note-original-9b258c20-89e5-48c5-bdba-dc79b3398af9",
+      "note-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca"
+    ],
+    "sourceMessageIds": [
+      "src-chat-m15",
+      "src-chat-m16",
+      "src-original-9b258c20-89e5-48c5-bdba-dc79b3398af9",
+      "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca"
+    ],
+    "completeness": "partial",
+    "missing": [
+      "original worksheet images"
+    ]
+  },
+  "extensions": {}
+}

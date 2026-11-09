@@ -1,0 +1,460 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "1. It's been such a long day. چه گرامری است؟"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "assessment",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "بله. چند نکته در جزوه و همین‌طور جواب‌هایی که دادی نیاز به تفکیک دقیق دارند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-2",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "1. It's been such a long day. چه گرامری است؟\n\nجمله:\n\nIt's been such a long day.\n\nدر واقع دو مبحث گرامری داخلش داریم:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-3",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "بخش اول: It's been\n\nاین شکل کوتاه‌شده‌ی:\n\nIt has been\n\nاست.\n\nیعنی:\n\nhas + been\n\nو اینجا Present Perfect Simple داریم:\n\nhave/has + past participle\n\nbe → been\n\nپس:\n\nIt has been a long day.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-4",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "بخش دوم: such a long day\n\nاینجا ساختار such را داریم:\n\nsuch + a/an + adjective + singular countable noun\n\nمثلاً:\n\nsuch a long day\nsuch a difficult job\nsuch an interesting book\nsuch a beautiful place",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-5",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "2. پس The day has been so long چه تفاوتی دارد؟\n\nهر دو جمله از نظر زمانی Present Perfect Simple هستند:\n\nIt's been such a long day.\nThe day has been so long.\n\nتفاوت در ساختار so و such است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-6",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "such\n\nsuch قبل از noun phrase می‌آید:\n\nsuch + adjective + noun\n\nsuch a long day",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-7",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "so\n\nso معمولاً مستقیماً قبل از adjective/adverb می‌آید:\n\nso + adjective\n\nso long\n\nبنابراین:\n\nIt's been such a long day.\nThe day has been so long.\n\nهر دو تقریباً می‌گویند:\n\n«روز خیلی طولانی‌ای بوده.»\n\nولی ساختارشان متفاوت است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-8",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "مقایسه:\nساختار\tمثال\nso + adjective\tIt was so difficult.\nso + adverb\tShe speaks so quickly.\nsuch + a/an + adjective + singular noun\tIt was such a difficult exam.\nsuch + adjective + plural noun\tThey are such difficult exams.\nsuch + uncountable noun\tIt was such bad weather.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-9",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "یک نکته مهم\n\nso = such نیستند.\n\nنمی‌توانی بگویی:\n\nso a long day ❌\n\nیا:\n\nsuch long ❌\n\nبلکه:\n\nso long\n\nدر مقابل:\n\nsuch a long day",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-10",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "3. adverb چیست؟\n\nAdverb = قید\n\nقید معمولاً اطلاعات بیشتری درباره‌ی verb، adjective، adverb دیگر یا حتی کل جمله می‌دهد.\n\nمثلاً:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-11",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "A) Adverb درباره‌ی فعل\n\nShe runs quickly.\n\nquickly توضیح می‌دهد چطور می‌دود.\n\nHe speaks slowly.\n\nI work hard.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-12",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "B) Adverb درباره‌ی adjective\n\nIt's very cold.\n\nvery شدت cold را مشخص می‌کند.\n\nShe is extremely tired.\n\nThe job is quite demanding.\n\nاینجا:\n\nvery\nextremely\nquite\n\nهمگی adverb هستند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-13",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "C) Adverb درباره‌ی adverb دیگر\n\nShe speaks very quickly.\n\nquickly = adverb\nvery = adverb که شدت quickly را بیشتر می‌کند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-14",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "D) Adverb مربوط به زمان\n\nI saw him yesterday.\n\nI'll call you tomorrow.\n\nShe is working now.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-15",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "E) Adverb مربوط به frequency\n\nاین‌ها را احتمالاً در Grammar قبلی‌ات دیده‌ای:\n\nalways\nusually\noften\nsometimes\nrarely\nseldom\nnever\n\nمثلاً:\n\nI usually work out in the evening.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-16",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "F) Adverb مربوط به احتمال\n\nprobably\nmaybe\nperhaps\n\nI'll probably go home early.\n\nMaybe I'll go home early.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-17",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "4. bedside of desk — منظورت میز عسلی کنار تخت بوده\n\nبله، با توضیحی که دادی منظور کاملاً مشخص شد.\n\nاگر منظورت میز عسلی کنار تخت است، طبیعی‌ترین عبارت‌ها:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-18",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "bedside table\n\nاین رایج‌ترین گزینه، مخصوصاً در British English است.\n\nI put my phone on the bedside table.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-19",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "nightstand\n\nدر American English بسیار رایج است.\n\nMy phone is on the nightstand.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-20",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "bedside cabinet\n\nاگر میز/کمدچه دارای کشو و فضای نگهداری باشد:\n\nbedside cabinet\n\nپس:\n\nمیز عسلی کنار تخت\n→ bedside table\n→ nightstand (American English)\n\nو نه:\n\nbedside of desk ❌\n\nچون bedside خودش می‌تواند نقش اسم/صفت داشته باشد:\n\na bedside table",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-21",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "5. sweats — منظورت شیرینی بوده\n\nاگر منظورت شیرینی است، کلمه‌ای که دنبالش بودی احتمالاً:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-22",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "sweets\n\nاست، نه sweats.\n\nsweets\n\n= شیرینی / آب‌نبات / شکلات و خوراکی‌های شیرین\n\nمخصوصاً در British English:\n\nI bought some sweets.\n\nدر American English بیشتر می‌گویند:\n\ncandy\n\nمثلاً:\n\nI have a sweet tooth.\n\n= من خیلی شیرینی دوست دارم / هوس شیرینی زیاد می‌کنم.\n\nاین آخری را هم حتماً به Vocabulary فعال اضافه کن؛ sweet tooth یک expression بسیار رایج است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-23",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "6. چرا asking for permission اینجا آمده؟\n\nسؤال:\n\nMay I use your laptop?\n\nو در جزوه نوشته شده:\n\nasking for permission\n\nچون asking for permission اسمِ کارکرد ارتباطی (communicative function) این جمله است، نه اسم یک grammar tense.\n\nیعنی سؤال دارد می‌گوید:\n\n«آیا اجازه دارم از لپ‌تاپت استفاده کنم؟»\n\nپس speaker دارد permission می‌خواهد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-24",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "ساختار گرامری\n\nMay + subject + base verb?\n\nمثلاً:\n\nMay I use your laptop?\n\nMay I come in?\n\nMay I ask you a question?\n\nmay اینجا modal verb است.\n\nبعد از modal verb همیشه base form می‌آید:\n\nmay use ✅\nmay uses ❌\nmay to use ❌",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-25",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "7. چرا asking است، نه ask؟\n\nچون در عبارت:\n\nasking for permission\n\nکلمه‌ی asking در اینجا gerund است.\n\nیعنی:\n\nask → asking\n\nو کل عبارت نقش یک noun phrase را دارد:\n\nasking for permission\n= درخواست اجازه کردن / اجازه خواستن\n\nمثل:\n\nlearning English is difficult.\n\nWorking out is good for you.\n\nAsking for help is sometimes difficult.\n\nدر همه‌ی این‌ها -ing شکل فعل است ولی کل عبارت مانند اسم عمل می‌کند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-26",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "8. تفاوت ask for permission و asking for permission\n\nاین تفاوت خیلی مهم است:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-27",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "ask for permission\n\nخودِ فعل:\n\nYou should ask for permission before using it.\n\n= قبل از استفاده باید اجازه بگیری.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-28",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "asking for permission\n\nعبارت اسمی / gerund phrase:\n\nAsking for permission is polite.\n\n= اجازه گرفتن مؤدبانه است.\n\nیا وقتی داریم کارکرد یک جمله را نام‌گذاری می‌کنیم:\n\nMay I use your laptop? → asking for permission\n\nیعنی:\n\nاین جمله چه کاری انجام می‌دهد؟\n→ دارد اجازه می‌گیرد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-29",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "9. بررسی جواب‌های Vocabulary Recall تو\n\nجواب‌هایت:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-30",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "A — focus or concentrate\n\nدرست، ولی جمله:\n\nI couldn't ________ on my work...\n\nبهترین جواب:\n\nconcentrate\n\nچون:\n\nconcentrate on something\n\nاما focus هم می‌تواند بیاید:\n\nfocus on something\n\nپس:\n\nI couldn't concentrate on my work. ✅\nI couldn't focus on my work. ✅",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-31",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "B — demanding\n\nWorking in an emergency department can be very demanding.\n\nکاملاً درست.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-32",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "C — lucrative / well-paid\n\nاینجا یک نکته مهم داریم.\n\nجمله:\n\nI want a ________ job because I don't want to worry about losing my income.\n\nبهترین جواب از Vocabulary قبلی ما:\n\nsecure\n\nنه lucrative.\n\nچرا؟\n\nsecure job = شغل باثبات/امن\n\nI want a secure job because I don't want to worry about losing my income.\n\nاما:\n\nlucrative / well-paid = پردرآمد\n\nI want a well-paid job because I want to earn more money.\n\nپس اینجا باید secure را به خاطر رابطه‌ی معنایی جمله retrieve می‌کردی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-33",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "D — interviewed ❌\n\nجمله:\n\nShe ________ for a job at a software company last week.\n\nجواب درست:\n\napplied\n\nچون:\n\napply for a job\n\n= برای یک شغل درخواست دادن\n\nShe applied for a job at a software company.\n\ninterviewed یعنی مصاحبه شد/مصاحبه کرد، ولی با ساختار این جمله و vocabulary موردنظر ما جور نیست.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-34",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "E — promising ❌\n\nجمله:\n\nSoftware engineering can be a very ________ career.\n\npromising از نظر معنایی کاملاً ممکن است:\n\na promising career\n\nیعنی career با آینده خوب.\n\nپس جواب تو درست است.\n\nاگر هدف تمرین همان Vocabulary قبلی بوده، lucrative هم می‌توانست در context دیگری درست باشد، ولی:\n\na promising career\n\nکاملاً natural است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-35",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "F — unpredictable\n\nکاملاً درست:\n\nThe weather is so unpredictable that...\n\nساختار خوبی هم با so ... that ساخته‌ای.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-36",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "G — well\n\nاینجا درست نیست.\n\nI've been doing the same task for eight hours. It's becoming very ________.\n\nبهترین جواب:\n\nrepetitive\n\nچون:\n\nrepetitive = تکراری\n\nIt's becoming very repetitive.\n\nwell در این جمله معنی مناسبی ندارد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-37",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "10. یک نکته مهم درباره اشتباهاتت\n\nدر این Recall چند مورد نشان می‌دهد که معنی لغت‌ها را تا حد خوبی می‌دانی، اما هنوز collocation و context تعیین‌کننده‌ی انتخاب لغت نیستند.\n\nمثلاً:\n\nlucrative / secure / promising / well-paid\n\nهمگی می‌توانند درباره‌ی یک job صحبت کنند، اما معنی‌شان یکی نیست:\n\nWord\tتمرکز معنایی\nsecure\tثبات و امنیت شغلی\nwell-paid\tحقوق خوب\nlucrative\tدرآمد/سود بسیار خوب\npromising\tآینده و پتانسیل خوب\ndemanding\tانرژی/زمان/تلاش زیاد\nchallenging\tدشوار ولی معمولاً رشددهنده\nrepetitive\tتکراری و یکنواخت\n\nاین دقیقاً نوع تمایزی است که در سطح B1 → B2 باید کم‌کم در Vocabulary تو ایجاد شود.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041-38",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "تمرین سریع\n\nاین 6 جمله را با یکی از این کلمات کامل کن:\n\nsecure — well-paid — lucrative — promising — demanding — repetitive\n\nI want a ________ job with good career prospects.\nWorking as a surgeon is extremely ________.\nThe job is boring because the tasks are very ________.\nHe earns a lot of money; he has a very ________ position.\nI don't care if the job is ________; I mainly want job security.\nShe has just started her career, but she seems very ________.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-present-perfect",
+      "concept-gerund-infinitive",
+      "concept-modals"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "ac8624f6-2729-4a0e-9bd9-169c8e60a041",
+    "capture.turn-number": 28
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "hashiyeh",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Personal learning board, knowledge graph and source-backed class notes",
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "npm run validate && next build",
+    "start": "next start --hostname 127.0.0.1",
+    "typecheck": "tsc --noEmit",
+    "validate": "node scripts/validate.cjs",
+    "test": "node --test tests/*.test.cjs",
+    "report": "node scripts/report.cjs",
+    "build:data": "node scripts/export.cjs --include-private --include-drafts",
+    "build:public-data": "node scripts/export.cjs",
+    "test:app": "node scripts/smoke-app.cjs",
+    "format": "prettier --write app next.config.ts tsconfig.json"
+  },
+  "devDependencies": {
+    "ajv": "8.17.1",
+    "prettier": "3.9.10"
+  },
+  "dependencies": {
+    "@fontsource-variable/inter": "5.3.0",
+    "@fontsource/vazirmatn": "5.3.0",
+    "@types/node": "26.6.6",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@xyflow/react": "12.12.1",
+    "gsap": "3.15.1",
+    "lucide-react": "1.70.0",
+    "next": "16.4.5",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "react-markdown": "10.1.0",
+    "remark-gfm": "4.0.1",
+    "server-only": "0.0.1",
+    "typescript": "7.0.2"
+  }
+}

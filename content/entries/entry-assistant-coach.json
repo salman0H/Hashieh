@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-assistant-coach",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "assistant coach"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m08",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-original-2340c3c8-781f-4c46-8506-088417f410fb",
+        "locator": "table:13/data-row:8"
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:2/data-row:697"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "assistant coach",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-assistant-coach",
+    "senses": [
+      {
+        "id": "sense-3b8f8aa2a893",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "کمک‌مربی"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-2340c3c8-781f-4c46-8506-088417f410fb",
+            "locator": "table:13/data-row:8"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-5d8dbfb803f2",
+        "partOfSpeech": "Noun phrase",
+        "translation": {
+          "fa": "کمک‌مربی"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:2/data-row:697"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m08",
+          "locator": "message-excerpt"
+        },
+        "group": "learner-notes",
+        "sessionId": "session-team-spirit",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-2340c3c8-781f-4c46-8506-088417f410fb",
+          "locator": "table:13/data-row:8"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-team-spirit",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:2/data-row:697"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

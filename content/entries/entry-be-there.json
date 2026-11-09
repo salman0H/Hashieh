@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-be-there",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "be there"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15",
+        "locator": "table:1/data-row:8"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "be there",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-d4bdcdac30f7",
+        "partOfSpeech": "expression",
+        "translation": {
+          "fa": "حضور داشتن / کنار کسی بودن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15",
+            "locator": "table:1/data-row:8"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-64bd3bc0-e1bb-4b72-ab31-b8a4f5365d15",
+          "locator": "table:1/data-row:8"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

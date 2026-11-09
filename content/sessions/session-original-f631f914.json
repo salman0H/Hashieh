@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "session-original-f631f914",
+  "type": "session",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Zero and first conditional"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-f631f914-5a6f-4bab-9096-ba4eff92f42b",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-4ae32885-48ea-4808-abbd-d100a0d4fc36",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "occurredAt": null,
+    "dateLabel": null,
+    "datePrecision": "unknown",
+    "conceptIds": [
+      "concept-zero-conditional",
+      "concept-first-conditional",
+      "concept-present-simple",
+      "concept-future-forms",
+      "concept-second-conditional",
+      "concept-gerund-infinitive"
+    ],
+    "itemIds": [
+      "note-original-f631f914-5a6f-4bab-9096-ba4eff92f42b",
+      "note-original-4ae32885-48ea-4808-abbd-d100a0d4fc36"
+    ],
+    "sourceMessageIds": [
+      "src-original-f631f914-5a6f-4bab-9096-ba4eff92f42b",
+      "src-original-4ae32885-48ea-4808-abbd-d100a0d4fc36"
+    ],
+    "completeness": "partial",
+    "missing": [
+      "Any referenced original attachments are not imported in this text pass."
+    ]
+  },
+  "extensions": {}
+}

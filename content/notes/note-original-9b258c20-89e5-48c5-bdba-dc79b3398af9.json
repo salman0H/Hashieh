@@ -1,0 +1,48 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-9b258c20-89e5-48c5-bdba-dc79b3398af9",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "جزوه جلسه پیش:"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message",
+    "assessment"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-9b258c20-89e5-48c5-bdba-dc79b3398af9",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-9b258c20-89e5-48c5-bdba-dc79b3398af9-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "جزوه جلسه پیش:\n\n\n\n\nClass:\n\nIn a row = back to back\nModals:\nPermission \nCan/can’t\nYour daughter can play in our garden.\nNext weak, I will be able to go on a 3 day travel to north.\nWill be able to —> can\nدر بعضی جاها نمیشه از can استفاده کرد و باید این بیاید چون عملا دو modal پشت سر هم نمیشه استفاده بشن\nMay/mayn’t —> very polite request and kind of permission\nMay I leave the class now?\nObligation\nShould/shouldn’t —> a mild obligation for advice and suggestions \nAdvice\nYou should cut down on sugar. \nCut down == decrease == reduce\nSuggestion\nWe should emigrate for a better life.\nOught to —> این هم معنی should رو میده و یک modal هست\nI have an exam next weak, I ought to study since now.\nI ought not to eat fatty food.\nFatty == greasy\n\n \n\nMust/mustn’t\nInternal obligation\nI must be the top student.\nRule and laws\nI must wear seatbelt when driving.\nStrong advice and suggestions \nAdvice \nYou must lose weight, it is dangoures, it is hazardous.\nHazard == danger\nSuggestion \nYou must watch this movie, it is masterpiece.\nWritten rules —> mustn’t\nMust I go to the doctor? —> do I have to go to the doctor?\nHave to or has to or had to/ don’t or doesn’t or didn’t have to\nExternal obligation\nPilots have to wear uniform.\nRule and laws ( punishment )\nWe have to drive whiten speed limit.\nSituation \nLast night, I couldn’t get a Snapp, so I had to walk home.\nNegative \nYou don’t have to come to the party if you don’t like. —> not necessary\n\n \n\nمنفی have to از لحاظ معنایی mustn’t هستش.\nForbidden == benned == prohabited == denided\n\n \n\n\t•\t\t⁃\tAllowed to = can\n\n…",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": []
+  },
+  "extensions": {
+    "capture.message-id": "9b258c20-89e5-48c5-bdba-dc79b3398af9",
+    "capture.turn-number": 54
+  }
+}

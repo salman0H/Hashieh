@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "writing-healthy-lifestyle",
+  "type": "writing",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Rules, Responsibilities and a Healthy Lifestyle"
+  },
+  "tags": [
+    "writing"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m16",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-writing-healthy-lifestyle",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "en",
+          "text": "I believe everyone should take responsibility for their health and lifestyle. We don't have to follow every fitness trend, but we should exercise regularly and cut down on fatty and greasy food.\n\nPeople must follow certain rules to protect themselves and others. For example, drivers must wear seat belts and mustn't exceed the speed limit. In public places, visitors are not allowed to ignore safety regulations.\n\nHowever, not every rule is obligatory. Sometimes, we can make our own decisions. If we want to achieve our goals, we ought to manage our time effectively and overcome the challenges we face.\n\nFrom now on, I must pay more attention to my daily habits. I don't have to change everything at once, but I should take small steps towards a healthier lifestyle.",
+          "role": "assistant-model"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-modals",
+      "concept-writing"
+    ],
+    "revisionIds": []
+  },
+  "extensions": {}
+}

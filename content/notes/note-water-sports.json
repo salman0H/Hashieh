@@ -1,0 +1,48 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-water-sports",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Water sports, fears and second conditional — original notes"
+  },
+  "tags": [
+    "source-notes"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m07",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-water-sports-source",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Class’s attachment:\nWorksheet:\nYou have a delusion of knowledge.\nThey cab not treat the pationt well.\nI don’t agree.\nClass:\nDid you enter in competition?\nYes, I entered in swimming competition when I was in school, and my rank was first.\nPaddleboarding = ?\nI prefer to swim until control my balance on a board.\nPaddle = oars = پارو\nI am crazy about windsurfing.\nDrown —> for a person —> کسی ک دارره غرق میشه\nSink —> a thing —> غرق شدن ی وسیله مثل کشتی\nI like paddle boarding as a pleasure.\nI lie down on the board.\nTo encounter or to face our fears.\nTo overcome her fears.\nOvercome —> غلبه کردن\nCoast —> خط ساحلی —> سنگی هم میتونه باشه\nConquer —> فتح کردن\nIt is about a man who has fear to swim until his girlfriend, suggests him to try paddle boarding.\nHe is afraid of water.\nHis fear just disappeared.\nStrange = odd = weird\nCreature = ? —> aquatic creatures = ?\nClauses: everything with sub and verb\nSecond-condition: if + past simple + , + would or could or might + base verb\nAn imaginary or fiction with its present & future result\nWould you travel around the world if you were rich?\nWhat would you do if you were rich?",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-clauses",
+      "concept-second-conditional",
+      "concept-questions",
+      "concept-vocabulary-in-context"
+    ]
+  },
+  "extensions": {}
+}

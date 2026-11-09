@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "exercise-practice-present-perfect",
+  "type": "exercise",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "fa": "تمرین تکمیلی؛ present-perfect"
+  },
+  "tags": [
+    "supplemental-practice"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-f892377a-352f-45b2-8930-8b7d20f6d637",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "mode": "practice",
+    "prompt": "I ___ this film before.",
+    "options": [
+      "have seen",
+      "saw yesterday",
+      "am seeing"
+    ],
+    "answers": [
+      {
+        "number": 1,
+        "text": "have seen"
+      }
+    ],
+    "explanation": {
+      "fa": "before اینجا به تجربهٔ قبلی تا الان اشاره دارد؛ have + past participle می‌آید."
+    },
+    "conceptIds": [
+      "concept-present-perfect"
+    ],
+    "gradable": true,
+    "missing": []
+  },
+  "extensions": {}
+}

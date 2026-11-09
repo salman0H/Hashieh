@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-1920ed9d-1bc4-4342-b081-fe23ad4b8b19",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "این جزوه جلسه پیش هست ک میخوام برام بررسیش کنی:"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-1920ed9d-1bc4-4342-b081-fe23ad4b8b19",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-1920ed9d-1bc4-4342-b081-fe23ad4b8b19-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "این جزوه جلسه پیش هست ک میخوام برام بررسیش کنی:\nمتن جلسه پیش زبان:\n- my english is just freeze in this level.\n- sepreate to 3 continent.\n- dull = tedious = boring\n- exciting = full of enjoyment \n- oceania = australia\n- antarttica = south pol = continent full of ice = frozen continent\n- she is trying tha they do npot get afraid.\n- she is no to scare them.\n- as shamim says, --> just like bita said\n- tiring = exhusted\n- reppetetive = ? \n- i like to  exprience or try ythat just for a hobby not a permanent career.\n- lack = ? --> lack of oxygyn\ndelop the content --> i develo[ conthent for my page.\nunpredectibale = ?\n- ممکن است زیر برف دفت شوی به انگلیسی چی میشه؟\n- freezing = extrimnlly cold = bitterl cold\nnarrowing the ansewer\n- desert != dessert\n- starry night = ?\n- thr firsrt emigrant went to oceania\n-\n…",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": []
+  },
+  "extensions": {
+    "capture.message-id": "1920ed9d-1bc4-4342-b081-fe23ad4b8b19",
+    "capture.turn-number": 23
+  }
+}

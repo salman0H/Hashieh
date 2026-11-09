@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.0.0",
+  "records": [
+    {
+      "schemaVersion": "1.0.0",
+      "id": "src-new-session",
+      "type": "source",
+      "subjectIds": [],
+      "title": {
+        "en": "New source"
+      },
+      "tags": [],
+      "status": "draft",
+      "visibility": "private",
+      "provenance": {
+        "origin": "extracted",
+        "review": "unreviewed",
+        "sourceRefs": []
+      },
+      "payload": {
+        "uri": "local:inbox/new-session",
+        "role": "user",
+        "capturedOn": "2026-11-08",
+        "captureScope": "user-supplied-text",
+        "text": "متن اصلی جلسه را اینجا، بدون اصلاح، قرار بده.",
+        "limitations": []
+      },
+      "extensions": {}
+    },
+    {
+      "schemaVersion": "1.0.0",
+      "id": "session-new-session",
+      "type": "session",
+      "subjectIds": [
+        "subject-english"
+      ],
+      "title": {
+        "en": "جلسهٔ جدید"
+      },
+      "tags": [],
+      "status": "draft",
+      "visibility": "private",
+      "provenance": {
+        "origin": "editorial",
+        "review": "unreviewed",
+        "sourceRefs": [
+          {
+            "sourceId": "src-new-session",
+            "locator": "full-text"
+          }
+        ]
+      },
+      "payload": {
+        "occurredAt": null,
+        "dateLabel": null,
+        "datePrecision": "unknown",
+        "conceptIds": [],
+        "itemIds": [
+          "note-new-session"
+        ],
+        "sourceMessageIds": [
+          "src-new-session"
+        ],
+        "completeness": "partial",
+        "missing": []
+      },
+      "extensions": {}
+    },
+    {
+      "schemaVersion": "1.0.0",
+      "id": "note-new-session",
+      "type": "note",
+      "subjectIds": [
+        "subject-english"
+      ],
+      "title": {
+        "en": "یادداشت جلسهٔ جدید"
+      },
+      "tags": [],
+      "status": "draft",
+      "visibility": "private",
+      "provenance": {
+        "origin": "extracted",
+        "review": "unreviewed",
+        "sourceRefs": [
+          {
+            "sourceId": "src-new-session",
+            "locator": "full-text"
+          }
+        ]
+      },
+      "payload": {
+        "blocks": [
+          {
+            "id": "block-new-session-original",
+            "type": "text",
+            "version": 1,
+            "data": {
+              "format": "plain",
+              "locale": "fa",
+              "text": "متن اصلی جلسه را اینجا، بدون اصلاح، قرار بده.",
+              "role": "learner-original"
+            }
+          }
+        ],
+        "conceptIds": []
+      },
+      "extensions": {}
+    }
+  ],
+  "relations": []
+}

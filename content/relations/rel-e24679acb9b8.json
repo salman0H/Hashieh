@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-e24679acb9b8",
+  "type": "covers",
+  "from": "note-original-9b5452a9-73d3-4e29-9146-ccf15ea15931",
+  "to": "concept-passive-voice",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-original-9b5452a9-73d3-4e29-9146-ccf15ea15931",
+      "locator": "message-body"
+    }
+  ],
+  "extensions": {}
+}

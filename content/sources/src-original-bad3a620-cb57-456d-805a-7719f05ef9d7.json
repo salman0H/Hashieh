@@ -1,0 +1,207 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-bad3a620-cb57-456d-805a-7719f05ef9d7",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 99"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "user",
+    "messageOrdinal": 99,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "Pasted markdown(4).md\nDocument\n\nهدف من درست کردن یک جدول از لفات هست به این صورت، توقعی ک از تو در این پیام دارم این هست ک تمامی لغات جدیدی ک در این چت موجود هستن به غیر این هایی ک برات میفرستم رو برام مثل همین جدول درست کنی، دوباره تاکید میکنم تمامی لغات رو برام به همین صورت جدول کن بدون هیچ مورد اضافه ای، خروجی ای ک میخوام برام بفرستی به این صورت باشه ک به این حدول یک مورد دیگ هم اضافه کنی اونم این که مثل این:\n\nخانوادهٔ کلمات:\n\nواژه\n\nنوع\n\nمعنی\n\ninstruct\n\nVerb\n\nآموزش دادن، دستور دادن\n\ninstructor\n\nNoun\n\nمربی\n\ninstruction\n\nNoun\n\nدستورالعمل، آموزش\n\ninstructions\n\nNoun plural\n\nدستورالعمل‌ها\n\ninstructive\n\nAdjective\n\nآموزنده\n\ninstructional\n\nAdjective\n\nآموزشی\n\n\n\n\nخانواده کلمات رو هم داشته باشیم ینی تو جدولی درست کرده باشی ک این کلمات رو هم توش داشته باشه ( همون هایی ک برات فرستادم به همره خانواده ها شون)‌ و جدول جدیدی ک ب این اضافه میشه با کلمات جدید ب همراه هم خانواده هاشون\n\n…\nShow more",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": [
+      {
+        "locator": "table:1",
+        "rows": [
+          [
+            ""
+          ]
+        ]
+      },
+      {
+        "locator": "table:2",
+        "rows": [
+          [
+            ""
+          ]
+        ]
+      },
+      {
+        "locator": "table:3",
+        "rows": [
+          [
+            ""
+          ]
+        ]
+      },
+      {
+        "locator": "table:4",
+        "rows": [
+          [
+            ""
+          ]
+        ]
+      },
+      {
+        "locator": "table:5",
+        "rows": [
+          [
+            ""
+          ]
+        ]
+      },
+      {
+        "locator": "table:6",
+        "rows": [
+          [
+            ""
+          ]
+        ]
+      },
+      {
+        "locator": "table:7",
+        "rows": [
+          [
+            ""
+          ]
+        ]
+      },
+      {
+        "locator": "table:8",
+        "rows": [
+          [
+            ""
+          ]
+        ]
+      },
+      {
+        "locator": "table:9",
+        "rows": [
+          [
+            ""
+          ]
+        ]
+      },
+      {
+        "locator": "table:10",
+        "rows": [
+          [
+            ""
+          ]
+        ]
+      },
+      {
+        "locator": "table:11",
+        "rows": [
+          [
+            ""
+          ]
+        ]
+      },
+      {
+        "locator": "table:12",
+        "rows": [
+          [
+            ""
+          ]
+        ]
+      },
+      {
+        "locator": "table:13",
+        "rows": [
+          [
+            ""
+          ]
+        ]
+      },
+      {
+        "locator": "table:14",
+        "rows": [
+          [
+            ""
+          ]
+        ]
+      },
+      {
+        "locator": "table:15",
+        "rows": [
+          [
+            ""
+          ]
+        ]
+      },
+      {
+        "locator": "table:16",
+        "rows": [
+          [
+            ""
+          ]
+        ]
+      },
+      {
+        "locator": "table:17",
+        "rows": [
+          [
+            ""
+          ]
+        ]
+      },
+      {
+        "locator": "table:18",
+        "rows": [
+          [
+            ""
+          ]
+        ]
+      },
+      {
+        "locator": "table:19",
+        "rows": [
+          [
+            ""
+          ]
+        ]
+      },
+      {
+        "locator": "table:20",
+        "rows": [
+          [
+            ""
+          ]
+        ]
+      },
+      {
+        "locator": "table:21",
+        "rows": [
+          [
+            ""
+          ]
+        ]
+      }
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "bad3a620-cb57-456d-805a-7719f05ef9d7",
+    "capture.headings": [],
+    "capture.links": []
+  }
+}

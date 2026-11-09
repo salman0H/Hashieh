@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-77659a96-2e7e-43a5-b48f-05eef57140ac",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 49"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "user",
+    "messageOrdinal": 49,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "Advanced grammar: —> این دوره ای هست که در اینجا میخ،ایم داشته باشیم در کنار جزوه های کلاس زبان.و این رو با این اسم قرار هست ادامه بدیم\nPresent simple: —> happen regularly\nOn monday - every day or week or year - often - seldom - sometimes\nPresent continuous: —> happening now —> future plans\nAt the moment - now\n\n \n\nStativ verbs: state of mind - opinion - belief - stat of being\nLove - doubt - recognize - regeret - promise - own - owe - wish - want - fancy - date - like - look like - possess - weigh - depend - hate - think that - feel that - need - have\n\n \n\nDynamic verbs: action \nHave ( eat, drink, etc, … ) - look at - think about - feel\nHe looks like a French man.\nI feel that is a bed idea.\nI am looking at that art.\nWhat do you think of my shoes? \nI am living here. —> بیشتر معنی موقتی میدهد \nI am live here. —> معنی دائم میدهد\nHe is being stupid. —> he is behaving in stupid way.\nClass:\nCook = آشپز --> the chef is who leads cooks.\nIndegridients = مواد اولیه\nA receptionist deals with people or the public or customers.\nA nurse take care or look after the patients.\nInvest = سرمایه گذاری —> invest in\nShe runs a business —> she manage a business\nShe consult others about starting or lunching business. —> consult = ?\nFives advice to others —> advice is uncountable \nHe is moping the floor.\nBusinessperson made or design product.\nDental issues = ? \nA dentist extracts bad teeth, gives people fillings.\nChallenging is positive because help you to improve yourself.\nDemanding = request = a job takes us a lot of energy and time\nPromising —> a job that has boring future != deadend\nSecure job —> that job you don’t worry about that future\nLucrative = well-paid != low-paid\nManage the crisis = ?\nCriticismze = ?\nSedentary job —> just sit down or sit at the desk and do the job\nWhite and blue collar job —> ?\nHarmony = ?\nQA —> ?\nWhy do you do this job ?\nI am responsible for + noun/verb+ing\nI am in charge at + noun/verb+ing\nWords:\nFoody person\nCooker\nPut edible on oven\nGroceries\nPnkchoual = on time = ?\nGlutton person\nI have a talent or knack for mixing flavors. —> knack = ?\n…\nShow more",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": []
+  },
+  "extensions": {
+    "capture.message-id": "77659a96-2e7e-43a5-b48f-05eef57140ac",
+    "capture.headings": [],
+    "capture.links": []
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "session-original-77659a96",
+  "type": "session",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Advanced grammar and Unit 7 notes"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-77659a96-2e7e-43a5-b48f-05eef57140ac",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "occurredAt": null,
+    "dateLabel": null,
+    "datePrecision": "unknown",
+    "conceptIds": [
+      "concept-present-simple",
+      "concept-present-continuous",
+      "concept-stative-verbs",
+      "concept-writing"
+    ],
+    "itemIds": [
+      "note-original-77659a96-2e7e-43a5-b48f-05eef57140ac",
+      "note-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3"
+    ],
+    "sourceMessageIds": [
+      "src-original-77659a96-2e7e-43a5-b48f-05eef57140ac",
+      "src-original-bbc01899-4a4d-4bf9-9196-3676edd9e9e3"
+    ],
+    "completeness": "partial",
+    "missing": [
+      "Any referenced original attachments are not imported in this text pass."
+    ]
+  },
+  "extensions": {}
+}

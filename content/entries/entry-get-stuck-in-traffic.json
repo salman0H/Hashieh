@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-get-stuck-in-traffic",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "get stuck in traffic"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-4b0f62cf-9334-4ad2-b7df-ddeecf3ea636",
+        "locator": "table:6/data-row:8"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "get stuck in traffic",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-e8d894ec281f",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "در ترافیک گیر کردن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-2b8669b65a44",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "We might get stuck in traffic.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-4b0f62cf-9334-4ad2-b7df-ddeecf3ea636",
+            "locator": "table:6/data-row:8"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-4b0f62cf-9334-4ad2-b7df-ddeecf3ea636",
+          "locator": "table:6/data-row:8"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-future",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

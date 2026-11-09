@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "collection-priority-a",
+  "type": "collection",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "priority-a"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "kind": "vocabulary-set",
+    "itemIds": [
+      "entry-afford",
+      "entry-achieve",
+      "entry-deal-with",
+      "entry-manage",
+      "entry-overcome",
+      "entry-expect",
+      "entry-realize",
+      "entry-figure-out",
+      "entry-improve",
+      "entry-experience",
+      "entry-struggle",
+      "entry-challenging",
+      "entry-flexible",
+      "entry-anxious",
+      "entry-punctual",
+      "entry-reliable",
+      "entry-responsible-for",
+      "entry-in-charge-of",
+      "entry-look-forward-to",
+      "entry-give-up",
+      "entry-take-up",
+      "entry-run-out-of",
+      "entry-get-in-touch-with",
+      "entry-apply-for",
+      "entry-look-for",
+      "entry-get-fired",
+      "entry-earn-a-living",
+      "entry-make-ends-meet",
+      "entry-cost-of-living",
+      "entry-work-life-balance",
+      "entry-under-pressure",
+      "entry-make-a-decision",
+      "entry-face-a-problem",
+      "entry-get-inspired-by",
+      "entry-take-part-in"
+    ]
+  },
+  "extensions": {}
+}

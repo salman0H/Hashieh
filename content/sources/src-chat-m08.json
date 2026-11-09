@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-chat-m08",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — visible message 8"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/share/6af0508a-19f8-83ed-91a4-002901ccaac9",
+    "role": "user",
+    "messageOrdinal": 8,
+    "ordinalScope": "rendered-message-sequence-on-2026-11-08",
+    "capturedOn": "2026-11-08",
+    "dateLabel": "Thursday 12:17 PM",
+    "occurredAt": null,
+    "captureScope": "message-text-normalized",
+    "text": "Selected text:\nSelection 1\nI have fallen in a few times.\nMy request:\ni fallen in a few times. اشتباه هستش؟\nمتن جزوه جلسه پیش:\nClass:\n- I couldn’t get off from my work.\nKeep the team spirit up —> روحیه تیم رو بالا نگه داشتن\nExpectation == anticipations —> she is talking to the players about her expatiations.\nTeenager == adolescent\nBench —> نیمکت\nGet inspired by —> الهام گرفتن از\nHead coach > assistant coach\nCommunity: a group of people who live in same area or share common interest\nBook worm == swot == nerd —> they are negative\nAvid reader == book/reading enthusiasts\nEnthusiast == ?\nTake up: if something takes up time, it uses a certain amount of your time. —> use time —> commuting takes up two hours of my day.\nCommuting == move from work to home of opposite\nRecently, I have taken up going to the gym. - I have not taken up watching movies yet. —> start to do an activity as a new hobby or habit.\nWorking takes up a lot of time.\nPlayers’ families —> در این جا ‘ ب این دلیل اومده ک دو s یکی برای جمع و یکی برای مالکیت وجود دارن ک برای تکرار از دوباره نوشته شدن اون جلوگیری بشه\nIt is over an hour.\nInspirational —> الهام بخش\nAffection == love\nStarting away == right away == imedietly\nIf I did not have extra money, I wouldn’t go to a fancy restaurant. —> unless I had extra money, I wouldn’t go to a fancy restaurant. —> only if I had extra money, I would go to a fancy restaurant.",
+    "attachmentIndicators": {
+      "files": 0,
+      "images": 2
+    },
+    "limitations": [
+      "Page capture is partial; ordinal is not a stable original chat message ID.",
+      "Whitespace/UI labels normalized; no claim of byte-exact transcript.",
+      "Referenced attachments are not captured."
+    ]
+  },
+  "extensions": {}
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "policy-english-session",
+  "type": "policy",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "English session output contract"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m06",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-chat-m09",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-chat-m11",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-chat-m12",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "sections": [
+      "grammar",
+      "corrections",
+      "vocabulary",
+      "word-families",
+      "review-links",
+      "writing",
+      "new-vocabulary-table"
+    ],
+    "vocabularyFields": [
+      "word",
+      "persianTranslation",
+      "englishDefinition",
+      "equivalents",
+      "partOfSpeech",
+      "familyId",
+      "examples"
+    ],
+    "deduplication": "Reuse a lemma ID; add separately evidenced senses and new occurrences. Never discard a new meaning.",
+    "familyRule": "Only include attested forms; distinguish derivation and inflection.",
+    "missingValueRule": "Use null or an empty list, record why; never invent an original worksheet or source.",
+    "sourceRule": "Record quote/locator and author role for every extracted item.",
+    "publicationRule": "Draft/private until explicit content review; source assistant text is not automatically verified."
+  },
+  "extensions": {}
+}

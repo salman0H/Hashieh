@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "exercise-practice-second-conditional",
+  "type": "exercise",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "fa": "تمرین تکمیلی؛ second-conditional"
+  },
+  "tags": [
+    "supplemental-practice"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-f892377a-352f-45b2-8930-8b7d20f6d637",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "mode": "practice",
+    "prompt": "If I had more time, I ___ a new language.",
+    "options": [
+      "will learn",
+      "would learn",
+      "learn"
+    ],
+    "answers": [
+      {
+        "number": 1,
+        "text": "would learn"
+      }
+    ],
+    "explanation": {
+      "fa": "برای موقعیت فرضی در حال: if + past simple و در نتیجه would + فعل ساده می‌آید."
+    },
+    "conceptIds": [
+      "concept-second-conditional"
+    ],
+    "gradable": true,
+    "missing": []
+  },
+  "extensions": {}
+}

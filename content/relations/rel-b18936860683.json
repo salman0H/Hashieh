@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-b18936860683",
+  "type": "contains",
+  "from": "session-original-0bf90c5f",
+  "to": "note-original-0bf90c5f-c5db-4309-82ae-fd6d7e99efab",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-original-0bf90c5f-c5db-4309-82ae-fd6d7e99efab",
+      "locator": "message-body"
+    }
+  ],
+  "extensions": {}
+}

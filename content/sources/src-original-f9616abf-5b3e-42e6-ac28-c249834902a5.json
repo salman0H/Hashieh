@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-f9616abf-5b3e-42e6-ac28-c249834902a5",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 69"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "user",
+    "messageOrdinal": 69,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "4 selections\nدر مورد این ترکیب بیشتر توضیح بده.\nاین اتفاق برای این میفتاد ک قطار تاخیر داشت و این ینی به ایستگاه اون ساعت میرسید و صبح ب مقصد میرسید.\nدر اینجا نمیتونیم برای چی بگیم ... is usually crowd. \nاگر بعد از where این گرامر رو استفاده کنیم هم درست هست: ... i am living. --> ب مدت کوتاهی زندگی میکنم.",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": []
+  },
+  "extensions": {
+    "capture.message-id": "f9616abf-5b3e-42e6-ac28-c249834902a5",
+    "capture.headings": [],
+    "capture.links": []
+  }
+}

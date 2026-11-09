@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-0cbd907a4fcc",
+  "type": "covers",
+  "from": "session-water-sports",
+  "to": "concept-vocabulary-in-context",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-chat-m07",
+      "locator": "message-excerpt"
+    }
+  ],
+  "extensions": {}
+}

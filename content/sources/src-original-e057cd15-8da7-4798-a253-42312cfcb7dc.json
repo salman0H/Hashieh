@@ -1,0 +1,361 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-e057cd15-8da7-4798-a253-42312cfcb7dc",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 26"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "assistant",
+    "messageOrdinal": 26,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "بله. با توجه به ساختارهایی که بعد از میان‌ترم کار کردی، جزوه‌های A1–A10، مثال‌هایی که خودت در کلاس/تمرین نوشته‌ای، و سیستم قبلی DeepSeek، بهتر است مطالب را بر اساس رابطه‌ی گرامرها با هم بچینیم، نه صرفاً بر اساس ترتیب جلسات.\n\nبرای فاینال، من این را به ۶ فاز تقسیم می‌کنم:\n\nPhase 1 — Past Tenses & Past Perfect Family\n\nاین فاز مهم‌ترین نقطه‌ی شروع است، چون از Past Perfect Continuous شروع می‌کنیم و بعد کل سیستم زمان‌های گذشته را به هم وصل می‌کنیم.\n\n1. Past Perfect Continuous\n\nStructure\n\nSubject + had been + V-ing\n\nبرای کاری که قبل از یک نقطه/اتفاق دیگر در گذشته مدتی ادامه داشته.\n\nI had been studying for two hours when she called me.\n\nنکته‌ی اصلی:\n\nduration before a past event\n\n2. Past Perfect\n\nSubject + had + V3\n\nکاری که قبل از یک اتفاق دیگر در گذشته تمام شده بود.\n\nI had finished my homework before I went out.\n\nمقایسه:\n\nI had studied English for two hours before dinner.\nI had been studying English for two hours before dinner.\n\nاولی بیشتر روی complete/result\nدومی روی duration/activity\n\n3. Past Continuous\n\nwas/were + V-ing\n\nI was cooking when you called me.\n\nدو اتفاق:\n\nbackground action + interruption\n\nI was studying when my friend called.\n\n4. Simple Past\n\nV2\n\nShe bought a dress last week.\n\nبرای finished past actions.\n\n5. Past Timeline\n\nاین را باید کاملاً تصویری بفهمی:\n\nPlain text\nPAST\n│\n│  Past Perfect Continuous\n│  ────────────────►\n│                   │\n│              Past Perfect\n│                   │\n│                   ▼\n│              Past Simple\n│\n└──────────────────────────► NOW\n\nمثلاً:\n\nI had been studying for two hours when my friend called.\n\nو:\n\nI was studying when my friend called.\n\nاین دو جمله را در فاینال باید بتوانی بدون فکر کردن به فرمول، از روی مفهوم تشخیص بدهی.\n\nPhase 2 — Present Perfect Family\n\nاینجا دو گرامر مهم تو به هم وصل می‌شوند:\n\n1. Present Perfect Simple\n\nhave/has + V3\n\nکاربردهایی که در جزوه داشتی:\n\nexperience\nrecent action\nnumber of times\npresent result\nchanges\n\nمثال‌های خودت:\n\nI have been to Argentina twice.\n\nI have just finished my homework.\n\nI have never been abroad.\n\nI have already revised the lesson.\n\nI haven't finished it yet.\n\n2. Present Perfect Continuous\n\nhave/has + been + V-ing\n\nتمرکز روی duration/activity:\n\nI have been studying English for two years.\n\nShe has been working since morning.\n\n3. Since / For\n\nsince → starting point\n\nsince 2024\nsince Monday\nsince I was a child\n\nنه:\n\n❌ since I am a child\n\nبلکه:\n\n✅ since I was a child.\n\nfor → duration\n\nfor two years\nfor three hours\nfor a long time\n\n4. Present Perfect vs Past Simple\n\nاین یکی از مهم‌ترین قسمت‌های فاینال است.\n\nI have visited Paris.\n\nدر اینجا زمان مشخص نیست.\n\nاما:\n\nI visited Paris in 2024.\n\nزمان مشخص و تمام‌شده است.\n\nبنابراین:\n\n❌ I have visited Paris two years ago.\n\n✅ I visited Paris two years ago.\n\nو نکته‌ی مهم جزوه:\n\nago → Past Simple\n\n5. Been to vs Gone to\n\nI have been to London.\n\nیعنی رفته‌ام و برگشته‌ام / تجربه‌اش را دارم.\n\nShe has gone to London.\n\nیعنی رفته و هنوز آنجاست / برنگشته.\n\nPhase 3 — Present & Past Contrast\n\nاینجا تمام tenseها را با هم مقایسه می‌کنیم.\n\n1. Present Simple\n\nI usually get up early.\n\nکاربرد:\n\nroutine\nhabit\nfact\ntimetable\nlikes/dislikes\n\nمثال خودت:\n\nI love dogs.\n\n2. Present Continuous\n\nI am studying now.\n\nبرای:\n\nhappening now\ntemporary situation\nfuture arrangement\nannoying repeated behavior with always\n\nمثال:\n\nI'm speaking right now.\n\nShe is always nagging!\n\nو یک نکته‌ی مهم:\n\nStative vs Dynamic Verbs\n\nبعضی افعال معمولاً Continuous نمی‌شوند:\n\nI know him.\nI understand.\nI believe you.\nI love this song.\n\nولی وقتی فعل dynamic باشد:\n\nI am thinking about something.\n\nI am looking at this book.\n\nThey are tasting the soup.\n\nHe is having a shower.\n\nو حتی:\n\nHe is being stupid.\n\nاینجا being یعنی رفتاری که موقتاً دارد نشان می‌دهد.\n\nPhase 4 — Future + Modals\n1. Will\nInstant decision\n\nI'll open the door.\n\nPromise\n\nI'll help you.\n\nOffer\n\nI'll carry your bag.\n\nPrediction without evidence\n\nI think it will rain.\n\n2. Be Going To\nPrior plan\n\nI'm going to study tonight.\n\nEvidence-based prediction\n\nLook at those clouds! It's going to rain.\n\nپس:\n\nWill → decision now / prediction without evidence\n\nGoing to → previous plan / evidence\n\nو:\n\ngonna\n\nنسخه‌ی informal گفتاریِ:\n\ngoing to\n\nPhase 5 — Modals + Conditionals\nA. Modals\nCan\n\nAbility:\n\nI can swim.\n\nPermission:\n\nCan I leave?\n\nPossibility:\n\nIt can be dangerous.\n\nCould\n\nPast ability:\n\nI could swim when I was five.\n\nPolite request:\n\nCould you help me?\n\nPossibility:\n\nIt could rain tonight.\n\nMay / Might\n\nPossibility:\n\nIt may rain.\n\nIt might rain.\n\nPermission:\n\nMay I come in?\n\nShould\n\nAdvice:\n\nYou should practice speaking.\n\nMust\n\nStrong/internal obligation:\n\nI must study tonight.\n\nHave to\n\nExternal obligation:\n\nI have to wear a uniform at work.\n\nمقایسه‌ی مهم:\n\nmustn't = prohibited\n\ndon't have to = not necessary\n\nمثلاً:\n\nYou mustn't smoke here.\n\nیعنی حق نداری.\n\nاما:\n\nYou don't have to come.\n\nیعنی لازم نیست بیایی.\n\nB. Conditionals\nZero Conditional\n\nGeneral truth:\n\nIf you heat water, it boils.\n\nPlain text\nIf + Present Simple → Present Simple\nFirst Conditional\n\nReal/possible future:\n\nIf I pass the exam, I will celebrate.\n\nPlain text\nIf + Present Simple → will + V\n\nنکته:\n\n❌ If I will pass...\n\n✅ If I pass...\n\nSecond Conditional\n\nUnreal / hypothetical present or future:\n\nIf I were a millionaire, I would travel around the world.\n\nPlain text\nIf + Past Simple → would + V\n\nو برای حالت فرضی رسمی/استاندارد:\n\nIf I were...\n\nIf she were...\n\nPhase 6 — Structures & Advanced Grammar\n\nبعد از tenseها، باید ساختارهایی را که در جزوه‌های اخیرت داشتی جمع کنیم.\n\n1. Used to\n\nبرای عادت یا وضعیت گذشته که دیگر وجود ندارد:\n\nI used to play football.\n\nNegative:\n\nI didn't use to play football.\n\nQuestion:\n\nDid you use to play football?\n\nمثال خودت:\n\nThe students used to make fun of him because of his red glasses.\n\nو:\n\nmake fun of someone\n\nیعنی مسخره کردن کسی.\n\n2. So / Such\nSo + adjective/adverb\n\nI was so tired that I slept.\n\nSo + much/many/few/little + noun\n\nI have so many friends in Tehran that I feel comfortable there.\n\nSuch + noun phrase\n\nShe is such a kind person.\n\nThey are such smart children.\n\nIt was such heavy traffic.\n\nدقت کن:\n\ntraffic\n\nuncountable است.\n\nپس:\n\n❌ such a heavy traffic\n\n✅ such heavy traffic\n\n3. Too / Enough\nToo + adjective\n\nیعنی بیش از حد:\n\nThe coffee is too hot.\n\nToo + adjective + to + verb\n\nThe coffee is too hot to drink.\n\nAdjective + enough\n\nHe is rich enough to buy it.\n\nEnough + noun\n\nI have enough money.\n\nمقایسه‌ی چهار ساختار\nStructure\tExample\nso + adj\tIt is so expensive.\nsuch + noun phrase\tIt is such an expensive car.\ntoo + adj\tIt is too expensive.\nadj + enough\tIt is cheap enough.\n4. Passive Voice\n\nسه ساختاری که در جزوه داشتی:\n\nPresent Simple Passive\n\nam/is/are + V3\n\nEnglish is spoken here.\n\nPast Simple Passive\n\nwas/were + V3\n\nThe car was repaired yesterday.\n\nPresent Perfect Passive\n\nhave/has been + V3\n\nThe lesson has been explained.\n\nکاربرد اصلی:\n\nوقتی doer مهم نیست، ناشناخته است یا از context مشخص است.\n\n5. Prepositions\nTime\nat\n\nat 8 o'clock\nat midday\nat noon\n\non\n\non Monday\non Friday\n\nin\n\nin 2026\nin summer\nin the morning\n\nPlace\n\nin the room\n\non the table\n\nat the station\n\nو مثال‌هایی که در جزوه داشتی:\n\nin the top right corner\n\non the left\n\nin the middle\n\nat the top\n\n6. Because / Because of / Due to\nBecause + clause\n\nI stayed home because it was raining.\n\nBecause of + noun\n\nI stayed home because of the rain.\n\nDue to + noun\n\nThe flight was delayed due to bad weather.\n\nنکته:\n\n❌ due for\n\nدر این ساختار:\n\ndue to\n\n7. Although / Even though / Despite / In spite of\nAlthough + clause\n\nAlthough it was raining, we went out.\n\nEven though + clause\n\nEven though I was tired, I continued studying.\n\nDespite + noun / V-ing\n\nDespite the rain, we went out.\n\nDespite being tired, I continued studying.\n\nIn spite of + noun / V-ing\n\nIn spite of the rain, we went out.\n\n8. Vocabulary Structures مهم\n\nاین‌ها را هم داخل جزوه‌ی گرامر نگه می‌داریم چون در جمله‌سازی فاینال احتمالاً به کار می‌آیند.\n\nafford\n\nafford + noun\n\nI can't afford a new phone.\n\nafford + to + verb\n\nI can't afford to buy a new phone.\n\nLook forward to\n\nدقت:\n\nto اینجا preposition است.\n\nبنابراین:\n\nI look forward to meeting you.\n\nنه:\n\n❌ I look forward to meet you.\n\nBe interested in\n\nI am interested in English.\n\nI am interested in learning English.\n\nچون:\n\nin + noun / V-ing\n\nترتیب نهایی مطالعه برای فاینال\n\nاگر بخواهم تمام این سیستم را به شکل یک نقشه‌ی مطالعاتی واقعی دربیاورم:\n\nPlain text\nPHASE 1\nPast Perfect Continuous\n        ↓\nPast Perfect\n        ↓\nPast Continuous\n        ↓\nPast Simple\n        ↓\nPast Tense Contrast\nPlain text\nPHASE 2\nPresent Perfect\n        ↓\nPresent Perfect Continuous\n        ↓\nSince / For\n        ↓\nAlready / Yet / Just / Ever / Never\n        ↓\nBeen to / Gone to\n        ↓\nPresent Perfect vs Past Simple\nPlain text\nPHASE 3\nPresent Simple\n        ↓\nPresent Continuous\n        ↓\nStative vs Dynamic\n        ↓\nPresent Simple vs Continuous\n        ↓\nکل Tense System\nPlain text\nPHASE 4\nWill\n        ↓\nGoing to\n        ↓\nFuture meaning\n        ↓\nCan / Could\n        ↓\nMay / Might\n        ↓\nShould\n        ↓\nMust / Have to\nPlain text\nPHASE 5\nZero Conditional\n        ↓\nFirst Conditional\n        ↓\nSecond Conditional\n        ↓\nConditionals Contrast\nPlain text\nPHASE 6\nUsed to\n        ↓\nPassive Voice\n        ↓\nSo / Such\n        ↓\nToo / Enough\n        ↓\nPrepositions\n        ↓\nBecause / Because of / Due to\n        ↓\nAlthough / Despite / In spite of\n        ↓\nMixed Grammar\nیک نکته مهم برای مطالعه\n\nبرای هر Phase این چرخه را اجرا کن:\n\nجزوه → مثال‌های خودت → کتاب Ready for B1 → Workbook → Error Log → Mixed Exercise\n\nیعنی صرفاً Reading نکن.\n\nمثلاً برای Present Perfect:\n\nجزوه را مرور کن.\nمثال‌های خودت را بدون نگاه کردن بازسازی کن.\nتمرین‌های همان بخش کتاب را حل کن.\nWorkbook را حل کن.\nهر اشتباه را در Error Log بنویس.\nدر پایان، تمرین Present Perfect vs Past Simple vs Present Perfect Continuous بزن.\n\nاین روش باعث می‌شود گرامرها به‌صورت سیستم زمانی در ذهنت قرار بگیرند، نه به شکل ۱۵ فرمول جداگانه.\n\nاگر بخواهی، مرحله‌ی بعدی را می‌توانیم تبدیل کنیم به «جزوه نهایی فاینال»؛ یعنی همین ۶ فاز را با تمام مثال‌های مهمی که خودت در جزوه‌ها داشتی + دام‌های امتحانی + تست تشخیصی هر فاز در یک جزوه‌ی واحد جمع کنیم.",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": [
+      {
+        "locator": "table:1",
+        "rows": [
+          [
+            "Structure",
+            "Example"
+          ],
+          [
+            "so + adj",
+            "It is so expensive."
+          ],
+          [
+            "such + noun phrase",
+            "It is such an expensive car."
+          ],
+          [
+            "too + adj",
+            "It is too expensive."
+          ],
+          [
+            "adj + enough",
+            "It is cheap enough."
+          ]
+        ]
+      }
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "e057cd15-8da7-4798-a253-42312cfcb7dc",
+    "capture.headings": [
+      {
+        "level": 1,
+        "text": "Phase 1 — Past Tenses & Past Perfect Family"
+      },
+      {
+        "level": 3,
+        "text": "1. Past Perfect Continuous"
+      },
+      {
+        "level": 3,
+        "text": "2. Past Perfect"
+      },
+      {
+        "level": 3,
+        "text": "3. Past Continuous"
+      },
+      {
+        "level": 3,
+        "text": "4. Simple Past"
+      },
+      {
+        "level": 3,
+        "text": "5. Past Timeline"
+      },
+      {
+        "level": 1,
+        "text": "Phase 2 — Present Perfect Family"
+      },
+      {
+        "level": 3,
+        "text": "1. Present Perfect Simple"
+      },
+      {
+        "level": 3,
+        "text": "2. Present Perfect Continuous"
+      },
+      {
+        "level": 3,
+        "text": "3. Since / For"
+      },
+      {
+        "level": 3,
+        "text": "4. Present Perfect vs Past Simple"
+      },
+      {
+        "level": 3,
+        "text": "5. Been to vs Gone to"
+      },
+      {
+        "level": 1,
+        "text": "Phase 3 — Present & Past Contrast"
+      },
+      {
+        "level": 2,
+        "text": "1. Present Simple"
+      },
+      {
+        "level": 2,
+        "text": "2. Present Continuous"
+      },
+      {
+        "level": 3,
+        "text": "Stative vs Dynamic Verbs"
+      },
+      {
+        "level": 1,
+        "text": "Phase 4 — Future + Modals"
+      },
+      {
+        "level": 2,
+        "text": "1. Will"
+      },
+      {
+        "level": 3,
+        "text": "Instant decision"
+      },
+      {
+        "level": 3,
+        "text": "Promise"
+      },
+      {
+        "level": 3,
+        "text": "Offer"
+      },
+      {
+        "level": 3,
+        "text": "Prediction without evidence"
+      },
+      {
+        "level": 2,
+        "text": "2. Be Going To"
+      },
+      {
+        "level": 3,
+        "text": "Prior plan"
+      },
+      {
+        "level": 3,
+        "text": "Evidence-based prediction"
+      },
+      {
+        "level": 1,
+        "text": "Phase 5 — Modals + Conditionals"
+      },
+      {
+        "level": 2,
+        "text": "A. Modals"
+      },
+      {
+        "level": 3,
+        "text": "Can"
+      },
+      {
+        "level": 3,
+        "text": "Could"
+      },
+      {
+        "level": 3,
+        "text": "May / Might"
+      },
+      {
+        "level": 3,
+        "text": "Should"
+      },
+      {
+        "level": 3,
+        "text": "Must"
+      },
+      {
+        "level": 3,
+        "text": "Have to"
+      },
+      {
+        "level": 1,
+        "text": "B. Conditionals"
+      },
+      {
+        "level": 2,
+        "text": "Zero Conditional"
+      },
+      {
+        "level": 2,
+        "text": "First Conditional"
+      },
+      {
+        "level": 2,
+        "text": "Second Conditional"
+      },
+      {
+        "level": 1,
+        "text": "Phase 6 — Structures & Advanced Grammar"
+      },
+      {
+        "level": 2,
+        "text": "1. Used to"
+      },
+      {
+        "level": 1,
+        "text": "2. So / Such"
+      },
+      {
+        "level": 3,
+        "text": "So + adjective/adverb"
+      },
+      {
+        "level": 3,
+        "text": "So + much/many/few/little + noun"
+      },
+      {
+        "level": 3,
+        "text": "Such + noun phrase"
+      },
+      {
+        "level": 1,
+        "text": "3. Too / Enough"
+      },
+      {
+        "level": 3,
+        "text": "Too + adjective"
+      },
+      {
+        "level": 3,
+        "text": "Too + adjective + to + verb"
+      },
+      {
+        "level": 3,
+        "text": "Adjective + enough"
+      },
+      {
+        "level": 3,
+        "text": "Enough + noun"
+      },
+      {
+        "level": 2,
+        "text": "مقایسه‌ی چهار ساختار"
+      },
+      {
+        "level": 1,
+        "text": "4. Passive Voice"
+      },
+      {
+        "level": 3,
+        "text": "Present Simple Passive"
+      },
+      {
+        "level": 3,
+        "text": "Past Simple Passive"
+      },
+      {
+        "level": 3,
+        "text": "Present Perfect Passive"
+      },
+      {
+        "level": 1,
+        "text": "5. Prepositions"
+      },
+      {
+        "level": 2,
+        "text": "Time"
+      },
+      {
+        "level": 3,
+        "text": "at"
+      },
+      {
+        "level": 3,
+        "text": "on"
+      },
+      {
+        "level": 3,
+        "text": "in"
+      },
+      {
+        "level": 2,
+        "text": "Place"
+      },
+      {
+        "level": 1,
+        "text": "6. Because / Because of / Due to"
+      },
+      {
+        "level": 3,
+        "text": "Because + clause"
+      },
+      {
+        "level": 3,
+        "text": "Because of + noun"
+      },
+      {
+        "level": 3,
+        "text": "Due to + noun"
+      },
+      {
+        "level": 1,
+        "text": "7. Although / Even though / Despite / In spite of"
+      },
+      {
+        "level": 3,
+        "text": "Although + clause"
+      },
+      {
+        "level": 3,
+        "text": "Even though + clause"
+      },
+      {
+        "level": 3,
+        "text": "Despite + noun / V-ing"
+      },
+      {
+        "level": 3,
+        "text": "In spite of + noun / V-ing"
+      },
+      {
+        "level": 1,
+        "text": "8. Vocabulary Structures مهم"
+      },
+      {
+        "level": 3,
+        "text": "afford"
+      },
+      {
+        "level": 3,
+        "text": "Look forward to"
+      },
+      {
+        "level": 3,
+        "text": "Be interested in"
+      },
+      {
+        "level": 1,
+        "text": "ترتیب نهایی مطالعه برای فاینال"
+      },
+      {
+        "level": 3,
+        "text": "یک نکته مهم برای مطالعه"
+      }
+    ],
+    "capture.links": []
+  }
+}

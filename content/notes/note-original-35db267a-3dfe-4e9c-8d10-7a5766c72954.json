@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-35db267a-3dfe-4e9c-8d10-7a5766c72954",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "ازت میخوام این رو به نوان یک ساختار ب خروجی نهاییت اضافه کنی برای همین میخوام ازت زمانی ک داری خروجی رو ارسال میکنی کلماتی رو ک بررسی میکنی در جزوات گذشته هم بر"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-35db267a-3dfe-4e9c-8d10-7a5766c72954",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-35db267a-3dfe-4e9c-8d10-7a5766c72954-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "ازت میخوام این رو به نوان یک ساختار ب خروجی نهاییت اضافه کنی برای همین میخوام ازت زمانی ک داری خروجی رو ارسال میکنی کلماتی رو ک بررسی میکنی در جزوات گذشته هم بررسی کن و هم بررسی کنی ک بتونم با یاداوری ووکبم رو تقویت کنم کخصوصا اون هایی ک کاربرد بیشتری در روزمره و ایلتیس دارن",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": []
+  },
+  "extensions": {
+    "capture.message-id": "35db267a-3dfe-4e9c-8d10-7a5766c72954",
+    "capture.turn-number": 26
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "correction-supports",
+  "type": "correction",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "supports"
+  },
+  "tags": [
+    "error-notebook"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m04",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "original": "He is always supports me.",
+    "replacement": "He always supports me.",
+    "explanation": {
+      "fa": "حذف is اضافی در ساختار حال ساده."
+    },
+    "conceptIds": [
+      "concept-present-simple"
+    ],
+    "correctionSourceRef": {
+      "sourceId": "src-chat-m04",
+      "locator": "message-excerpt"
+    },
+    "kind": "form",
+    "originalSourceRef": {
+      "sourceId": "src-chat-m04",
+      "locator": "message-excerpt"
+    }
+  },
+  "extensions": {
+    "language.correction-context": {
+      "kind": "paired-source-examples",
+      "explanationAuthoredDuringExtraction": true
+    }
+  }
+}

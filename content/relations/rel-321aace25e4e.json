@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-321aace25e4e",
+  "type": "contains",
+  "from": "session-experiences-news",
+  "to": "note-experiences-news",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-chat-m04",
+      "locator": "message-excerpt"
+    }
+  ],
+  "extensions": {}
+}

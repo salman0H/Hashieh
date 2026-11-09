@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-play-ice-hockey",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "play ice hockey"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-63a85bee-f127-44e4-8fe5-335f7fd5ccf8",
+        "locator": "table:1/data-row:1"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "play ice hockey",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-6e37ea8e7d09",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "هاکی روی یخ بازی کردن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-63a85bee-f127-44e4-8fe5-335f7fd5ccf8",
+            "locator": "table:1/data-row:1"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-63a85bee-f127-44e4-8fe5-335f7fd5ccf8",
+          "locator": "table:1/data-row:1"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-unit-8",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

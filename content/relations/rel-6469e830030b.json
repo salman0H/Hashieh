@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-6469e830030b",
+  "type": "related-to",
+  "from": "concept-life-experiences",
+  "to": "concept-present-perfect",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-chat-m04",
+      "locator": "message-excerpt"
+    }
+  ],
+  "extensions": {}
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "session-jobs",
+  "type": "session",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Jobs and ambitions"
+  },
+  "tags": [
+    "class-notes"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m02",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-original-dd7591ab-4120-4d85-b87b-d534c6dcf577",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-944a2cb2-18e6-4a05-af23-92edb86b98d4",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "occurredAt": null,
+    "dateLabel": null,
+    "datePrecision": "unknown",
+    "conceptIds": [
+      "concept-word-families",
+      "concept-would-like",
+      "concept-questions",
+      "concept-present-simple",
+      "concept-past-simple",
+      "concept-writing",
+      "concept-gerund-infinitive",
+      "concept-parts-of-speech",
+      "concept-used-to"
+    ],
+    "itemIds": [
+      "note-jobs",
+      "note-original-dd7591ab-4120-4d85-b87b-d534c6dcf577",
+      "note-original-944a2cb2-18e6-4a05-af23-92edb86b98d4"
+    ],
+    "sourceMessageIds": [
+      "src-chat-m02",
+      "src-original-dd7591ab-4120-4d85-b87b-d534c6dcf577",
+      "src-original-944a2cb2-18e6-4a05-af23-92edb86b98d4"
+    ],
+    "completeness": "partial",
+    "missing": [
+      "original attachments",
+      "earlier assistant explanation"
+    ]
+  },
+  "extensions": {}
+}

@@ -1,0 +1,551 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-fafbd138-61f8-4f3e-a54c-0222f78527e6",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "1. چرا می‌گوییم The day has been so long؟"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "assessment",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-fafbd138-61f8-4f3e-a54c-0222f78527e6",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "بله؛ اینجا چند نکته‌ی مهم به هم وصل می‌شوند: article، adverb، infinitive، gerund و verb pattern. قدم‌به‌قدم بازش کنیم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-2",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "1. چرا می‌گوییم The day has been so long؟\n\nسؤالت این است که:\n\nچون می‌گوییم the day، آیا منظورمان یک روز مشخص نیست؟\n\nبله، دقیقاً.\n\nthe معمولاً وقتی استفاده می‌شود که گوینده و شنونده بتوانند بفهمند کدام مورد مشخص مورد نظر است.\n\nدر:\n\nThe day has been so long.\n\nمنظور یک روز مشخص است؛ مثلاً امروز.\n\nدر واقع اگر مکالمه درباره‌ی امروز باشد:\n\nIt's been such a long day.\n\nو\n\nThe day has been so long.\n\nهر دو می‌توانند به امروز اشاره کنند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-3",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "مقایسه:\n\nI had a long day yesterday.\n\nاینجا اولین بار درباره‌ی یک روز صحبت می‌کنیم → a\n\nبعد:\n\nThe day was exhausting.\n\nحالا مشخص است کدام روز را می‌گویی → the",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-4",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "اما یک نکته ظریف\n\nدر جمله:\n\nIt's been such a long day.\n\na day به معنی «یک روز نامشخص» نیست.\n\nاین یک noun phrase است که در آن such آمده:\n\nsuch + a + adjective + singular noun\n\nمثل:\n\nIt was such a difficult exam.\n\nواضح است که درباره‌ی امتحانی که در موردش صحبت می‌کنیم حرف می‌زنیم، ولی ساختار such a همچنان a می‌خواهد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-5",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "2. The day has been so long دقیقاً چه حسی دارد؟\n\nاین جمله از نظر گرامری درست است، ولی در مکالمه‌ی طبیعی:\n\nIt's been such a long day.\n\nخیلی طبیعی‌تر است.\n\nچرا؟\n\nچون وقتی انگلیسی‌زبان می‌خواهد بگوید:\n\n«امروز خیلی روز طولانی‌ای بوده.»\n\nمعمولاً از این construction استفاده می‌کند:\n\nIt's been such a long day.\n\nدر اینجا It به وضعیت/روز فعلی اشاره می‌کند.\n\nاما:\n\nThe day has been so long.\n\nبیشتر حالت توصیفی دارد؛ مثلاً ممکن است بخواهی روی خودِ «روز» به‌عنوان subject تأکید کنی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-6",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "3. Adverb و گرامری که الان داری یاد می‌گیری\n\nاین قسمت مهم است چون تو الآن همزمان داری Present Simple / Present Continuous / stative verbs / modals را یاد می‌گیری.\n\nAdverbها یکی از چیزهایی هستند که مرتب در این گرامرها می‌بینی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-7",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Adverbs of frequency\n\nبرای Present Simple:\n\nalways\nusually\noften\nsometimes\nrarely\nseldom\nnever\n\nمثلاً:\n\nI usually work out after work.\n\nShe often works from home.\n\nI never drink coffee at night.\n\nجای معمولشان:\n\nSubject + adverb + main verb\n\nولی با to be:\n\nSubject + be + adverb\n\nمثلاً:\n\nI usually work at 8.\n\nولی:\n\nI am usually tired after work.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-8",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "4. Adverbs of manner\n\nاینها می‌گویند یک action چطور انجام می‌شود.\n\nslowly\nquickly\ncarefully\nquietly\nloudly\neasily\nbadly\n\nمثلاً:\n\nShe speaks quietly.\n\nHe drives carefully.\n\nI finished the work quickly.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-9",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "5. Adverbs of degree\n\nشدت یک adjective یا adverb را مشخص می‌کنند.\n\nvery\nreally\nextremely\nquite\ntoo\nso\n\nمثلاً:\n\nIt is very cold.\n\nHe is extremely tired.\n\nThe job is quite demanding.\n\nThe traffic was so heavy.\n\nShe speaks really quickly.\n\nو اینجا می‌بینی که so خودش یک adverb است:\n\nso + adjective\n\nso long",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-10",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "6. Adverbs of probability\n\nاین همان بخشی است که انتخاب کرده بودی:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-11",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "probably",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-12",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "maybe",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-13",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "perhaps\n\nاینها احتمال را نشان می‌دهند.\n\nprobably\n\nI'll probably go home early.\n\nاحتمالاً زود می‌روم خانه.\n\nmaybe\n\nMaybe I'll go home early.\n\nشاید زود بروم خانه.\n\nperhaps\n\nPerhaps I'll go home early.\n\nشاید زود بروم خانه.\n\nperhaps کمی formalتر از maybe است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-14",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "یک نکته مهم درباره‌ی probably\n\nجای probably به ساختار جمله بستگی دارد:\n\nI probably will go.\n\nI will probably go.\n\nهر دو ممکن‌اند.\n\nاما:\n\nI probably go home early.\n\nمعمولاً معنی متفاوتی می‌دهد و بیشتر شبیه عادت/روال است:\n\nI probably go home early on Fridays.\n\nیعنی «احتمالاً معمولاً جمعه‌ها زود می‌روم خانه.»",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-15",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "7. I have a sweet tooth را عمیق‌تر ببینیم\n\nاین یک idiom / fixed expression است.\n\nhave a sweet tooth\n\nیعنی:\n\nعلاقه‌ی زیادی به شیرینی و خوراکی‌های شیرین داشتن.\n\nمثلاً:\n\nI have a sweet tooth, so I can't resist chocolate.\n\ncan't resist هم expression مفیدی است:\n\ncan't resist something\n\n= نمی‌توانم در برابر چیزی مقاومت کنم / نمی‌توانم از آن بگذرم.\n\nمثلاً:\n\nI can't resist chocolate.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-16",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "چند مثال دیگر:\n\nMy sister has a sweet tooth.\n\nI didn't use to have a sweet tooth, but now I love desserts.\n\nHe has such a sweet tooth that he eats chocolate every day.\n\nاین آخری حتی such را هم با Vocabulary جدیدت ترکیب می‌کند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-17",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "8. حالا مهم‌ترین سؤال: Infinitive چیست؟\n\nتو گفتی:\n\n«در مورد مصدرها بیشتر بگو و با verb + ing اشتباه نگیرمشون.»\n\nاین دقیقاً یکی از مباحث مهم انگلیسی است.\n\nدر انگلیسی چیزی که معمولاً به آن infinitive می‌گوییم:\n\nto + base verb\n\nمثلاً:\n\nto go\nto work\nto study\nto learn\nto eat\n\nبه آن to-infinitive هم می‌گویند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-18",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "9. اما یک نوع infinitive دیگر هم داریم: bare infinitive\n\nیعنی:\n\nbase verb بدون to\n\nمثلاً بعد از modal verbs:\n\nI can swim.\n\nنه:\n\nI can to swim. ❌\n\nبعد از:\n\ncan\ncould\nwill\nwould\nmay\nmight\nmust\nshould\n\nاز base verb استفاده می‌کنیم.\n\nمثلاً:\n\nI will go.\n\nShe might come.\n\nYou should study.\n\nHe can drive.\n\nاین دقیقاً به درس فعلی تو مربوط است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-19",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "10. to + verb در مکالمه کجا استفاده می‌شود؟\n\nیکی از مهم‌ترین الگوها:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-20",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "want + to V\n\nI want to learn English.\n\nI want to improve my vocabulary.\n\nنه:\n\nI want learning English. ❌",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-21",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "would like + to V\n\nاین را قبلاً هم داشتیم:\n\nI'd like to work in technology.\n\nI'd like to become a software developer.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-22",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "decide + to V\n\nI decided to study tonight.\n\nShe decided to quit her job.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-23",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "hope + to V\n\nI hope to get a better job.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-24",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "plan + to V\n\nI plan to improve my English.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-25",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "need + to V\n\nI need to concentrate.\n\nI need to finish this project.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-26",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "11. اما بعضی فعل‌ها V-ing می‌گیرند\n\nاینجا همان جایی است که باید مراقب باشی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-27",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "enjoy + V-ing\n\nI enjoy learning English.\n\nنه:\n\nI enjoy to learn English. ❌",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-28",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "avoid + V-ing\n\nI avoid using my phone before bed.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-29",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "finish + V-ing\n\nI finished working at 6.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-30",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "keep + V-ing\n\nKeep practising.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-31",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "suggest + V-ing\n\nI suggest taking a break.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-32",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "12. و بعضی ساختارها را از قبل خودت یاد گرفته‌ای\n\nمثلاً:\n\nbe interested in + V-ing\n\nچون in اینجا preposition است.\n\nI'm interested in learning English.\n\nنه:\n\nI'm interested in to learn English. ❌\n\nهمچنین:\n\nI'm good at programming.\n\nI'm afraid of making mistakes.\n\nI look forward to seeing you.\n\nاین آخری خیلی مهم است چون قبلاً هم در Error Log تو داشتیم:\n\nI look forward to see you. ❌\n\nI look forward to seeing you. ✅\n\nچرا؟\n\nچون این to، infinitive marker نیست؛ اینجا preposition است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-33",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "13. این فرق to خیلی مهم است\n\nدو نوع to داریم:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-34",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "A. to + infinitive\n\nI want to learn.\n\nاینجا to learn = infinitive.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-35",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "B. to به‌عنوان preposition\n\nI'm looking forward to learning.\n\nاینجا to = preposition.\n\nبنابراین بعدش noun یا gerund می‌آید:\n\nlook forward to the trip\n\nlook forward to seeing you",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-36",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "14. یک سیستم ساده برای جلوگیری از اشتباه\n\nبه جای اینکه هر بار از خودت بپرسی:\n\n«بعدش ing میاد یا to؟»\n\nبه verb pattern توجه کن.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-37",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "گروه 1 — verb + to V\n\nwant to\nneed to\ndecide to\nhope to\nplan to\nwould like to\npromise to\n\nمثلاً:\n\nI want to improve my English.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-38",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "گروه 2 — verb + V-ing\n\nenjoy\navoid\nfinish\nkeep\nsuggest\n\nمثلاً:\n\nI enjoy learning English.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-39",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "گروه 3 — preposition + V-ing\n\ninterested in\ngood at\nafraid of\nresponsible for\nin charge of\nlook forward to\n\nمثلاً:\n\nI'm responsible for developing the website.\n\nI'm in charge of managing the project.\n\nاین دقیقاً با جزوه‌ی قبلی تو هم ارتباط دارد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-40",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "15. یک نکته بسیار مهم: V-ing همیشه Gerund نیست\n\nاین را حتماً از همین الان جدا کن.\n\nV-ing می‌تواند چند نقش داشته باشد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-41",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Gerund\n\nوقتی نقش noun دارد:\n\nSwimming is good for you.\n\nSwimming = اسم/فاعل جمله.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-42",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Present participle در Continuous\n\nI am swimming.\n\nاینجا swimming بخشی از Present Continuous است.\n\nam + swimming\n\nپس اینجا نباید بگویی:\n\nswimming = gerund",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-43",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Adjective\n\nIt was an exciting match.\n\nاینجا exciting نقش adjective دارد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-44",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "16. مقایسه‌ای که باید در ذهنت بماند\nجمله\tنقش\nSwimming is good for you.\tGerund\nI enjoy swimming.\tGerund\nI am swimming.\tPresent Continuous\nIt was an exciting game.\tAdjective / participle\nI want to swim.\tInfinitive\nI can swim.\tBare infinitive\n\nبنابراین:\n\nV-ing ≠ همیشه Gerund\n\nو:\n\nto + V ≠ تنها شکل ممکن بعد از فعل",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-45",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "17. اصلاح تست آخرت\n\nجواب‌هایت:\n\npromising ✅\ndemanding ✅\nrepetitive ✅\nlucrative ✅\ndemanding ❌\nwell-paid ❌\n\nشماره 5:\n\nI don't care if the job is ________; I mainly want job security.\n\nباید:\n\nsecure ✅\n\nچون خود جمله می‌گوید:\n\nI mainly want job security.\n\nشماره 6:\n\nShe has just started her career, but she seems very ________.\n\nبهترین جواب:\n\npromising ✅\n\nنه well-paid.\n\nچون she خودش promising است، یعنی آینده/پتانسیل خوبی دارد؛ ولی well-paid معمولاً برای job/position به‌کار می‌رود:\n\nShe has a well-paid job.\n\nپس اینجا تست کمی tricky بود.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-fafbd138-61f8-4f3e-a54c-0222f78527e6-46",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "نتیجه:\n\n4/6 — و دو اشتباهت بیشتر از جنس semantic precision / collocation بودند، نه اینکه معنی کلمات را بلد نباشی.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-present-simple",
+      "concept-present-continuous",
+      "concept-gerund-infinitive",
+      "concept-stative-verbs",
+      "concept-articles",
+      "concept-modals"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "fafbd138-61f8-4f3e-a54c-0222f78527e6",
+    "capture.turn-number": 29
+  }
+}

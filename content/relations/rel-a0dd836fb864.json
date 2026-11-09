@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-a0dd836fb864",
+  "type": "covers",
+  "from": "note-original-bad3a620-cb57-456d-805a-7719f05ef9d7",
+  "to": "concept-word-families",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-original-bad3a620-cb57-456d-805a-7719f05ef9d7",
+      "locator": "message-body"
+    }
+  ],
+  "extensions": {}
+}

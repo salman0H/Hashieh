@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "exercise-practice-relative-clauses",
+  "type": "exercise",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "fa": "تمرین تکمیلی؛ relative-clauses"
+  },
+  "tags": [
+    "supplemental-practice"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-bdd2ecc2-6b28-4a3a-9ea0-8a55d47b5fd0",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "mode": "practice",
+    "prompt": "The woman ___ teaches us is very patient.",
+    "options": [
+      "which",
+      "who",
+      "where"
+    ],
+    "answers": [
+      {
+        "number": 1,
+        "text": "who"
+      }
+    ],
+    "explanation": {
+      "fa": "برای اشاره به شخص در این جملهٔ موصولی از who استفاده می‌کنیم."
+    },
+    "conceptIds": [
+      "concept-relative-clauses"
+    ],
+    "gradable": true,
+    "missing": []
+  },
+  "extensions": {}
+}

@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-0dd431bd-5af6-45fb-8064-27a445ceff52",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 104"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "assistant",
+    "messageOrdinal": 104,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "از این به بعد، هر بار جزوهٔ جدیدی از کلاس زبان بفرستی، خروجی را با این ساختار آماده می‌کنم:\n\nبررسی و آموزش گرامر: توضیح قواعد، کاربردها، ساختارها، استثناها و اشتباهات رایج.\n\nبررسی واژگان و اصطلاحات: معنی فارسی و انگلیسی، جایگاه دستوری، نحوهٔ استفاده و مثال.\n\nگسترش خانوادهٔ کلمات: شکل‌های اسمی، فعلی، صفتی و قیدی هر واژه، در صورت وجود، همراه با معنی و مثال.\n\nمرور مطالب قبلی: استفاده از واژگان و گرامر جلسات گذشته برای تثبیت یادگیری.\n\nWriting: یک متن کاربردی با استفاده از گرامر و واژگان جلسهٔ جدید و مرور هدفمند مطالب قبلی.\n\nجدول واژگان جدید: جدولی مستقل برای اضافه‌کردن به انتهای جدول اصلی.\n\nساختار جدول واژگان:\n\nردیف\n\n\t\n\nWord / Phrase\n\n\t\n\nTranslation (Persian)\n\n\t\n\nSynonyms / Equivalents\n\n\t\n\nPart of Speech / Category\n\n\n\n\n1\n\n\t\n\nword\n\n\t\n\nمعنی فارسی\n\n\t\n\nEnglish meaning / Synonyms\n\n\t\n\nNoun / Verb / Adjective / ...\n\nنکتهٔ مهم: فقط واژگان جدید را وارد جدول جدید می‌کنم؛ موارد تکراری جدول قبلی را دوباره اضافه نمی‌کنم، مگر اینکه کاربرد یا معنای جدید و مهمی داشته باشند.\n\nاین ساختار از این به بعد الگوی ثابت بررسی جزوه‌های زبان ما خواهد بود.",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": [
+      {
+        "locator": "table:1",
+        "rows": [
+          [
+            "ردیف",
+            "Word / Phrase",
+            "Translation (Persian)",
+            "Synonyms / Equivalents",
+            "Part of Speech / Category"
+          ],
+          [
+            "1",
+            "word",
+            "معنی فارسی",
+            "English meaning / Synonyms",
+            "Noun / Verb / Adjective / ..."
+          ]
+        ]
+      }
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "0dd431bd-5af6-45fb-8064-27a445ceff52",
+    "capture.headings": [],
+    "capture.links": []
+  }
+}

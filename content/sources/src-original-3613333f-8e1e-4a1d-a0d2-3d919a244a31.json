@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-3613333f-8e1e-4a1d-a0d2-3d919a244a31",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 81"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "user",
+    "messageOrdinal": 81,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "این نوشته رو از لجاظ درستی لغات و گرامر بررسی کن برام:\n\n\n\n\nSubject: the crime was changed while my life\nI knew it was going to be an unusual day when I arrived at work that morning. Before this crime, I had feeling with myself, I thought that day was last day of my life. I am always be a punctual employee, but the weather of that day got  affect on me, when I saw gray clouds came into sky after the sun and people chenge their behavior to me , I should knew that happen to me. I had brought my gouard up, but I was totally vuluenrable. I was enter into building , the light is flicking at  the end of corridor correctly into my eyes, I wish I was dead and did not see this crime with my own eyes. I was stand behind the door, I needed a power to open that, my hands were bitterly cold, I tool a breath, I should. That moment I faced with that crime, my colleague were eating my lunch. That is when blood came into my eyes and …",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": []
+  },
+  "extensions": {
+    "capture.message-id": "3613333f-8e1e-4a1d-a0d2-3d919a244a31",
+    "capture.headings": [],
+    "capture.links": []
+  }
+}

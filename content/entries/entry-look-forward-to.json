@@ -1,0 +1,169 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-look-forward-to",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "look forward to"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:1/data-row:19"
+      },
+      {
+        "sourceId": "src-original-4b0f62cf-9334-4ad2-b7df-ddeecf3ea636",
+        "locator": "table:6/data-row:7"
+      },
+      {
+        "sourceId": "src-original-aad291b4-8724-481f-89aa-c7df380822d1",
+        "locator": "table:2/data-row:10"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:1/data-row:19"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "look forward to",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-7ae138952b45",
+        "partOfSpeech": "Phrase",
+        "translation": {
+          "fa": "مشتاقانه منتظر چیزی بودن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "anticipate",
+          "be excited about"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:1/data-row:19"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:1/data-row:19"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-999813334968",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "مشتاق چیزی بودن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-7b0d282dbc64",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "I'm looking forward to visiting Shiraz.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-4b0f62cf-9334-4ad2-b7df-ddeecf3ea636",
+            "locator": "table:6/data-row:7"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-3f8941a75de9",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "مشتاق بودن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [
+          {
+            "id": "block-example-837f9f16cbff",
+            "type": "example",
+            "version": 1,
+            "data": {
+              "text": "I'm looking forward to starting my new job.",
+              "locale": "en"
+            }
+          }
+        ],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-aad291b4-8724-481f-89aa-c7df380822d1",
+            "locator": "table:2/data-row:10"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:1/data-row:19"
+        },
+        "group": "priority-a",
+        "sessionId": null,
+        "priority": "A"
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-4b0f62cf-9334-4ad2-b7df-ddeecf3ea636",
+          "locator": "table:6/data-row:7"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-future",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-aad291b4-8724-481f-89aa-c7df380822d1",
+          "locator": "table:2/data-row:10"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-22cf3704",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:1/data-row:19"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

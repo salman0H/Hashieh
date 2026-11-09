@@ -1,0 +1,117 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-opponent",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "opponent"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:16"
+      },
+      {
+        "sourceId": "src-original-63a85bee-f127-44e4-8fe5-335f7fd5ccf8",
+        "locator": "table:1/data-row:5"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:3/data-row:16"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "opponent",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-e51fa7177c26",
+        "partOfSpeech": "Noun",
+        "translation": {
+          "fa": "حریف"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "rival",
+          "competitor"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:3/data-row:16"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:3/data-row:16"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-c69e0e28d4b6",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "حریف"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-63a85bee-f127-44e4-8fe5-335f7fd5ccf8",
+            "locator": "table:1/data-row:5"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:3/data-row:16"
+        },
+        "group": "priority-c",
+        "sessionId": null,
+        "priority": "C"
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-63a85bee-f127-44e4-8fe5-335f7fd5ccf8",
+          "locator": "table:1/data-row:5"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-unit-8",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:3/data-row:16"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

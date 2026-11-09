@@ -1,0 +1,339 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-chat-m16",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — visible message 16"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/share/6af0508a-19f8-83ed-91a4-002901ccaac9",
+    "role": "assistant",
+    "messageOrdinal": 16,
+    "ordinalScope": "rendered-message-sequence-on-2026-11-08",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "selected-excerpts-and-vocabulary-tables",
+    "text": "بعد از Modalهای اصلی، فعل به شکل ساده یا همان Base Form می‌آید.\nShe can play football.\nShe can plays football.\nMustn't = ممنوعیت\nDon't have to = عدم ضرورت\nاصلاح یک نکته در جزوه: این جمله که «منفی Have to از لحاظ معنایی Mustn't است» اشتباه است.\nاین تقسیم‌بندی برای شروع یادگیری مفید است، اما یک قانون صددرصدی نیست.\nI will can travel.\nI will be able to travel.",
+    "attachmentIndicators": {
+      "files": 0,
+      "images": 0
+    },
+    "limitations": [
+      "Page capture is partial; ordinal is not a stable original chat message ID.",
+      "Whitespace/UI labels normalized; no claim of byte-exact transcript.",
+      "Referenced attachments are not captured.",
+      "Selected prose excerpts only; full assistant prose and worksheet tables are not archived here."
+    ],
+    "tables": [
+      {
+        "locator": "table:9",
+        "rows": [
+          [
+            "permission",
+            "اجازه، مجوز",
+            "authorisation, consent",
+            "Noun"
+          ],
+          [
+            "permit",
+            "اجازه دادن، مجوز",
+            "allow, authorize",
+            "Verb / Noun"
+          ],
+          [
+            "obligation",
+            "الزام، وظیفه",
+            "duty, responsibility",
+            "Noun"
+          ],
+          [
+            "prohibition",
+            "ممنوعیت",
+            "ban, restriction",
+            "Noun"
+          ],
+          [
+            "obligatory",
+            "اجباری، الزامی",
+            "compulsory, mandatory",
+            "Adjective"
+          ],
+          [
+            "forbidden",
+            "ممنوع",
+            "prohibited, not allowed",
+            "Adjective"
+          ],
+          [
+            "ban",
+            "ممنوع کردن؛ ممنوعیت",
+            "prohibit, forbid",
+            "Verb / Noun"
+          ],
+          [
+            "prohibit",
+            "ممنوع کردن",
+            "forbid, ban",
+            "Verb"
+          ],
+          [
+            "deny",
+            "رد کردن، انکار کردن",
+            "refuse, reject",
+            "Verb"
+          ],
+          [
+            "allowed",
+            "مجاز",
+            "permitted, authorised",
+            "Adjective"
+          ],
+          [
+            "allow",
+            "اجازه دادن",
+            "permit, let",
+            "Verb"
+          ],
+          [
+            "cut down on",
+            "کاهش دادن مصرف یا مقدار",
+            "reduce, decrease",
+            "Phrasal verb"
+          ],
+          [
+            "fatty",
+            "دارای چربی زیاد",
+            "high-fat",
+            "Adjective"
+          ],
+          [
+            "greasy",
+            "چرب، روغنی",
+            "oily, fatty",
+            "Adjective"
+          ],
+          [
+            "hazard",
+            "خطر، عامل خطر",
+            "danger, risk",
+            "Noun"
+          ],
+          [
+            "hazardous",
+            "خطرناک، خطرزا",
+            "dangerous, risky",
+            "Adjective"
+          ],
+          [
+            "danger",
+            "خطر",
+            "hazard, risk",
+            "Noun"
+          ],
+          [
+            "dangerous",
+            "خطرناک",
+            "hazardous, risky",
+            "Adjective"
+          ],
+          [
+            "masterpiece",
+            "شاهکار",
+            "great work, work of art",
+            "Noun"
+          ],
+          [
+            "uniform",
+            "لباس فرم، یونیفرم",
+            "standard outfit",
+            "Noun"
+          ],
+          [
+            "seat belt",
+            "کمربند ایمنی",
+            "safety belt",
+            "Noun"
+          ],
+          [
+            "speed limit",
+            "محدودیت سرعت",
+            "maximum speed",
+            "Noun phrase"
+          ],
+          [
+            "in a row",
+            "پشت سر هم",
+            "consecutively, back to back",
+            "Phrase"
+          ],
+          [
+            "back to back",
+            "پشت سر هم، بدون فاصله زیاد",
+            "consecutively",
+            "Phrase"
+          ],
+          [
+            "from now on",
+            "از این به بعد",
+            "starting now, henceforth",
+            "Phrase"
+          ],
+          [
+            "three-day trip",
+            "سفر سه‌روزه",
+            "three-day journey",
+            "Noun phrase"
+          ],
+          [
+            "emigrate",
+            "از کشور خود مهاجرت کردن",
+            "move abroad",
+            "Verb"
+          ],
+          [
+            "immigrate",
+            "به کشور دیگری مهاجرت کردن",
+            "move into another country",
+            "Verb"
+          ],
+          [
+            "reduce",
+            "کاهش دادن",
+            "decrease, cut down",
+            "Verb"
+          ],
+          [
+            "compulsory",
+            "اجباری",
+            "mandatory, obligatory",
+            "Adjective"
+          ]
+        ]
+      },
+      {
+        "locator": "table:10",
+        "rows": [
+          [
+            "permit",
+            "اجازه دادن",
+            "allow, authorize",
+            "Verb"
+          ],
+          [
+            "permission",
+            "اجازه، مجوز",
+            "consent",
+            "Noun"
+          ],
+          [
+            "permissible",
+            "مجاز، قابل قبول",
+            "allowed, acceptable",
+            "Adjective"
+          ],
+          [
+            "permissive",
+            "آسان‌گیر، دارای محدودیت کم",
+            "lenient",
+            "Adjective"
+          ],
+          [
+            "prohibit",
+            "ممنوع کردن",
+            "forbid, ban",
+            "Verb"
+          ],
+          [
+            "prohibition",
+            "ممنوعیت",
+            "ban, restriction",
+            "Noun"
+          ],
+          [
+            "prohibited",
+            "ممنوع‌شده",
+            "forbidden, banned",
+            "Adjective"
+          ],
+          [
+            "oblige",
+            "ملزم کردن",
+            "compel, require",
+            "Verb"
+          ],
+          [
+            "obligation",
+            "الزام، تعهد",
+            "duty, responsibility",
+            "Noun"
+          ],
+          [
+            "obligatory",
+            "اجباری",
+            "compulsory, mandatory",
+            "Adjective"
+          ],
+          [
+            "danger",
+            "خطر",
+            "hazard, risk",
+            "Noun"
+          ],
+          [
+            "dangerous",
+            "خطرناک",
+            "hazardous, risky",
+            "Adjective"
+          ],
+          [
+            "endanger",
+            "به خطر انداختن",
+            "put at risk, jeopardise",
+            "Verb"
+          ],
+          [
+            "hazard",
+            "عامل خطر",
+            "danger, risk",
+            "Noun"
+          ],
+          [
+            "hazardous",
+            "خطرزا",
+            "dangerous, risky",
+            "Adjective"
+          ],
+          [
+            "reduce",
+            "کاهش دادن",
+            "decrease, lessen",
+            "Verb"
+          ],
+          [
+            "reduction",
+            "کاهش",
+            "decrease, decline",
+            "Noun"
+          ],
+          [
+            "reduced",
+            "کاهش‌یافته",
+            "decreased, lowered",
+            "Adjective / Past participle"
+          ]
+        ]
+      }
+    ]
+  },
+  "extensions": {}
+}

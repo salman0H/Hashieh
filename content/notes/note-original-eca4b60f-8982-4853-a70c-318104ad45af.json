@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-eca4b60f-8982-4853-a70c-318104ad45af",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "relative clauses ها رو هم با مثال مرور کمن برام"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-eca4b60f-8982-4853-a70c-318104ad45af",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-eca4b60f-8982-4853-a70c-318104ad45af-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "relative clauses ها رو هم با مثال مرور کمن برام",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-relative-clauses"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "eca4b60f-8982-4853-a70c-318104ad45af",
+    "capture.turn-number": 34
+  }
+}

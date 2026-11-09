@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-3c1f4303-51cc-4e0a-a799-4bd600c03c15",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 75"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "user",
+    "messageOrdinal": 75,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "When it comes to the office, I'd describe it as spectacular. It had a modern design, bright rooms, professional staff, and a positive atmosphere. Overall, I had a good experience on my first day. At first, they didn't expect much from me, but I solved a complicated problem for them. It was a really rewarding feeling.\n2 selections\nwe canot say \" i have anxious about my exam\" یا مثلا بگیم \"i feel anxious.\"\nساختار های دیگ ای هم وجود داره ک مثل این کاربردی باشه؟ مثال بزن\nتفاوت affect & effect رو بررسی کن\nالان در این جا we neet to decide عملا ب دلیل وجود need باید از to استفاده میکردیم یا این ساختار هم یک to-infinitive هستش؟\nاین بند رو از لحاظ ساختار گرامر و لغات بررسی کن\nمنظورم این بود ک مثلا بره شرکت به شرکت خودش پورتفولیوشو پرزنت کنه برای ارائه و پیدا کردن شغل\nمنظور fired هست؟",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": []
+  },
+  "extensions": {
+    "capture.message-id": "3c1f4303-51cc-4e0a-a799-4bd600c03c15",
+    "capture.headings": [],
+    "capture.links": []
+  }
+}

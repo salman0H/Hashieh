@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "exercise-park-rules",
+  "type": "exercise",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "park-rules"
+  },
+  "tags": [
+    "incomplete-source"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m16",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "mode": "source-answer-key",
+    "prompt": null,
+    "options": [],
+    "answers": [
+      {
+        "number": 1,
+        "text": "must take"
+      },
+      {
+        "number": 2,
+        "text": "must not leave"
+      },
+      {
+        "number": 3,
+        "text": "don't have to pay"
+      },
+      {
+        "number": 4,
+        "text": "can play"
+      },
+      {
+        "number": 5,
+        "text": "should not feed"
+      },
+      {
+        "number": 6,
+        "text": "cannot have"
+      }
+    ],
+    "explanation": null,
+    "conceptIds": [
+      "concept-modals"
+    ],
+    "gradable": false,
+    "missing": [
+      "Original worksheet questions/options/images"
+    ],
+    "sourceTable": 4
+  },
+  "extensions": {}
+}

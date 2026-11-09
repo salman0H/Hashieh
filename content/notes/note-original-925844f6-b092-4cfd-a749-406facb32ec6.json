@@ -1,0 +1,411 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-925844f6-b092-4cfd-a749-406facb32ec6",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Roadmap امشب تا فاینال"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-925844f6-b092-4cfd-a749-406facb32ec6",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "بله. چون فاینالت فرداست، پیشنهاد من این است که امشب سعی نکنی همه‌چیز را از صفر و با یک روش بخوانی. باید یک چرخه‌ی سه‌منبعی داشته باشیم:\n\nجزوه → کتاب → Workbook → مرور خطاها\n\nو نقطه‌ی شروع هم Past Perfect Continuous باشد و از آن به عقب برگردیم.\n\nاما برای اینکه roadmap دقیقاً مطابق کتاب، workbook و جزوه‌ی خودت باشد، اگر فایل‌های کتاب/کتاب‌کار را در همین چت داری، باید محتوای آن‌ها را بررسی کنم؛ در حال حاضر جزوه‌ی A1–A8 که قبلاً فرستادی را دارم، اما صفحات دقیق کتاب و workbook در متن فعلی در دسترسم نیستند. اگر فایلشان در Library/attachments موجود باشد، می‌توانم همان‌ها را مبنا قرار دهم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-2",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Roadmap امشب تا فاینال",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-3",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "مرحله 0 — تشخیص محدوده\n\nزمان: 10 دقیقه\n\nاول یک لیست از grammarهایی که از Past Perfect Continuous تا ابتدای دوره خوانده‌ای درست کن.\n\nبا توجه به مطالبی که از کلاس‌هایت داریم، حداقل این‌ها در مسیر هستند:\n\nPast Perfect Continuous\nPast Perfect\nPresent Perfect Continuous\nPresent Perfect\nPast Continuous\nPast Simple\nFuture forms\nPresent Continuous\nPresent Simple\nModals\nConditionals\nPassive\nused to\nso / such / too / enough\n\nاما ترتیب و محدوده‌ی نهایی را باید از کتاب و workbook خودت استخراج کنیم و نباید حدس بزنیم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-4",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "مرحله 1 — جزوه: یادگیری سریع\n\nزمان: 45–60 دقیقه\n\nبرای هر Grammar این چرخه را اجرا کن:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-5",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "① Structure\n\nاول فقط فرمول.\n\nمثلاً:\n\nPast Perfect Continuous\nhad + been + V-ing\n\nمثلاً:\n\nI had been studying.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-6",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "② Meaning\n\nبعد بپرس:\n\nاین tense دقیقاً چه زمانی استفاده می‌شود؟\n\nمثلاً:\n\nPast Perfect Continuous\n\nیک فعالیت که:\n\nقبل از یک نقطه در گذشته شروع شده\nتا آن نقطه ادامه داشته یا اثر/مدت آن مهم بوده",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-7",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "③ Timeline\n\nبرای tenseهای زمانی حتماً timeline بکش:\n\nPlain text\nPAST                         NOW\n───────●──────────────●───────●\n       ↑              ↑\n     action       past event\n\nو مشخص کن:\n\nWhich event happened first?",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-8",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "④ Signal words\n\nمثلاً:\n\nfor\nsince\nbefore\nwhen\nby the time\nall day\nhow long\n\nاما signal word را به‌تنهایی معیار انتخاب tense ندان.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-9",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "⑤ Contrast\n\nاین قسمت برای فاینال بسیار مهم است.\n\nمثلاً:\n\nPast Perfect\n\nI had studied English before I moved to Canada.\n\nدر برابر:\n\nPast Perfect Continuous\n\nI had been studying English for three years before I moved to Canada.\n\nتمرکز اولی:\n\ncompleted action / result\n\nتمرکز دومی:\n\nduration / ongoing activity",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-10",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "مرحله 2 — کتاب اصلی\n\nزمان: 60–90 دقیقه\n\nبعد از مرور جزوه، همان Grammar را در Ready for B1 حل کن.\n\nاما کتاب را passive نخوان.\n\nبرای هر exercise:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-11",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "قبل از نگاه کردن به جواب\n\nخودت مشخص کن:\n\nزمان جمله چیست؟\nچرا این tense؟\nچه چیزی در جمله clue است؟\nآیا گزینه‌ی دیگری از نظر grammar ممکن است؟\nچرا گزینه‌ی انتخاب‌شده بهتر است؟",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-12",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "روش علامت‌گذاری\n\nکنار هر سؤال یکی از این‌ها را بزن:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-13",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "✓\n\nکاملاً بلد بودم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-14",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "?\n\nبا شک جواب دادم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-15",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "✗\n\nاشتباه کردم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-16",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "!\n\nنکته‌ی جدید یا دام امتحانی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-17",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "مرحله 3 — Workbook\n\nزمان: 60–90 دقیقه\n\nحالا برو سراغ همان Grammar در کتاب کار.\n\nاینجا دیگر نباید درس را دوباره از اول بخوانی.\n\nهدف Workbook:\n\nRetrieval + application\n\nیعنی ببینیم آیا بدون دیدن توضیح می‌توانی Grammar را تولید کنی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-18",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "قانون:\n\nاگر سؤال را درست زدی ولی نمی‌دانستی چرا:\n\nآن سؤال را ? حساب کن، نه ✓.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-19",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "مرحله 4 — Error Log\n\nزمان: 20–30 دقیقه\n\nتمام ✗ و ?ها را جمع کن.\n\nمثلاً:\n\nMy answer\tCorrect\tWhy?\nhad studied\thad been studying\tduration\nwas\thad been\tearlier past action\nhave lived\thad lived\tpast reference point\n\nهدف این نیست که جواب درست را حفظ کنی.\n\nباید بفهمی:\n\nWhy did I make this mistake?",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-20",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "مرحله 5 — Mixed Grammar\n\nاین مرحله برای فاینال مهم‌تر از حل تمرین‌های بیشتر است.\n\nزمان: 45–60 دقیقه\n\nچند Grammar را با هم قاطی کن.\n\nمثلاً:\n\nWhen I arrived, they ______ for two hours.\n\nنباید فقط بگویی:\n\nhad been waiting\n\nباید اول تشخیص بدهی:\n\nPlain text\nwaiting ───────────●\n                   arrived\n\nپس:\n\nhad been waiting",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-21",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "مرحله 6 — امتحان شبیه‌سازی\n\nزمان: 30–45 دقیقه\n\nدر پایان، بدون جزوه و بدون کتاب:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-22",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Part 1 — Fill in the blanks\n\n10 سؤال",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-23",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Part 2 — Multiple choice\n\n10 سؤال",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-24",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Part 3 — Error correction\n\n5 سؤال",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-25",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Part 4 — Sentence transformation\n\n5 سؤال",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-26",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Part 5 — Production\n\n5 جمله فارسی → انگلیسی",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-27",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "ترتیب پیشنهادی امشب\n\nاگر مثلاً ۴ ساعت وقت داری:\n\nزمان\tکار\n00:00–00:50\tجزوه + Past Perfect Continuous\n00:50–01:40\tReady for B1\n01:40–02:20\tWorkbook\n02:20–02:40\tError Log\n02:40–03:20\tGrammarهای قبلی\n03:20–04:00\tMock Final\n\nاگر ۲ ساعت وقت داری:\n\nزمان\tکار\n30 دقیقه\tجزوه\n35 دقیقه\tکتاب\n30 دقیقه\tWorkbook\n15 دقیقه\tError Log\n10 دقیقه\tمرور نهایی",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-28",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "ترتیب مطالعه‌ی Grammar\n\nبرای اینکه ذهنت chronology داشته باشد، از این ترتیب برو:\n\nPlain text\nPast Perfect Continuous\n        ↓\nPast Perfect\n        ↓\nPresent Perfect Continuous\n        ↓\nPresent Perfect\n        ↓\nPast Continuous\n        ↓\nPast Simple\n        ↓\nFuture Forms\n        ↓\nPresent Continuous\n        ↓\nPresent Simple\n        ↓\nModals\n        ↓\nConditionals\n        ↓\nPassive\n        ↓\nUsed to\n        ↓\nSo / Such / Too / Enough\n\nاما اولویت اصلی امشب:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-29",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "🔴 Tier 1 — حتماً مسلط شو\nPast Perfect Continuous\nPast Perfect\nPresent Perfect Continuous\nPresent Perfect\nPast Perfect vs Past Perfect Continuous\nPast Simple vs Past Perfect\nPast Continuous vs Past Perfect Continuous",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-30",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "🟠 Tier 2\nPast Simple vs Past Continuous\nPresent Perfect vs Past Simple\nFuture forms\nModals\nConditionals",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-31",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "🟡 Tier 3\nPassive\nUsed to\nSo / Such / Too / Enough",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-32",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "یک قانون مهم برای فاینال\n\nبرای Tenseها از روی signal word جواب نده.\n\nمثلاً:\n\nfor\n\nبه‌تنهایی نمی‌گوید:\n\nPresent Perfect Continuous\n\nچون می‌توانیم داشته باشیم:\n\nI have been studying for two hours.\n\nولی:\n\nI had been studying for two hours when he called.\n\nهر دو for دارند.\n\nچیزی که tense را تعیین می‌کند reference point است.\n\nاین مفهوم را اگر برای همه‌ی Perfectها بفهمی، بخش بزرگی از سؤال‌های فاینال برایت ساده‌تر می‌شود.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-925844f6-b092-4cfd-a749-406facb32ec6-33",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "پیشنهاد من برای همین الان\n\nاگر PDF/عکس صفحات Ready for B1 و Workbook را داری، همین‌جا بفرست یا فایلشان را در چت قرار بده. من می‌توانم دقیقاً بر اساس صفحات واقعی کتاب + workbook + جزوه‌ی A1–A8 برایت یک مسیر صفحه‌به‌صفحه بسازم؛ مثلاً:\n\nStep 1 → جزوه، صفحه X\nStep 2 → Ready for B1، exercise X–Y\nStep 3 → Workbook، exercise X–Y\nStep 4 → مرور Error Log\nStep 5 → تست نهایی\n\nاین برای امشب از یک roadmap عمومی بسیار مؤثرتر است، چون دقیقاً می‌فهمیم چه چیزهایی قرار است در فاینال تو پوشش داده شوند.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-present-simple",
+      "concept-present-continuous",
+      "concept-past-simple",
+      "concept-past-continuous",
+      "concept-present-perfect",
+      "concept-present-perfect-continuous",
+      "concept-past-perfect",
+      "concept-past-perfect-continuous",
+      "concept-future-forms",
+      "concept-so-such-too-enough",
+      "concept-used-to"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "925844f6-b092-4cfd-a749-406facb32ec6",
+    "capture.turn-number": 12
+  }
+}

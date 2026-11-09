@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-d0d4111a-fac2-42d5-a2f7-db5a0fa14925",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "من نقد و سوالاتم رو نسبت به حزوه ای ک نوشتی بعدا اعلام میکنم ولی الان میخوام ایتدا با هم یونت ۸ رو ک امروز میخوان درس بدن رو بخونیم باهم ایتدای اون رو"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-d0d4111a-fac2-42d5-a2f7-db5a0fa14925",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-d0d4111a-fac2-42d5-a2f7-db5a0fa14925-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "من نقد و سوالاتم رو نسبت به حزوه ای ک نوشتی بعدا اعلام میکنم ولی الان میخوام ایتدا با هم یونت ۸ رو ک امروز میخوان درس بدن رو بخونیم باهم ایتدای اون رو",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": []
+  },
+  "extensions": {
+    "capture.message-id": "d0d4111a-fac2-42d5-a2f7-db5a0fa14925",
+    "capture.turn-number": 45
+  }
+}

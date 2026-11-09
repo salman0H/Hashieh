@@ -1,0 +1,100 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-forbidden",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "forbidden"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:6"
+      },
+      {
+        "sourceId": "src-chat-m15",
+        "locator": "normalized-text/line:47",
+        "quote": "Forbidden == benned == prohabited == denided"
+      },
+      {
+        "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+        "locator": "table:9/data-row:6"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "forbidden",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-ae12a35e38bc",
+        "partOfSpeech": "Adjective",
+        "translation": {
+          "fa": "ممنوع"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "prohibited",
+          "not allowed"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m16",
+            "locator": "table:9/data-row:6"
+          },
+          {
+            "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+            "locator": "table:9/data-row:6"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m16",
+          "locator": "table:9/data-row:6"
+        },
+        "group": "modals",
+        "sessionId": "session-modals",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m15",
+          "locator": "normalized-text/line:47",
+          "quote": "Forbidden == benned == prohabited == denided"
+        },
+        "group": "learner-notes-exact-match",
+        "sessionId": "session-modals",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+          "locator": "table:9/data-row:6"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-modals",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

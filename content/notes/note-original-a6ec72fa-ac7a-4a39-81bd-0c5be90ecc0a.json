@@ -1,0 +1,208 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-a6ec72fa-ac7a-4a39-81bd-0c5be90ecc0a",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "A1 to A8 Class"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message",
+    "assessment"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-a6ec72fa-ac7a-4a39-81bd-0c5be90ecc0a",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-a6ec72fa-ac7a-4a39-81bd-0c5be90ecc0a-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "متن جزوه دامس:\n\nimage",
+          "role": "learner-original"
+        }
+      },
+      {
+        "id": "block-original-a6ec72fa-ac7a-4a39-81bd-0c5be90ecc0a-2",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "A1 to A8 Class",
+          "role": "learner-original"
+        }
+      },
+      {
+        "id": "block-original-a6ec72fa-ac7a-4a39-81bd-0c5be90ecc0a-3",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "1th session\nParse of speech: subject + verb ( adjective + adverb + … )\nSubject : \nNoun: all things like bed, tree etc.\nPronoun: i, you,they,  she, he, it and we\nObject:\nNoun: setayesh, burger etc.\nPronoun: me, you, us, them, her, him, it\nVerb:\nMain verbs: like, sleep, drink, have, has, do, does,  prefer, eat, talk etc.\nAuxiliary verbs:  to be, do, did, modals verb, have, have, has etc.\n\nimage\n\nAdjective: describe noun. → adjective + noun\nA beautiful girl\nAdverb: describe verbs, adjectives ( give us more information about sentences ) and adverbs.\nAdverbs of frequency: always, never, often.\nAdverbs of degree: very, extremely, quite.\nAdverbs of manners: quickly, slowly, carefully.\nAdverbs of place: here, there, everywhere.\nAdverbs of time: now, then, soon.\nInterrogative adverbs: when, where, how.\nRelative adverbs: where, when, why.\n\t\n\nimage",
+          "role": "learner-original"
+        }
+      },
+      {
+        "id": "block-original-a6ec72fa-ac7a-4a39-81bd-0c5be90ecc0a-4",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "2th Session\n\nimage\n\nTo be verb: Subject + to be + adjective / noun\n\nAn / is / are → to be verb\nimage\nexample : \n\nYou are beautiful. / You’re not confident / You are→ You’re / You aren’t \nWe are together. / We are not happy. / We are → We’re / We aren’t\nThey are shocked. / They are not kind. / They are → They’re / They aren’t \nShe is clever. / She is not supportive. / She is → She’s / She isn’t\nHe is our king. / He is not a princess. / He is → He’s / He isn’t\nIt is cold. / It’s not snowy. / It is → It’s / It isn’t\nQuestions:\nYes / No Q → you kinda guess something → Auxiliary verb + sub + … ?\n\nExample: \n\nAre you happy? Yes, I am. / No, I am not.\nIs she patient? Yes, she is. / No, she is not.\nAre we at a good level? Yes, we are. / No, we are not.\nAm I a good person? Yes, I am. / No, I am not.\nWh Q → you are asking for some information → wh + auxiliary verb + sub + … ?\n\nWh: why - what - when - who - where - how - which - whose \nimage\n\n**Sub + to be+(not) + Interested in + noun / verb+ ing → Be into something Or be a fan of something **\n\nExample: \n\nI am interested in sports.\nI’m interested in teaching.\nI’m into sports. Or I’m a fan of sports. \nI’m not interested in playing basketball.\nTip:\nIf somebody wins, somebody has to lose. →نقش سوم شخص دارد و s میگیرد.\nEveryone is looking. → singular\nNobody listens to me.\nYou bet, dad! → certainly believe to somebody",
+          "role": "learner-original"
+        }
+      },
+      {
+        "id": "block-original-a6ec72fa-ac7a-4a39-81bd-0c5be90ecc0a-5",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "3th Session\n\nimage\n\nSimple present → Subject + verb + object\nRoutine & habits\nFacts\nTimetable\nLike & dislike\nGeneral things\n\n\t\tExample:\n\nI love dogs.\nYou work in a company.\nWe wake up at 7 o’clock.\nThey buy fresh fruit every day.\nShe watches cartoons.\nHe loves cats.\nIt arrives at 11 o’clock.\n\n\t\tTips:\n\n3rd person singular(he/she/it) → V + s/es\nes → ch(watch) / sh(wash) / ss(pass) / o(go/do) / x(fix) / z(buzz) \nHave → has\nconsonant + y → study → Studies / Vowel + y → play → plays\n\n\t\tNegative:\n\t\t\tdo       do not → don’t \tand\tdoes        does not → doesn’t\n\nI love dogs. → I do not love dogs.\nYou don’t drink coffee. → you do not drink coffee.\nWe don’t study well. → you do not study well.\nThey don’t know us. → they do not know us.\nShe watches cartoons. → She does not watch cartoons.\nHe doesn’t hang out with his friends. → she does not hang out with his friends.\nIt doesn’t suit me. → it does not suit me.\n\n\t\tYes/No questions:\n\t\tDo/does + sub + verb + object? \n\nDo you love me? Yes, I do. / No, I don’t.\nDoes she like her gift? Yes, she does. / No, she doesn’t.\nDo we need to earn more money?  Yes, we do. / No, we don’t.\n\n\t\tWh questions:\n\t\t\tWh + do/does + sub + verb + object? \n\nWhat do you need?\nWhen does she come?\nWhy don’t you come with us?\n\n\t\t**Sometimes we use do/does in affirmative sentences for emphasis : **\n\nI do love pizza.\nShe does need you.\nPresent Continuous → Sub + to be(not) + verb + ing\n\nimage\na. Something that is happening right now. → Ex for question: “What are you doing right now?”\n\nI’m speaking.\nI’m teaching.\nYou are listening.\nThey are chatting.\nMy father is watching TV.\nMy younger brother is studying for his exam.\nMy older brother is having fun with his wife.\n\n\n\nb. Future plans → like the grammar ‘’ be going to ‘’\n\nI’m going to watch some episodes of the Vampire series tonight.\nI’m watching some episodes of the Vampire series tonight.\nI’m taking a picture of my homework tonight.\nShe is going to the museum tomorrow.\nHe is joining us on the weekend.\n\nc. For activities that we are overdoing it. → always do it and it is bother you. And should use with always after verb.\n\nShe is always nagging about her situation.\nThey are always drinking alcoholic drinks.\nShe is always cleaning her room.\nHe is always lying to other people.\nMy brother is always leaving his clothes around his room.\nShe is always talking slowly.",
+          "role": "learner-original"
+        }
+      },
+      {
+        "id": "block-original-a6ec72fa-ac7a-4a39-81bd-0c5be90ecc0a-6",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "4th Session",
+          "role": "learner-original"
+        }
+      },
+      {
+        "id": "block-original-a6ec72fa-ac7a-4a39-81bd-0c5be90ecc0a-7",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Tips:\n\n\t\td + y → j \n\t\t\tEx: would you? / did you?\n\t\tt + y → ch\n\t\t\tEx: don’t you.",
+          "role": "learner-original"
+        }
+      },
+      {
+        "id": "block-original-a6ec72fa-ac7a-4a39-81bd-0c5be90ecc0a-8",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Simple past:\nSomething that you did in the past and it finished. → sub + verb + obj\nVerb:\nRegular → d / ed\nIrregular → we should memorize them.\nEx:\n\nBasic past simple:\n\nI/you/he/she/it/we/they helped.\n\nExpanded (emphatic) past simple:\n\nI/you/he/she/it/we/they did help.\n\nQuestion form:\n\nDid I/you/he/she/it/we/they help?\n\nNegative:\n\nI/you/he/she/it/we/they did not (didn't) help\n\nNegative question:\n\nDid I/you/he/she/it/we/they not help? / Didn't I/you/he/she/it/we/they help?",
+          "role": "learner-original"
+        }
+      },
+      {
+        "id": "block-original-a6ec72fa-ac7a-4a39-81bd-0c5be90ecc0a-9",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "5th Session\n\n\t* what is the diffrence between voice and sound? Voice for human and sound for any waves in nature.",
+          "role": "learner-original"
+        }
+      },
+      {
+        "id": "block-original-a6ec72fa-ac7a-4a39-81bd-0c5be90ecc0a-10",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Past to be verbs\n\nWas / Were \n\nI, he, she, it → was\n\nwe , you, they → were\n\n    **Sub + to be + adj/noun**\n\nEx:\n\nI was a student.\nShe was not interested in art.\nWe were there as teachers.\nThey were not good enough.\n\nQuestions → (wh) + was / were + sub + adj/noun? → was/were + sub + adj/non?\n\nWhere were we? → کجا بودیم؟ → flash back to converstion after a pause it for a seconds.\nWhere you happy about it?\nWhen was the last time you saw her?\nWas she a pet lover?",
+          "role": "learner-original"
+        }
+      },
+      {
+        "id": "block-original-a6ec72fa-ac7a-4a39-81bd-0c5be90ecc0a-11",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Past continous\nSub + to be + verb + ing\n\n → داشتم کاری میکردم همزمان با ی اتفاق → \nاتفاقی در گذشته که درحال اون اتفاق ی اتفاق دیگ ک باید با past continous  ادا بشه\n\nI was cooking when you called me!\nShe was running down the hill.\nWe wrer thinking about it.\nWhen we want to talk about the background of a story.\nI was listening to music when she killed herself.\nWhat were yo doing in past when happen something and you doing something elese\nI was doning nothing in the morning.\nQuestions → (wh) + to be + sub + verb + ing ?\nWhere you studing when I went shopping?\nWhat were you doing?\nWhere you crying?",
+          "role": "learner-original"
+        }
+      },
+      {
+        "id": "block-original-a6ec72fa-ac7a-4a39-81bd-0c5be90ecc0a-12",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "6th Session",
+          "role": "learner-original"
+        }
+      },
+      {
+        "id": "block-original-a6ec72fa-ac7a-4a39-81bd-0c5be90ecc0a-13",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Will & be going to\nWill & won’t → Modal Verb ( can, could, do, may, will, must and etc. )\nSub + will ( won’t ) + base verb\nInstant decision: i’ll answer. / I’ll check it. / I’ll come with you. → تصمیماتی که در لحظه گرفته میشه.\n**Promise: i will help you. / I will be here for you. / I won’t be late agein. → قول دادن **\nOffer: I’ll pay 20$. / I will drive. → پیشنهاد دادن\nPrediction:  → It is kinda your personal oponion and also you do not have any proof. → چیزی که بر اساس اراده شخصی هست و بر اساس عقاید بدون مدرک گرفته میشه\n( wh ) + will + sub + base verb\nWill you marry me? Yes, I will.\nWill you come to my house? No, I won’t.\n**Who will pay for this? **\nWon’t you come here? No, I won’t.\n**What will you do tomorrow? **\nBe going to\nSub + to be + going to + base verb\nSub + to be + not + going to  + base verb\nGoona → going to\n**They are not going to go gym. → be going to **\nThey are not goint to the gym → preset continous → with more information abot the plan and both of them about future plan\nsomething that you have ( you’ve ) already decide and kinda have plan for that:\nWe are gonna cook together.\nI’m going to tell her the truth tonight.\nI am goona to join my English class this sunday at 8:30.\nHe is going to call to his boss for this project.\nHe and his friends are going to have a concert in town.\nPrediction → You have proof for that.\nLook at those dark clouds it is goona rain.\nSub + to be + not + going to + base verb\nI am not going to buy that.\nShe is not going to call him back.\nThey are not going to broadcast this gossip about us.\n( wh ) + to be + sub + going to + base verb ?\nAre you going to come to our house>\nHow am I going to tell her?\nHow are they going to pass the exam?",
+          "role": "learner-original"
+        }
+      },
+      {
+        "id": "block-original-a6ec72fa-ac7a-4a39-81bd-0c5be90ecc0a-14",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "7th Session",
+          "role": "learner-original"
+        }
+      },
+      {
+        "id": "block-original-a6ec72fa-ac7a-4a39-81bd-0c5be90ecc0a-15",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Present Perfect\n\n\tIt is related to the past and you can resualt of this now. \n\n**Sub + has/have ( + not ) + past participle **\n**Have → I , you , we , they**\n**Has → she , he , it**\n\n**( wh ) + have/has + sub + past participle + … ?**\n\nWhat have you done?\n\n Past Participle →\n\nRegular: washed\n\nIrregular: written / eaten / …\n\nI have just eaten my lunch. → just use for recentlly action we want do\nH’ve not studied for the exam yet.\nShe has bought a new dress.\nI’ve just wanted to call you.i have not read this book.\nThe cat has poured water on the couch.\nRecent actions → happen lately we can use Present Perfect and if doen’t happen lately we can use Simple Past → use with Lately and Recently\nAli has bought a new car. → Ali bought a new car.\nAyda has gotten her certificate.\nNumber of time → for times of do something in the past \nI have have watched this movie three times.\nPast exprience → you do something in the past but you have your exprience in present\nI’ve been there for 5 years\n…",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-present-continuous",
+      "concept-past-simple",
+      "concept-present-perfect",
+      "concept-parts-of-speech",
+      "concept-modals"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "a6ec72fa-ac7a-4a39-81bd-0c5be90ecc0a",
+    "capture.turn-number": 3
+  }
+}

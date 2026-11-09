@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-22cf3704-273d-477e-b942-5c405e372fdf",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "این جزوه جلسه پیش هست ک ازت میخوام بررسیش کنی:"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-22cf3704-273d-477e-b942-5c405e372fdf",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-22cf3704-273d-477e-b942-5c405e372fdf-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "این جزوه جلسه پیش هست ک ازت میخوام بررسیش کنی:\n\nEnglish class:\n\nworking out = excecise \nServer = waiter \nChilling out\nPage 98 listening:\n1:\nBusy at a moment\nBeen a such long day —> such = so\nShe has not been well. —> grammar: present perfect simple —> from someday ago until now\n2:\nPerform in a resturent\n\n \n\n3:\nLeaves —> جاگذاشتن\nThey might be on the floor\n4:\nGet tied up or get caught or get stuck in heavy traffic or traffic jam or traffic congestion or bumper-to-bumper traffic —> bumper-to-bumpoer = سپر به سپر\nOver sleep\nBed side of desk = ?\nSet alarm\n5:\nVideo calling \nMeeting in person = face to face \nContantary = focus\n6:\nTea pot = ?\nSweats = ?\nQuiet early = ?\nBook = reserve\nFuture fact —> I will be 30 next week.\nMe too, let’s rob a resturent.\nIt is time to rise, I am batman.\nYour father does not pay me to help you.\nKindengarden = ?\nShared knowledge —> will\nWorksheet: —> check grammar and form and vocabulary \nI will call you as soon as I get home tonight because I want to tell you what happened at the interview and get your opinion before I make any final decision. —> a decision mad at the moment of speaking. —> cause “of I will call”.\nThe new shopping center will open next Friday at 9 a.m., and the first 500 customers will receive a free gift, according to the official announcement. —> a fixed plan, timetable, scheduled event, or future fact. —> cause of “shopping center will open” —> announcement = ?/according = ?\nDon’t worry about carrying all those heavy bags yourself — I’ll help you take them to the car before I leave. —> an offer or promise — saying that you are willing to do something or promising to do it. —> cause of “I will help”\nIf we don’t leave the office soon, we might miss the beginning of the film because the traffic is usually tribble around this time. —> possibility — something is possible, but we are not sure —> cause of “might”\nI’m not completely sure yet, but Sarah may move to another city next year because she has been offered a much better job there. —> possibility — something is possible, but we are not sure —> cause of “may”\nMay I use your laptop for a few minutes? I need to check something for my presentation, and my phone is not working properly. —> a polite/formal request or asking for permission —> cause of “may”\nAs you may know, our school is planning to introduce a new English course next semester, so there will be some changes to the way our class are organized. —> talking about shared knowledge — something the listener probably already knows. —> cause of “as yo mat know”\n…",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-present-perfect"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "22cf3704-273d-477e-b942-5c405e372fdf",
+    "capture.turn-number": 27
+  }
+}

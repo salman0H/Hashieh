@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-modals",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Permission, obligation, advice and prohibition — original notes"
+  },
+  "tags": [
+    "source-notes"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m15",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-modals-source",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "جزوه جلسه پیش:\nClass:\nIn a row = back to back\nModals:\nPermission\nCan/can’t\nYour daughter can play in our garden.\nNext weak, I will be able to go on a 3 day travel to north.\nWill be able to —> can\nدر بعضی جاها نمیشه از can استفاده کرد و باید این بیاید چون عملا دو modal پشت سر هم نمیشه استفاده بشن\nMay/mayn’t —> very polite request and kind of permission\nMay I leave the class now?\nObligation\nShould/shouldn’t —> a mild obligation for advice and suggestions\nAdvice\nYou should cut down on sugar.\nCut down == decrease == reduce\nSuggestion\nWe should emigrate for a better life.\nOught to —> این هم معنی should رو میده و یک modal هست\nI have an exam next weak, I ought to study since now.\nI ought not to eat fatty food.\nFatty == greasy\nMust/mustn’t\nInternal obligation\nI must be the top student.\nRule and laws\nI must wear seatbelt when driving.\nStrong advice and suggestions\nAdvice\nYou must lose weight, it is dangoures, it is hazardous.\nHazard == danger\nSuggestion\nYou must watch this movie, it is masterpiece.\nWritten rules —> mustn’t\nMust I go to the doctor? —> do I have to go to the doctor?\nHave to or has to or had to/ don’t or doesn’t or didn’t have to\nExternal obligation\nPilots have to wear uniform.\nRule and laws ( punishment )\nWe have to drive whiten speed limit.\nSituation\nLast night, I couldn’t get a Snapp, so I had to walk home.\nNegative\nYou don’t have to come to the party if you don’t like. —> not necessary\nمنفی have to از لحاظ معنایی mustn’t هستش.\nForbidden == benned == prohabited == denided\n• ⁃ Allowed to = can",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-modals",
+      "concept-modal-base-form",
+      "concept-permission",
+      "concept-ability",
+      "concept-advice",
+      "concept-obligation",
+      "concept-prohibition",
+      "concept-no-obligation",
+      "concept-mustnt-vs-dont-have-to",
+      "concept-writing"
+    ]
+  },
+  "extensions": {}
+}

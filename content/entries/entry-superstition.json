@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-superstition",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "superstition"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:27"
+      },
+      {
+        "sourceId": "src-chat-m06",
+        "locator": "normalized-text/line:18",
+        "quote": "- superstition --> n - superstious --> adj --> خرافاتی"
+      },
+      {
+        "sourceId": "src-original-74d9230e-2b3e-4be2-b4a6-3c73bf159571",
+        "locator": "table:4/data-row:1"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:3/data-row:27"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "superstition",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-superstition",
+    "senses": [
+      {
+        "id": "sense-d887e60dc9cd",
+        "partOfSpeech": "Noun",
+        "translation": {
+          "fa": "خرافات"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:3/data-row:27"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:3/data-row:27"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-9df7dfad75d5",
+        "partOfSpeech": "اسم",
+        "translation": {
+          "fa": "خرافه، باور خرافی"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-74d9230e-2b3e-4be2-b4a6-3c73bf159571",
+            "locator": "table:4/data-row:1"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:3/data-row:27"
+        },
+        "group": "priority-c",
+        "sessionId": null,
+        "priority": "C"
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m06",
+          "locator": "normalized-text/line:18",
+          "quote": "- superstition --> n - superstious --> adj --> خرافاتی"
+        },
+        "group": "learner-notes-exact-match",
+        "sessionId": "session-sports-habits",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-74d9230e-2b3e-4be2-b4a6-3c73bf159571",
+          "locator": "table:4/data-row:1"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-sports-habits",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:3/data-row:27"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

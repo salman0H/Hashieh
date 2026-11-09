@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "concept-used-to",
+  "type": "concept",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Used to: past habits"
+  },
+  "tags": [
+    "grammar"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m06",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-original-9d561005-5f15-4b8b-bc03-dbc2a0a3dd55",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-2a091de6-2bbf-4f90-8607-d023e02d65aa",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-925844f6-b092-4cfd-a749-406facb32ec6",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-e057cd15-8da7-4798-a253-42312cfcb7dc",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-eaf487cb-e12a-4036-9b2c-c1a15feacadc",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-3affd066-965c-4954-8e82-24141332f022",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-747a90d2-a2e7-4550-acea-fd39618be743",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-944a2cb2-18e6-4a05-af23-92edb86b98d4",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-629cb80f-2400-4384-978e-5be02adcc3d9",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-7b035c8b-b8a4-489c-9aac-213cb328ed92",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-3854a164-fa3c-442d-9ee4-e0a775eaca4a",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-74d9230e-2b3e-4be2-b4a6-3c73bf159571",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-863aac04-c82a-4811-9d0a-ff0724ef73da",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "summary": null,
+    "blockIds": []
+  },
+  "extensions": {}
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-fe8a279b-0fb0-4b09-9115-bb6b1e9bb354",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "در اینجا ایا i am good at to speak english درست هست؟"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-fe8a279b-0fb0-4b09-9115-bb6b1e9bb354",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-fe8a279b-0fb0-4b09-9115-bb6b1e9bb354-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "6 selections\nدر اینجا ایا i am good at to speak english درست هست؟\nto meet you درست نیستش ینی معنی نمیده؟\nobject اینجا به چ معنی ای هستش؟\nچرا the میگیره؟\nبیا در مورد تفاوت ها و کاربرد های him & himself & his هم حرف بزنیم\nاین رو بررسی کن ببین درست فهمیدم:‌زمانی ک بگیم i tried to restart my mac در وافع به این معنی هست ک من تلاش کردم تا مک رو راه اندازی کنم ولی اگ بگیم i tried restarting my mac من تلاش کردم مک رو راه اندازی کنم ینی این کار رو کردم ولی تو اون قبلی بیشتر قصد و نیت بود تا این که عملی رو انجام داده باشم؟\nتفاوت معنایی این جدول رو با مثال های بیشتری بررسی کن برام مثلا بیا در اینجا یک رایتینگ بنویس برای استفاده این مدل ها",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-writing"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "fe8a279b-0fb0-4b09-9115-bb6b1e9bb354",
+    "capture.turn-number": 32
+  }
+}

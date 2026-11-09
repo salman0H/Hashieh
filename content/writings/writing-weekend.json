@@ -1,0 +1,46 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "writing-weekend",
+  "type": "writing",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Perfect weekend"
+  },
+  "tags": [
+    "writing"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m03",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-writing-weekend",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "en",
+          "text": "train always leaves station at 10 .p.m. we are going to visit palace, but we do not have any plan. tommorrow of our decision, we are going to fix our schedule. my friend must brings food and snacks and i've already bought the tikets. our first problem is that tain is late or has delay and train crew = ? tell us \"train will arrive at 11 .p.m.\" suddenly we face-to-face with our othere friends in train. we talk about our travel timetable afterwards. they told us \" we will visit palace too.\" we leave train at 10 .a.m.",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-future-forms"
+    ],
+    "revisionIds": []
+  },
+  "extensions": {}
+}

@@ -1,0 +1,48 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-591fba64-42c8-4d0d-a49e-e64cb1a8edfc",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "آهنگ lyin' eyes-eagles"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message",
+    "song-lab"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-591fba64-42c8-4d0d-a49e-e64cb1a8edfc",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-591fba64-42c8-4d0d-a49e-e64cb1a8edfc-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "آهنگ lyin' eyes-eagles",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": []
+  },
+  "extensions": {
+    "capture.message-id": "591fba64-42c8-4d0d-a49e-e64cb1a8edfc",
+    "capture.turn-number": 9
+  }
+}

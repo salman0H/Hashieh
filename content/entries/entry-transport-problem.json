@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-transport-problem",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "transport problem"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m03",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "transport problem",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m03",
+          "locator": "message-excerpt"
+        },
+        "group": "learner-notes",
+        "sessionId": "session-future",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {
+    "language.normalization": {
+      "observed": "transport problrem",
+      "candidate": "transport problem",
+      "status": "needs-review"
+    }
+  }
+}

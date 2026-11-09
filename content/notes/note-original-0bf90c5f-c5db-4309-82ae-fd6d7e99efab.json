@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-0bf90c5f-c5db-4309-82ae-fd6d7e99efab",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "این جزوه جلسه پیش زبان هست این رو بررسی کن ( این جلسه بیشتر به مرور و اسپکینگ گذشت برای من ):"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-0bf90c5f-c5db-4309-82ae-fd6d7e99efab",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-0bf90c5f-c5db-4309-82ae-fd6d7e99efab-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "این جزوه جلسه پیش زبان هست این رو بررسی کن ( این جلسه بیشتر به مرور و اسپکینگ گذشت برای من ):\n\nclass:\n\nZero-condition: 1. Facts 2. generally true things\nWe can use modals in this grammar too, but that means to present tense not future.\nFirst-condition: a condition in present and it is result in the future.\nIf you want know about the city, we could visit the museum.\nنکته در اینجاست ک در حالت امری چون فاعل حذف میشه باید افعال modal هم حذف بشن.\nIf you have headaches, you must visit a doctor. —> , visit a doctor!\nRun out = finish\nTo make or to invent an excuse.\nInsurance —> بیمه\n\n\t•\t\t⁃\tThey put their lives endanger. —> برای ب خطر انداختن از put استفاده میشه",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-zero-conditional",
+      "concept-first-conditional"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "0bf90c5f-c5db-4309-82ae-fd6d7e99efab",
+    "capture.turn-number": 43
+  }
+}

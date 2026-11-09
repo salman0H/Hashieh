@@ -1,0 +1,48 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-5ea03b6a-5b16-4900-990a-f420868e4d08",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "بریم برای آهنگ burning pile - mother mother"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message",
+    "song-lab"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-5ea03b6a-5b16-4900-990a-f420868e4d08",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-5ea03b6a-5b16-4900-990a-f420868e4d08-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "بریم برای آهنگ burning pile - mother mother",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": []
+  },
+  "extensions": {
+    "capture.message-id": "5ea03b6a-5b16-4900-990a-f420868e4d08",
+    "capture.turn-number": 8
+  }
+}

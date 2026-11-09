@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-9c3fef72e3de",
+  "type": "member-of",
+  "from": "entry-announce",
+  "to": "family-announce",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+      "locator": "table:1/data-row:102"
+    }
+  ],
+  "extensions": {}
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-go-rock-climbing",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "go rock climbing"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-63a85bee-f127-44e4-8fe5-335f7fd5ccf8",
+        "locator": "table:1/data-row:2"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "go rock climbing",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-5a492f568355",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "صخره‌نوردی کردن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-63a85bee-f127-44e4-8fe5-335f7fd5ccf8",
+            "locator": "table:1/data-row:2"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-63a85bee-f127-44e4-8fe5-335f7fd5ccf8",
+          "locator": "table:1/data-row:2"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-unit-8",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

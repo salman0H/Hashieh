@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-81f1b02d-6f7b-4425-8da6-ad52433c05e3",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "با اهنگ safe in the world - wolf alice شروع کن برام"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-81f1b02d-6f7b-4425-8da6-ad52433c05e3",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-81f1b02d-6f7b-4425-8da6-ad52433c05e3-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "با اهنگ safe in the world - wolf alice شروع کن برام",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": []
+  },
+  "extensions": {
+    "capture.message-id": "81f1b02d-6f7b-4425-8da6-ad52433c05e3",
+    "capture.turn-number": 7
+  }
+}

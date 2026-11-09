@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "resource-vocabulary-workbook",
+  "type": "resource",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Referenced 474-row vocabulary workbook"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m10",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "uri": null,
+    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "availability": "referenced-only",
+    "description": {
+      "fa": "در پاسخ چت به فایل ۴۷۴ ردیفی اشاره شده؛ خود فایل استخراج نشده است."
+    }
+  },
+  "extensions": {}
+}

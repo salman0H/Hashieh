@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "collection-priority-b",
+  "type": "collection",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "priority-b"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "kind": "vocabulary-set",
+    "itemIds": [
+      "entry-demanding",
+      "entry-promising",
+      "entry-lucrative",
+      "entry-prestigious",
+      "entry-satisfying",
+      "entry-rewarding",
+      "entry-spectacular",
+      "entry-gorgeous",
+      "entry-unusual",
+      "entry-unpredictable",
+      "entry-repetitive",
+      "entry-frustrating",
+      "entry-exhausting",
+      "entry-enthusiastic",
+      "entry-keen-on",
+      "entry-passionate-about",
+      "entry-laid-back",
+      "entry-criticise",
+      "entry-praise",
+      "entry-rescue",
+      "entry-survive",
+      "entry-encounter",
+      "entry-overcome-your-fears",
+      "entry-narrow-down",
+      "entry-run-into",
+      "entry-bring-back-memories",
+      "entry-make-fun-of",
+      "entry-work-out",
+      "entry-chill-out",
+      "entry-in-person",
+      "entry-face-to-face"
+    ]
+  },
+  "extensions": {}
+}

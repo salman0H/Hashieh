@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-uniform",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "uniform"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m16",
+        "locator": "table:9/data-row:20"
+      },
+      {
+        "sourceId": "src-chat-m15",
+        "locator": "normalized-text/line:39",
+        "quote": "Pilots have to wear uniform."
+      },
+      {
+        "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+        "locator": "table:2/data-row:450"
+      },
+      {
+        "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+        "locator": "table:9/data-row:20"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "uniform",
+    "language": "en",
+    "aliases": [],
+    "familyId": "family-uniform",
+    "senses": [
+      {
+        "id": "sense-bffe0478cf8b",
+        "partOfSpeech": "Noun",
+        "translation": {
+          "fa": "لباس فرم، یونیفرم"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "standard outfit"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m16",
+            "locator": "table:9/data-row:20"
+          },
+          {
+            "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+            "locator": "table:9/data-row:20"
+          }
+        ],
+        "review": "unreviewed"
+      },
+      {
+        "id": "sense-a5528320f98a",
+        "partOfSpeech": "Noun / Adjective",
+        "translation": {
+          "fa": "لباس فرم؛ یکنواخت"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+            "locator": "table:2/data-row:450"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m16",
+          "locator": "table:9/data-row:20"
+        },
+        "group": "modals",
+        "sessionId": "session-modals",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m15",
+          "locator": "normalized-text/line:39",
+          "quote": "Pilots have to wear uniform."
+        },
+        "group": "learner-notes-exact-match",
+        "sessionId": "session-modals",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+          "locator": "table:2/data-row:450"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-cf9b2055-010d-4d56-8e85-f206ce2eeeca",
+          "locator": "table:9/data-row:20"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-modals",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

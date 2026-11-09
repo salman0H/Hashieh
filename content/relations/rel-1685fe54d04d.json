@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-1685fe54d04d",
+  "type": "covers",
+  "from": "note-original-eba73669-0ef2-46f1-ae63-ab7b2f1d249f",
+  "to": "concept-phrasal-verbs",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-original-eba73669-0ef2-46f1-ae63-ab7b2f1d249f",
+      "locator": "message-body"
+    }
+  ],
+  "extensions": {}
+}

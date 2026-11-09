@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-3854a164-fa3c-442d-9ee4-e0a775eaca4a",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "** برای اینکه بیشتر و بهتر یک کلمه رو یادبگیرم اگ اون کلمه فرم های دیگ به عنوان صفت یا اسم یا حتی فعل در جمله داره اون ها رو هم بگو و برای اون ها مثال بزن ک بیش"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-3854a164-fa3c-442d-9ee4-e0a775eaca4a",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-3854a164-fa3c-442d-9ee4-e0a775eaca4a-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "** برای اینکه بیشتر و بهتر یک کلمه رو یادبگیرم اگ اون کلمه فرم های دیگ به عنوان صفت یا اسم یا حتی فعل در جمله داره اون ها رو هم بگو و برای اون ها مثال بزن ک بیشتر دایره واژگانیم گسترده بشه. **\n\nجزوه حلسه پیش:\n- i used to do sports.\n- do wight --> بدن سازی\n- i do karate every other day with my brothers and father.\n- martial arts --> هنر های رزمی\n- he is doing karate. --> در این مدل به یم عمل موقت اطلاق میشه\n- he has tried A and B a little, also he would loke to try C cause that trillimng and rewarding for him.\n- she used to play tekwandoo.\n- she use to go swmming.\n- she use to swim.\n- it was not her cup of tea = not her favourire\n- by herself = alone\n- pich == rink == court --> زمین بازی\n- rival --> دشمن ؟ حریف ؟\n- competiter --> مبارزه کننده یا شرکت کننده ای ک میخواد مبارزه کنه؟\n- he has a knack of winning.\n- superstition --> n - superstious --> adj --> خرافاتی\n…",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-used-to"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "3854a164-fa3c-442d-9ee4-e0a775eaca4a",
+    "capture.turn-number": 47
+  }
+}

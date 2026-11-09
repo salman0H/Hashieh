@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-chat-m11",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — visible message 11"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/share/6af0508a-19f8-83ed-91a4-002901ccaac9",
+    "role": "user",
+    "messageOrdinal": 11,
+    "ordinalScope": "rendered-message-sequence-on-2026-11-08",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "message-text-normalized",
+    "text": "از این ب بعد کلمات جدید رو ک توی جزوه ها برات میفرستم در کنار اون روشی ک قبلا داشتی برای اینکه بخوای اون ها رو همون مدلی بنویسی در کنار رایتینگی ک مینویسی برام ی جدول هم به همین صورت برای کلمات جدید درست کن ک من ب انتهای جدول قبلی اضافه کنم برای استفاده بیشتر",
+    "attachmentIndicators": {
+      "files": 0,
+      "images": 0
+    },
+    "limitations": [
+      "Page capture is partial; ordinal is not a stable original chat message ID.",
+      "Whitespace/UI labels normalized; no claim of byte-exact transcript.",
+      "Referenced attachments are not captured."
+    ]
+  },
+  "extensions": {
+    "capture.original-source-id": "src-original-aca27be7-43f4-45d2-a7f4-b3233c97a2e4"
+  }
+}

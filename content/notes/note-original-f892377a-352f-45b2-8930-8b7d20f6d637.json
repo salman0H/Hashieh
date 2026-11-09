@@ -1,0 +1,466 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-f892377a-352f-45b2-8930-8b7d20f6d637",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "مرور گرامر و واژگان — Unit 8 و جلسات قبل"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "assessment",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-f892377a-352f-45b2-8930-8b7d20f6d637",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "مرور گرامر و واژگان — Unit 8 و جلسات قبل\n\nطبق درخواستت، این جلسه را با مرور Present Perfect Simple و Present Perfect Continuous شروع می‌کنیم و بعد به پاسخ‌های Speaking، واژگان ورزشی و افعال آینده برمی‌گردیم. در پایان هم یک Writing ترکیبی خواهیم داشت که از گرامر و واژگان جلسهٔ امروز و جلسات قبل استفاده می‌کند.\n\nاز این به بعد، برای واژه‌های جدید این چهار مورد را می‌آورم: معنی فارسی، تعریف انگلیسی، جایگاه و الگوی دستوری، و مثال. در پایان جزوه نیز Writing ترکیبی اضافه می‌کنم؛ مگر اینکه فقط سؤال کوتاهی پرسیده باشی یا صرفاً جزوه‌ای برای بررسی فرستاده باشی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-2",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۱. اصطلاح cover your basic needs\n\nعبارت انتخاب‌شده‌ات:\n\nPeople work hard but still struggle to cover their basic needs.\n\nیعنی: «مردم سخت کار می‌کنند، اما هنوز برای تأمین نیازهای اولیه‌شان مشکل دارند.»\n\nمعنی فارسی: نیازهای اولیه را تأمین کردن؛ از عهدهٔ نیازهای ضروری برآمدن.\n\nEnglish definition: To have enough money or resources for the essential things you need.\n\nجایگاه در جمله: cover + possessive adjective + basic needs؛ اینجا cover فعل است و your basic needs مفعول آن.\n\nمثال: My salary is enough to cover my basic needs, but I can't save much money.\n\nحقوقم برای تأمین نیازهای اولیه کافی است، اما نمی‌توانم پول زیادی پس‌انداز کنم.\n\nترکیب‌های مرتبط:\n\nmeet your basic needs — نیازهای اولیه‌ات را برآورده کردن.\n\nafford basic necessities — توان مالی خرید ضروریات را داشتن.\n\nmake ends meet — از پس هزینه‌های زندگی برآمدن.\n\nتفاوت ظریف: cover your basic needs بر تأمین نیازهای ضروری تمرکز دارد؛ make ends meet بیشتر به تعادل درآمد و هزینه‌های زندگی اشاره می‌کند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-3",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۲. بررسی پاسخ تو به متن دربارهٔ پول و تعادل زندگی\n\nمتن اصلی دربارهٔ این بود که پول مهم است، اما نباید تنها هدف زندگی باشد؛ زمان استراحت، خانواده و تعادل بین کار و زندگی نیز اهمیت دارند.\n\nپاسخ تو:\n\nIn his opinion money is important things because it is the main thing to live in welfare life. He thinks earning money mustn't be just your goal in your life you should take some time for your rest and enjoyment stuff. In fact a normal salary and a good work-life balance are more important than becoming rich.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-4",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "نسخهٔ اصلاح‌شده\nWriting\n\nIn his opinion, money is important because it helps people live comfortably and meet their basic needs. He thinks earning money shouldn't be the only goal in life. People should also make time to rest and enjoy themselves. In fact, a decent salary and a good work-life balance are more important than becoming rich.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-5",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "بررسی اشتباه‌ها\n\nنوشتهٔ تو\n\n\t\n\nشکل بهتر\n\n\t\n\nدلیل\n\n\n\n\nmoney is important things\n\n\t\n\nmoney is important\n\n\t\n\nmoney در اینجا اسم غیرقابل‌شمارش است؛ things لازم نیست.\n\n\n\n\nthe main thing to live in welfare life\n\n\t\n\nhelps people live comfortably\n\n\t\n\nعبارت اول طبیعی نیست؛ live comfortably یعنی راحت زندگی کردن.\n\n\n\n\nearning money mustn't be just your goal\n\n\t\n\nearning money shouldn't be the only goal\n\n\t\n\nmustn't معمولاً ممنوعیت یا الزام منفی قوی می‌رساند؛ منظور متن این است که پول نباید تنها هدف باشد.\n\n\n\n\nin your life\n\n\t\n\nin life\n\n\t\n\nبرای بیان کلی دربارهٔ زندگی، معمولاً in life طبیعی‌تر است.\n\n\n\n\ntake some time for your rest\n\n\t\n\nmake time to rest\n\n\t\n\nترکیب طبیعی‌تر برای اختصاص‌دادن زمان به استراحت.\n\n\n\n\nenjoyment stuff\n\n\t\n\nenjoy themselves / leisure activities\n\n\t\n\nenjoyment stuff در این بافت طبیعی نیست.\n\n\n\n\na normal salary\n\n\t\n\na decent salary\n\n\t\n\nnormal یعنی معمول؛ decent یعنی مناسب و قابل‌قبول.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-6",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "نکتهٔ گرامری: earning money\n\nدر جملهٔ زیر:\n\nEarning money shouldn't be the only goal in life.\n\nعبارت earning money نقش فاعل جمله را دارد؛ بنابراین earning یک gerund است، یعنی شکل -ing فعل که نقش اسمی دارد.\n\nمقایسه:\n\nEarning money is important. — پول درآوردن مهم است.\n\nI enjoy earning money. — از پول درآوردن لذت می‌برم.\n\nI want to earn more money. — می‌خواهم پول بیشتری دربیاورم.\n\nبعد از enjoy از -ing استفاده می‌کنیم، اما بعد از want از to + verb.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-7",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۳. مرور Present Perfect Simple و Present Perfect Continuous\n\nاین دو زمان را قبلاً در کلاس خوانده‌ای. تفاوت اصلی‌شان فقط «تمام‌شدن یا تمام‌نشدن» نیست؛ بلکه به این بستگی دارد که می‌خواهیم روی نتیجه و تجربه تأکید کنیم یا روی مدت و روند فعالیت.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-8",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Present Perfect Simple\n\nساختار:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-9",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "have / has + past participle (V3)\n\nI have done karate before.\n\nShe has finished her workout.\n\nHave you ever tried rock climbing?\n\nکاربردهای اصلی:\n\nتجربهٔ زندگی: Have you ever watched a live cycling race?\n\nنتیجهٔ مرتبط با زمان حال: I've lost my sports bag. یعنی الان کیفم را ندارم.\n\nاتفاقی که زمان دقیقش مهم نیست: I've tried karate.\n\nتغییر یا پیشرفت: My fitness has improved.\n\nکلمات رایج: ever, never, already, yet, just, recently.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-10",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Present Perfect Continuous\n\nساختار:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-11",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "have / has + been + V-ing\n\nI have been exercising for an hour.\n\nShe has been training since 8 a.m.\n\nHave you been running?\n\nکاربردهای اصلی:\n\nفعالیتی که در گذشته شروع شده و هنوز ادامه دارد.\n\nتأکید بر مدت فعالیت.\n\nفعالیتی که اخیراً انجام شده و آثارش اکنون دیده می‌شود.\n\nمثال:\n\nI've been running, so I'm out of breath.\n\nداشتم می‌دویدم / مدتی است می‌دوم، برای همین نفسم بالا آمده است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-12",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "مقایسهٔ مستقیم\n\nPresent Perfect Simple\n\n\t\n\nPresent Perfect Continuous\n\n\n\n\nI've written three articles.\n\n\t\n\nI've been writing articles all morning.\n\n\n\n\nتأکید بر تعداد یا نتیجه\n\n\t\n\nتأکید بر فعالیت و مدت\n\n\n\n\nI've done five exercises.\n\n\t\n\nI've been doing exercises for an hour.\n\n\n\n\nپنج تمرین انجام داده‌ام.\n\n\t\n\nیک ساعت است مشغول تمرین هستم.\n\nنکته: بعضی فعل‌ها، مانند know, believe و own، معمولاً در شکل continuous به کار نمی‌روند. برای مثال:\n\nI've known him for five years. درست است.\n\nI've been knowing him for five years. در کاربرد معمول نادرست است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-13",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "for و since\n\nfor + مدت: for two hours, for three years\n\nsince + نقطهٔ شروع: since Monday, since 2022\n\nمثال:\n\nI've been doing karate for two years.\n\nدو سال است کاراته کار می‌کنم.\n\nI've done karate before, but I haven't trained recently.\n\nقبلاً کاراته کار کرده‌ام، اما اخیراً تمرین نکرده‌ام.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-14",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "تمرین کوتاه\n\n1. I ____ three kilometres today.\n\nhave run\nhave been running\n\n2. She ____ for an hour, and she's still tired.\n\nhas exercised\nhas been exercising\n\n3. ____ you ever ____ ice hockey?\n\nHave / played\nHave / been playing\n\n4. I ____ him since university.\n\nhave known\nhave been knowing\nبررسی پاسخ‌ها",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-15",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۴. مرور پاسخ‌های Speaking تو\n\nپاسخ‌هایی که فرستادی، به‌ترتیب این‌ها بودند:\n\n1 - 2 - 1 - 2\n\nاگر منظورت انتخاب گزینه‌ها برای چهار سؤال تمرین قبلی Second Conditional بوده، پاسخ‌های ۱، ۲ و ۱ درست‌اند، اما سؤال چهارم گزینهٔ ۲ است؛ پس هر چهار پاسخ صحیح‌اند. اگر این اعداد مربوط به چیز دیگری‌اند، فعلاً آن‌ها را به همین تمرین نسبت داده‌ام.\n\nحالا پاسخ‌های Speaking دربارهٔ ورزش را اصلاح کنیم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-16",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "سؤال ۱: Do you prefer watching or playing sports?\n\nپاسخ تو:\n\nI prefer to play sport that is interested for me.\n\nنسخهٔ طبیعی‌تر:\n\nI prefer playing sports that interest me.\n\nیا:\n\nI prefer playing sports that I enjoy.\n\nنکات:\n\nprefer + V-ing و prefer + to-infinitive هر دو درست‌اند: I prefer playing / I prefer to play.\n\nsports در این جمله معمولاً به‌صورت جمع به کار می‌رود.\n\nچیزی که برای تو جالب است، interests me است؛ نه is interested for me.\n\nbe interested in را برای شخص به کار می‌بریم: I'm interested in karate.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-17",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "سؤال ۲: What are your favourite sports?\n\nپاسخ تو:\n\nMy favourite is Karate.\n\nنسخهٔ بهتر:\n\nMy favourite sport is karate.\n\nیا اگر چند ورزش را دوست داری:\n\nMy favourite sports are karate and swimming.\n\nنام ورزش‌ها در انگلیسی معمولاً با حرف کوچک نوشته می‌شود، بنابراین karate نه Karate، مگر اینکه در ابتدای جمله باشد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-18",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "سؤال ۳: Do you support a sports team?\n\nپاسخ تو:\n\nI do not support any teams.\n\nاین جمله درست است. نسخهٔ طبیعی‌تر و مشخص‌تر:\n\nI don't support any particular sports team.\n\nتفاوت زمانی:\n\nI haven't supported any teams. روی بازه‌ای از گذشته تا حال تمرکز دارد و بدون بافت، کمی مبهم است.\n\nI don't support any teams. وضعیت فعلی یا عادت فعلی را بیان می‌کند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-19",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "سؤال ۴: How do you feel after you do sport?\n\nپاسخ تو:\n\nI feel that released my anger and I can relax and think widely.\n\nنسخهٔ اصلاح‌شده:\n\nI feel that doing karate helps me release my anger. It also helps me relax and think more clearly.\n\nنکات:\n\ndoing karate نقش اسمی دارد و فاعل جمله است.\n\nhelp + object + base verb: helps me relax؛ نیازی به to نیست، هرچند helps me to relax نیز درست است.\n\nrelease my anger یعنی خشمم را تخلیه کنم.\n\nthink clearly یعنی واضح و منطقی فکر کنم؛ think widely برای این منظور طبیعی نیست.\n\nI feel that ... یعنی «احساس می‌کنم/فکر می‌کنم که ...». اگر دربارهٔ حس جسمی یا عاطفی خودت صحبت می‌کنی، I feel relaxed یا I feel calmer مستقیم‌تر است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-20",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "سؤال ۵: When was the last time you did exercise?\n\nپاسخ تو:\n\nThe last time was last noght.\n\nنسخهٔ درست:\n\nThe last time I exercised was last night.\n\nیا:\n\nI last exercised last night.\n\nنکتهٔ املایی: night، نه noght.\n\nهمچنین exercise هم اسم است و هم فعل:\n\nI exercise every day. — هر روز ورزش می‌کنم.\n\nI did some exercise yesterday. — دیروز کمی ورزش کردم.\n\nI worked out last night. — دیشب تمرین کردم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-21",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۵. واژگان جزوهٔ ورزشی\n\nطبق قالبی که خواستی، برای هر واژه معنی فارسی، تعریف انگلیسی، جایگاه و مثال می‌آورم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-22",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "واژه‌های اصلی",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-23",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "1. Athlete\n\nاسم — ورزشکار\n\nEnglish definition: A person who is trained in or competes in sports.\n\nجایگاه: اسم؛ می‌تواند فاعل یا مفعول باشد.\n\nExample: She is a talented athlete who trains every day.\n\nاو ورزشکار بااستعدادی است که هر روز تمرین می‌کند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-24",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "2. Athletics\n\nاسم — دوومیدانی، به‌ویژه در انگلیسی بریتانیایی\n\nEnglish definition: Sports such as running, jumping and throwing.\n\nجایگاه: اسم؛ معمولاً به‌صورت athletics می‌آید.\n\nExample: He competes in athletics at university.\n\nاو در دانشگاه در رشتهٔ دوومیدانی رقابت می‌کند.\n\nنکته: athletics با athlete متفاوت است؛ اولی نام ورزش یا مجموعه‌ای از رشته‌هاست و دومی به ورزشکار اشاره دارد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-25",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "3. Permit\n\nفعل — اجازه دادن\n\nEnglish definition: To allow someone to do something.\n\nجایگاه: permit + object + to + verb یا permit + V-ing.\n\nExamples:\n\nThe rules don't permit players to use their phones.\n\nThe club doesn't permit smoking.\n\nقوانین به بازیکنان اجازه نمی‌دهند از تلفن همراه استفاده کنند؛ باشگاه سیگار کشیدن را مجاز نمی‌داند.\n\nنکته: اسم permit نیز وجود دارد و به معنی مجوز است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-26",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "4. Obligation\n\nاسم — الزام، وظیفه\n\nEnglish definition: A duty or responsibility to do something.\n\nجایگاه: معمولاً an obligation to do something یا an obligation to someone.\n\nExample: Athletes have an obligation to follow the competition rules.\n\nورزشکاران موظف‌اند قوانین مسابقه را رعایت کنند.\n\nنکته: obligation به خودِ الزام اشاره می‌کند؛ have to و must از ساختارهای رایج برای بیان الزام‌اند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-27",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "5. Prohibition\n\nاسم — ممنوعیت\n\nEnglish definition: An official rule or order that forbids something.\n\nجایگاه: a prohibition on something یا prohibition against doing something.\n\nExample: There is a prohibition on smoking inside the sports centre.\n\nسیگار کشیدن در مرکز ورزشی ممنوع است.\n\nنکته: mustn't ساختار فعلی برای بیان ممنوعیت است؛ prohibition خودِ اسم «ممنوعیت» است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-28",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "6. Commentator\n\nاسم — گزارشگر یا مفسر مسابقه\n\nEnglish definition: A person who describes an event and gives information or opinions about it, especially during a sports broadcast.\n\nجایگاه: اسم.\n\nExample: The commentator described the final moments of the race.\n\nگزارشگر لحظات پایانی مسابقه را توصیف کرد.\n\nاملای درست commentator است، نه commentor.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-29",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "7. Marshal\n\nاسم یا فعل — مسئول هدایت و نظم رویداد؛ سازمان‌دهی کردن\n\nEnglish definition: A person who helps control an event, crowd or race and ensures that rules are followed.\n\nجایگاه: اسم؛ در مسابقات دوچرخه‌سواری، race marshal ترکیب مفیدی است.\n\nExample: A race marshal directed the cyclists away from the blocked road.\n\nمسئول مسیر مسابقه دوچرخه‌سواران را از جادهٔ مسدودشده دور کرد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-30",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "8. Military\n\nصفت یا اسم جمعی — نظامی، نیروهای نظامی\n\nEnglish definition: Related to soldiers, the armed forces or warfare.\n\nجایگاه: معمولاً پیش از اسم: military training, military service.\n\nExample: He received military training before becoming a security officer.\n\nاو پیش از تبدیل‌شدن به مأمور امنیتی، آموزش نظامی دید.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-31",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "9. Commander\n\nاسم — فرمانده\n\nEnglish definition: A person who is in charge of a group of people, especially in the military.\n\nجایگاه: اسم؛ مانند the commander of the unit.\n\nExample: The commander gave an order to the soldiers.\n\nفرمانده به سربازان دستور داد.\n\nاملای درست commander است، نه commandor.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-32",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "10. Thrilling\n\nصفت — هیجان‌انگیز و پرهیجان\n\nEnglish definition: Very exciting and full of suspense.\n\nجایگاه: پیش از اسم یا بعد از فعل‌هایی مانند be, seem, look.\n\nExample: It was a thrilling race, and the winner was decided in the final seconds.\n\nمسابقه بسیار هیجان‌انگیز بود و برنده در ثانیه‌های آخر مشخص شد.\n\nاملای درست thrilling است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-33",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "عبارت‌های ورزشی و توصیف تصویر\n\nعبارت\n\n\t\n\nمعنی و کاربرد\n\n\n\n\njersey\n\n\t\n\nپیراهن ورزشی؛ در دوچرخه‌سواری پیراهن مخصوص دوچرخه‌سوار\n\n\n\n\nLycra shorts\n\n\t\n\nشلوارک ورزشی چسبان از پارچهٔ کشسان لایکرا\n\n\n\n\nbib shorts\n\n\t\n\nشلوارک دوچرخه‌سواری دارای بندهای شانه‌ای؛ معمولاً با پد داخلی\n\n\n\n\nspectators\n\n\t\n\nتماشاگران\n\n\n\n\ncheer someone on\n\n\t\n\nکسی را تشویق کردن\n\n\n\n\nrace against each other\n\n\t\n\nبا یکدیگر رقابت کردن\n\n\n\n\nrun someone over\n\n\t\n\nبا خودرو یا وسیلهٔ نقلیه به کسی زدن\n\n\n\n\ncriticize\n\n\t\n\nانتقاد کردن\n\n\n\n\npraise\n\n\t\n\nتحسین یا تمجید کردن\n\n\n\n\nunflattering\n\n\t\n\nنامطلوب یا نامناسب از نظر ظاهر یا تصویری که ارائه می‌دهد\n\n\n\n\nwhether\n\n\t\n\nآیا؛ برای معرفی دو احتمال یا یک سؤال غیرمستقیم\n\n\n\n\nbe into something\n\n\t\n\nبه چیزی علاقه داشتن\n\n\n\n\nbe keen on something\n\n\t\n\nبه چیزی علاقه‌مند بودن\n\n\n\n\nbe passionate about something\n\n\t\n\nاشتیاق زیادی به چیزی داشتن\n\n\n\n\nbe enthusiastic about something\n\n\t\n\nمشتاق و علاقه‌مند بودن\n\nچند اصلاح جمله:\n\nThey racing against each other. → They are racing against each other.\n\nSpectators are cheering cyclist on. → The spectators are cheering the cyclists on.\n\nCyclists are must wing on the road. احتمالاً منظورت این بوده: Cyclists must wear helmets on the road. یعنی دوچرخه‌سواران باید در جاده کلاه ایمنی بپوشند. اگر منظورت چیز دیگری بوده، عبارت اصلی را دوباره بفرست.\n\nI want to work my energy off. → طبیعی‌تر: I want to burn off some energy. یعنی می‌خواهم مقداری از انرژی‌ام را با فعالیت بدنی تخلیه کنم.\n\nShe looks for inventing some excuses ... → She keeps looking for excuses not to exercise. یعنی او مدام دنبال بهانه می‌گردد که ورزش نکند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-34",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Shall I ...?\n\nاین ساختار معمولاً برای پیشنهاد کمک یا پرسیدن دربارهٔ اقدام مناسب استفاده می‌شود:\n\nShall I help you? — کمکت کنم؟\n\nShall I open the window? — پنجره را باز کنم؟\n\nShall we start? — شروع کنیم؟\n\nShall I ...? دربارهٔ پیشنهاد انجام یک کار از طرف گوینده است؛ اما Should I ...? معمولاً یعنی «آیا بهتر است من این کار را انجام بدهم؟» و درخواست توصیه می‌کند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-35",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۶. مرور افعال آینده\n\nچون خواسته بودی افعال و زمان آینده را هم مرور کنیم، این چهار ساختار را کنار هم قرار بده:\n\nساختار\n\n\t\n\nکاربرد معمول\n\n\t\n\nمثال\n\n\n\n\nwill + V1\n\n\t\n\nتصمیم لحظه‌ای، قول، پیشنهاد، پیش‌بینی\n\n\t\n\nI'll help you with your training.\n\n\n\n\nbe going to + V1\n\n\t\n\nقصد قبلی یا پیش‌بینی بر اساس شواهد\n\n\t\n\nI'm going to join a karate club.\n\n\n\n\nPresent Continuous\n\n\t\n\nبرنامه یا قرار هماهنگ‌شده\n\n\t\n\nI'm meeting my coach tomorrow.\n\n\n\n\nPresent Simple\n\n\t\n\nبرنامهٔ زمانی رسمی\n\n\t\n\nThe race starts at 9 a.m.\n\nزمان آینده لزوماً به قید زمانی نیاز ندارد تا قابل تشخیص باشد؛ قصد گوینده، بافت و نوع رویداد هم اهمیت دارند.\n\nمثلاً:\n\nI'm going to exercise more. — قصد دارم بیشتر ورزش کنم.\n\nI'll exercise with you. — ممکن است همین الان تصمیم گرفته باشم با تو ورزش کنم.\n\nI'm exercising with my friend tomorrow. — برای فردا برنامه یا قراری دارم.\n\nThe gym opens at 7 a.m. — ساعت کاری باشگاه را بیان می‌کنم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-36",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۷. Writing ترکیبی برای مرور\n\nدر این متن از Present Perfect Simple، Present Perfect Continuous، Second Conditional، افعال آینده و واژگان همین جلسه و جلسات قبل استفاده شده است.\n\nWriting",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-37",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "My Relationship with Sport\n\nI've always been interested in sports, and I've been doing karate for some time. It helps me release my anger, relax and think more clearly. Although I don't support any particular sports team, I enjoy watching thrilling competitions in which athletes race against each other.\n\nRecently, I've been trying to exercise more regularly because I want to improve my fitness. If I had more free time, I would train more often and perhaps try rock climbing. I'm also going to pay more attention to my health, because I know that regular exercise can improve my quality of life.\n\nI think people should make time for physical activity, even when they're under pressure at work or struggling to make ends meet. If everyone had a better work-life balance, they might feel less stressed and have more energy. I hope I'll keep exercising in the future, and perhaps one day I'll take part in a local competition.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f892377a-352f-45b2-8930-8b7d20f6d637-38",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "نکات گرامری داخل Writing\n\nI've always been interested — Present Perfect Simple برای بیان علاقه‌ای که از گذشته تا حال برقرار بوده است.\n\nI've been doing karate for some time — Present Perfect Continuous برای تأکید بر فعالیتی که در گذشته شروع شده است.\n\nIf I had more free time, I would train more often — Second Conditional برای موقعیت فرضی.\n\nI'm going to pay more attention — قصد قبلی.\n\nIf everyone had a better work-life balance, they might feel less stressed — شرطی نوع دوم با might برای نتیجهٔ احتمالی.\n\nI'll keep exercising — پیش‌بینی یا تصمیم دربارهٔ ادامهٔ فعالیت در آینده.\n\nاین متن را یک بار با صدای بلند بخوان و سپس بدون نگاه‌کردن به آن، در ۴ تا ۵ جمله دربارهٔ رابطهٔ خودت با ورزش صحبت کن. هدف این است که گرامرها را در مکالمه به کار ببری، نه اینکه فقط شکل آن‌ها را تشخیص بدهی.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-present-simple",
+      "concept-present-continuous",
+      "concept-present-perfect",
+      "concept-present-perfect-continuous",
+      "concept-future-forms",
+      "concept-second-conditional",
+      "concept-gerund-infinitive",
+      "concept-articles",
+      "concept-writing"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "f892377a-352f-45b2-8930-8b7d20f6d637",
+    "capture.turn-number": 46
+  }
+}

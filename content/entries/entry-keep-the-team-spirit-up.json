@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-keep-the-team-spirit-up",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "keep the team spirit up"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:4/data-row:6"
+      },
+      {
+        "sourceId": "src-chat-m08",
+        "locator": "normalized-text/line:9",
+        "quote": "Keep the team spirit up —> روحیه تیم رو بالا نگه داشتن"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:4/data-row:6"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "keep the team spirit up",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-c1be333d5224",
+        "partOfSpeech": "Collocation",
+        "translation": {
+          "fa": "روحیه تیم را بالا نگه داشتن"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "boost team morale"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:4/data-row:6"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:4/data-row:6"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:4/data-row:6"
+        },
+        "group": "chunks",
+        "sessionId": null,
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m08",
+          "locator": "normalized-text/line:9",
+          "quote": "Keep the team spirit up —> روحیه تیم رو بالا نگه داشتن"
+        },
+        "group": "learner-notes-exact-match",
+        "sessionId": "session-team-spirit",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:4/data-row:6"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

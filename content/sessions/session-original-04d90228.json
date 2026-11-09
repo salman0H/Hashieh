@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "session-original-04d90228",
+  "type": "session",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Anxiety, expectations and writing"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-04d90228-7979-4790-9dc4-162669afd979",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "occurredAt": null,
+    "dateLabel": null,
+    "datePrecision": "unknown",
+    "conceptIds": [
+      "concept-gerund-infinitive",
+      "concept-writing"
+    ],
+    "itemIds": [
+      "note-original-04d90228-7979-4790-9dc4-162669afd979",
+      "note-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013"
+    ],
+    "sourceMessageIds": [
+      "src-original-04d90228-7979-4790-9dc4-162669afd979",
+      "src-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013"
+    ],
+    "completeness": "partial",
+    "missing": [
+      "Any referenced original attachments are not imported in this text pass."
+    ]
+  },
+  "extensions": {}
+}

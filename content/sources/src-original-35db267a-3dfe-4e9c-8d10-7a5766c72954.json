@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-35db267a-3dfe-4e9c-8d10-7a5766c72954",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 51"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "user",
+    "messageOrdinal": 51,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "ازت میخوام این رو به نوان یک ساختار ب خروجی نهاییت اضافه کنی برای همین میخوام ازت زمانی ک داری خروجی رو ارسال میکنی کلماتی رو ک بررسی میکنی در جزوات گذشته هم بررسی کن و هم بررسی کنی ک بتونم با یاداوری ووکبم رو تقویت کنم کخصوصا اون هایی ک کاربرد بیشتری در روزمره و ایلتیس دارن",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": []
+  },
+  "extensions": {
+    "capture.message-id": "35db267a-3dfe-4e9c-8d10-7a5766c72954",
+    "capture.headings": [],
+    "capture.links": []
+  }
+}

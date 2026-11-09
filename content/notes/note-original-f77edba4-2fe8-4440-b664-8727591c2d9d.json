@@ -1,0 +1,620 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-f77edba4-2fe8-4440-b664-8727591c2d9d",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Unit 7 — Work Life"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-f77edba4-2fe8-4440-b664-8727591c2d9d",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "حتماً. این جزوه را مثل جلسات قبلی به شکل Learning Notes مرتب می‌کنم: اول نکات خود جلسه، بعد اصلاح خطاها، سپس vocabulary و در آخر چند تمرین کوتاه. چون این جلسه مربوط به Unit 7 / Work Life است، روی کاربرد واقعی کلمات در speaking هم تمرکز می‌کنیم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-2",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Unit 7 — Work Life",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-3",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Review of Previous Session",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-4",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "1. جمله‌هایی که باید اصلاح شوند",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-5",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "❌ My English is just freeze in this level.\n\nfreeze فعل است و اینجا مناسب نیست.\n\nاگر منظورت این است که «انگلیسی من در این سطح گیر کرده»:\n\nMy English is stuck at this level.\n\nstuck = گیر کرده، متوقف شده\n\nیا:\n\nI feel like my English has reached a plateau.\n\nplateau = یک دوره‌ای که پیشرفت متوقف یا بسیار کند می‌شود.\n\nبرای سطح B1، جمله اول بهتر و طبیعی‌تر است:\n\nI feel like my English is stuck at this level.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-6",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "❌ Separate to 3 continents\n\nاگر منظورت «به سه قاره تقسیم شده»:\n\nIt is divided into three continents.\n\ndivide = تقسیم کردن\nseparate = جدا کردن\n\nمثلاً:\n\nThe course is divided into three parts.\n\nEurope and Asia are separated by the Ural Mountains.\n\nنکته مهم:\n\ndivided into → تقسیم شدن به چند بخش\nseparated from/by → جدا شدن از چیزی",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-7",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "2. Vocabulary: Describing Jobs\n\nاین بخش مستقیماً با Unit 7 ارتباط دارد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-8",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Dull / Tedious / Boring\n\nهر سه تقریباً به «خسته‌کننده» مربوط‌اند، ولی nuance متفاوت دارند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-9",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "boring\n\n= خسته‌کننده\n\nMy job is boring.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-10",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "dull\n\n= کسل‌کننده، بدون هیجان\n\nIt was a dull meeting.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-11",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "tedious\n\n= بسیار یکنواخت و خسته‌کننده، مخصوصاً کاری که مدت زیادی تکرار می‌شود.\n\nFilling in forms all day is tedious.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-12",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Repetitive\n\nاین همان کلمه‌ای است که در جزوه علامت سؤال گذاشته بودی.\n\nrepetitive = تکراری، شامل انجام مداوم یک کار مشابه\n\nMy job is repetitive.\n\nI don't like doing repetitive tasks all day.\n\nتفاوت:\n\nboring → نتیجه/احساس: خسته‌کننده است.\n\nrepetitive → علت: دائماً یک چیز تکرار می‌شود.\n\nمثلاً:\n\nMy job is boring because the tasks are repetitive.\n\nاین جمله برای speaking خیلی خوب است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-13",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "3. Exciting",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-14",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "exciting\n\n= هیجان‌انگیز\n\nWorking in space would be exciting.\n\nاما دقت کن:\n\nexciting چیزی است که باعث هیجان تو می‌شود.\n\nexcited احساسی است که خودت داری.\n\nThe job is exciting.\n\nI am excited about the job.\n\nاین تفاوت را حتماً حفظ کن:\n\nThe movie is exciting.\nفیلم هیجان‌انگیز است.\n\nI am excited.\nمن هیجان‌زده‌ام.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-15",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "4. Tiring vs Exhausting\n\nدر جزوه نوشته بود:\n\ntiring = exhausted\n\nاین دو دقیقاً برابر نیستند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-16",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "tiring\n\n= خسته‌کننده / باعث خستگی\n\nWorking in the desert is tiring.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-17",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "exhausted\n\n= کاملاً خسته\n\nAfter working for twelve hours, I was exhausted.\n\nهمچنین:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-18",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "exhausting\n\n= بسیار خسته‌کننده\n\nWorking twelve hours a day is exhausting.\n\nپس:\n\nThe job is tiring.\n\nولی:\n\nI am tired.\n\nو اگر شدت زیاد باشد:\n\nThe job is exhausting.\n\nI am exhausted.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-19",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "5. Unusual\n\nدر جزوه:\n\nunusual = ?",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-20",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "unusual\n\n= غیرمعمول، غیرعادی\n\nusual = معمول\n\nunusual = غیرمعمول\n\nWorking in a cave is an unusual job.\n\nIt is unusual to see snow in this city.\n\nمقایسه:\n\nusual → معمول\nunusual → غیرمعمول",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-21",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "6. Unpredictable\n\nکلمه بعدی:\n\nunpredictable\n\n= غیرقابل پیش‌بینی\n\npredict = پیش‌بینی کردن\n\nI can't predict what will happen.\n\npredictable = قابل پیش‌بینی\n\nunpredictable = غیرقابل پیش‌بینی\n\nمثلاً:\n\nThe weather in the mountains is unpredictable.\n\nWorking with children can sometimes be unpredictable.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-22",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "7. Lack",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-23",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "lack\n\n= کمبود داشتن / نداشتن چیزی به مقدار کافی\n\nساختار بسیار مهم:\n\nlack of + noun\n\nمثلاً:\n\nlack of oxygen\n\n= کمبود اکسیژن\n\nThe climbers suffered from a lack of oxygen.\n\nیا:\n\nThere is a lack of water in the desert.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-24",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "به عنوان verb:\n\nThe project lacks funding.\n\n= پروژه بودجه کافی ندارد.\n\nپس:\n\nlack of + noun\n\na lack of experience\na lack of money\na lack of oxygen\na lack of confidence",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-25",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "8. Develop / Developer / Development\n\nدر جزوه نوشته بود:\n\ndelop the content\n\nاحتمالاً منظورت develop بوده.\n\nاین سه را باید از هم جدا کنی:\n\nWord\tType\tMeaning\ndevelop\tverb\tتوسعه دادن / ایجاد کردن\ndeveloper\tnoun\tتوسعه‌دهنده\ndevelopment\tnoun\tتوسعه / فرایند توسعه\n\nمثلاً:\n\nI develop content for my page.\n\n= من برای صفحه‌ام محتوا تولید/توسعه می‌دهم.\n\nI am a software developer.\n\nWeb development is my field.\n\nبرای programming:\n\nI develop websites.\n\nI am a web developer.\n\nWeb development is my career.\n\nنکته:\n\ndeveloper شخص است.\ndevelopment فرایند/حوزه است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-26",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "9. Experience / Try\n\nجمله تو:\n\nI like to experience or try that just for a hobby, not a permanent career.\n\nایده جمله درست است، ولی طبیعی‌تر:\n\nI'd like to try it as a hobby, not as a permanent career.\n\nیا:\n\nI'd like to experience it as a hobby rather than pursue it as a permanent career.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-27",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "experience\n\nexperience معمولاً وقتی درباره تجربه کردن یک موقعیت یا اتفاق صحبت می‌کنیم:\n\nI'd like to experience working in the mountains.\n\nاما برای «امتحان کردن یک کار»:\n\nI'd like to try working in the desert.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-28",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "permanent\n\n= دائمی\n\na permanent job\n\nدر مقابل:\n\na temporary job\n\n= شغل موقت\n\nاین دقیقاً با vocabulary یونیت ۷ مرتبط است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-29",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "10. Try vs Experience\n\nاین distinction را یاد بگیر:\n\nI'd like to try rock climbing.\n\nمی‌خواهم صخره‌نوردی را امتحان کنم.\n\nاما:\n\nI'd like to experience life in the mountains.\n\nمی‌خواهم زندگی در کوهستان را تجربه کنم.\n\ntry → امتحان کردن یک فعالیت\nexperience → تجربه کردن یک موقعیت/فرایند/زندگی",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-30",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "11. Freezing\n\nدر جزوه:\n\nfreezing = extremely cold = bitterly cold\n\nدرست است، ولی کمی دقیق‌تر:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-31",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "freezing\n\n= بسیار سرد / یخبندان\n\nIt's freezing outside.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-32",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "extremely cold\n\n= بسیار سرد",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-33",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "bitterly cold\n\n= به‌شدت سرد، سرمای شدید و ناخوشایند\n\nIt was bitterly cold in the mountains.\n\nfreezing در مکالمه روزمره بسیار رایج است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-34",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "12. «ممکن است زیر برف دفن شوی»\n\nچند حالت طبیعی داریم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-35",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "اگر منظور literal باشد:\n\nYou could get buried under the snow.\n\nbury = دفن کردن\n\nget buried = دفن شدن\n\nThe climber got buried under the snow.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-36",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "اگر منظور خطر احتمالی باشد:\n\nYou might get buried under the snow.\n\nاین جمله برای بحث درباره خطرات کار در کوهستان عالی است.\n\nmight = ممکن است\n\nYou might get buried under the snow.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-37",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "13. Narrowing the answer\n\nnarrow down the answer\n\n= محدودتر کردن پاسخ / گزینه‌ها را کمتر کردن\n\nمثلاً:\n\nWe need to narrow down the possible answers.\n\n= باید گزینه‌های احتمالی را محدود کنیم.\n\nnarrow = باریک\n\nاما:\n\nnarrow down = محدود کردن انتخاب‌ها\n\nمثلاً:\n\nI have five possible jobs, but I need to narrow them down to two.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-38",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "14. Desert vs Dessert\n\nاین یکی را باید کاملاً جدا نگه داری.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-39",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "desert /ˈdezərt/\n\n= بیابان\n\nThe Sahara is a huge desert.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-40",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "dessert /dɪˈzɜːrt/\n\n= دسر\n\nI had ice cream for dessert.\n\nیک memory trick:\n\ndessert دو تا s دارد → چون احتمالاً می‌خواهی second serving هم بخوری.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-41",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "15. Starry night",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-42",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "starry night\n\n= شب پرستاره\n\nstar = ستاره\n\nstarry = پر از ستاره\n\nWe spent the night under a starry sky.\n\nI love looking at the stars on a starry night.\n\nعبارت بسیار طبیعی‌تر:\n\na starry sky\n\n= آسمان پرستاره",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-43",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "16. Antarctica\n\nدر جزوه:\n\nantarttica = south pole = continent full of ice = frozen continent\n\nاملای صحیح:\n\nAntarctica\n\nاما دقت:\n\nAntarctica ≠ South Pole\n\nAntarctica یک continent است.\n\nSouth Pole یک location در Antarctica است.\n\nمثلاً:\n\nAntarctica is the coldest continent on Earth.\n\nThe South Pole is located in Antarctica.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-44",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "17. Oceania\n\nدر جزوه:\n\noceania = australia\n\nاین دو دقیقاً یکی نیستند.\n\nAustralia می‌تواند به کشور Australia اشاره کند.\n\nOceania یک geographic region است که Australia و بسیاری از جزایر اقیانوس آرام را شامل می‌شود.\n\nبرای سطح B1 فعلاً این distinction را کافی است:\n\nAustralia → country/continent depending on context\n\nOceania → geographical region",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-45",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "18. جمله‌های مربوط به ترساندن\n\nدر جزوه:\n\nShe is trying that they do not get afraid.\n\nاین ساختار طبیعی نیست.\n\nاگر منظورت:\n\n«او سعی می‌کند آنها نترسند.»\n\nبگو:\n\nShe is trying to make sure they don't get scared.\n\nیا ساده‌تر:\n\nShe is trying not to scare them.\n\nتفاوت بسیار مهم:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-46",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "scare someone\n\n= کسی را ترساندن\n\nDon't scare me.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-47",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "get scared\n\n= ترسیدن / ترسیده شدن\n\nThey got scared.\n\nپس:\n\nShe doesn't want to scare them.\n\n= نمی‌خواهد آنها را بترساند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-48",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "19. As Shamim says / Just like Bita said\n\nهر دو می‌توانند درست باشند، ولی کاربردشان متفاوت است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-49",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "As + person + says/said\n\nبرای ارجاع به حرف یک نفر:\n\nAs Shamim says, English takes time to learn.\n\n= همان‌طور که شمیم می‌گوید...",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-50",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Just like + clause\n\n= درست مثل اینکه...\n\nJust like Bita said, the job is stressful.\n\n= درست همان‌طور که بیتا گفت...\n\nعبارت بسیار useful:\n\nAs my teacher said, practice is essential.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-51",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "20. Vocabulary اصلی این جلسه\n\nاین‌ها را به عنوان active vocabulary جلسه نگه دار:\n\nWord\tMeaning\ndull\tکسل‌کننده\ntedious\tبسیار یکنواخت و خسته‌کننده\nboring\tخسته‌کننده\nexciting\tهیجان‌انگیز\ntiring\tخسته‌کننده / باعث خستگی\nexhausting\tبسیار خسته‌کننده\nrepetitive\tتکراری\nunusual\tغیرمعمول\nunpredictable\tغیرقابل پیش‌بینی\nlack\tکمبود داشتن\ndevelop\tتوسعه دادن / تولید کردن\ndeveloper\tتوسعه‌دهنده\ndevelopment\tتوسعه\nfreezing\tبسیار سرد\nbitterly cold\tبه‌شدت سرد\nnarrow down\tمحدود کردن گزینه‌ها\ndesert\tبیابان\ndessert\tدسر\nstarry\tپرستاره\npermanent\tدائمی\ntemporary\tموقت\nexperience\tتجربه کردن\nscare\tترساندن\nget scared\tترسیدن",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-52",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "21. یک نکته مهم از Unit 7\n\nکلماتی که جلسه قبل داشتی، باید بتوانند در یک job description کنار هم قرار بگیرند.\n\nمثلاً:\n\nWorking as a tour guide in Antarctica sounds exciting, but it could also be tiring and unpredictable. The job would be unusual because you would have to work in freezing conditions and deal with a lack of oxygen.\n\nاینجا تقریباً کل vocabulary را در context می‌بینی:\n\nexciting\ntiring\nunusual\nunpredictable\nfreezing\nlack of\nwork as\n\nاین دقیقاً همان نوع یادگیری‌ای است که برای B1 لازم داریم: word → meaning → collocation → sentence → context.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-f77edba4-2fe8-4440-b664-8727591c2d9d-53",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "سه collocation مهم این جلسه\n\na lack of oxygen\n\na permanent career\n\na repetitive job\n\nو سه phrasal/verb structure:\n\nnarrow down the options\n\nget scared\n\ndevelop content\n\nاین‌ها را حفظِ ترجمه‌ای نکن؛ به صورت chunk یاد بگیر.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": []
+  },
+  "extensions": {
+    "capture.message-id": "f77edba4-2fe8-4440-b664-8727591c2d9d",
+    "capture.turn-number": 23
+  }
+}

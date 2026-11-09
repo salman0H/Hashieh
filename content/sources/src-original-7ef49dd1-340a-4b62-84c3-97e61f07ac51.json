@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-7ef49dd1-340a-4b62-84c3-97e61f07ac51",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 11"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "user",
+    "messageOrdinal": 11,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "یک روند جدید دوس دارم باهم پیش ببریم اونم این هست ک این سیستم یادگیری رو دوس دارم یکمی روندش رو جذاب تر بکنم من ب اهنگای خارجی خیلی علاقه دارم و میخوام با متن آهنگ ها یاد بگیریم مثلا تیک کلام ها یا کلامات جدیدی بررسی گرامر ها توی آهنگ ها و از این قبیل با هم از ابتدای متن آهنگ تا انتهای اون",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": []
+  },
+  "extensions": {
+    "capture.message-id": "7ef49dd1-340a-4b62-84c3-97e61f07ac51",
+    "capture.headings": [],
+    "capture.links": []
+  }
+}

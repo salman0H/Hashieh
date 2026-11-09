@@ -1,0 +1,45 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "question-drown-sink",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Drown vs sink"
+  },
+  "tags": [
+    "needs-review"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m07",
+        "locator": "message-excerpt",
+        "quote": "Drown —> for a person —> کسی ک دارره غرق میشه"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-question-drown-sink",
+        "type": "question",
+        "version": 1,
+        "data": {
+          "prompt": "Drown —> for a person —> کسی ک دارره غرق میشه",
+          "answer": null,
+          "reasonUnanswered": "Requires content review; source wording preserved."
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-vocabulary-in-context"
+    ]
+  },
+  "extensions": {}
+}

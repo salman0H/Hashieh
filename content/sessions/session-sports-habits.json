@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "session-sports-habits",
+  "type": "session",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Sports and past habits"
+  },
+  "tags": [
+    "class-notes"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m06",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-original-3854a164-fa3c-442d-9ee4-e0a775eaca4a",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-74d9230e-2b3e-4be2-b4a6-3c73bf159571",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "occurredAt": null,
+    "dateLabel": "Thu, Oct 29 at 11:59 AM",
+    "datePrecision": "unknown",
+    "conceptIds": [
+      "concept-used-to",
+      "concept-sports-collocations",
+      "concept-present-continuous",
+      "concept-word-families",
+      "concept-present-perfect",
+      "concept-second-conditional",
+      "concept-writing"
+    ],
+    "itemIds": [
+      "note-sports-habits",
+      "question-stative-sports",
+      "note-original-3854a164-fa3c-442d-9ee4-e0a775eaca4a",
+      "note-original-74d9230e-2b3e-4be2-b4a6-3c73bf159571"
+    ],
+    "sourceMessageIds": [
+      "src-chat-m06",
+      "src-original-3854a164-fa3c-442d-9ee4-e0a775eaca4a",
+      "src-original-74d9230e-2b3e-4be2-b4a6-3c73bf159571"
+    ],
+    "completeness": "partial",
+    "missing": [
+      "original attachments",
+      "earlier assistant explanation"
+    ]
+  },
+  "extensions": {}
+}

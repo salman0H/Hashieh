@@ -1,0 +1,48 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-c3ce6f5c-7572-450d-ac79-74d5d211e4b7",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "از همین مطالب برای فاینال یک آزمون جامع بده"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message",
+    "assessment"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-c3ce6f5c-7572-450d-ac79-74d5d211e4b7",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-c3ce6f5c-7572-450d-ac79-74d5d211e4b7-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "از همین مطالب برای فاینال یک آزمون جامع بده",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": []
+  },
+  "extensions": {
+    "capture.message-id": "c3ce6f5c-7572-450d-ac79-74d5d211e4b7",
+    "capture.turn-number": 18
+  }
+}

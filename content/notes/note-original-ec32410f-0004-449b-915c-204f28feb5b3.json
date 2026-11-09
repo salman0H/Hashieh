@@ -1,0 +1,48 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-ec32410f-0004-449b-915c-204f28feb5b3",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "از بین این لغاتی ک بررسی کردی ب نظرت کدوم ها بیشتر ارزش یادگیری م مرور دارن؟"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-ec32410f-0004-449b-915c-204f28feb5b3",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-ec32410f-0004-449b-915c-204f28feb5b3-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "از بین این لغاتی ک بررسی کردی ب نظرت کدوم ها بیشتر ارزش یادگیری م مرور دارن؟",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": []
+  },
+  "extensions": {
+    "capture.message-id": "ec32410f-0004-449b-915c-204f28feb5b3",
+    "capture.turn-number": 53
+  }
+}

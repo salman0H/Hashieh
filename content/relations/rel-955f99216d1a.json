@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-955f99216d1a",
+  "type": "covers",
+  "from": "session-sports-habits",
+  "to": "concept-sports-collocations",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-chat-m06",
+      "locator": "message-excerpt"
+    }
+  ],
+  "extensions": {}
+}

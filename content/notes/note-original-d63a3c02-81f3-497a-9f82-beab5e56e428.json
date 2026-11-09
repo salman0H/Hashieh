@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-d63a3c02-81f3-497a-9f82-beab5e56e428",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Barber shop = hair salon = hairdresser = berbers"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-d63a3c02-81f3-497a-9f82-beab5e56e428",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-d63a3c02-81f3-497a-9f82-beab5e56e428-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Barber shop = hair salon = hairdresser = berbers\nHe want to the hairdressers’.\nHe is a disable man, he is sitting in a wheelchair.\nChemestic = pharmacy => drug store = part of pharmacy \nTake a new passport photo.\nQueue is even longer.\nMy morning was frustrating. —> annoying = upsetting \nI gave up and came home.\nDon’t forget rubber boots. —> rubber = ? / leather = ? / suede = ?\nThunder and lightning\nToday is thunder.\nThunder storm\nI am afraid = i am so sorry\nThis nice weather won’t last for a long timee, I am afraid. —> last for = دوره زمانی ای ک ظول میکشد.\nSky will full of dark clouds.\nRealize = find out = figure out\nPurse = money hand bag for women \nBoutiq = cloths shop \nFloral = ?\nExpect = antisipate \nAt midday = at noon\nDepart = leave \nThere is an hour delay because of or due for bad weather.\nJumper = sweater = pull-over\nPolka-dot = خال خالی\nStripped = راه راه\nPlaid = چهار خونه\nChecked = شطرنجی \nBeard\nThe student use to make fun of him because of red glasses.\nSo, such, too and enough: so and such —> very / enough —> as much/many we need\nI have enough money to buy that. —> enough + noun\nI am rich enough to buy that. —> adj + enough\nI am so hungry. —> so +(much/many/few) adj\nHe has such an eye-catching house. —> such + noun phrase —> noun phrase: عبارت اسمی = noun or noun + adj or noun + noun\nIt is such a heavy traffic. —> در اینجا a نباید بیاید چون عملا heavy traffic قابل شمارش نیست\nShe has such smart children.\n** too فقط در جملات منفی استاده میشه و ساختار اون با so یکسان است\nI have so dew friends.\nI have so many friends in tehran, that I feel comfort there. —> عبارت بعد از that را هبارت that clause میگیم ک این عبارت نتیجه عبارت اول هست ک در اون so داره و چون بعد از that ضمیر اومده that رو میشه حذف کرد\nHe was so easy going, that he accepted her request.\nHe is so comfortable with her, that he is blind to see her fault.\n\n\t•\t\t⁃\tAfford = توانایی خرید چیزی را داشتن\n\n\n\n\nاین جزوه جلسه پیش هست ک برات فرستادم و شامل گرامر جدید هست با کلمات جدید ازت میخوام این رو بررسی کنی و برام نکات اون رو به صورت ی جزوه خلاصه بنویسی\n\n…",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-so-such-too-enough"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "d63a3c02-81f3-497a-9f82-beab5e56e428",
+    "capture.turn-number": 11
+  }
+}

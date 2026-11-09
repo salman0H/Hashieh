@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-martial-arts",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "martial arts"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m14",
+        "locator": "table:3/data-row:14"
+      },
+      {
+        "sourceId": "src-chat-m06",
+        "locator": "normalized-text/line:6",
+        "quote": "- martial arts --> هنر های رزمی"
+      },
+      {
+        "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+        "locator": "table:3/data-row:14"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "martial arts",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-687d50e4e53f",
+        "partOfSpeech": "Noun",
+        "translation": {
+          "fa": "هنرهای رزمی"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [
+          "combat sports"
+        ],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-chat-m14",
+            "locator": "table:3/data-row:14"
+          },
+          {
+            "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+            "locator": "table:3/data-row:14"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m14",
+          "locator": "table:3/data-row:14"
+        },
+        "group": "priority-c",
+        "sessionId": null,
+        "priority": "C"
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m06",
+          "locator": "normalized-text/line:6",
+          "quote": "- martial arts --> هنر های رزمی"
+        },
+        "group": "learner-notes-exact-match",
+        "sessionId": "session-sports-habits",
+        "priority": null
+      },
+      {
+        "sourceRef": {
+          "sourceId": "src-original-f4265aba-f73d-4a30-b33e-f21c89314595",
+          "locator": "table:3/data-row:14"
+        },
+        "group": "original-chat-table",
+        "sessionId": null,
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

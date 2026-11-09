@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-chat-m03",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — visible message 3"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/share/6af0508a-19f8-83ed-91a4-002901ccaac9",
+    "role": "user",
+    "messageOrdinal": 3,
+    "ordinalScope": "rendered-message-sequence-on-2026-11-08",
+    "capturedOn": "2026-11-08",
+    "dateLabel": "Sun, Oct 11 at 9:30 AM",
+    "occurredAt": null,
+    "captureScope": "message-text-normalized",
+    "text": "جزوه جلسه پیش زبان همراه فایل ورکشیتی ک حل شده در این جلسه:\nدر زمان بندی های اینده رو میخوام برررسی کنی و تفاوت های بین استفاده از اون ها رو بهم بگی مثلا ی سری مثال برات میزنم با ی سری توضیح این پایین این موراد برای من کمی گیج کننده هستن و گاها اون ها رو اشتباه میگیرم با هم ازت میخوام بهم کمک کنی و این ها رو برام بررسی کنی:\nthe CEO will give a talk next week. --> a future plan\nthe CEO is giving a talk next week. --> a personal future plan\nThe CEO is going to give a talk next week. --> ontends or want give talk\nThe CEO gives talk next week. --> a official timetable and CEO gives talk every week.\nSarah and I are visiting a cafe. / sarah and i will visit in a cafe. --> در هردوی این مثال زمانی در اینده مشخص هست ولی در اولی یک زمان برای اون مشخص شده ولی در دومی صرفا برنامه رفتن به کافه وجود دارد.\nwe often use will to state what we expect or know will happen in future.\nwe use the present continuous when we talk about personal arrangment.\nwe usually use present simple for official timatable and schedules. like simple present future.\nthe train leaves at 8. --> every day at 8 train leaves.\nwritting: --> perfect weekend / commitment --> تعهدات / transport problrem / enexpected surprise\ntrain always leaves station at 10 .p.m. we are going to visit palace, but we do not have any plan. tommorrow of our decision, we are going to fix our schedule. my friend must brings food and snacks and i've already bought the tikets. our first problem is that tain is late or has delay and train crew = ? tell us \"train will arrive at 11 .p.m.\" suddenly we face-to-face with our othere friends in train. we talk about our travel timetable afterwards. they told us \" we will visit palace too.\" we leave train at 10 .a.m.\nworksheet: --> بر اساس ورکشیتی ک برات فرستادم این جواب ها رو بررسی کن\nwill start 2. are meeting 3. will help 4. will give 5. is going to train 6. am going to buy 7. leaves 8. are eating\nd 2. c 3. b 4. e 5. a 6. f 7. g\nthe tarin leaves at 7:30 tommorrow. / the train will leave at 7:30 tommorrow. --> کاری ک هرروز در راس همون ساعت انجام میشود به اولی بر میگردد و برای دومی یکبار این اتفاق فتاده ک قطار در این ساعت حرکت کند. --> simple presentrt future\ni am meeting ...\nit is going to ...\ni wil help you ...\npersonal decision or arrangment and decidec before\n... will start ...\nwill-start / does-start\nam going to visit\ni'll help you\ni having\nit is going to rain\nwill begin\nwill spend --> think / imagin --> predivtion base on your opinion\ntravelling\nprior intention = قصد قبلی",
+    "attachmentIndicators": {
+      "files": 1,
+      "images": 0
+    },
+    "limitations": [
+      "Page capture is partial; ordinal is not a stable original chat message ID.",
+      "Whitespace/UI labels normalized; no claim of byte-exact transcript.",
+      "Referenced attachments are not captured."
+    ]
+  },
+  "extensions": {
+    "capture.original-source-id": "src-original-1ace4d60-4041-407f-86e9-fd05444c575a"
+  }
+}

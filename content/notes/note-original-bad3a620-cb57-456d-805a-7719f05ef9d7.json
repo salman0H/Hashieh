@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-bad3a620-cb57-456d-805a-7719f05ef9d7",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Pasted markdown(4).md"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-bad3a620-cb57-456d-805a-7719f05ef9d7",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-bad3a620-cb57-456d-805a-7719f05ef9d7-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Pasted markdown(4).md\nDocument\n\nهدف من درست کردن یک جدول از لفات هست به این صورت، توقعی ک از تو در این پیام دارم این هست ک تمامی لغات جدیدی ک در این چت موجود هستن به غیر این هایی ک برات میفرستم رو برام مثل همین جدول درست کنی، دوباره تاکید میکنم تمامی لغات رو برام به همین صورت جدول کن بدون هیچ مورد اضافه ای، خروجی ای ک میخوام برام بفرستی به این صورت باشه ک به این حدول یک مورد دیگ هم اضافه کنی اونم این که مثل این:\n\nخانوادهٔ کلمات:\n\nواژه\n\nنوع\n\nمعنی\n\ninstruct\n\nVerb\n\nآموزش دادن، دستور دادن\n\ninstructor\n\nNoun\n\nمربی\n\ninstruction\n\nNoun\n\nدستورالعمل، آموزش\n\ninstructions\n\nNoun plural\n\nدستورالعمل‌ها\n\ninstructive\n\nAdjective\n\nآموزنده\n\ninstructional\n\nAdjective\n\nآموزشی\n\n\n\n\nخانواده کلمات رو هم داشته باشیم ینی تو جدولی درست کرده باشی ک این کلمات رو هم توش داشته باشه ( همون هایی ک برات فرستادم به همره خانواده ها شون)‌ و جدول جدیدی ک ب این اضافه میشه با کلمات جدید ب همراه هم خانواده هاشون\n\n…",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-word-families"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "bad3a620-cb57-456d-805a-7719f05ef9d7",
+    "capture.turn-number": 50
+  }
+}

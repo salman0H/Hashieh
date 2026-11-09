@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-3c1f4303-51cc-4e0a-a799-4bd600c03c15",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "When it comes to the office, I'd describe it as spectacular. It had a modern design, bright rooms, professional staff, and a positive atmosphere. Overall, I had"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message",
+    "assessment",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-3c1f4303-51cc-4e0a-a799-4bd600c03c15",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-3c1f4303-51cc-4e0a-a799-4bd600c03c15-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "When it comes to the office, I'd describe it as spectacular. It had a modern design, bright rooms, professional staff, and a positive atmosphere. Overall, I had a good experience on my first day. At first, they didn't expect much from me, but I solved a complicated problem for them. It was a really rewarding feeling.\n2 selections\nwe canot say \" i have anxious about my exam\" یا مثلا بگیم \"i feel anxious.\"\nساختار های دیگ ای هم وجود داره ک مثل این کاربردی باشه؟ مثال بزن\nتفاوت affect & effect رو بررسی کن\nالان در این جا we neet to decide عملا ب دلیل وجود need باید از to استفاده میکردیم یا این ساختار هم یک to-infinitive هستش؟\nاین بند رو از لحاظ ساختار گرامر و لغات بررسی کن\nمنظورم این بود ک مثلا بره شرکت به شرکت خودش پورتفولیوشو پرزنت کنه برای ارائه و پیدا کردن شغل\nمنظور fired هست؟",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-gerund-infinitive"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "3c1f4303-51cc-4e0a-a799-4bd600c03c15",
+    "capture.turn-number": 38
+  }
+}

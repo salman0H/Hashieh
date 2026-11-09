@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-04d90228-7979-4790-9dc4-162669afd979",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 71"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "user",
+    "messageOrdinal": 71,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "english class:\n\nanxious == worried == sressout == nervous --> anxiety (noun)\nshe does not nagging.\nwet == rain\ngorgous == extremly pleasent and enjoyable --> for weman or place\nshe learn to become someone elese.\nshe did bit have that much exprience.\nflexible = ?\nshe learn how to be anxious. --> after wh-words in the middle of the sentence we need to + V --> سوالی ک برای من پیش میاد این هست ک در یان جا اگ ب جای to be از being استفاده کنیم منظور این نمیشه ک داره مضطرب گونه رفتار میکنه همین الان؟\nspectualar = amazing \nstrict --> سخت گیر\nwritting: \nit was on summer job, but i will neever forgot first day. at first i got stress, because my boss was strict man, but i had friendly coleague. i applied for professenial programmer. the buldoing had modern design and bright rooms. let me be honest with you, it is awefull to have anxius about any bugs on software.\nit was on summer job, but i will neever forgot first day. at first i got stress, beacause my boss was a strict man but i had friendly coleagues. if i want to talk about the office. ijast say that it was spectucular. there was a modern and bright room and professional people and atmpsphere. so, i had a goof exprience at my first day because, they did not count on me at first but i solved the complicated problem for them. that was a enjoyable feeling for me.\n…\nShow more",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": []
+  },
+  "extensions": {
+    "capture.message-id": "04d90228-7979-4790-9dc4-162669afd979",
+    "capture.headings": [],
+    "capture.links": []
+  }
+}

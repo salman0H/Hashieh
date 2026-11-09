@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-dbc336d2cb6d",
+  "type": "member-of",
+  "from": "entry-recruited",
+  "to": "family-recruit",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+      "locator": "table:1/data-row:189"
+    }
+  ],
+  "extensions": {}
+}

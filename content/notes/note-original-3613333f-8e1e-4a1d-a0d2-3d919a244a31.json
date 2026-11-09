@@ -1,0 +1,48 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-3613333f-8e1e-4a1d-a0d2-3d919a244a31",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "این نوشته رو از لجاظ درستی لغات و گرامر بررسی کن برام:"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-3613333f-8e1e-4a1d-a0d2-3d919a244a31",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-3613333f-8e1e-4a1d-a0d2-3d919a244a31-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "این نوشته رو از لجاظ درستی لغات و گرامر بررسی کن برام:\n\n\n\n\nSubject: the crime was changed while my life\nI knew it was going to be an unusual day when I arrived at work that morning. Before this crime, I had feeling with myself, I thought that day was last day of my life. I am always be a punctual employee, but the weather of that day got  affect on me, when I saw gray clouds came into sky after the sun and people chenge their behavior to me , I should knew that happen to me. I had brought my gouard up, but I was totally vuluenrable. I was enter into building , the light is flicking at  the end of corridor correctly into my eyes, I wish I was dead and did not see this crime with my own eyes. I was stand behind the door, I needed a power to open that, my hands were bitterly cold, I tool a breath, I should. That moment I faced with that crime, my colleague were eating my lunch. That is when blood came into my eyes and …",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": []
+  },
+  "extensions": {
+    "capture.message-id": "3613333f-8e1e-4a1d-a0d2-3d919a244a31",
+    "capture.turn-number": 41
+  }
+}

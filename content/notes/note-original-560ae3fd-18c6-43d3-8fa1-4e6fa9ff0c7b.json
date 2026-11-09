@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-560ae3fd-18c6-43d3-8fa1-4e6fa9ff0c7b",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "یک Final Comprehensive Exam جدید برای Ready for B1 Preliminary Units 5–8 طراحی کن. 20 سؤال جدید، سطح B1، با ترکیب Grammar و Vocabulary در context. مباحث: Presen"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message",
+    "assessment",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-560ae3fd-18c6-43d3-8fa1-4e6fa9ff0c7b",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-560ae3fd-18c6-43d3-8fa1-4e6fa9ff0c7b-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "یک Final Comprehensive Exam جدید برای Ready for B1 Preliminary Units 5–8 طراحی کن. 20 سؤال جدید، سطح B1، با ترکیب Grammar و Vocabulary در context. مباحث: Present Perfect vs Past Simple، Present Perfect Continuous، Relative Clauses defining/non-defining، Comparatives/Superlatives، so/such/too/enough، Future Forms (will/going to/Present Continuous)، Zero/First/Second Conditional، Modals، و vocabulary از Nature & Environment، Travel، Work Life و Sports. سؤالات با آزمون قبلی تکرار نشوند.",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-present-continuous",
+      "concept-past-simple",
+      "concept-present-perfect",
+      "concept-present-perfect-continuous",
+      "concept-future-forms",
+      "concept-relative-clauses",
+      "concept-second-conditional",
+      "concept-so-such-too-enough"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "560ae3fd-18c6-43d3-8fa1-4e6fa9ff0c7b",
+    "capture.turn-number": 19
+  }
+}

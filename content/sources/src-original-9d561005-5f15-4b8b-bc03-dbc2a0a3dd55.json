@@ -1,0 +1,135 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-9d561005-5f15-4b8b-bc03-dbc2a0a3dd55",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 10"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "assistant",
+    "messageOrdinal": 10,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "بله. از این به بعد Ready for B1 Preliminary را کتاب مرجع اصلی برای مسیر آموزشی قرار می‌دهم و جزوه‌ی کلاس و سیستم قبلی DeepSeek را روی آن سوار می‌کنیم.\n\nبررسی کردم که ساختار رسمی کتاب دقیقاً شامل Language Focus، Vocabulary، Pronunciation، Reading، Listening، Speaking و Writing است و در انتهای کتاب هم بخش Ready for Grammar و Collocations دارد. \nMacmillan English\n+1\n\nساختار جدید سیستم آموزش انگلیسی\n\nمن پیشنهاد می‌کنم سیستم را به این شکل نگه داریم:\n\nPlain text\nENGLISH LEARNING SYSTEM\n│\n├── 01. MAIN COURSE\n│   └── Ready for B1 Preliminary\n│       ├── Unit 1 → In Style\n│       ├── Unit 2 → Taking It Easy\n│       ├── Unit 3 → You Are What You Eat\n│       ├── Unit 4 → What's On\n│       ├── Ready for Reading\n│       ├── Unit 5 → The Great Outdoors\n│       ├── Unit 6 → Away We Go\n│       ├── Unit 7 → Work Life\n│       ├── Ready for Listening\n│       ├── Unit 8 → Get Set, Go!\n│       ├── Unit 9 → Lifelong Learning\n│       ├── Unit 10 → Getting Better\n│       ├── Ready for Speaking\n│       ├── Unit 11 → House and Home\n│       ├── Unit 12 → Technology Today\n│       └── Ready for Writing\n│\n├── 02. CLASS NOTES\n│   └── A1–A8 Class\n│       ├── Grammar\n│       ├── Vocabulary\n│       ├── Teacher Notes\n│       └── Important Examples\n│\n├── 03. DEEPSEEK SYSTEM\n│   ├── Advanced Grammar\n│   ├── Vocabulary\n│   ├── Phrasal Verbs\n│   ├── Idioms\n│   └── Error Log\n│\n├── 04. PERSONAL ERROR LOG\n│   ├── My sentence\n│   ├── Correct sentence\n│   ├── Why?\n│   ├── Grammar pattern\n│   └── Natural English\n│\n├── 05. ACTIVE VOCABULARY\n│   ├── New Words\n│   ├── Collocations\n│   ├── Phrasal Verbs\n│   ├── Idioms\n│   └── Words I repeatedly forget\n│\n├── 06. SKILLS\n│   ├── Reading\n│   ├── Listening\n│   ├── Speaking\n│   ├── Writing\n│   └── Pronunciation\n│\n└── 07. REVIEW ENGINE\n    ├── Daily Review\n    ├── Weekly Review\n    ├── Old Errors\n    ├── Active Recall\n    ├── Mixed Grammar\n    └── B1-style Tests\nچرا این ساختار بهتر است؟\n\nکتاب خودش مسیر B1 را بسیار منظم جلو می‌برد. مثلاً:\n\nUnit 1: Present Simple / Present Continuous + Adverbs of Frequency\nUnit 2: Past Simple / used to / Past Continuous\nUnit 3: Countable & Uncountable Nouns / Articles\nUnit 4: Present Perfect / Present Perfect vs Past Simple\nUnit 5: Present Perfect Continuous / Relative Clauses\nUnit 6: Comparatives / Superlatives / Future Forms / so, such, too, enough\nUnit 7: will, may, might / Zero & First Conditional\nUnit 8: Second Conditional / Modals\nUnit 9: Past Perfect / Gerunds & Infinitives\nUnit 10: Reported Speech\nUnit 11: Passive / have/get something done\nUnit 12: Third Conditional / Future Continuous \nMacmillan English API\n\nدر نتیجه جزوه‌ی A1–A8 تو هم خیلی خوب روی این مسیر map می‌شود.\n\nمثلاً:\n\nPlain text\nA1–A8 Class\nPresent Simple\n      ↓\nReady for B1 — Unit 1\nPresent Simple + Present Continuous\n      ↓\nDeepSeek Advanced Grammar\nStative vs Dynamic Verbs\n      ↓\nPersonal Error Log\nخطاهای شخصی تو در استفاده از این زمان‌ها\n      ↓\nPractice\nSpeaking + Writing + Reading + Listening\n\nاین یعنی دیگر Grammar را به شکل جدا از Vocabulary و Speaking نمی‌خوانیم.\n\nمهم‌تر از همه: سیستم یادگیری شخصی تو\n\nهر بار که یک موضوع را با من کار کنیم، من آن را در این قالب پردازش می‌کنم:\n\n1. Core Rule\n\nقاعده‌ی اصلی از Ready for B1.\n\n2. Class Connection\n\nاگر جزوه‌ی کلاس درباره‌ی همان موضوع چیزی داشته باشد، به آن متصل می‌کنم.\n\n3. Advanced Rule\n\nاگر DeepSeek یا بخش Advanced Grammar نکته‌ی عمیق‌تری داشته باشد، اضافه می‌شود.\n\n4. Vocabulary\n\nکلمات جدید + collocation + phrasal verb + idiom.\n\n5. Natural English\n\nاگر جمله از نظر Grammar درست باشد ولی nativeها معمولاً آن‌طور نگویند، این را هم مشخص می‌کنم.\n\nمثلاً:\n\n❌ I did a mistake.\n✅ I made a mistake.\n\nاینجا مشکل صرفاً Grammar نیست؛ collocation است:\n\nmake a mistake\n\n6. Personal Error Log\n\nهر اشتباه تکرارشونده‌ی تو ثبت می‌شود:\n\nYour sentence\tCorrect\tProblem\nI did a mistake\tI made a mistake\tCollocation\nI prefer stay\tI prefer to stay\tInfinitive\nSince I'm a child\tSince I was a child\tTense\nLook forward it\tLook forward to it\tPreposition\n7. Active Recall\n\nبعداً بدون اینکه قاعده را به تو بدهم، ازت سؤال می‌پرسم تا ببینیم واقعاً یاد گرفته‌ای یا فقط هنگام خواندن متوجهش می‌شوی.\n\nوقتی جزوه‌ی کلاس جدید می‌دهی\n\nاین قسمت دقیقاً همان چیزی است که گفتی.\n\nمثلاً اگر هفته‌ی بعد معلم درباره‌ی Relative Clauses جزوه‌ای بهت داد، فقط متن را ذخیره نمی‌کنم.\n\nآن را تبدیل می‌کنم به:\n\nPlain text\nReady for B1\nUnit 5\n      ↓\nRelative Clauses\n      ↓\nClass Notes\n      ↓\nTeacher's examples\n      ↓\nAdvanced explanation\n      ↓\nVocabulary\n      ↓\nYour mistakes\n      ↓\nExercises\n      ↓\nReview\n\nیعنی جزوه‌ی کلاس تبدیل به بخشی از سیستم آموزشی می‌شود، نه یک فایل جداگانه.\n\nترتیب اولویت منابع\n\nبرای اینکه منابع با هم قاطی نشوند، این hierarchy را رعایت می‌کنم:\n\n1. Ready for B1 → Curriculum / مسیر اصلی\n\n2. جزوه‌ی کلاس → چیزی که واقعاً در کلاس تدریس شده\n\n3. DeepSeek → سیستم قبلی، Advanced Grammar و Error Log\n\n4. اطلاعات تکمیلی من → فقط وقتی لازم باشد و مشخص می‌کنم که خارج از منابع اصلی است\n\nاین نکته مهم است چون نمی‌خواهم چیزی را که در کتاب یا جزوه وجود ندارد، به اسم محتوای آن منبع وارد سیستم کنم.\n\nکتاب Ready for B1 Preliminary هم رسماً برای سطح B1 طراحی شده و چهار مهارت Reading, Writing, Listening و Speaking را در کنار Language Focus و Vocabulary توسعه می‌دهد. \nMacmillan English\n+1\n\nبنابراین از اینجا به بعد:\n\nاگر بگویی:\n\n«بریم Unit 3»\n\nمن با ساختار همان Unit جلو می‌روم.\n\nاگر بگویی:\n\n«این جزوه‌ی جلسه‌ی امروزمه»\n\nآن را وارد Class Notes می‌کنم و به Unit مربوطه وصل می‌کنم.\n\nاگر بگویی:\n\n«ازم امتحان بگیر»\n\nمی‌توانم از تمام چیزهایی که تا آن لحظه خوانده‌ای Mixed Review بسازم.\n\nو اگر بگویی:\n\n«خلاصه‌نویسی کن برای یادگیری»\n\nخلاصه را به شکل Learning Notes + Key Rules + Vocabulary + Errors + Review Questions درمی‌آورم، نه صرفاً خلاصه‌ی متن.\n\nدر واقع هدف این است که در پایان، به‌جای اینکه فقط یک کتاب B1 را تمام کرده باشی، یک personal English knowledge base داشته باشی که دقیقاً بر اساس اشتباهات و ضعف‌های خودت رشد کرده باشد.",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": [
+      {
+        "locator": "table:1",
+        "rows": [
+          [
+            "Your sentence",
+            "Correct",
+            "Problem"
+          ],
+          [
+            "I did a mistake",
+            "I made a mistake",
+            "Collocation"
+          ],
+          [
+            "I prefer stay",
+            "I prefer to stay",
+            "Infinitive"
+          ],
+          [
+            "Since I'm a child",
+            "Since I was a child",
+            "Tense"
+          ],
+          [
+            "Look forward it",
+            "Look forward to it",
+            "Preposition"
+          ]
+        ]
+      }
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "9d561005-5f15-4b8b-bc03-dbc2a0a3dd55",
+    "capture.headings": [
+      {
+        "level": 2,
+        "text": "ساختار جدید سیستم آموزش انگلیسی"
+      },
+      {
+        "level": 3,
+        "text": "چرا این ساختار بهتر است؟"
+      },
+      {
+        "level": 1,
+        "text": "مهم‌تر از همه: سیستم یادگیری شخصی تو"
+      },
+      {
+        "level": 3,
+        "text": "1. Core Rule"
+      },
+      {
+        "level": 3,
+        "text": "2. Class Connection"
+      },
+      {
+        "level": 3,
+        "text": "3. Advanced Rule"
+      },
+      {
+        "level": 3,
+        "text": "4. Vocabulary"
+      },
+      {
+        "level": 3,
+        "text": "5. Natural English"
+      },
+      {
+        "level": 3,
+        "text": "6. Personal Error Log"
+      },
+      {
+        "level": 3,
+        "text": "7. Active Recall"
+      },
+      {
+        "level": 1,
+        "text": "وقتی جزوه‌ی کلاس جدید می‌دهی"
+      },
+      {
+        "level": 2,
+        "text": "ترتیب اولویت منابع"
+      },
+      {
+        "level": 3,
+        "text": "بنابراین از اینجا به بعد:"
+      }
+    ],
+    "capture.links": [
+      {
+        "href": "https://www.macmillanenglish.com/us/catalogue/courses/exam-preparation/ready-for-b1-preliminary/course-information?utm_source=chatgpt.com",
+        "text": "Macmillan English\n+1"
+      },
+      {
+        "href": "https://api.macmillanenglish.com/fileadmin/user_upload/Catalogue/Ready_for_B1/Ready_for_B1_Scope_and_Sequence.pdf?utm_source=chatgpt.com",
+        "text": "Macmillan English API"
+      },
+      {
+        "href": "https://www.macmillanenglish.com/us/catalogue/courses/exam-preparation/ready-for-b1-preliminary/course-information?utm_source=chatgpt.com",
+        "text": "Macmillan English\n+1"
+      }
+    ]
+  }
+}

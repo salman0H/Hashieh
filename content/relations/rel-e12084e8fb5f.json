@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-e12084e8fb5f",
+  "type": "member-of",
+  "from": "entry-conquest",
+  "to": "family-conquer",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+      "locator": "table:2/data-row:302"
+    }
+  ],
+  "extensions": {}
+}

@@ -1,0 +1,700 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-747a90d2-a2e7-4550-acea-fd39618be743",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "نتیجه: 28/40"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "assessment",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-747a90d2-a2e7-4550-acea-fd39618be743",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "خوب جواب دادی. مهم‌تر از نمره، الگوی خطاهایت مشخص است: زمان‌ها را نسبتاً خوب می‌شناسی، اما در تشخیص کاربرد دقیق زمان، vocabulary و تفاوت‌های معنایی هنوز چند نقطه ضعف داری.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-2",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "نتیجه: 28/40\nبخش\tنتیجه\nPresent Perfect / Continuous\t3/5\nRelative Clauses\t4/5\nComparatives / Superlatives\t3/4\nSo / Such / Too / Enough\t5/5\nFuture Forms\t3/4\nConditionals\t4/5\nModals\t1/2\nVocabulary\t5/10\nTotal\t28/40 = 70%\n\nسطحت در این مباحث را فعلاً حدود A2+ → B1 می‌بینم. مشکل اصلی تو «ندانستن گرامر» نیست؛ بیشتر انتخاب ساختار مناسب در context و دقت واژگان است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-3",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "1. Present Perfect / Continuous",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-4",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "1. ✅\n\nI have been studying English all morning.\n\nدرست.\n\nall morning + فعالیتی که ادامه داشته → Present Perfect Continuous",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-5",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "2. ❌\n\nتو نوشتی:\n\nhas ran\n\nصحیح:\n\nIt has been raining.\n\nیا در بعضی contextها:\n\nIt has rained.\n\nاما چون جمله می‌گوید:\n\nLook! The ground is wet.\n\nو تمرکز روی فعالیت اخیر است، بهترین جواب:\n\nIt has been raining.\n\nنکته مهم:\n\n❌ has ran\n❌ has runned\n✅ has run\n\nrun → ran → run\n\nولی اینجا اصلاً run نداریم؛ فعل rain است:\n\nrain → rained → rained",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-6",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "3. ❌\n\nI have been to Argentina twice.\n\nتو نوشتی:\n\nwent\n\nچون twice درباره تجربه تا الان صحبت می‌کند:\n\nI have been to Argentina twice.\n\nاگر زمان مشخص گذشته داشتیم:\n\nI went to Argentina in 2022.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-7",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "تفاوت کلیدی:\n\nPresent Perfect\n\nI have been to Argentina twice.\n\nتجربه تا اکنون.\n\nPast Simple\n\nI went to Argentina in 2022.\n\nیک اتفاق تمام‌شده در زمان مشخص گذشته.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-8",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "4. ✅\n\nI renewed my passport last week.\n\nکاملاً درست.\n\nlast week → زمان مشخص گذشته → Past Simple",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-9",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "5. ✅\n\nHow long have you been studying English?\n\nدرست.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-10",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "2. Relative Clauses",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-11",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "6. ✅\n\nscientist who studies...",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-12",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "7. ✅\n\npark where I used to play...",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-13",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "8. ❌\n\nتو نوشتی:\n\nwhere\n\nاما:\n\nThat's the mountain which we climbed last summer.\n\nچرا؟\n\nچون:\n\nwe climbed the mountain\n\nپس mountain object فعل climbed است.\n\nمی‌توانیم حتی relative pronoun را حذف کنیم:\n\nThat's the mountain which we climbed.\n\nThat's the mountain that we climbed.\n\nThat's the mountain we climbed. ✅\n\nولی where زمانی است که مکان خودش نقش where an action happens را دارد:\n\nThis is the park where I play football.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-14",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "9. ❌ / unanswered\n\nHe is an author whose books are very popular.\n\nwhose = مالکیت\n\nwhose books\n\nیعنی:\n\nکتاب‌های او",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-15",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "10. ❌\n\nتو انتخاب کردی:\n\nB\n\nصحیح:\n\nC. My brother, who lives in Tehran, is an engineer.\n\nچون این یک non-defining relative clause است.\n\nاطلاعات who lives in Tehran فقط اطلاعات اضافی است، بنابراین comma داریم:\n\nMy brother, who lives in Tehran, is an engineer.\n\nو در non-defining relative clauses:\n\n❌ that\n❌ حذف relative pronoun",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-16",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "3. Comparatives / Superlatives",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-17",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "11. ✅\n\nmore popular",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-18",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "12. ❌\n\nتو:\n\nmost large\n\nصحیح:\n\nlargest\n\nChina has one of the largest populations in the world.\n\nساختار مهم:\n\none of the + superlative + plural noun\n\nمثلاً:\n\none of the best players\n\none of the largest cities",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-19",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "13. ✅\n\nmore difficult",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-20",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "14. ✅\n\ngood → better → best",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-21",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "4. So / Such / Too / Enough\n\nاینجا 5/5 گرفتی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-22",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "15. ✅\n\nso dangerous that...",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-23",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "16. ✅\n\ntoo cold to swim",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-24",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "17. ✅\n\nsuch a beautiful design that...",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-25",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "18. ✅\n\nenough time",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-26",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "19. ✅\n\nHe was smart enough to answer your question.\n\nساختار را کاملاً درست استفاده کردی:\n\nadjective + enough + to + verb",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-27",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "5. Future Forms",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-28",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "20. ✅\n\nI will open it.\n\nتصمیم لحظه‌ای.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-29",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "21. ❌\n\nتو:\n\ngoing to\n\nولی ساختار کامل:\n\nIt's going to rain.\n\nچون evidence داریم:\n\nLook at those clouds.\n\nفرمول:\n\nbe + going to + verb\n\nنه فقط going to.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-30",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "22. ✅\n\nI am picking her up at midnight.\n\nاین نکته مهم است:\n\nPresent Continuous می‌تواند برای future arrangement استفاده شود.\n\nI'm meeting my friend tomorrow.\n\nI'm picking her up at midnight.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-31",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "23. ❌ / unanswered\n\nI'm afraid I might not finish everything tonight.\n\nساختار:\n\nmight + not + base verb",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-32",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "6. Conditionals",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-33",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "24. ✅\n\nIf we finish work early, we will go for a walk.\n\nFirst Conditional:\n\nIf + Present Simple → will + base verb",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-34",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "25. ❌ / unanswered\n\nWhen my parents visit, we always have a big dinner.\n\nاین Zero Conditional است.\n\nچون درباره یک routine / repeated situation صحبت می‌کنیم.\n\nWhen + Present → Present",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-35",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "26. ✅\n\nIf I were you...\n\nاین را حفظ کن؛ یکی از مهم‌ترین expressionهای انگلیسی است:\n\nIf I were you, I would...",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-36",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "27. ✅\n\nwould travel\n\nSecond Conditional:\n\nIf + Past → would + base",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-37",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "28. 🟡\n\nتو نوشتی:\n\nI will lose my money.\n\nاز نظر گرامری ممکن است، اما باید context جمله را کامل کنیم:\n\nIf I don't start saving soon, I will lose my money.\n\nبا توجه به ساختار تمرین، جواب تو از نظر conditional form درست است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-38",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "7. Modals",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-39",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "29. ✅\n\nYou mustn't smoke here.\n\nmustn't = prohibition\n\nیعنی:\n\nممنوع است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-40",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "30. ❌\n\nتو:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-41",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "mustn't\n\nصحیح:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-42",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "don't have to\n\nچون جمله می‌گوید:\n\nIt's optional.\n\nتفاوت بسیار مهم:\n\nmustn't\n\n= نباید / ممنوع است\n\nYou mustn't smoke here.\n\ndon't have to\n\n= لازم نیست\n\nYou don't have to wear a mask.\n\nاین دو را نباید با هم قاطی کنی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-43",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "8. Vocabulary\n\nاینجا بیشترین ضعف دیده می‌شود.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-44",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "31. ✅\n\ncave = غار",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-45",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "32. ✅\n\nstream = جویبار / نهر کوچک",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-46",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "33. 🟡\n\ntraffic jam\n\nدرست.\n\nاما:\n\nheavy traffic\n\nهمان معنی دقیق را ندارد.\n\ntraffic jam = ترافیک/راه‌بندان شدید، وسایل نقلیه تقریباً گیر کرده‌اند.\n\nheavy traffic = ترافیک سنگین، ولی لزوماً توقف کامل نیست.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-47",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "34. ❌\n\nreturn ticket\n\nیعنی:\n\nبلیط رفت‌وبرگشت\n\nنه:\n\nairplane\n\nمثلاً:\n\nI bought a return ticket to London.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-48",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "35. 🟡\n\nتو نوشتی:\n\ndriving lisence\n\nدو نکته:\n\nspelling:\n\nlicence 🇬🇧\nlicense 🇺🇸\n\nمعنی:\n\ndriving licence = گواهینامه رانندگی\n\nپس concept را درست می‌دانستی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-49",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "36. 🟡\n\nhand luggage\n\nدرست.\n\nاما:\n\nbackpack\n\nلزومًا hand luggage نیست.\n\nHand luggage / cabin baggage یعنی چمدان یا وسیله‌ای که اجازه داری با خودت داخل هواپیما ببری.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-50",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "37. ❌\n\nتو:\n\ntour guide\n\nولی جواب:\n\nreceptionist\n\nreceptionist = مسئول پذیرش\n\nمثلاً در هتل:\n\nI asked the receptionist for my room key.\n\ntour guide = راهنمای گردشگری",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-51",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "38. ✅\n\nchef",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-52",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "39. ❌ / unanswered\n\naccept defeat\n\nیعنی:\n\nشکست را پذیرفتن\n\nمثلاً:\n\nHe refused to accept defeat.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-53",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "40. Litter vs Fast Fashion\n\nایده کلی را گرفتی، ولی تعریف fast fashion را باید دقیق‌تر کنی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-54",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Litter\n\nLitter = زباله‌ای که در مکان عمومی/طبیعت رها شده است.\n\nمثلاً:\n\nPeople shouldn't leave litter in the forest.\n\nنکته:\n\n❌ throw a trash\n❌ flour\n\nبهتر:\n\nthrow rubbish/trash on the ground\n\nیا:\n\nleave litter on the ground",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-55",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Fast fashion\n\nFast fashion یعنی:\n\ncheap, mass-produced clothing that is quickly produced to follow changing fashion trends.\n\nیعنی لباس‌هایی که:\n\nسریع تولید می‌شوند\nمعمولاً ارزان‌تر هستند\nبرای دنبال کردن trendهای سریع مد تولید می‌شوند\nباعث مصرف و دورریز بیشتر لباس می‌شوند.\n\nجمله تو:\n\n\"something trend for a few periods\"\n\nایده‌اش نزدیک بود، ولی تعریف کامل نبود.\n\nو:\n\n❌ creepy\n\nاحتمالاً منظورت cheap بود.\n\ncheap = ارزان\ncreepy = ترسناک / حال‌به‌هم‌زن به معنای خاص",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-56",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Error Map تو\n\nاز این امتحان، این‌ها را وارد Personal Error Log می‌کنیم:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-57",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "🔴 Priority 1 — باید مرور شوند\n\n1. Present Perfect vs Past Simple\n\nI have been to Argentina twice.\nI went to Argentina in 2022.\n\n2. Relative clause: which vs where\n\nthe mountain which we climbed\nthe park where we played\n\n3. Defining vs Non-defining\n\nThe man who called me is my teacher.\n\nMy brother, who lives in Tehran, is an engineer.\n\n4. mustn't vs don't have to\n\nmustn't = prohibited\n\ndon't have to = not necessary",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-58",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "🟡 Priority 2\n\n5. Future forms\n\nwill = instant decision\n\nbe going to = prior plan / evidence\n\nPresent Continuous = arrangement\n\n6. Vocabulary precision\n\nخصوصاً:\n\nreturn ticket\nreceptionist\naccept defeat\nfast fashion\nlitter\nhand luggage",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-747a90d2-a2e7-4550-acea-fd39618be743-59",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "یک نکته مهم درباره عملکردت\n\nتو در قسمت So / Such / Too / Enough و بیشتر conditionalها تقریباً بدون مشکل جواب دادی. یعنی ساختارهای گرامری را وقتی فرمول و context واضح باشند، خوب تشخیص می‌دهی.\n\nمشکل اصلی زمانی ظاهر می‌شود که باید بین دو ساختار نزدیک معنایی انتخاب کنی؛ مثل:\n\nwhere vs which\n\nیا:\n\nmustn't vs don't have to\n\nیا:\n\nPresent Perfect vs Past Simple\n\nبنابراین مرحله بعدی نباید صرفاً «گرامر جدید» باشد. بهتر است روی discrimination exercises کار کنیم؛ یعنی چند گزینه که همگی از نظر ظاهری ممکن‌اند، ولی فقط یکی با context درست است.\n\nمرحله بعدی را می‌توانیم به شکل یک آزمون B1 واقعی‌تر ببریم: بدون اینکه اسم گرامر را به تو بگویم، فقط context می‌دهم و تو باید خودت زمان/ساختار/واژه مناسب را انتخاب کنی.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-present-simple",
+      "concept-present-continuous",
+      "concept-past-simple",
+      "concept-present-perfect",
+      "concept-present-perfect-continuous",
+      "concept-future-forms",
+      "concept-relative-clauses",
+      "concept-zero-conditional",
+      "concept-first-conditional",
+      "concept-second-conditional",
+      "concept-so-such-too-enough",
+      "concept-used-to"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "747a90d2-a2e7-4550-acea-fd39618be743",
+    "capture.turn-number": 16
+  }
+}

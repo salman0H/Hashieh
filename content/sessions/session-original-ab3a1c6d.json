@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "session-original-ab3a1c6d",
+  "type": "session",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Basic needs, earnings and summarising speakers"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-ab3a1c6d-0d15-442e-a2d1-fed81630f46d",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "occurredAt": null,
+    "dateLabel": null,
+    "datePrecision": "unknown",
+    "conceptIds": [
+      "concept-gerund-infinitive",
+      "concept-reported-speech"
+    ],
+    "itemIds": [
+      "note-original-ab3a1c6d-0d15-442e-a2d1-fed81630f46d",
+      "note-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a"
+    ],
+    "sourceMessageIds": [
+      "src-original-ab3a1c6d-0d15-442e-a2d1-fed81630f46d",
+      "src-original-936ab8c0-f19a-47b7-b89f-cfd895c7f16a"
+    ],
+    "completeness": "partial",
+    "missing": [
+      "Any referenced original attachments are not imported in this text pass."
+    ]
+  },
+  "extensions": {}
+}

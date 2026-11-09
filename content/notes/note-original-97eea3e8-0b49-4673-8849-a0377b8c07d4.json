@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-97eea3e8-0b49-4673-8849-a0377b8c07d4",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "این ها ساختار هایی هست ک من بعد میانترم کار کردم با این مواردی ک آخر ب خودت گفتم ک در موردشون و جزوه ها شون میدونی "
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-97eea3e8-0b49-4673-8849-a0377b8c07d4",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-97eea3e8-0b49-4673-8849-a0377b8c07d4-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "این ها ساختار هایی هست ک من بعد میانترم کار کردم با این مواردی ک آخر ب خودت گفتم ک در موردشون و جزوه ها شون میدونی \nطبق این ها و دانش خودت جزوه بندی کن با مثال هایی ک بهت گفتم در چند فاز",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": []
+  },
+  "extensions": {
+    "capture.message-id": "97eea3e8-0b49-4673-8849-a0377b8c07d4",
+    "capture.turn-number": 13
+  }
+}

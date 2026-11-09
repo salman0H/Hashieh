@@ -1,0 +1,45 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-rival",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "rival"
+  },
+  "tags": [
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m06",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "rival",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-chat-m06",
+          "locator": "message-excerpt"
+        },
+        "group": "learner-notes",
+        "sessionId": "session-sports-habits",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

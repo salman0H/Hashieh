@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-42b864575f51",
+  "type": "covers",
+  "from": "note-original-f892377a-352f-45b2-8930-8b7d20f6d637",
+  "to": "concept-second-conditional",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-original-f892377a-352f-45b2-8930-8b7d20f6d637",
+      "locator": "message-body"
+    }
+  ],
+  "extensions": {}
+}

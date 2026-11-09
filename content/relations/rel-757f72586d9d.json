@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-757f72586d9d",
+  "type": "covers",
+  "from": "note-original-77659a96-2e7e-43a5-b48f-05eef57140ac",
+  "to": "concept-present-simple",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-original-77659a96-2e7e-43a5-b48f-05eef57140ac",
+      "locator": "message-body"
+    }
+  ],
+  "extensions": {}
+}

@@ -1,0 +1,261 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "English Class — Vocabulary, Grammar & Writing Correction"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "assessment",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "English Class — Vocabulary, Grammar & Writing Correction\n\nدر این جلسه سه بخش اصلی داریم: اصلاح واژگان و جمله‌های کلاس، بررسی تفاوت to be و being بعد از کلمات پرسشی، و بازنویسی دو متن تو با حفظ ایده‌ها و سطح زبانی خودت.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013-2",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "1. Vocabulary review",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013-3",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "واژگان مربوط به احساسات و شخصیت\n\nواژه\n\n\t\n\nمعنی و کاربرد\n\n\t\n\nمثال\n\n\n\n\nanxious\n\n\t\n\nمضطرب، نگران؛ معمولاً وقتی دربارهٔ چیزی نگرانی\n\n\t\n\nI'm anxious about my exam.\n\n\n\n\nworried\n\n\t\n\nنگران؛ رایج در مکالمات روزمره\n\n\t\n\nI'm worried about the interview.\n\n\n\n\nstressed / stressed out\n\n\t\n\nتحت فشار روانی یا استرس\n\n\t\n\nI'm stressed out because of work.\n\n\n\n\nnervous\n\n\t\n\nمضطرب یا دلشوره‌دار، مخصوصاً پیش از یک اتفاق\n\n\t\n\nI feel nervous before interviews.\n\n\n\n\nanxiety\n\n\t\n\nاضطراب؛ اسم\n\n\t\n\nHe suffers from anxiety.\n\n\n\n\nstrict\n\n\t\n\nسخت‌گیر؛ دربارهٔ افراد، قوانین یا مقررات\n\n\t\n\nMy boss is very strict.\n\n\n\n\nflexible\n\n\t\n\nانعطاف‌پذیر؛ کسی که راحت با شرایط تغییر می‌کند، یا برنامه‌ای که قابل تغییر است\n\n\t\n\nMy manager is flexible about working hours.\n\n\n\n\nnag\n\n\t\n\nمدام به کسی غر زدن یا اصرار کردن، معمولاً دربارهٔ کاری که باید انجام دهد\n\n\t\n\nShe keeps nagging me about my homework.\n\nتفاوت مهم:\n\nanxious و worried هم‌پوشانی معنایی زیادی دارند.\n\nnervous معمولاً برای دلشورهٔ پیش از مصاحبه، امتحان یا رویداد خاص طبیعی است.\n\nstressed out بیشتر بر فشار روانی ناشی از شرایط تأکید می‌کند.\n\nاز نظر ساختار نیز دقت کن:\n\nI feel anxious. — احساس اضطراب دارم.\n\nI am stressed out. — تحت فشار روانی هستم.\n\nI have anxiety. — اضطراب دارم؛ بسته به بافت می‌تواند به اضطراب به‌طور کلی یا مشکل پایدارتر اشاره کند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013-4",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "واژگان توصیفی\n\nواژه\n\n\t\n\nمعنی و نکته\n\n\t\n\nمثال\n\n\n\n\ngorgeous\n\n\t\n\nبسیار زیبا، چشم‌نواز؛ برای افراد، لباس‌ها و مکان‌ها\n\n\t\n\nShe looks gorgeous.\n\n\n\n\nspectacular\n\n\t\n\nخیره‌کننده، باشکوه یا بسیار تأثیرگذار\n\n\t\n\nThe view was spectacular.\n\n\n\n\nflexible\n\n\t\n\nمنعطف، سازگار با تغییر\n\n\t\n\nWe need a more flexible schedule.\n\n\n\n\nstrict\n\n\t\n\nسخت‌گیر\n\n\t\n\nMy boss was strict but fair.\n\n\n\n\nexperience\n\n\t\n\nتجربه؛ اسم\n\n\t\n\nI didn't have much experience.\n\n\n\n\nprofessional\n\n\t\n\nحرفه‌ای؛ هم برای افراد و هم برای رفتار یا محیط کاری\n\n\t\n\nThe staff were very professional.\n\n\n\n\natmosphere\n\n\t\n\nفضا یا حال‌وهوای یک مکان\n\n\t\n\nThe office had a friendly atmosphere.\n\n\n\n\ncomplicated\n\n\t\n\nپیچیده\n\n\t\n\nI solved a complicated problem.\n\nاصلاح املایی کلمات یادداشتت:\n\nsressout → stressed out\n\ngorgous → gorgeous\n\nextremly → extremely\n\nspectualar / spectucular → spectacular\n\nwritting → writing\n\nexprience → experience\n\ncoleague → colleague\n\nprofessenional → professional\n\nbuldoing → building\n\natmpsphere → atmosphere\n\nneever → never",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013-5",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "دو نکتهٔ معنایی\n\n۱. آیا wet یعنی rain؟\n\nخیر، این دو مرتبط‌اند، اما هم‌معنی نیستند.\n\nwet صفت است: خیس.\n\nrain اسم یا فعل است: باران / باریدن.\n\nمثال:\n\n- My clothes are wet because it rained.\nلباس‌هایم خیس‌اند چون باران بارید.\n\n- It's raining.\nدارد باران می‌بارد.\n\n۲. آیا gorgeous یعنی extremely pleasant and enjoyable؟\n\nاین تعریف دقیق نیست. gorgeous معمولاً به معنی «بسیار زیبا یا چشم‌نواز» است. برای چیزی که تجربه‌اش بسیار لذت‌بخش است، کلمهٔ wonderful یا عبارت extremely enjoyable معمولاً مناسب‌تر است.\n\na gorgeous building — ساختمانی بسیار زیبا\n\na gorgeous woman — زنی بسیار زیبا\n\na wonderful experience — تجربه‌ای فوق‌العاده و لذت‌بخش",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013-6",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "2. اصلاح جمله‌های کلاس",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013-7",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "جملهٔ اول\n\nShe does not nagging.\n\nShe does not nag.\n\nدلیل: در زمان حال ساده، بعد از does not فعل به شکل پایه می‌آید:\n\ndoesn't + base verb\n\nمقایسه:\n\nShe doesn't nag.\n\nShe isn't nagging.\n\nجملهٔ دوم هم درست است، اما زمان و معنا متفاوت‌اند:\n\nShe doesn't nag. — او معمولاً غر نمی‌زند.\n\nShe isn't nagging. — او الان غر نمی‌زند / در حال غر زدن نیست.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013-8",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "جملهٔ دوم\n\nShe learn to become someone elese.\n\nShe learns to become someone else.\n\nاگر دربارهٔ گذشته صحبت می‌کنی:\n\nShe learned to become someone else.\n\nsomeone else یعنی «شخص دیگری». عبارت learn to become یعنی یاد گرفتن یا به‌تدریج یاد گرفتن که به شخص دیگری تبدیل شوی؛ مثلاً از نظر رفتار یا شخصیت.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013-9",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "جملهٔ سوم\n\nShe learn how to be anxious.\n\nاز نظر گرامری، اگر منظورت گذشته باشد:\n\nShe learned how to be anxious.\n\nاما این جمله از نظر معنا کمی غیرطبیعی است، چون اضطراب معمولاً چیزی نیست که فرد عمداً یاد بگیرد. اگر منظورت این است که یک شخصیت به‌تدریج مضطرب شده یا یاد گرفته نگرانی بیشتری نشان دهد، بسته به منظورت می‌توان گفت:\n\nShe learned to become more anxious. — یاد گرفت که مضطرب‌تر شود.\n\nShe became more anxious. — مضطرب‌تر شد.\n\nShe learned how to manage her anxiety. — یاد گرفت چطور اضطرابش را مدیریت کند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013-10",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "جملهٔ چهارم\n\nShe did bit have that much exprience.\n\nShe didn't have that much experience.\n\nیا:\n\nShe didn't have much experience.\n\nنکات:\n\ndidn't + have، نه didn't had.\n\nexperience در معنی کلی «تجربه» معمولاً غیرقابل‌شمارش است؛ پس نمی‌گوییم many experiences وقتی منظور میزان تجربهٔ کاری است.\n\nthat much experience یعنی «آن‌قدر تجربه» و معمولاً به مقدار موردبحث اشاره می‌کند.\n\nمثال: Although she didn't have much experience, she did an excellent job.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013-11",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "3. بعد از how چرا از to be استفاده می‌کنیم؟ آیا being هم درست است؟\n\nسؤال خوبی است؛ چون اینجا باید بین to-infinitive و V-ing تفاوت بگذاریم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013-12",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "ساختار اول: learn how to + verb\n\nاین ساختار یعنی «یاد گرفتن که چگونه کاری را انجام دهیم».\n\nI learned how to drive.\n\nShe learned how to communicate with customers.\n\nHe learned how to manage his anxiety.\n\nShe learned how to be more confident.\n\nدر جملهٔ تو:\n\nShe learned how to be anxious.\n\nاز نظر گرامری درست است؛ اما معنایش این می‌شود که او یاد گرفت چگونه مضطرب باشد. از نظر معنایی، این جمله کمی غیرطبیعی است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013-13",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "ساختار دوم: being\n\nسؤالت این بود که آیا being معنای «همین الان مضطرب‌گونه رفتار کردن» می‌دهد؟\n\nخیر؛ خود being الزاماً به معنی «همین الان» نیست. شکل -ing کاربردهای متفاوتی دارد و همیشه زمان استمراری نمی‌سازد.\n\nاین مثال‌ها را مقایسه کن:\n\nجمله\n\n\t\n\nمعنی و کاربرد\n\n\n\n\nShe learned how to be confident.\n\n\t\n\nیاد گرفت چگونه فرد بااعتمادبه‌نفسی باشد.\n\n\n\n\nShe is being difficult.\n\n\t\n\nدارد رفتار دشوار یا لجبازانه‌ای نشان می‌دهد؛ رفتار فعلی او را توصیف می‌کنیم.\n\n\n\n\nShe is being anxious.\n\n\t\n\nاز نظر گرامری در بعضی بافت‌ها قابل‌تصور است، اما برای توصیف اضطراب معمولاً طبیعی نیست.\n\n\n\n\nShe learned how being anxious affects her decisions.\n\n\t\n\nیاد گرفت که مضطرب بودن چگونه بر تصمیم‌هایش تأثیر می‌گذارد.\n\nدر مثال آخر، being anxious به معنی «مضطرب بودن» است و نقش یک عبارت اسمی را دارد؛ اصلاً زمان استمراری نیست.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013-14",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "پس قانون دقیق چیست؟\n\nقانون این نیست که «بعد از تمام کلمات پرسشی حتماً to + verb می‌آید». بلکه این ساختار یکی از الگوهای رایج است:\n\nQuestion word + to-infinitive\n\nI don't know what to do. — نمی‌دانم چه کار کنم.\n\nShe taught me how to use the software. — او به من یاد داد چگونه از نرم‌افزار استفاده کنم.\n\nWe need to decide where to go. — باید تصمیم بگیریم کجا برویم.\n\nHe explained when to start. — توضیح داد چه زمانی شروع کنیم.\n\nاما اگر بخواهیم یک جملهٔ پرسشی کامل داشته باشیم، ساختار فرق می‌کند:\n\nI don't know how she behaves. — نمی‌دانم او چگونه رفتار می‌کند.\n\nI don't know how she is behaving. — نمی‌دانم او الان چگونه رفتار می‌کند.\n\nدر ساختار اول، یک جملهٔ کامل داریم که فاعل (she) و فعل صرف‌شده (behaves) دارد. در ساختار دوم نیز جملهٔ کامل داریم، اما فعل در زمان حال استمراری است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013-15",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "4. اصلاح Writing اول\n\nمتن تو دربارهٔ اولین روز یک کار تابستانی است. ایده‌هایت را حفظ می‌کنم و گرامر و عبارت‌های غیرطبیعی را اصلاح می‌کنم.\n\nWriting\n\nIt was a summer job, but I'll never forget my first day. At first, I felt stressed because my boss was a strict man, but I had a friendly colleague. I had applied for a position as a software developer. The building had a modern design and bright rooms.\n\nLet me be honest with you: it's awful to feel anxious about every bug in the software.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013-16",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "اصلاحات مهم\n\nعبارت تو\n\n\t\n\nاصلاح\n\n\t\n\nدلیل\n\n\n\n\nIt was on summer job\n\n\t\n\nIt was a summer job\n\n\t\n\nقبل از اسم مفرد قابل‌شمارش از a استفاده می‌کنیم؛ on لازم نیست.\n\n\n\n\nI will never forgot\n\n\t\n\nI'll never forget\n\n\t\n\nبعد از will فعل پایه می‌آید: forget.\n\n\n\n\nI got stress\n\n\t\n\nI felt stressed\n\n\t\n\nstressed صفت است؛ stress اسم است.\n\n\n\n\nmy boss was strict man\n\n\t\n\nmy boss was a strict man\n\n\t\n\nاسم مفرد قابل‌شمارش به حرف تعریف نیاز دارد.\n\n\n\n\nI applied for professional programmer\n\n\t\n\nI applied for a position as a software developer\n\n\t\n\nبرای درخواست شغل، این ساختار طبیعی‌تر است.\n\n\n\n\nthe building had modern design\n\n\t\n\nthe building had a modern design\n\n\t\n\nبه a نیاز داریم.\n\n\n\n\nhave anxious about\n\n\t\n\nfeel anxious about\n\n\t\n\nساختار درست برای بیان احساس اضطراب.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013-17",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "نکتهٔ واژگانی: stress در برابر stressed\n\nStress = اسم: فشار روانی یا استرس.\n\nStressed = صفت: تحت فشار روانی.\n\nStressful = صفت: استرس‌زا.\n\nمثال:\n\nMy job causes a lot of stress.\n\nI'm stressed because my job is stressful.\n\nاین سه شکل را در Error Log خودت نگه دار.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013-18",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "5. اصلاح Writing دوم\n\nدر متن دوم، علاوه بر توصیف محیط، یک اتفاق مهم داری: همکاران ابتدا انتظار زیادی از تو نداشتند، اما تو یک مشکل پیچیده را حل کردی. این بخش برای روایت تجربهٔ کاری، از نظر محتوایی قوی‌تر است.\n\nWriting\n\nIt was a summer job, but I'll never forget my first day. At first, I felt stressed because my boss was a strict man, but I had friendly colleagues.\n\nWhen it comes to the office, I'd describe it as spectacular. It had a modern design, bright rooms, professional staff, and a positive atmosphere.\n\nOverall, I had a good experience on my first day. At first, they didn't expect much from me, but I solved a complicated problem for them. It was a really rewarding feeling.\n\nShow more",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013-19",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "چرا این نسخه طبیعی‌تر است؟\n\n۱. If I want to talk about the office\n\nاین جمله از نظر دستوری ممکن است درست باشد، اما در این متن کمی غیرطبیعی است. برای معرفی توصیف خودت، این گزینه‌ها بهترند:\n\nWhen it comes to the office, ...\n\nAs for the office, ...\n\nThe office itself was spectacular.\n\n۲. There was a modern and bright room\n\nاین جمله یعنی «یک اتاق مدرن و روشن وجود داشت». اگر منظورت چند اتاق است، بگو:\n\nThere were modern, bright rooms.\n\nThe office had a modern design and bright rooms.\n\n۳. They did not count on me at first\n\nCount on someone یعنی به کسی اتکا کردن یا روی کمک او حساب کردن. اگر منظورت این است که همکارانت در ابتدا انتظار زیادی از تو نداشتند، عبارت زیر دقیق‌تر است:\n\nThey didn't expect much from me at first.\n\nاگر منظورت واقعاً این است که روی تو حساب نمی‌کردند، می‌توانی بگویی:\n\nThey didn't count on me at first, but I proved myself by solving a complicated problem.\n\n۴. That was a enjoyable feeling for me.\n\nشکل دستوری درست an enjoyable feeling است؛ چون enjoyable با صدای مصوت شروع می‌شود. با این حال، در این بافت عبارت زیر طبیعی‌تر است:\n\nIt was a really rewarding feeling.\n\nRewarding یعنی کاری که به تو احساس رضایت، ارزشمندی یا دستاورد می‌دهد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-ee8b76ff-a8e7-4c56-aee3-b1610e0e8013-20",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "6. مرور ترکیبی واژگان و ساختارها\n\nاین بخش را برای فعال‌کردن واژگان جدید و مرور گرامرهای قبلی انجام بده.\n\n1. My manager is very ___, but she allows us to change our schedules when necessary.\n\nflexible\nanxious\ngorgeous\n\n2. I felt ___ before the interview because I didn't have much experience.\n\nspectacular\nnervous\nstrict\n\n3. She didn't ___ me about being late yesterday.\n\nnag\nnagging\nnagged\n\n4. Although he was ___, he solved the problem successfully.\n\nstressed\nstressful\nstress\n\n5. The office had ___ modern design and a friendly atmosphere.\n\na\nan\n—\nTry again\n\nاولویت مرور برای این جلسه: anxious / nervous / stressed / stressful، ساختار learn how to + verb، تفاوت stress و stressed، و عبارت‌های مربوط به تجربهٔ کاری مثل apply for a position, solve a complicated problem و a rewarding experience.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-gerund-infinitive",
+      "concept-writing"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "ee8b76ff-a8e7-4c56-aee3-b1610e0e8013",
+    "capture.turn-number": 36
+  }
+}

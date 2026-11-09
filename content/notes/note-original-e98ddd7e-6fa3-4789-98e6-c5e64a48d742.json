@@ -1,0 +1,195 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-e98ddd7e-6fa3-4789-98e6-c5e64a48d742",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "بررسی جزوهٔ جلسهٔ قبل زبان"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-e98ddd7e-6fa3-4789-98e6-c5e64a48d742",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-e98ddd7e-6fa3-4789-98e6-c5e64a48d742-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "بررسی جزوهٔ جلسهٔ قبل زبان\n\nبا توجه به یادداشت‌هایت، جلسه بیشتر روی مرور شرطی نوع صفر و اول، جمله‌های امری، و چند عبارت کاربردی برای مکالمه تمرکز داشته است. چند نکته در یادداشت‌ها درست‌اند، اما بعضی از آن‌ها نیاز به دقیق‌تر شدن دارند؛ به‌خصوص استفاده از modalها در شرطی‌ها و عبارت put ... in danger.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e98ddd7e-6fa3-4789-98e6-c5e64a48d742-2",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۱. مرور Zero Conditional\n\nکاربردهایی که در کلاس یادداشت کرده‌ای درست‌اند:\n\nFacts — حقایق\n\nGenerally true things — چیزهایی که عموماً درست‌اند؛ مثل عادت‌ها یا رابطه‌های معمول میان دو اتفاق\n\nساختار پایه:\n\nIf/When + Present Simple, Present Simple\n\nمثال:\n\nIf you heat ice, it melts.\n\nIf I don't get enough sleep, I feel tired.\n\nWhen people exercise regularly, they usually feel better.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e98ddd7e-6fa3-4789-98e6-c5e64a48d742-3",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "آیا می‌توانیم از modalها هم استفاده کنیم؟\n\nبله. اما این یادداشت که «وجود modal یعنی زمان حال، نه آینده» کمی بیش از حد کلی است. فعل‌های modal معمولاً شکل صرفی ثابتی دارند و زمان را به‌تنهایی نشان نمی‌دهند؛ معنای جمله و بافت تعیین می‌کند که منظور امکان عمومی، اجازه، الزام یا نتیجه‌ای در آینده است.\n\nمثال‌هایی با معنای عمومی:\n\nIf you have a headache, you should get some rest.\n\nIf you heat water enough, you can make it boil.\n\nIf employees work efficiently, they may finish earlier.\n\nدر جملهٔ اول، should توصیه می‌کند؛ در جملهٔ دوم، can امکان را بیان می‌کند. بنابراین وجود modal به‌خودی‌خود جمله را به زمان حال محدود نمی‌کند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e98ddd7e-6fa3-4789-98e6-c5e64a48d742-4",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۲. First Conditional و جملهٔ کلاس\n\nیادداشت کلاس:\n\nIf you want know about the city, we could visit the museum.\n\nنسخهٔ اصلاح‌شده:\n\nIf you want to know more about the city, we could visit the museum.\n\nدو نکته:\n\nبعد از want، معمولاً از to + verb استفاده می‌کنیم: want to know، نه want know.\n\ncould در این جمله یک پیشنهاد محتاطانه یا امکان را بیان می‌کند: «می‌توانیم از موزه دیدن کنیم.»\n\nاگر بخواهیم پیشنهاد مستقیم‌تر باشد:\n\nIf you want to know more about the city, we can visit the museum.\n\nاگر بخواهیم نتیجهٔ آینده را واضح‌تر بیان کنیم:\n\nIf you want to know more about the city, we'll visit the museum.\n\nاین سه جمله از نظر لحن و معنی دقیقاً یکسان نیستند:\n\ncould visit — پیشنهاد یا امکان\n\ncan visit — امکان یا پیشنهاد نسبتاً مستقیم\n\nwill visit — تصمیم یا نتیجهٔ آینده",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e98ddd7e-6fa3-4789-98e6-c5e64a48d742-5",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "آیا این جمله حتماً First Conditional است؟\n\nاز نظر شکل، جمله با if + Present Simple شروع می‌شود؛ اما در بخش نتیجه could آمده است. این ساختار برای پیشنهاد دادن طبیعی است و در آموزش شرطی‌ها نیز می‌تواند در محدودهٔ ساختارهای واقعی و محتمل بررسی شود. با این حال، could همیشه به‌معنی آینده نیست؛ ممکن است توانایی یا امکان را هم بیان کند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e98ddd7e-6fa3-4789-98e6-c5e64a48d742-6",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۳. جملهٔ امری و modalها\n\nیادداشتت:\n\nدر حالت امری چون فاعل حذف می‌شود، باید فعل‌های modal هم حذف شوند.\n\nاین توضیح نیاز به اصلاح دارد. دلیل اصلی حذف modal این نیست که فاعل حذف شده است؛ بلکه جملهٔ امری معمولاً با شکل سادهٔ فعل اصلی ساخته می‌شود و فاعل ضمنی آن you است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e98ddd7e-6fa3-4789-98e6-c5e64a48d742-7",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "مقایسه\n\nساختار\n\n\t\n\nمثال\n\n\t\n\nکاربرد\n\n\n\n\nجمله با modal\n\n\t\n\nIf you have headaches, you must visit a doctor.\n\n\t\n\nالزام یا توصیهٔ قوی\n\n\n\n\nجملهٔ امری\n\n\t\n\nIf you have a headache, visit a doctor!\n\n\t\n\nدستور یا توصیهٔ مستقیم\n\n\n\n\nجمله با modal در شرط\n\n\t\n\nIf you can, visit a doctor.\n\n\t\n\nاگر می‌توانی، به پزشک مراجعه کن.\n\nپس modal همیشه حذف نمی‌شود؛ فقط وقتی بخش نتیجه را به جملهٔ امری تبدیل می‌کنی، معمولاً modal را کنار می‌گذاری و فعل اصلی را در شکل ساده می‌آوری.\n\nنکتهٔ واژگانی: a headache معمولاً برای سردرد به‌صورت یک مورد استفاده می‌شود؛ headaches بیشتر به سردردهای مکرر یا به‌طور کلی سردرد اشاره دارد.\n\nIf you have a headache, take a break.\n\nIf you often have headaches, you should see a doctor.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e98ddd7e-6fa3-4789-98e6-c5e64a48d742-8",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۴. عبارت‌های کاربردی جلسه",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e98ddd7e-6fa3-4789-98e6-c5e64a48d742-9",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Run out\n\nمعنی: تمام شدن یا به پایان رسیدن موجودی چیزی.\n\nاین فعل عبارتی را بهتر است همراه با ساختارش یاد بگیری:\n\nrun out = تمام شدن\n\nrun out of something = چیزی‌اش تمام شدن\n\nمثال‌ها:\n\nWe've run out of milk. — شیرمان تمام شده است.\n\nMy phone is running out of battery. — شارژ گوشی‌ام دارد تمام می‌شود.\n\nWe ran out of time. — وقت کم آوردیم / وقتمان تمام شد.\n\nDon't run out of patience. — صبرت را از دست نده.\n\nتوجه: run out معمولاً خودش به چیزی که تمام شده نیاز ندارد؛ اما برای مشخص کردن آن چیز از of استفاده می‌کنیم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e98ddd7e-6fa3-4789-98e6-c5e64a48d742-10",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Make an excuse و invent an excuse\n\nهر دو می‌توانند به معنی بهانه آوردن باشند، اما تفاوت ظریفی دارند:\n\nmake an excuse = بهانه آوردن؛ گاهی برای توجیه رفتار\n\ninvent an excuse = بهانه‌ای ساختگی اختراع کردن؛ تأکید بر ساختگی بودن آن\n\nمثال:\n\n- He made an excuse for being late.\nبرای دیر رسیدنش بهانه آورد.\n\n- She invented an excuse because she didn't want to attend the meeting.\nاو بهانه‌ای ساختگی آورد، چون نمی‌خواست در جلسه شرکت کند.\n\nعبارت‌های مفید دیگر:\n\nmake up an excuse = بهانه سرهم کردن\n\ngive an excuse = بهانه‌ای ارائه دادن\n\nmake an excuse for something = برای چیزی بهانه آوردن",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e98ddd7e-6fa3-4789-98e6-c5e64a48d742-11",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Insurance\n\nمعنی: بیمه\n\nترکیب‌های کاربردی:\n\nعبارت\n\n\t\n\nمعنی\n\n\n\n\ncar insurance\n\n\t\n\nبیمهٔ خودرو\n\n\n\n\nhealth insurance\n\n\t\n\nبیمهٔ درمانی\n\n\n\n\nlife insurance\n\n\t\n\nبیمهٔ عمر\n\n\n\n\ntravel insurance\n\n\t\n\nبیمهٔ مسافرتی\n\n\n\n\ninsurance company\n\n\t\n\nشرکت بیمه\n\n\n\n\ninsurance policy\n\n\t\n\nبیمه‌نامه\n\n\n\n\npay for insurance\n\n\t\n\nهزینهٔ بیمه را پرداخت کردن\n\n\n\n\ntake out insurance\n\n\t\n\nبیمه تهیه کردن\n\nمثال:\n\nYou should get travel insurance before going abroad.\n\nبهتر است پیش از رفتن به خارج از کشور، بیمهٔ مسافرتی تهیه کنی.\n\nنکتهٔ گرامری: insurance معمولاً اسم غیرقابل‌شمارش است؛ بنابراین معمولاً نمی‌گوییم an insurance وقتی منظورمان خودِ بیمه به‌صورت کلی است. اما an insurance policy درست است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e98ddd7e-6fa3-4789-98e6-c5e64a48d742-12",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۵. Put their lives in danger\n\nیادداشتت:\n\nThey put their lives endanger.\n\nشکل درست:\n\nThey put their lives in danger.\n\nمعنی: آن‌ها جان خود را به خطر می‌اندازند / انداختند.\n\nساختار اصلی:\n\nput + someone/something + in danger\n\nدر این عبارت، in ضروری است؛ danger اسم است و ترکیب رایج آن in danger است.\n\nمثال‌ها:\n\n- Smoking can put your health in danger.\nسیگار کشیدن می‌تواند سلامتی‌ات را به خطر بیندازد.\n\n- The driver put everyone's life in danger.\nراننده جان همه را به خطر انداخت.\n\n- Don't put yourself in danger to help someone.\nبرای کمک به کسی، خودت را در معرض خطر قرار نده.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e98ddd7e-6fa3-4789-98e6-c5e64a48d742-13",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "دو عبارت نزدیک و کاربردی\n\nput someone in danger — کسی را در معرض خطر قرار دادن\n\nput someone at risk — کسی را در معرض ریسک یا خطر قرار دادن\n\nمثال:\n\nDriving too fast puts everyone at risk.\n\nرانندگی با سرعت بیش از حد، همه را در معرض خطر قرار می‌دهد.\n\nهمچنین فعل مستقلی به نام endanger داریم که به معنی «به خطر انداختن» است:\n\nThey endangered their lives.\n\nاین جمله هم درست است و به in نیاز ندارد، چون endanger خودش فعل متعدی است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-e98ddd7e-6fa3-4789-98e6-c5e64a48d742-14",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "۶. تمرین کوتاه\n\nجمله‌ها را با واژه یا ساختار مناسب کامل کن.\n\n1. If we ____ of fuel, we will have to stop.\n\nrun out\nrun out of\nrun\n\n2. If you have a severe headache, ____ a doctor.\n\nyou must visit\nvisit\nto visit\n\n3. They put themselves ____ danger.\n\nat\nin\non\n\n4. He ____ an excuse to avoid the meeting.\n\ninvented\nran out\ninsured\n\n5. You should get health ____ if your employer doesn't provide it.\n\ninsure\ninsurance\ninsured\nبررسی پاسخ‌ها\n\nنکتهٔ اصلی برای مرور: در این جلسه، run out of, make/invent an excuse, put ... in danger و ساختار جملهٔ امری را به شکل یک عبارت کامل یاد بگیر. حفظ کردن کلمات جداگانه به‌تنهایی برای استفادهٔ طبیعی در مکالمه کافی نیست.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-present-simple",
+      "concept-zero-conditional",
+      "concept-first-conditional"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "e98ddd7e-6fa3-4789-98e6-c5e64a48d742",
+    "capture.turn-number": 43
+  }
+}

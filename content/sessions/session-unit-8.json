@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "session-unit-8",
+  "type": "session",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Unit 8 — Get Set, Go!"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m05",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-original-d0d4111a-fac2-42d5-a2f7-db5a0fa14925",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-63a85bee-f127-44e4-8fe5-335f7fd5ccf8",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "occurredAt": null,
+    "dateLabel": "Mon, Oct 26 at 5:00 PM",
+    "datePrecision": "unknown",
+    "conceptIds": [
+      "concept-past-simple",
+      "concept-first-conditional",
+      "concept-second-conditional",
+      "concept-modals"
+    ],
+    "itemIds": [
+      "note-original-d0d4111a-fac2-42d5-a2f7-db5a0fa14925",
+      "note-original-63a85bee-f127-44e4-8fe5-335f7fd5ccf8"
+    ],
+    "sourceMessageIds": [
+      "src-chat-m05",
+      "src-original-d0d4111a-fac2-42d5-a2f7-db5a0fa14925",
+      "src-original-63a85bee-f127-44e4-8fe5-335f7fd5ccf8"
+    ],
+    "completeness": "partial",
+    "missing": [
+      "Original textbook page/image is not imported; the complete assistant explanation is now available."
+    ]
+  },
+  "extensions": {}
+}

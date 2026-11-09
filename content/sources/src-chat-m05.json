@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-chat-m05",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — visible message 5"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/share/6af0508a-19f8-83ed-91a4-002901ccaac9",
+    "role": "user",
+    "messageOrdinal": 5,
+    "ordinalScope": "rendered-message-sequence-on-2026-11-08",
+    "capturedOn": "2026-11-08",
+    "dateLabel": "Mon, Oct 26 at 5:00 PM",
+    "occurredAt": null,
+    "captureScope": "message-text-normalized",
+    "text": "من نقد و سوالاتم رو نسبت به حزوه ای ک نوشتی بعدا اعلام میکنم ولی الان میخوام ایتدا با هم یونت ۸ رو ک امروز میخوان درس بدن رو بخونیم باهم ایتدای اون رو",
+    "attachmentIndicators": {
+      "files": 0,
+      "images": 1
+    },
+    "limitations": [
+      "Page capture is partial; ordinal is not a stable original chat message ID.",
+      "Whitespace/UI labels normalized; no claim of byte-exact transcript.",
+      "Referenced attachments are not captured."
+    ]
+  },
+  "extensions": {
+    "capture.original-source-id": "src-original-d0d4111a-fac2-42d5-a2f7-db5a0fa14925"
+  }
+}

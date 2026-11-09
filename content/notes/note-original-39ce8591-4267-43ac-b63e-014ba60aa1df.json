@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-39ce8591-4267-43ac-b63e-014ba60aa1df",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "کتاب ready for B1 رو هم مبنای کاری خودت قرار بده برای این آموزش"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-39ce8591-4267-43ac-b63e-014ba60aa1df",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-39ce8591-4267-43ac-b63e-014ba60aa1df-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "کتاب ready for B1 رو هم مبنای کاری خودت قرار بده برای این آموزش\nایتدا عکس کتاب رو بفرست تا متوحه بشم ببینم درست انتخاب کردی",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": []
+  },
+  "extensions": {
+    "capture.message-id": "39ce8591-4267-43ac-b63e-014ba60aa1df",
+    "capture.turn-number": 4
+  }
+}

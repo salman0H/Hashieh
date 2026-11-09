@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "session-future",
+  "type": "session",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Future arrangements and a weekend trip"
+  },
+  "tags": [
+    "class-notes"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m03",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-original-1ace4d60-4041-407f-86e9-fd05444c575a",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-4b0f62cf-9334-4ad2-b7df-ddeecf3ea636",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "occurredAt": null,
+    "dateLabel": "Sun, Oct 11 at 9:30 AM",
+    "datePrecision": "unknown",
+    "conceptIds": [
+      "concept-future-forms",
+      "concept-will",
+      "concept-going-to",
+      "concept-present-continuous",
+      "concept-timetables",
+      "concept-writing",
+      "concept-present-simple",
+      "concept-present-perfect"
+    ],
+    "itemIds": [
+      "note-future",
+      "question-train-timetable",
+      "writing-weekend",
+      "exercise-future-worksheet",
+      "note-original-1ace4d60-4041-407f-86e9-fd05444c575a",
+      "note-original-4b0f62cf-9334-4ad2-b7df-ddeecf3ea636"
+    ],
+    "sourceMessageIds": [
+      "src-chat-m03",
+      "src-original-1ace4d60-4041-407f-86e9-fd05444c575a",
+      "src-original-4b0f62cf-9334-4ad2-b7df-ddeecf3ea636"
+    ],
+    "completeness": "partial",
+    "missing": [
+      "original attachments",
+      "earlier assistant explanation"
+    ]
+  },
+  "extensions": {}
+}

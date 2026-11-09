@@ -1,0 +1,72 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "session-experiences-news",
+  "type": "session",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "Life experiences and news"
+  },
+  "tags": [
+    "class-notes"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "editorial",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m04",
+        "locator": "message-excerpt"
+      },
+      {
+        "sourceId": "src-original-4854e7d4-672e-4b90-86ea-0eae6466e4fc",
+        "locator": "message-body"
+      },
+      {
+        "sourceId": "src-original-021012b8-e9d3-421d-af1d-fe1a7a57e626",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "occurredAt": null,
+    "dateLabel": "Mon, Oct 19 at 8:46 AM",
+    "datePrecision": "unknown",
+    "conceptIds": [
+      "concept-present-perfect",
+      "concept-life-experiences",
+      "concept-relative-clauses",
+      "concept-questions",
+      "concept-phrasal-verbs",
+      "concept-writing",
+      "concept-present-simple",
+      "concept-present-continuous",
+      "concept-past-simple",
+      "concept-gerund-infinitive"
+    ],
+    "itemIds": [
+      "note-experiences-news",
+      "writing-reporter",
+      "correction-helps",
+      "correction-red-hat",
+      "correction-remember",
+      "correction-supports",
+      "note-original-4854e7d4-672e-4b90-86ea-0eae6466e4fc",
+      "note-original-021012b8-e9d3-421d-af1d-fe1a7a57e626"
+    ],
+    "sourceMessageIds": [
+      "src-chat-m04",
+      "src-original-4854e7d4-672e-4b90-86ea-0eae6466e4fc",
+      "src-original-021012b8-e9d3-421d-af1d-fe1a7a57e626"
+    ],
+    "completeness": "partial",
+    "missing": [
+      "original attachments",
+      "earlier assistant explanation"
+    ]
+  },
+  "extensions": {}
+}

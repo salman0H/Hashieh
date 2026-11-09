@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-741adcb7d734",
+  "type": "covers",
+  "from": "note-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041",
+  "to": "concept-modals",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-original-ac8624f6-2729-4a0e-9bd9-169c8e60a041",
+      "locator": "message-body"
+    }
+  ],
+  "extensions": {}
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "entry-insurance-company",
+  "type": "entry",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "insurance company"
+  },
+  "tags": [
+    "vocabulary",
+    "original-chat-extraction"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-e98ddd7e-6fa3-4789-98e6-c5e64a48d742",
+        "locator": "table:2/data-row:5"
+      }
+    ]
+  },
+  "payload": {
+    "lemma": "insurance company",
+    "language": "en",
+    "aliases": [],
+    "familyId": null,
+    "senses": [
+      {
+        "id": "sense-135eb6806882",
+        "partOfSpeech": "Unspecified in source",
+        "translation": {
+          "fa": "شرکت بیمه"
+        },
+        "definition": {
+          "en": null
+        },
+        "equivalents": [],
+        "examples": [],
+        "sourceRefs": [
+          {
+            "sourceId": "src-original-e98ddd7e-6fa3-4789-98e6-c5e64a48d742",
+            "locator": "table:2/data-row:5"
+          }
+        ],
+        "review": "unreviewed"
+      }
+    ],
+    "occurrences": [
+      {
+        "sourceRef": {
+          "sourceId": "src-original-e98ddd7e-6fa3-4789-98e6-c5e64a48d742",
+          "locator": "table:2/data-row:5"
+        },
+        "group": "original-chat-table",
+        "sessionId": "session-original-0bf90c5f",
+        "priority": null
+      }
+    ]
+  },
+  "extensions": {}
+}

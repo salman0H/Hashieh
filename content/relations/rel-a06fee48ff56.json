@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-a06fee48ff56",
+  "type": "contains",
+  "from": "session-water-sports",
+  "to": "note-original-1bd1ed7e-e74d-4856-823d-a1691435676e",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-original-1bd1ed7e-e74d-4856-823d-a1691435676e",
+      "locator": "message-body"
+    }
+  ],
+  "extensions": {}
+}

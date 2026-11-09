@@ -1,0 +1,1384 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-2a091de6-2bbf-4f90-8607-d023e02d65aa",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "English Notes — Previous Session"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "assessment",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-2a091de6-2bbf-4f90-8607-d023e02d65aa",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "حتماً. این جزوه را بر اساس همین یادداشت‌های جلسه مرتب می‌کنم و نکات جدید را از توضیحات و مثال‌های پراکنده جدا می‌کنم. جاهایی که در یادداشتت اشتباه یا ناقص بوده، آن را اصلاح می‌کنم تا نسخه‌ی نهایی قابل مطالعه باشد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-2",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "English Notes — Previous Session",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-3",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "1. Vocabulary: Places & Services",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-4",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Barber shop / Hairdresser\nWord\tMeaning\nbarber shop\tآرایشگاه مردانه، معمولاً برای مو و ریش\nhair salon\tسالن آرایش\nhairdresser\tآرایشگر / آرایشگاه\nthe hairdresser's\tآرایشگاه\n\nنکته:\n\nthe hairdresser's\n\nعلامت 's اینجا مالکیت واقعی نیست؛ به یک place associated with a person/profession اشاره می‌کند.\n\nمثال:\n\nI went to the hairdresser's yesterday.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-5",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "اصلاح جمله‌ی جزوه\n\n❌ He want to the hairdressers'.\n✅ He went to the hairdresser's.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-6",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "2. Disability Vocabulary",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-7",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "disabled\n\ndisabled = دارای معلولیت\n\nمثال:\n\nHe is a disabled man.\n\nاما در انگلیسی طبیعی‌تر، بسته به context:\n\nHe has a disability.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-8",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "wheelchair\n\nwheelchair = ویلچر\n\nHe is sitting in a wheelchair.\n\nنکته: خودِ wheelchair به معنی معلولیت نیست؛ وسیله‌ای برای حرکت است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-9",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "3. Pharmacy Vocabulary",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-10",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "pharmacy\n\n= داروخانه",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-11",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "drugstore\n\n= داروخانه / فروشگاه دارویی\n\nبه‌خصوص در American English رایج است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-12",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Chemist's\n\nکلمه‌ای که در جزوه به شکل Chemestic آمده، احتمالاً:\n\nchemist's\n\nاست.\n\nدر British English:\n\nchemist's = داروخانه\n\nبنابراین:\n\nBritish English\n\nchemist's / pharmacy\n\nAmerican English\n\ndrugstore / pharmacy",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-13",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "نکته\n\npharmacy می‌تواند به خودِ حوزه/بخش دارویی هم اشاره کند، نه فقط مغازه.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-14",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "4. Passport",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-15",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "take a passport photo\n\n= عکس پاسپورتی گرفتن\n\nمثال:\n\nI need to take a new passport photo.\n\nدقت کن:\n\ntake a photo\n\nنه:\n\n❌ make a photo",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-16",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "5. Queue",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-17",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "queue\n\n= صف\n\nمثال:\n\nThe queue is even longer.\n\nیعنی:\n\nصف حتی طولانی‌تر است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-18",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "even\n\nاینجا even برای emphasis است:\n\neven longer\nحتی طولانی‌تر\n\nمثلاً:\n\nIt's even more expensive.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-19",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "6. Describing a Bad Experience",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-20",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "frustrating\n\nfrustrating = ناامیدکننده / کلافه‌کننده\n\nچیزی که باعث frustration می‌شود:\n\nThe situation was frustrating.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-21",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "frustrated\n\nfrustrated = کلافه / ناامید\n\nشخصی که آن احساس را دارد:\n\nI was frustrated.\n\nاین تفاوت مهم است:\n\nThe situation was frustrating.\nI was frustrated.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-22",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "annoying\n\nannoying = آزاردهنده / روی اعصاب",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-23",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "upsetting\n\nupsetting = ناراحت‌کننده / موجب ناراحتی\n\nپس این سه تا دقیقاً synonym نیستند:\n\nWord\tمفهوم اصلی\nfrustrating\tباعث کلافگی/درماندگی\nannoying\tآزاردهنده\nupsetting\tناراحت‌کننده",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-24",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "7. Give Up",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-25",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "give up\n\ngive up = تسلیم شدن / دست کشیدن از کاری\n\nمثال:\n\nI gave up and came home.\n\nیعنی:\n\n«بی‌خیال شدم و برگشتم خانه.»",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-26",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Grammar\n\ngive → present\ngave → past\n\nپس:\n\nI gave up.\n\nنه:\n\n❌ I give up.\n\nاگر درباره‌ی گذشته صحبت می‌کنیم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-27",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "8. Materials",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-28",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "rubber\n\n= لاستیک / کائوچو\n\nمثلاً:\n\nrubber boots\n\n= چکمه‌های لاستیکی",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-29",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "leather\n\n= چرم\n\nleather shoes\n\n= کفش چرمی",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-30",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "suede\n\n= جیر\n\nsuede shoes\n\n= کفش جیر",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-31",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "مقایسه\nMaterial\tفارسی\nrubber\tلاستیک\nleather\tچرم\nsuede\tجیر",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-32",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "9. Weather Vocabulary",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-33",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Thunder\n\nthunder = صدای رعد",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-34",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Lightning\n\nlightning = برق آسمان\n\nبنابراین:\n\nthunder and lightning\n\n= رعد و برق",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-35",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "اشتباه جزوه\n\n❌ Today is thunder.\n\nچون thunder یک پدیده/صداست و این ساختار طبیعی نیست.\n\nمی‌توانی بگویی:\n\nThere is thunder today.\n\nیا:\n\nI can hear thunder.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-36",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Thunderstorm\n\nthunderstorm = طوفان همراه با رعد و برق\n\nمثال:\n\nThere is a thunderstorm.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-37",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "10. I'm afraid\n\nیکی از نکات مهم این جلسه.\n\nدر جمله:\n\nThis nice weather won't last for long, I'm afraid.\n\nI'm afraid اینجا به معنی:\n\n«متأسفانه / می‌ترسم که...»\n\nاست.\n\nنه:\n\nمن می‌ترسم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-38",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "دو کاربرد:\n\nFear:\n\nI'm afraid of dogs.\n\n= من از سگ‌ها می‌ترسم.\n\nPolite bad news / regret:\n\nI'm afraid we have a problem.\n\n= متأسفانه یک مشکلی داریم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-39",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "11. Last for",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-40",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "last\n\n= دوام آوردن / ادامه داشتن",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-41",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "last for + period\n\n= به مدت مشخصی ادامه داشتن\n\nمثال:\n\nThe meeting lasted for two hours.\n\n= جلسه دو ساعت طول کشید.\n\nدر جمله‌ی جزوه:\n\nThis nice weather won't last for long.\n\n= این هوای خوب زیاد دوام نمی‌آورد.\n\nنکته مهم:\n\nlast for + duration\n\nاما last گاهی بدون for هم می‌آید:\n\nThe movie lasted two hours.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-42",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "12. Clouds\n\nجمله‌ی جزوه:\n\n❌ Sky will full of dark clouds.\n\nساختار درست:\n\nThe sky will be full of dark clouds.\n\nچون:\n\nbe full of\n\nیک ساختار کامل است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-43",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Vocabulary\n\ncloud = ابر\ndark clouds = ابرهای تیره\nbe full of = پر بودن از\n\nمثال:\n\nThe sky is full of clouds.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-44",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "13. Realize / Find out / Figure out\n\nهر سه تقریباً مفهوم «فهمیدن» دارند، اما کاربردشان یکسان نیست.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-45",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "realize\n\n= متوجه شدن / پی بردن\n\nمعمولاً وقتی چیزی را درک می‌کنی:\n\nI realized that I was wrong.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-46",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "find out\n\n= فهمیدن / کشف کردن اطلاعات\n\nمعمولاً information را به دست می‌آوری:\n\nI found out that he had left.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-47",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "figure out\n\n= فهمیدن / حل کردن / به نتیجه رسیدن\n\nاغلب وقتی برای فهمیدن چیزی فکر یا تلاش می‌کنی:\n\nI can't figure out this problem.\n\n= نمی‌توانم این مسئله را حل/درک کنم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-48",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "خلاصه\nVerb\tایده اصلی\nrealize\tناگهان/به‌تدریج متوجه شدن\nfind out\tبه اطلاعاتی پی بردن\nfigure out\tبا فکر کردن راه‌حل/معنی را فهمیدن",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-49",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "14. Clothing & Shopping",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-50",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "purse\n\nدر American English:\n\npurse = کیف دستی زنانه\n\nاما:\n\nhandbag = کیف دستی\n\nدر British English، purse می‌تواند به معنی کیف پول کوچک هم باشد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-51",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "boutique\n\nاملای درست:\n\nboutique\n\n= بوتیک / فروشگاه لباس یا اجناس خاص\n\n❌ boutiq",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-52",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "floral\n\nfloral = گل‌دار\n\nمثلاً:\n\na floral dress\n\n= لباس گل‌دار\n\na floral pattern\n\n= طرح گل‌دار",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-53",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "15. Expect / Anticipate",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-54",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "expect\n\n= انتظار داشتن / انتظار چیزی را داشتن\n\nI expect him to arrive soon.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-55",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "anticipate\n\n= پیش‌بینی/انتظار داشتن، معمولاً با تأکید بیشتر بر اینکه از قبل انتظار چیزی را داری\n\nWe anticipate some problems.\n\nanticipate معمولاً formalتر از expect است.\n\nدر English روزمره، expect بسیار رایج‌تر است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-56",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "16. At Midday / At Noon\n\nهر دو تقریباً:\n\nat midday\nat noon\n\n= ظهر\n\nat noon در مکالمه بسیار رایج است.\n\nمثال:\n\nI'll meet you at noon.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-57",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "17. Depart / Leave\n\nهر دو به معنی «ترک کردن» هستند، اما register متفاوت دارند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-58",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "leave\n\nروزمره و بسیار رایج:\n\nThe train leaves at 8.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-59",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "depart\n\nرسمی‌تر:\n\nThe train departs at 8.\n\ndepart را بیشتر در:\n\nannouncements\nairports\ntrain stations\nformal writing\n\nمی‌بینیم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-60",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "18. Delay",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-61",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "delay\n\n= تأخیر\n\nساختار:\n\nThere is a delay.\n\nمثال:\n\nThere is an hour's delay.\n\n= یک ساعت تأخیر وجود دارد.\n\nیا:\n\nThe train is delayed by an hour.\n\n= قطار یک ساعت تأخیر دارد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-62",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Because of vs Due to",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-63",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "because of + noun\n\nThe flight was delayed because of bad weather.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-64",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "due to + noun\n\nThe flight was delayed due to bad weather.\n\nهر دو:\n\nبه دلیل...\n\nهستند.\n\nاما due to معمولاً formalتر است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-65",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "اشتباه جزوه\n\n❌ due for bad weather\n\n✅ due to bad weather",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-66",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "19. Clothing",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-67",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Jumper\n\nBritish English:\n\njumper = sweater\n\n= پلیور / لباس بافتنی",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-68",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Pullover\n\npullover نیز لباس بالاتنه‌ای است که از سر پوشیده می‌شود.\n\nپس:\n\njumper ≈ sweater ≈ pullover\n\nاما کاربرد دقیق این واژه‌ها بسته به British/American English متفاوت است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-69",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "20. Patterns",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-70",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "polka-dot\n\n= خال‌خالی\n\na polka-dot dress",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-71",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "striped\n\n= راه‌راه\n\na striped shirt\n\nدقت:\n\n❌ stripped\n\nstripped = لخت/خالی‌شده یا strip شده\n\n✅ striped",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-72",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "checked\n\n= چهارخانه / شطرنجی\n\na checked shirt",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-73",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "plaid\n\n= چهارخانه، مخصوصاً در الگوهای پارچه‌ای\n\nدر American English بسیار رایج است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-74",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Pattern Summary\nPattern\tمعنی\nfloral\tگل‌دار\npolka-dot\tخال‌خالی\nstriped\tراه‌راه\nchecked\tچهارخانه\nplaid\tچهارخانه، الگوی پارچه‌ای",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-75",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "21. Beard\n\nbeard = ریش\n\nHe has a beard.\n\ngrow a beard = ریش گذاشتن\n\nHe is growing a beard.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-76",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "22. Used to\n\nیکی از مهم‌ترین Grammarهای این جلسه:\n\nused to + base verb\n\nبرای عادت یا وضعیت گذشته‌ای که دیگر وجود ندارد.\n\nمثال جزوه:\n\nThe students used to make fun of him because of his red glasses.\n\nیعنی:\n\nدانش‌آموزها قبلاً به خاطر عینک قرمزش مسخره‌اش می‌کردند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-77",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "ساختار\n\nSubject + used to + base verb\n\nI used to play football.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-78",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "منفی\n\nI didn't use to play football.\n\nدقت:\n\nبعد از didn't:\n\n❌ didn't used to\n\n✅ didn't use to",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-79",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "سؤال\n\nDid you use to play football?",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-80",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "23. Make Fun of",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-81",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "make fun of someone\n\n= کسی را مسخره کردن\n\nساختار:\n\nmake fun of + person\n\nمثال:\n\nDon't make fun of him.\n\n= مسخره‌اش نکن.\n\nاین را به‌عنوان یک fixed expression یاد بگیر، نه سه کلمه جدا.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-82",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "24. So / Such / Too / Enough\n\nاین مهم‌ترین Grammar جدید جلسه است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-83",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "A. SO",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-84",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Basic structure\n\nso + adjective/adverb\n\nI am so hungry.\n\nHe runs so quickly.\n\nیعنی:\n\nخیلی / بسیار\n\nاما so می‌تواند با مقدار هم بیاید:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-85",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "so + much + uncountable noun\n\nI have so much money.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-86",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "so + many + plural countable noun\n\nI have so many friends.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-87",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "so + few + plural countable noun\n\nI have so few friends.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-88",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "so + little + uncountable noun\n\nI have so little time.\n\nپس نکته‌ی جزوه درست است، ولی باید این چهار حالت را کامل یاد بگیری:\n\nso much\nso many\nso few\nso little",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-89",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "25. SUCH\n\nsuch معمولاً قبل از noun phrase می‌آید.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-90",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Pattern 1\n\nsuch + a/an + adjective + singular countable noun\n\nHe has such an eye-catching house.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-91",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Pattern 2\n\nsuch + adjective + plural noun\n\nShe has such smart children.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-92",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Pattern 3\n\nsuch + adjective + uncountable noun\n\nIt was such heavy traffic.\n\nبنابراین جمله‌ی جزوه:\n\n❌ It is such a heavy traffic.\n\nدرستش:\n\n✅ It is such heavy traffic.\n\nچون:\n\ntraffic\n\nدر این معنا uncountable است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-93",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "26. Noun Phrase\n\nدر جزوه به noun phrase اشاره شده بود.\n\nNoun Phrase = عبارت اسمی\n\nمرکز آن یک noun است و می‌تواند modifiers داشته باشد.\n\nمثلاً:\n\nhouse\n\n→ noun\n\na house\n\n→ noun phrase\n\na beautiful house\n\n→ noun phrase\n\na beautiful old house\n\n→ noun phrase\n\na beautiful old house in Tehran\n\n→ noun phrase\n\nپس:\n\nsuch + noun phrase\n\nیک الگوی مهم است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-94",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "27. SO + THAT\n\nساختار بسیار مهم:\n\nso + adjective + that + clause\n\nمثال:\n\nHe was so tired that he fell asleep.\n\n= آن‌قدر خسته بود که خوابش برد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-95",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Clause\n\nبخش بعد از that یک that-clause است:\n\nthat he fell asleep\n\nو نتیجه‌ی so... را بیان می‌کند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-96",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "حذف that\n\nدر بعضی جمله‌ها that می‌تواند حذف شود، مخصوصاً در informal English:\n\nI was so tired that I went home.\n\n→\n\nI was so tired I went home.\n\nاما برای یادگیری فعلی، شکل کامل را به‌عنوان الگوی اصلی نگه دار:\n\nso + adjective + that + clause",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-97",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "28. SUCH + THAT\n\nsuch نیز می‌تواند نتیجه را معرفی کند:\n\nIt was such a difficult exam that many students failed.\n\nساختار:\n\nsuch + noun phrase + that + clause\n\nمقایسه:\n\nHe was so tired that he slept.\n\nso + adjective\n\nدر برابر:\n\nHe had such a tiring day that he slept immediately.\n\nsuch + noun phrase",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-98",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "29. TOO\n\nاینجا یک اصلاح مهم نسبت به جزوه لازم است.\n\nاین جمله:\n\ntoo فقط در جملات منفی استفاده می‌شود\n\n❌ درست نیست.\n\ntoo به معنی بیش از حد می‌تواند در جمله‌ی مثبت هم بیاید:\n\nThe coffee is too hot.\n\nیعنی:\n\nقهوه بیش از حد داغ است.\n\nمعمولاً too یک excess / unwanted result را بیان می‌کند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-99",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "ساختار\n\ntoo + adjective/adverb\n\nIt's too expensive.\n\nHe drives too quickly.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-100",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "too + much/many\n\ntoo much money\n\ntoo many people\n\ntoo little time\n\ntoo few options",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-101",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "30. TOO + TO\n\nیک ساختار بسیار مهم:\n\ntoo + adjective + to + verb\n\nمثال:\n\nThe box is too heavy to carry.\n\n= جعبه آن‌قدر سنگین است که نمی‌توان آن را حمل کرد.\n\nیعنی:\n\nبیش از حد X است برای اینکه Y انجام شود.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-102",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "31. ENOUGH\n\nenough یعنی:\n\nبه اندازه کافی\n\nدو ساختار اصلی:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-103",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "enough + noun\n\nI have enough money.\n\nWe have enough time.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-104",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "adjective/adverb + enough\n\nI am rich enough.\n\nHe runs fast enough.\n\nپس:\n\nenough + noun\n\nولی:\n\nadjective + enough",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-105",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "32. SO vs SUCH vs TOO vs ENOUGH\n\nاین چهار تا را کنار هم حفظ کن:\n\nStructure\tExample\tمفهوم\nso + adjective\tso hungry\tخیلی گرسنه\nsuch + noun phrase\tsuch a nice house\tچنین/این‌قدر خانه‌ی خوبی\ntoo + adjective\ttoo expensive\tبیش از حد گران\nadjective + enough\tcheap enough\tبه اندازه کافی ارزان\nenough + noun\tenough money\tپول کافی\nso + many/much\tso many people\tاین‌همه آدم\ntoo + many/much\ttoo many people\tآدم بیش از حد زیاد\nso + adj + that\tso tired that...\tآن‌قدر خسته که...\nsuch + NP + that\tsuch a nice day that...\tآن‌قدر روز خوبی که...",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-106",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "33. نکته مهم درباره مثال‌های جزوه",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-107",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Example 1\n\nI have enough money to buy that.\n\nکاملاً درست.\n\nenough + noun",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-108",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Example 2\n\nI am rich enough to buy that.\n\nاز نظر grammar درست است، اگر منظور این باشد که:\n\n«به اندازه کافی پولدار هستم که آن را بخرم.»",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-109",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Example 3\n\nI am so hungry.\n\nدرست.\n\nso + adjective",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-110",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Example 4\n\nHe has such an eye-catching house.\n\nدرست.\n\nsuch + an + adjective + singular countable noun",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-111",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Example 5\n\nIt is such heavy traffic.\n\nدرست.\n\nsuch + adjective + uncountable noun",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-112",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Example 6\n\nShe has such smart children.\n\nدرست.\n\nsuch + adjective + plural noun",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-113",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Example 7\n\nI have so many friends in Tehran that I feel comfortable there.\n\nدرست.\n\nفقط یک اصلاح:\n\n❌ I feel comfort there.\n\n✅ I feel comfortable there.\n\nچون:\n\ncomfort = noun\ncomfortable = adjective",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-114",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Example 8\n\nHe was so easy-going that he accepted her request.\n\nدرست.\n\neasy-going = آرام، راحت‌گیر، سخت‌گیر نبودن",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-115",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Example 9\n\nHe is so comfortable with her that he is blind to see her fault.\n\nاینجا ساختار so...that درست است، اما عبارت:\n\nblind to see\n\nطبیعی نیست.\n\nبرای بیان این مفهوم می‌توان گفت:\n\nHe is so comfortable with her that he is blind to her faults.\n\nیا:\n\nHe is so comfortable with her that he can't see her faults.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-116",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "34. Afford",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-117",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "afford\n\n= توانایی مالی/امکان پرداخت هزینه چیزی را داشتن\n\nمعمولاً:\n\nafford + noun\n\nI can't afford this car.\n\n= توان خرید این ماشین را ندارم.\n\nیا:\n\nI can't afford to buy this car.\n\nafford + to + verb\n\nShe can afford to travel abroad.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-118",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "🧠 Final Cheat Sheet",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-119",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Vocabulary\nbarber shop → آرایشگاه مردانه\nhairdresser's → آرایشگاه\nchemist's → داروخانه 🇬🇧\npharmacy → داروخانه\ndrugstore → داروخانه 🇺🇸\npassport photo → عکس پاسپورتی\nqueue → صف\nfrustrating → کلافه‌کننده\nannoying → آزاردهنده\nupsetting → ناراحت‌کننده\ngive up → دست کشیدن\nrubber → لاستیک\nleather → چرم\nsuede → جیر\nthunder → رعد\nlightning → برق\nthunderstorm → طوفان همراه رعدوبرق\ncloud → ابر\npurse → کیف دستی\nboutique → بوتیک\nfloral → گل‌دار\nexpect → انتظار داشتن\nanticipate → پیش‌بینی/انتظار داشتن، formalتر\ndepart → ترک کردن، formalتر\ndelay → تأخیر\njumper/sweater → پلیور\nstriped → راه‌راه\npolka-dot → خال‌خالی\nchecked/plaid → چهارخانه\nbeard → ریش\nafford → توان مالی داشتن",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-120",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Phrasal / Fixed Expressions\ngive up\nfind out\nfigure out\nmake fun of\nbe full of\nbe afraid\nlast for\ncheat on someone",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-121",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Grammar\n\nused to + base verb\n\nI used to play football.\n\nso + adjective\n\nso hungry\n\nso + much/many/few/little + noun\n\nso many people\n\nsuch + noun phrase\n\nsuch a beautiful house\n\nso + adjective + that + clause\n\nso tired that I slept\n\nsuch + noun phrase + that + clause\n\nsuch a difficult exam that...\n\ntoo + adjective\n\ntoo expensive\n\ntoo + adjective + to + verb\n\ntoo expensive to buy\n\nenough + noun\n\nenough money\n\nadjective + enough\n\nrich enough\n\nafford + noun / to + verb\n\nafford a car\nafford to buy a car",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-2a091de6-2bbf-4f90-8607-d023e02d65aa-122",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "مهم‌ترین نکته این جلسه\n\nاگر بخواهم کل جلسه را به ۴ الگوی اصلی تبدیل کنم، این‌ها را باید کاملاً مسلط باشی:\n\nI used to + V\nso + adjective + that...\nsuch + noun phrase + that...\ntoo / enough + adjective / noun\n\nاین‌ها ارزش بیشتری برای مرور دارند تا اینکه تمام vocabulary جلسه را یکسان حفظ کنی.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-so-such-too-enough",
+      "concept-used-to",
+      "concept-writing"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "2a091de6-2bbf-4f90-8607-d023e02d65aa",
+    "capture.turn-number": 11
+  }
+}

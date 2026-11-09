@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-0a98c573-5120-4089-a978-9378c438ac0a",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 38"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "assistant",
+    "messageOrdinal": 38,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "این آزمون جدید است و سؤال‌های آزمون قبلی را تکرار نمی‌کند. این بار vocabulary را بیشتر داخل موقعیت‌های واقعی Travel / Work / Nature / Sports قرار داده‌ام و چند سؤال هم عمداً روی خطاهای اخیرت تمرکز دارند.\n\nGive feedback",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": []
+  },
+  "extensions": {
+    "capture.message-id": "0a98c573-5120-4089-a978-9378c438ac0a",
+    "capture.headings": [],
+    "capture.links": []
+  }
+}

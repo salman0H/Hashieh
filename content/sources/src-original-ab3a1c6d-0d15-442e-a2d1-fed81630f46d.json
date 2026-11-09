@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "src-original-ab3a1c6d-0d15-442e-a2d1-fed81630f46d",
+  "type": "source",
+  "subjectIds": [],
+  "title": {
+    "en": "Advanced English — original message 87"
+  },
+  "tags": [],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": []
+  },
+  "payload": {
+    "uri": "https://chatgpt.com/c/6aad7536-7e08-83eb-9abf-e9948baa5e7d",
+    "role": "user",
+    "messageOrdinal": 87,
+    "ordinalScope": "selected-original-conversation-branch-in-observed-order",
+    "capturedOn": "2026-11-08",
+    "dateLabel": null,
+    "occurredAt": null,
+    "captureScope": "rendered-message-body-and-tables",
+    "text": "جزوه جلسه پیش:\n\nthese days ppl work hard to make the ends meet. --> we earn money just for basic needs, not for fun.\naffoard = to able to buy something\nthese days ppl work a lot but they work for peanuts or nothing.\nwe are on the same page == we share same opinion\nthey rescue you --> نجات دادن در اینجا شخصی شخص دیگری رو نجات میدهد ولی برای کلمه ای مثل survive عملا شخص خودش رو باید از یک چیز دیگر نجات بدهد --> they rescuer is dead!\nwellfare == رفاه\nدر ایمجا مکالمه داشتیم و ی سری ترکیبات مهم توی مگالمه رو به نظر م اومد ک وبه و نوشتم: \nunder preasure \nthey deal with will ppl they lives.\ncost of living \nmanage crisis\nnowdays, men are no longer the only breadwinners in their family.\nbreadwinners == نون آور\nabout salary: \nmeager\ndecent \nnormal\navarage\ngenoures\nhandsome\ni hate the janitor job  due to it is meager salary.\ni love be an engeenier because they have handsome salary.\nlook for = search = seek\ntime is tide --> work under preasure\nto earn or earning a lot is so important for our life.\ntitte --> جوراب شلواری\n در ادامه چیزی ک ازت میخوا ماین هست ما ی سری مکالماتی تو کلاس زبان با هم داریم اون هم در این موضوع ک باید ابتدا نظرات دوستمون رو بشنویم و بعد خلاصه یا مفهوم اون رو بیام کینم در اینجا ی سری پیشنهاد هایی و راهکار هایی بریا تقویت این مورد بگو\n…\nShow more",
+    "limitations": [
+      "Visible text of the selected branch only; hidden variants, linked documents and attachments are separate.",
+      "Some UI labels and selection counts remain in the source capture."
+    ],
+    "tables": []
+  },
+  "extensions": {
+    "capture.message-id": "ab3a1c6d-0d15-442e-a2d1-fed81630f46d",
+    "capture.headings": [],
+    "capture.links": []
+  }
+}

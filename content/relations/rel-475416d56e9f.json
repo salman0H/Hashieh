@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-475416d56e9f",
+  "type": "covers",
+  "from": "session-jobs",
+  "to": "concept-past-simple",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-chat-m02",
+      "locator": "message-excerpt"
+    }
+  ],
+  "extensions": {}
+}

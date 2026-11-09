@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "rel-d442dd8723b0",
+  "type": "member-of",
+  "from": "entry-criminalization",
+  "to": "family-crime",
+  "status": "proposed",
+  "sourceRefs": [
+    {
+      "sourceId": "src-original-44b76a92-639e-401b-8c42-27c2d96886d0",
+      "locator": "table:2/data-row:515"
+    }
+  ],
+  "extensions": {}
+}

@@ -1,0 +1,569 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "1. اول اصلاً to و -ing چه هستند؟"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "بله. این قسمت اگر فقط با حفظ کردن لیست verb + to و verb + ing جلو بروی، خیلی زود قاطی می‌شود. بهتر است منطق پشت ساختارها را بفهمی.\n\nنکته‌ی اصلی:\n\nGerund و Infinitive معمولاً از نظر معنایی synonym نیستند؛ اما بعضی فعل‌ها هر دو را می‌پذیرند و گاهی معنی تقریباً یکسان می‌شود.\n\nبیاییم از صفر ولی عمیق جلو برویم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-2",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "1. اول اصلاً to و -ing چه هستند؟",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-3",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Infinitive\nPlain text\nto + base verb\n\nمثلاً:\n\nto study\nto work\nto learn\nto go",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-4",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Gerund\nPlain text\nverb + ing\n\nوقتی -ing نقش اسم پیدا می‌کند:\n\nstudying\nworking\nlearning\ngoing\n\nمثلاً:\n\nI want to study.\n\nمی‌خواهم درس بخوانم.\n\nاینجا to study یک to-infinitive است.\n\nاما:\n\nI enjoy studying.\n\nاز درس خواندن لذت می‌برم.\n\nاینجا studying یک gerund است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-5",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "2. مهم‌ترین نکته: فعل قبلی تعیین می‌کند چه چیزی بیاید\n\nاین همان چیزی است که باید کم‌کم در ذهنت به شکل verb pattern ذخیره شود.\n\nمثلاً:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-6",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "want\nPlain text\nwant + to-infinitive\n\nI want to learn English.\nI want to travel.\n\n❌ I want learning English.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-7",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "enjoy\nPlain text\nenjoy + gerund\n\nI enjoy learning English.\nI enjoy reading books.\n\n❌ I enjoy to learn English.\n\nپس:\n\nVerb\tPattern\nwant\twant to V\nneed\tneed to V\ndecide\tdecide to V\nhope\thope to V\nplan\tplan to V\nenjoy\tenjoy V-ing\navoid\tavoid V-ing\nfinish\tfinish V-ing\nkeep\tkeep V-ing\nsuggest\tsuggest V-ing\n\nاین‌ها را باید مثل collocation یاد بگیری، نه مثل یک قانون ریاضی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-8",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "3. اما چرا بعضی فعل‌ها to می‌گیرند و بعضی -ing؟\n\nاینجا یک الگوی معنایی خیلی مفید داریم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-9",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "to-infinitive → معمولاً به یک عمل به‌عنوان «هدف / تصمیم / برنامه / امکان» نگاه می‌کند\n\nمثلاً:\n\nI decided to study.\n\nمن تصمیم گرفتم درس بخوانم.\n\nتصمیم مربوط به یک action است که قرار است انجام شود.\n\nI hope to get a better job.\n\nامیدوارم شغل بهتری پیدا کنم.\n\nI plan to travel next year.\n\nبرنامه دارم سال آینده سفر کنم.\n\nپس:\n\nwant / decide / hope / plan / need → to V",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-10",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "4. -ing بعد از بعضی فعل‌ها بیشتر خودِ activity است\n\nمثلاً:\n\nI enjoy reading.\n\nمن از کتاب خواندن لذت می‌برم.\n\nاینجا reading تقریباً مثل یک noun عمل می‌کند:\n\nI enjoy music.\n\nI enjoy reading.\n\nهر دو چیزی هستند که از آن لذت می‌برم.\n\nیا:\n\nI finished working.\n\nکار کردن را تمام کردم.\n\nShe avoids driving at night.\n\nاو از رانندگی در شب اجتناب می‌کند.\n\nپس برای این گروه:\n\nenjoy / avoid / finish / keep → V-ing",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-11",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "5. یک نکته‌ی بسیار مهم: بعد از Preposition همیشه -ing\n\nاین یکی را خیلی جدی بگیر.\n\nاگر بعد از preposition بخواهی فعل بیاوری، معمولاً فعل به شکل -ing می‌آید.\n\nمثلاً:\n\nI am interested in learning English.\n\nنه:\n\n❌ interested in to learn\n\nچون in یک preposition است.\n\nمثال‌های خودت:\n\nI am good at speaking English.\n\nI am afraid of making mistakes.\n\nI am responsible for managing the project.\n\nI am in charge of organizing the meeting.\n\nI look forward to meeting you.\n\nاین آخری خیلی مهم است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-12",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "look forward to\n\nاینجا to infinitive marker نیست.\n\nبلکه to یک preposition است.\n\nبنابراین:\n\nI look forward to meeting you.\n\nنه:\n\n❌ I look forward to meet you.\n\nاین دقیقاً یکی از جاهایی است که to می‌تواند آدم را گول بزند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-13",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "6. پس هر to + verb ای infinitive نیست؟\n\nدقیقاً.\n\nدو نوع to مهم داریم:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-14",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "A. infinitive marker\nPlain text\nto + base verb\n\nI want to learn.\n\nI decided to leave.\n\nI hope to see you.\n\nاینجا to بخشی از infinitive است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-15",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "B. preposition\n\nبعد از preposition، اگر فعل بیاید → -ing\n\nI am looking forward to seeing you.\n\nI am used to working late.\n\nI object to paying more.\n\nپس:\n\nto ≠ always infinitive\n\nاین distinction در سطوح بالاتر خیلی مهم می‌شود.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-16",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "7. حالا برسیم به فعل‌هایی که هر دو را می‌گیرند\n\nاینجا داستان جالب می‌شود.\n\nبعضی افعال:\n\nPlain text\nverb + to V\n\nو\n\nPlain text\nverb + V-ing\n\nرا هر دو قبول می‌کنند.\n\nمثلاً:\n\nI like reading.\n\nI like to read.\n\nهر دو درست‌اند.\n\nمعنی هم بسیار نزدیک است.\n\nاما این به این معنی نیست که:\n\nGerund = Infinitive\n\nبلکه یعنی این فعل خاص هر دو pattern را اجازه می‌دهد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-17",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "8. like را به‌عنوان نمونه ببین",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-18",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "I like swimming.\n\nیعنی:\n\nمن شنا کردن را دوست دارم.\n\nتمرکز بیشتر روی activity / experience است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-19",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "I like to swim in the morning.\n\nیعنی:\n\nدوست دارم صبح‌ها شنا کنم.\n\nاینجا کمی بیشتر حالت habit / preference / choice دارد.\n\nاما در بسیاری از موقعیت‌های روزمره این تفاوت خیلی ظریف است.\n\nپس لازم نیست همیشه دنبال یک تفاوت معنایی عظیم بگردی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-20",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "9. اما بعضی افعال با هر دو، معنی را عوض می‌کنند\n\nاین قسمت بسیار مهم است.\n\nمثلاً:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-21",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "stop",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-22",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "stop + V-ing\n\nI stopped smoking.\n\nیعنی:\n\nسیگار کشیدن را متوقف کردم.\n\nsmoking همان کاری است که متوقف شده.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-23",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "stop + to V\n\nI stopped to smoke.\n\nیعنی:\n\nتوقف کردم تا سیگار بکشم.\n\nساختار معنایی:\n\nPlain text\nstop [current activity] + to [new purpose]\n\nمثلاً:\n\nI was walking home. I stopped to buy some coffee.\n\nمن داشتم به خانه می‌رفتم. توقف کردم تا قهوه بخرم.\n\nپس:\n\nstop smoking = ترک/متوقف کردن سیگار کشیدن\n\nولی:\n\nstop to smoke = توقف کردن برای سیگار کشیدن",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-24",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "10. remember\n\nاین هم خیلی مهم است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-25",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "remember + V-ing\n\nI remember meeting him.\n\nیعنی:\n\nیادم هست که او را ملاقات کردم.\n\nیعنی یک خاطره از گذشته داری.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-26",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "remember + to V\n\nRemember to call him.\n\nیعنی:\n\nیادت باشد به او زنگ بزنی.\n\nاینجا هنوز action انجام نشده یا باید انجام شود.\n\nپس:\n\nPlain text\nremember doing\n= یادم می‌آید که انجامش دادم\n\nremember to do\n= یادم باشد که انجامش بدهم\n\nاین distinction فوق‌العاده مهم است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-27",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "11. forget\n\nهمان منطق:\n\nI forgot meeting him.\n\nیادم نمی‌آید که او را ملاقات کرده‌ام.\n\nدر مقابل:\n\nI forgot to call him.\n\nیادم رفت به او زنگ بزنم.\n\nیعنی:\n\nPlain text\nforget doing\n→ خاطره / گذشته\n\nforget to do\n→ وظیفه‌ای که باید انجام می‌دادی",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-28",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "12. try\n\nاینجا هم معنی تغییر می‌کند.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-29",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "try + to V\n\nیعنی تلاش کردن برای انجام کاری\n\nI tried to fix my Mac.\n\nسعی کردم مکم را تعمیر کنم.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-30",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "try + V-ing\n\nیعنی یک روش را امتحان کردن\n\nTry restarting your Mac.\n\nراه‌اندازی مجدد مک را امتحان کن.\n\nیعنی:\n\nMaybe this method will work.\n\nپس:\n\nPlain text\ntry to do\n= تلاش کن انجامش بدهی\n\ntry doing\n= این روش را امتحان کن",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-31",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "13. یک جدول بسیار مهم برای ذهنت\nVerb\tto V\tV-ing\tتفاوت\nwant\t✅\t❌\tفقط to\ndecide\t✅\t❌\tفقط to\nhope\t✅\t❌\tفقط to\nplan\t✅\t❌\tفقط to\nneed\t✅\t❌\tفقط to\nenjoy\t❌\t✅\tفقط ing\navoid\t❌\t✅\tفقط ing\nfinish\t❌\t✅\tفقط ing\nkeep\t❌\t✅\tفقط ing\nsuggest\t❌\t✅\tفقط ing\nlike\t✅\t✅\tمعمولاً نزدیک\nlove\t✅\t✅\tمعمولاً نزدیک\nhate\t✅\t✅\tمعمولاً نزدیک\nprefer\t✅\t✅\tتفاوت ظریف\nstop\t⚠️\t⚠️\tمعنی متفاوت\nremember\t⚠️\t⚠️\tمعنی متفاوت\nforget\t⚠️\t⚠️\tمعنی متفاوت\ntry\t⚠️\t⚠️\tمعنی متفاوت",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-32",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "14. یک روش خیلی بهتر برای حفظ کردن\n\nبه‌جای اینکه بنویسی:\n\nenjoy = ing\n\nاین‌طور ذخیره کن:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-33",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Verb Pattern Cards\nPlain text\nENJOY\nenjoy + V-ing\n\nI enjoy learning English.\nPlain text\nDECIDE\ndecide + to V\n\nI decided to study tonight.\nPlain text\nLOOK FORWARD TO\nlook forward to + V-ing\n\nI look forward to meeting you.\n\nاین خیلی بهتر از حفظ کردن یک لیست خشک است.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-34",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "15. حالا چند گروه برای ذهنت بساز",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-35",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Group 1 — تصمیم / قصد / برنامه → to\nPlain text\nwant to\nneed to\ndecide to\nhope to\nplan to\nwould like to\n\nمثلاً:\n\nI decided to improve my English.\n\nI want to become a better programmer.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-36",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Group 2 — لذت / اجتناب / پایان دادن → -ing\nPlain text\nenjoy doing\navoid doing\nfinish doing\nkeep doing\nsuggest doing\n\nمثلاً:\n\nI enjoy learning new vocabulary.\n\nI avoid using my phone before bed.\n\nI finished studying Unit 7.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-37",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "Group 3 — بعد از Preposition → -ing\nPlain text\ninterested in doing\ngood at doing\nresponsible for doing\nafraid of doing\nin charge of doing\nlook forward to doing\n\nمثلاً:\n\nI am interested in learning AI.\n\nI am responsible for managing the project.\n\nI look forward to working with you.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-38",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "16. یک نکته‌ی خیلی مهم درباره‌ی would like\n\nتو قبلاً روی این مورد اشتباه داشتی:\n\n❌ I would like learning English.\n\nدرست:\n\nI would like to learn English.\n\nچون:\n\nPlain text\nwould like + to V\n\nولی:\n\nI like learning English.\n\nاینجا like ساده است و V-ing کاملاً ممکن است.\n\nپس:\n\nPlain text\nI like learning English.\nI would like to learn English.\n\nاین دو تا را با هم قاطی نکن.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-39",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "17. حالا یک مثال که تقریباً همه‌چیز را جمع می‌کند\n\nاین جمله را ببین:\n\nI decided to start learning English seriously because I enjoy improving my vocabulary and I want to become more fluent.\n\nبخش‌بندی:\n\nPlain text\ndecided → to start\n             ↓\n          infinitive\n\nstart → learning\n          ↓\n       gerund\n\nenjoy → improving\n          ↓\n       gerund\n\nwant → to become\n          ↓\n       infinitive\n\nیعنی یک جمله می‌تواند هم‌زمان چند pattern مختلف داشته باشد.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-40",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "18. و اینجا یک نکته‌ی پیشرفته‌تر\n\nخود V-ing همیشه Gerund نیست.\n\nمثلاً:\n\nI am learning English.\n\nاینجا learning gerund نیست.\n\nاین present participle است و بخشی از Present Continuous است:\n\nPlain text\nam + learning\n\nاما:\n\nI enjoy learning English.\n\nاینجا learning نقش noun دارد:\n\nPlain text\nenjoy + learning\n\nپس:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-41",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "I am learning\n\n→ Present Participle",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-42",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "I enjoy learning\n\n→ Gerund",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-43",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "an interesting book\n\n→ interesting = participial adjective\n\nاین distinction را فعلاً فقط بشناس؛ لازم نیست برای B1 بیش از حد درگیرش شوی.",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-44",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "19. قانون طلایی که می‌خواهم فعلاً در ذهنت بماند\n\nسه سؤال از خودت بپرس:",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-45",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "سؤال 1\n\nفعل قبلی چه patternی می‌گیرد؟\n\nwant → to\nenjoy → ing",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-46",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "سؤال 2\n\nآیا to در واقع preposition است؟\n\nlook forward to → ing\ninterested in → ing",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-47",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "سؤال 3\n\nآیا این فعل با هر دو شکل می‌آید ولی معنی عوض می‌شود؟\n\nstop doing ≠ stop to do\nremember doing ≠ remember to do\ntry doing ≠ try to do",
+          "role": "assistant-source"
+        }
+      },
+      {
+        "id": "block-original-b8e33ce4-4f69-4eb5-a244-e461d33c8b71-48",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "یک نقشه‌ی ذهنی خیلی ساده\nPlain text\n                 VERB\n                   │\n          ┌────────┴────────┐\n          │                 │\n       + to V             + V-ing\n          │                 │\n    want to do          enjoy doing\n    decide to do        avoid doing\n    hope to do          finish doing\n    plan to do          keep doing\n          │                 │\n          └───────┬─────────┘\n                  │\n          بعضی افعال هر دو\n                  │\n        ┌─────────┴─────────┐\n        │                   │\n     like doing          like to do\n     love doing          love to do\n     hate doing          hate to do\n        │\n        └── بعضی‌ها معنی را عوض می‌کنند:\n            stop doing\n            stop to do\n\n            remember doing\n            remember to do\n\n            try doing\n            try to do\n\nبرای سطح فعلی تو، مهم‌ترین کار حفظ کردن «verb + pattern» به صورت یک واحد است، نه اینکه دنبال یک قانون واحد برای انتخاب to یا -ing بگردی. این دقیقاً مثل look forward to + V-ing یا responsible for + V-ing است: باید به شکل یک الگوی کامل در ذهنت ذخیره شود.\n\nاگر بخواهیم این را درست تثبیت کنیم، مرحله‌ی بعدی مناسب برای تو یک تمرین تشخیصی to / -ing است که در آن من فعل را در جمله می‌گذارم و تو باید هم شکل درست را انتخاب کنی و هم دلیلش را بگویی؛ مخصوصاً با stop / remember / forget / try / regret که تفاوت معنایی دارند.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-present-continuous",
+      "concept-gerund-infinitive",
+      "concept-used-to"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "b8e33ce4-4f69-4eb5-a244-e461d33c8b71",
+    "capture.turn-number": 31
+  }
+}

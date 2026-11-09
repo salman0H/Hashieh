@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-98593651-5d80-4acc-80ef-298104c1a64f",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "جزوه جلسه پیش:"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-98593651-5d80-4acc-80ef-298104c1a64f",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-98593651-5d80-4acc-80ef-298104c1a64f-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "جزوه جلسه پیش:\n\neasy-going = laid-back --> i like people who are laid-back.\nquit = get out = leave = abondon = resign from\nlook for = search\nemplyment = recuitment --> استخدامی \nto get fired = to get sacked --> she was not panctual at all because of that she got fierd.\nto earn or make money.\ninform --> اطلاع دادن \nget contact with my employer.\nsend his CV to a finding job site or employment website or freelancer site.\ncreate a portfolio.\nlook for a job publicly\nhis father! extremely powerful connection.\nCV = resume`\nwe need recuit an admin for our instagram page.\njob oppurtunities = job position = job offercompatition --> about win something\nvariety --> تنوع\nmagesti --> شکوه\nretiring در معنی و لغت چه تفاوتی با tiring داره؟\nshe faces with her faith.\nin contary , to support a fmily financially.\nin iran pay is not good. --> its pay is not good.\neverything about more lurative \nsedentary\nhe is like be a constauction building tower or invest in that.\napplicant = a person who has applied for job\nit is more prestigious.\ni can satisfy or meet all my needs.\nsatisfing = ?\n…",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": []
+  },
+  "extensions": {
+    "capture.message-id": "98593651-5d80-4acc-80ef-298104c1a64f",
+    "capture.turn-number": 37
+  }
+}

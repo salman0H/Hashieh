@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-efa7599e-b05e-41c4-955c-4b8376c436cb",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "همین جدول هایی ک درست کردی رو با هم مرج کن نکته ای ک اینجسات منظور از هم خانواده ای ک من گفتم ساختار جمله ای کلمات هست ینی در اینجا instructor ب معنی آموزش دهند"
+  },
+  "tags": [
+    "original-conversation",
+    "learner-message"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-efa7599e-b05e-41c4-955c-4b8376c436cb",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-efa7599e-b05e-41c4-955c-4b8376c436cb-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "همین جدول هایی ک درست کردی رو با هم مرج کن نکته ای ک اینجسات منظور از هم خانواده ای ک من گفتم ساختار جمله ای کلمات هست ینی در اینجا instructor ب معنی آموزش دهنده اگ باشه instruct ب معنی آموزش دادن هست و ینی اون ی اسم هست اون یکی دیگ فعل . در کنار همه این ها باید معنی انگلیسی اون ها رو هم بنویسی در کنار فارسی ینی ستون های تو باید این ها \n\nWord / Phrase\n\nTranslation (Persian)\n\nSynonyms / Equivalents\n\nPart of Speech / Category\n\n\n\n\nباشه درکنار ردیف ک شماره ی کلمه هست با در نهایت همه این ها رو با هم توی یک جدول برام بفرست",
+          "role": "learner-original"
+        }
+      }
+    ],
+    "conceptIds": [
+      "concept-parts-of-speech",
+      "concept-word-families"
+    ]
+  },
+  "extensions": {
+    "capture.message-id": "efa7599e-b05e-41c4-955c-4b8376c436cb",
+    "capture.turn-number": 51
+  }
+}

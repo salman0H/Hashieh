@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "exercise-complete-information",
+  "type": "exercise",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "complete-information"
+  },
+  "tags": [
+    "incomplete-source"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m16",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "mode": "source-answer-key",
+    "prompt": null,
+    "options": [],
+    "answers": [
+      {
+        "number": 1,
+        "text": "don't have to"
+      },
+      {
+        "number": 2,
+        "text": "can"
+      },
+      {
+        "number": 3,
+        "text": "shouldn't"
+      },
+      {
+        "number": 4,
+        "text": "can't"
+      },
+      {
+        "number": 5,
+        "text": "mustn't"
+      },
+      {
+        "number": 6,
+        "text": "must"
+      }
+    ],
+    "explanation": null,
+    "conceptIds": [
+      "concept-modals"
+    ],
+    "gradable": false,
+    "missing": [
+      "Original worksheet questions/options/images"
+    ],
+    "sourceTable": 5
+  },
+  "extensions": {}
+}

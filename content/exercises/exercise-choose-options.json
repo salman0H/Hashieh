@@ -1,0 +1,75 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "exercise-choose-options",
+  "type": "exercise",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "choose-options"
+  },
+  "tags": [
+    "incomplete-source"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-chat-m16",
+        "locator": "message-excerpt"
+      }
+    ]
+  },
+  "payload": {
+    "mode": "source-answer-key",
+    "prompt": null,
+    "options": [],
+    "answers": [
+      {
+        "number": 1,
+        "text": "can't"
+      },
+      {
+        "number": 2,
+        "text": "don't have to"
+      },
+      {
+        "number": 3,
+        "text": "should / ought to"
+      },
+      {
+        "number": 4,
+        "text": "should"
+      },
+      {
+        "number": 5,
+        "text": "wasn't allowed to"
+      },
+      {
+        "number": 6,
+        "text": "must / have to"
+      },
+      {
+        "number": 7,
+        "text": "ought to"
+      },
+      {
+        "number": 8,
+        "text": "can't"
+      }
+    ],
+    "explanation": null,
+    "conceptIds": [
+      "concept-modals"
+    ],
+    "gradable": false,
+    "missing": [
+      "Original worksheet questions/options/images"
+    ],
+    "sourceTable": 6
+  },
+  "extensions": {}
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "note-original-076a044b-20e7-4bbb-a9b8-dec637691544",
+  "type": "note",
+  "subjectIds": [
+    "subject-english"
+  ],
+  "title": {
+    "en": "حتماً. این بار Final Comprehensive Exam است؛ بر اساس همان مطالب Units 5–8 که دادی، همراه با گرامرهای مرورشده و vocabulary. سطح را B1 نگه می‌دارم و سؤال‌ها را طو"
+  },
+  "tags": [
+    "original-conversation",
+    "assistant-response",
+    "assessment",
+    "vocabulary"
+  ],
+  "status": "draft",
+  "visibility": "private",
+  "provenance": {
+    "origin": "extracted",
+    "review": "unreviewed",
+    "sourceRefs": [
+      {
+        "sourceId": "src-original-076a044b-20e7-4bbb-a9b8-dec637691544",
+        "locator": "message-body"
+      }
+    ]
+  },
+  "payload": {
+    "blocks": [
+      {
+        "id": "block-original-076a044b-20e7-4bbb-a9b8-dec637691544-1",
+        "type": "text",
+        "version": 1,
+        "data": {
+          "format": "plain",
+          "locale": "mixed",
+          "text": "حتماً. این بار Final Comprehensive Exam است؛ بر اساس همان مطالب Units 5–8 که دادی، همراه با گرامرهای مرورشده و vocabulary. سطح را B1 نگه می‌دارم و سؤال‌ها را طوری می‌چینم که فقط با حفظ فرمول نتوانی جواب بدهی و مجبور باشی context را تحلیل کنی.",
+          "role": "assistant-source"
+        }
+      }
+    ],
+    "conceptIds": []
+  },
+  "extensions": {
+    "capture.message-id": "076a044b-20e7-4bbb-a9b8-dec637691544",
+    "capture.turn-number": 18
+  }
+}
