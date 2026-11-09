@@ -74,7 +74,8 @@ export function appModel(): AppModel {
         documents: notes.filter(
           (n) =>
             (n.payload.conceptIds || []).includes(r.id) &&
-            n.id.startsWith("note-original-") &&
+            (n.id.startsWith("note-original-") ||
+              n.id.startsWith("note-md-")) &&
             n.payload.blocks?.[0]?.data.role === "assistant-source",
         ).length,
         sessionIds: sessions
@@ -128,7 +129,7 @@ export function getLesson(id: string): LessonDetail | null {
   const docs = all.filter(
     (r) =>
       r.type === "note" &&
-      r.id.startsWith("note-original-") &&
+      (r.id.startsWith("note-original-") || r.id.startsWith("note-md-")) &&
       r.payload.blocks?.[0]?.data.role === "assistant-source" &&
       (sessionRecord
         ? (sessionRecord.payload.itemIds || []).includes(r.id)

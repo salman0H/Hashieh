@@ -24,7 +24,28 @@ export function PageTitle({
 export function Markdown({ text }: { text: string }) {
   return (
     <div className="markdown" dir="auto">
-      <ReactMarkdown remarkPlugins={[remarkGfm]}>{text}</ReactMarkdown>
+      <ReactMarkdown
+        remarkPlugins={[remarkGfm]}
+        components={{
+          p: ({ children }) => <p dir="auto">{children}</p>,
+          h1: ({ children }) => <h1 dir="auto">{children}</h1>,
+          h2: ({ children }) => <h2 dir="auto">{children}</h2>,
+          h3: ({ children }) => <h3 dir="auto">{children}</h3>,
+          li: ({ children }) => <li dir="auto">{children}</li>,
+          td: ({ children }) => <td dir="auto">{children}</td>,
+          th: ({ children }) => <th dir="auto">{children}</th>,
+          blockquote: ({ children }) => (
+            <blockquote dir="auto">{children}</blockquote>
+          ),
+          pre: ({ children }) => <pre dir="ltr">{children}</pre>,
+          code: ({ children }) => <code dir="ltr">{children}</code>,
+        }}
+      >
+        {text.replace(
+          /\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g,
+          (_, target, label) => label || target,
+        )}
+      </ReactMarkdown>
     </div>
   );
 }

@@ -2,7 +2,7 @@
 import { useState } from "react";
 import { Download, Plus, X } from "lucide-react";
 import type { PersonalState, Sticky } from "../lib/types";
-import { PageTitle } from "./Shared";
+import { Markdown, PageTitle } from "./Shared";
 export default function Notes({
   state,
   setState,
@@ -16,6 +16,32 @@ export default function Notes({
 }) {
   const [text, setText] = useState(""),
     [color, setColor] = useState<Sticky["color"]>("yellow");
+  const [importError, setImportError] = useState("");
+  const importMarkdown = async (file: File) => {
+    if (file.size > 1000000) {
+      setImportError("حداکثر اندازهٔ فایل یک مگابایت است.");
+      return;
+    }
+    try {
+      const body = await file.text();
+      setState((s) => ({
+        ...s,
+        stickies: [
+          {
+            id: crypto.randomUUID(),
+            text: body,
+            color,
+            lessonId: lessonId || null,
+            createdAt: new Date().toISOString(),
+          },
+          ...s.stickies,
+        ],
+      }));
+      setImportError("");
+    } catch {
+      setImportError("خواندن فایل ممکن نشد.");
+    }
+  };
   const notes = state.stickies.filter(
     (n) => !lessonId || n.lessonId === lessonId,
   );
@@ -55,6 +81,19 @@ export default function Notes({
           description="چیزهایی که با زبان خودت می‌نویسی، بهتر می‌مانند. این برگه‌ها روی مرورگر تو ذخیره می‌شوند."
         />
       )}
+      <label className="secondary markdown-import">
+        وارد کردن Markdown (.md)
+        <input
+          type="file"
+          accept=".md,.markdown,text/markdown,text/plain"
+          onChange={(e) => {
+            const file = e.target.files?.[0];
+            if (file) void importMarkdown(file);
+            e.target.value = "";
+          }}
+        />
+      </label>
+      {importError && <p role="alert">{importError}</p>}
       <div className="note-composer">
         <textarea
           maxLength={4000}
@@ -101,6 +140,10 @@ export default function Notes({
                 }))
               }
             />
+            <details className="note-preview">
+              <summary>نمای خواندن Markdown</summary>
+              <Markdown text={n.text} />
+            </details>
             <div>
               <small>{new Date(n.createdAt).toLocaleDateString("fa-IR")}</small>
               <button

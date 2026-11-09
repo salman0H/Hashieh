@@ -14,7 +14,8 @@
     "build:data": "node scripts/export.cjs --include-private --include-drafts",
     "build:public-data": "node scripts/export.cjs",
     "test:app": "node scripts/smoke-app.cjs",
-    "format": "prettier --write app next.config.ts tsconfig.json"
+    "format": "prettier --write app next.config.ts tsconfig.json",
+    "import:markdown": "node scripts/import-markdown.cjs"
   },
   "devDependencies": {
     "ajv": "8.17.1",
