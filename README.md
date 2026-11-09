@@ -1,107 +1,35 @@
 <div align="center">
 
-# حاشیه · HASHIYEH
+# HASHIYEH
 
 ### A quiet place for connected learning
-### هر آموخته، یک اتصال تازه
 
 **Personal learning board · Knowledge graph · Bilingual notes**
+
+[![English — selected](https://img.shields.io/badge/English-selected-274d3c?style=for-the-badge)](README.md)
+[![فارسی](https://img.shields.io/badge/زبان-فارسی-e5ca89?style=for-the-badge)](README.fa.md)
 
 ![Next.js](https://img.shields.io/badge/Next.js-App_Router-243f33?style=flat-square&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-typed-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-motion-b5d68b?style=flat-square)
 ![Content](https://img.shields.io/badge/Content-JSON_%2B_Markdown-e5ca89?style=flat-square)
 
-[فارسی](#فارسی) · [English](#english) · [Markdown guide](docs/MARKDOWN.md) · [Deployment](docs/DEPLOYMENT.md)
+[Features](#designed-for-the-learning-loop) · [Quick start](#run-and-verify) · [Architecture](#architecture-at-a-glance) · [Deployment](#deployment--boundaries)
 
 </div>
 
 ![Hashiyeh learning board — actual application screenshot](docs/previews/desktop.jpg)
 
 <details>
-<summary>Markdown workspace · فضای یادداشت دوزبانه</summary>
+<summary>Explore the Markdown workspace</summary>
 
 ![Bilingual Markdown preview — actual interface](docs/previews/markdown.jpg)
 
 </details>
 
-> A working first edition, built around real class notes. / نسخهٔ اول اجرایی، بر پایهٔ جزوه‌های واقعی کلاس.
+> A working first edition, built around real class notes.
 
 ---
-
-## فارسی
-
-<div dir="rtl">
-
-**حاشیه، دفتر شخصی یادگیری توست.** مطالبی که در کلاس و گفت‌وگو یاد می‌گیری، روی یک تختهٔ دیجیتال کنار هم قرار می‌گیرند: از شناخت ارتباط موضوع‌ها تا خواندن جزوه، تمرین و نوشتن با زبان خودت.
-
-### داخل این اتاق
-
-| تجربه | قابلیت |
-| :--- | :--- |
-| 🗺 نقشهٔ یادگیری | برگه‌های متصل، جابه‌جایی و بزرگ‌نمایی؛ نمای فهرست برای همهٔ مباحث |
-| 📖 جزوهٔ کلاس | متن کامل پاسخ‌های مرتبط، همراه شناسهٔ منبع |
-| 📝 Markdown | واردکردن فایل در یادداشت‌های شخصی یا افزودن آن به محتوای مخزن |
-| ↔ متن دوزبانه | جهت مستقل پاراگراف‌ها، عنوان‌ها، فهرست‌ها و سلول‌های جدول؛ کد همیشه چپ‌چین |
-| 🗂 واژه‌نامه | جست‌وجوی فارسی/انگلیسی، خانوادهٔ واژه و تلفظ دستگاه |
-| 🔁 مرور | فلش‌کارت با زمان‌بندی سادهٔ یک‌روزه و سه‌روزه |
-| 🟨 حاشیه‌نویسی | استیکی‌نوت قابل ویرایش، رنگ‌بندی و خروجی JSON |
-| ✳ همراه مطالعه | اتصال اختیاری Groq با تکیه بر جزوهٔ انتخابی |
-
-مجموعهٔ اولیه شامل **۴۵ مبحث، ۱۹ جلسه و ۱۳۰۳ واژه** است. هفت تمرین تکمیلی جداگانه تألیف شده‌اند. خط‌های نمای منتخب گراف، ارتباط بصری موضوع‌ها هستند و پیش‌نیاز تأییدشده محسوب نمی‌شوند.
-
-### شروع سریع
-
-Node.js 22 و npm لازم است. دستورهای زیر را در ریشهٔ پروژه اجرا کن:
-
-</div>
-
-```sh
-npm ci
-npm run dev
-```
-
-<div dir="rtl">
-
-سایت روی `http://127.0.0.1:3000` اجرا می‌شود. در توسعهٔ محلی ورود لازم نیست؛ نسخهٔ production به رمز و secret نیاز دارد.
-
-### تنظیمات خصوصی
-
-از `.env.example` یک `.env.local` بساز. مقادیر واقعی را در Git ثبت نکن.
-
-| متغیر | کاربرد |
-| --- | --- |
-| `SITE_PASSWORD` | رمز فضای شخصی در production |
-| `SESSION_SECRET` | secret تصادفی حداقل ۳۲ نویسه‌ای |
-| `GROQ_API_KEY` | اختیاری؛ فعال‌سازی همراه مطالعه |
-| `GROQ_MODEL` | مدل انتخابی سرویس |
-
-برای Vercel، همین متغیرها را در تنظیمات محیطی پروژه قرار بده. مخزنِ حاوی گفت‌وگوها و جزوه‌های شخصی را خصوصی نگه دار. [راهنمای کامل استقرار](docs/DEPLOYMENT.md)
-
-### مسیر محتوای تازه
-
-۱. فایل را بر اساس [قالب Markdown](templates/lesson.md) بنویس.
-۲. از صفحهٔ «یادداشت‌های من» یا حاشیه‌های یک درس، فایل `.md` را وارد کن؛ این مسیر در همان مرورگر ذخیره می‌شود.
-۳. برای افزودن جزوه به محتوای نسخه‌دار GitHub، از فرمان زیر استفاده کن. اجرای اول فقط اعتبارسنجی است:
-
-</div>
-
-```sh
-npm run import:markdown -- templates/lesson.md concept-present-perfect note-md-my-lesson
-# Save only after reviewing the dry run:
-npm run import:markdown -- templates/lesson.md concept-present-perfect note-md-my-lesson --write
-npm run validate
-```
-
-<div dir="rtl">
-
-پس از تغییر محتوای مخزن، سرور توسعه را دوباره اجرا کن یا نسخهٔ تازه deploy کن. این نسخه Markdown استاندارد و GFM را پشتیبانی می‌کند؛ سازگاری کامل با vault و افزونه‌های Obsidian ادعا نمی‌شود. [حدود پشتیبانی و راهنمای نوشتن](docs/MARKDOWN.md)
-
-</div>
-
----
-
-## English
 
 **Hashiyeh is a personal learning workspace that connects what you learn.** A paper-inspired board brings together class notes, related concepts, vocabulary, practice and personal reflections.
 
@@ -168,6 +96,6 @@ The data contract supports additional subjects; the current interface is configu
 
 **A little every day. A new connection every week.**
 
-هر روز کمی یادگیری؛ هر هفته یک اتصال تازه.
+[Read in فارسی →](README.fa.md)
 
 </div>
